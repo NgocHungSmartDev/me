@@ -1,6 +1,6 @@
 {
   "monitoringStartedAt": "2026-09-28T00:17:35.319Z",
-  "updatedAt": "2026-09-28T00:34:21.102Z",
+  "updatedAt": "2026-09-28T12:01:40.144Z",
   "sources": {
     "kongehuset": {
       "name": "Kongehuset",
@@ -484,12 +484,212 @@
     {
       "id": "https://nyheder.tv2.dk/live/kort-nyt",
       "source": "tv2",
-      "title": "Politi rykker ud til mulig skudepisode i Tingbjerg",
+      "title": "Politiets arbejde spærrer motorvej mod København",
       "url": "https://nyheder.tv2.dk/live/kort-nyt",
       "date": "—",
       "type": "Live",
       "firstSeenAt": "2026-09-28T00:30:42.330Z",
-      "titleVi": "Cảnh sát phản ứng với vụ nổ súng có thể xảy ra ở Tingbjerg"
+      "titleVi": "Công việc của cảnh sát chặn đường cao tốc về phía Copenhagen"
+    },
+    {
+      "id": "https://nyheder.tv2.dk/live/2024-09-08-seneste-nyt-om-krigen-i-ukraine-70b1d6cc-0720-404e-9878-45546e1999e7",
+      "source": "tv2",
+      "title": "Europa frygter, at Rusland vil slå civile europæere ihjel i hybridangreb",
+      "url": "https://nyheder.tv2.dk/live/2024-09-08-seneste-nyt-om-krigen-i-ukraine-70b1d6cc-0720-404e-9878-45546e1999e7",
+      "date": "08/09/2024",
+      "type": "Live",
+      "firstSeenAt": "2026-09-28T00:30:42.330Z",
+      "titleVi": "Châu Âu lo ngại Nga sẽ giết chết dân thường châu Âu trong các cuộc tấn công hỗn hợp"
+    },
+    {
+      "id": "https://nyheder.tv2.dk/live/udland/2026-09-27-stoerre-haendelse-i-storbritannien",
+      "source": "tv2",
+      "title": "Britiske myndigheder oplyser alder og nationalitet på anholdte ved flybase",
+      "url": "https://nyheder.tv2.dk/live/udland/2026-09-27-stoerre-haendelse-i-storbritannien",
+      "date": "27/09/2026",
+      "type": "Live",
+      "firstSeenAt": "2026-09-28T00:30:42.330Z",
+      "titleVi": "Chính quyền Anh cung cấp tuổi và quốc tịch của những người bị giam giữ tại căn cứ không quân"
+    },
+    {
+      "id": "https://livsstil.tv2.dk/live/2025-12-01-danskernes-sundhed",
+      "source": "tv2",
+      "title": "Danskerne har 11 sunde leveår færre end italienerne",
+      "url": "https://livsstil.tv2.dk/live/2025-12-01-danskernes-sundhed",
+      "date": "01/12/2025",
+      "type": "Live",
+      "firstSeenAt": "2026-09-28T12:01:40.144Z",
+      "titleVi": "Người Đan Mạch có tuổi thọ khỏe mạnh ít hơn 11 năm so với người Ý"
+    },
+    {
+      "id": "https://nyheder.tv2.dk/live/udland/2026-09-11-valg-i-sverige",
+      "source": "tv2",
+      "title": "Magdalena Andersson opgiver at danne regering",
+      "url": "https://nyheder.tv2.dk/live/udland/2026-09-11-valg-i-sverige",
+      "date": "11/09/2026",
+      "type": "Live",
+      "firstSeenAt": "2026-09-28T12:01:40.144Z",
+      "titleVi": "Magdalena Andersson từ bỏ việc thành lập chính phủ"
+    },
+    {
+      "id": "https://nyheder.tv2.dk/business/2026-09-28-wegovy-pillen-er-kommet-til-danmark-men-den-er-svaer-at-faa-fat-i",
+      "source": "tv2",
+      "title": "Wegovy-pillen er kommet til Danmark – men den er svær at få fat i",
+      "url": "https://nyheder.tv2.dk/business/2026-09-28-wegovy-pillen-er-kommet-til-danmark-men-den-er-svaer-at-faa-fat-i",
+      "date": "28/09/2026",
+      "type": "Business",
+      "firstSeenAt": "2026-09-28T12:01:40.144Z",
+      "titleVi": "Viên thuốc Wegovy đã đến Đan Mạch – nhưng rất khó để có được"
+    },
+    {
+      "id": "https://nyheder.tv2.dk/live/samfund/2026-09-28-mand-satte-ild-til-sig-selv-hos-integrationsstyrelse",
+      "source": "tv2",
+      "title": "Mand satte ild til sig selv hos integrationsstyrelse",
+      "url": "https://nyheder.tv2.dk/live/samfund/2026-09-28-mand-satte-ild-til-sig-selv-hos-integrationsstyrelse",
+      "date": "28/09/2026",
+      "type": "Live",
+      "firstSeenAt": "2026-09-28T12:01:40.144Z",
+      "titleVi": "Người đàn ông tự thiêu tại Hội đồng Tích hợp"
+    },
+    {
+      "id": "https://nyheder.tv2.dk/live/business/2025-03-12-seneste-nyt-fra-de-finansielle-markeder",
+      "source": "tv2",
+      "title": "Prisrekord og nyt tiltag – bilister i Europa kæmper med rekordhøje priser ved pumpen",
+      "url": "https://nyheder.tv2.dk/live/business/2025-03-12-seneste-nyt-fra-de-finansielle-markeder",
+      "date": "12/03/2025",
+      "type": "Live",
+      "firstSeenAt": "2026-09-28T05:43:52.112Z",
+      "titleVi": "Kỷ lục giá và cách tiếp cận mới – các tài xế ở châu Âu đang phải vật lộn với mức giá kỷ lục tại trạm bơm"
+    },
+    {
+      "id": "https://nyheder.tv2.dk/live/politik/2025-08-11-dansk-politik",
+      "source": "tv2",
+      "title": "Mads Strange beklager, at han har sagt forkerte ting",
+      "url": "https://nyheder.tv2.dk/live/politik/2025-08-11-dansk-politik",
+      "date": "11/08/2025",
+      "type": "Live",
+      "firstSeenAt": "2026-09-28T00:30:42.330Z",
+      "titleVi": "Mads Strange hối hận vì đã nói sai"
+    },
+    {
+      "id": "https://nyheder.tv2.dk/krimi/2026-09-28-ung-kvindelig-loeber-overfaldet-og-fastholdt",
+      "source": "tv2",
+      "title": "Ung kvindelig løber overfaldet og fastholdt",
+      "url": "https://nyheder.tv2.dk/krimi/2026-09-28-ung-kvindelig-loeber-overfaldet-og-fastholdt",
+      "date": "28/09/2026",
+      "type": "Krimi",
+      "firstSeenAt": "2026-09-28T12:01:40.144Z",
+      "titleVi": "Nữ Á hậu trẻ bị tấn công và khống chế"
+    },
+    {
+      "id": "https://nyheder.tv2.dk/udland/2026-09-27-stallone-aabner-om-moerk-rocky-tid-med-livstruende-fedtprocent",
+      "source": "tv2",
+      "title": "Stallone åbner om mørk 'Rocky'-tid med livstruende fedtprocent",
+      "url": "https://nyheder.tv2.dk/udland/2026-09-27-stallone-aabner-om-moerk-rocky-tid-med-livstruende-fedtprocent",
+      "date": "27/09/2026",
+      "type": "Udland",
+      "firstSeenAt": "2026-09-28T12:01:40.144Z",
+      "titleVi": "Stallone mở ra trong thời gian 'Rocky' tối tăm với tỷ lệ phần trăm chất béo đe dọa tính mạng"
+    },
+    {
+      "id": "https://nyheder.tv2.dk/samfund/2026-09-28-mand-satte-ild-til-sig-selv-hos-integrationsstyrelse",
+      "source": "tv2",
+      "title": "Mand satte ild til sig selv hos integrationsstyrelse",
+      "url": "https://nyheder.tv2.dk/samfund/2026-09-28-mand-satte-ild-til-sig-selv-hos-integrationsstyrelse",
+      "date": "28/09/2026",
+      "type": "Samfund",
+      "firstSeenAt": "2026-09-28T12:01:40.144Z",
+      "titleVi": "Người đàn ông tự thiêu tại Hội đồng Tích hợp"
+    },
+    {
+      "id": "https://nyheder.tv2.dk/live/udland/2025-03-17-verden-i-forandring",
+      "source": "tv2",
+      "title": "Tæt samarbejde er modsvaret til russiske hybridangreb, siger dansk minister",
+      "url": "https://nyheder.tv2.dk/live/udland/2025-03-17-verden-i-forandring",
+      "date": "17/03/2025",
+      "type": "Live",
+      "firstSeenAt": "2026-09-28T00:30:42.330Z",
+      "titleVi": "Bộ trưởng Đan Mạch cho biết hợp tác chặt chẽ tương đương với các cuộc tấn công hỗn hợp của Nga"
+    },
+    {
+      "id": "https://nyheder.tv2.dk/live/tech/2026-09-09-ai-forandrer-verden",
+      "source": "tv2",
+      "title": "AI-topchefer indkaldt til høring i Australien",
+      "url": "https://nyheder.tv2.dk/live/tech/2026-09-09-ai-forandrer-verden",
+      "date": "09/09/2026",
+      "type": "Live",
+      "firstSeenAt": "2026-09-28T00:30:42.330Z",
+      "titleVi": "Các giám đốc điều hành hàng đầu về AI kêu gọi tham vấn tại Úc"
+    },
+    {
+      "id": "https://nyheder.tv2.dk/2026-09-27-paedofilidoemt-paedagog-straffes-paa-ubestemt-tid",
+      "source": "tv2",
+      "title": "Pædofilidømt pædagog straffes på ubestemt tid",
+      "url": "https://nyheder.tv2.dk/2026-09-27-paedofilidoemt-paedagog-straffes-paa-ubestemt-tid",
+      "date": "27/09/2026",
+      "type": "Nyheder",
+      "firstSeenAt": "2026-09-28T12:01:40.144Z",
+      "titleVi": "Nhà giáo dục bị kết án ấu dâm bị trừng phạt vô thời hạn"
+    },
+    {
+      "id": "https://nyheder.tv2.dk/samfund/2026-09-28-mange-danskere-vil-gerne-bryde-tabu-om-alkohol-men-har-svaert-ved-det",
+      "source": "tv2",
+      "title": "Mange danskere vil gerne bryde tabu om alkohol – men har svært ved det",
+      "url": "https://nyheder.tv2.dk/samfund/2026-09-28-mange-danskere-vil-gerne-bryde-tabu-om-alkohol-men-har-svaert-ved-det",
+      "date": "28/09/2026",
+      "type": "Samfund",
+      "firstSeenAt": "2026-09-28T12:01:40.144Z",
+      "titleVi": "Nhiều người Đan Mạch muốn phá vỡ điều cấm kỵ về rượu – nhưng cảm thấy khó khăn"
+    },
+    {
+      "id": "https://nyheder.tv2.dk/live/udland/2026-05-25-ebolaudbrud-i-afrika",
+      "source": "tv2",
+      "title": "Ebolaudbrud i DR Congo runder 8000",
+      "url": "https://nyheder.tv2.dk/live/udland/2026-05-25-ebolaudbrud-i-afrika",
+      "date": "25/05/2026",
+      "type": "Live",
+      "firstSeenAt": "2026-09-28T12:01:40.144Z",
+      "titleVi": "Bùng phát Ebola ở Cộng hòa Dân chủ Congo vòng 8000"
+    },
+    {
+      "id": "https://nyheder.tv2.dk/2026-09-23-13-aarig-psykisk-syg-pige-bor-bag-pigtraad-med-kriminelle-unge",
+      "source": "tv2",
+      "title": "13-årig psykisk syg pige bor bag pigtråd med kriminelle unge",
+      "url": "https://nyheder.tv2.dk/2026-09-23-13-aarig-psykisk-syg-pige-bor-bag-pigtraad-med-kriminelle-unge",
+      "date": "23/09/2026",
+      "type": "Nyheder",
+      "firstSeenAt": "2026-09-28T05:43:52.112Z",
+      "titleVi": "Cô bé 13 tuổi mắc bệnh tâm thần sống đằng sau hàng rào thép gai với thanh thiếu niên phạm tội"
+    },
+    {
+      "id": "https://nyheder.tv2.dk/udland/2026-09-28-the-new-york-times-kaarer-aarhundredes-bedste-tv-serier-her-er-foerstepladsen",
+      "source": "tv2",
+      "title": "The New York Times kårer århundredes bedste tv-serier: Her er førstepladsen",
+      "url": "https://nyheder.tv2.dk/udland/2026-09-28-the-new-york-times-kaarer-aarhundredes-bedste-tv-serier-her-er-foerstepladsen",
+      "date": "28/09/2026",
+      "type": "Udland",
+      "firstSeenAt": "2026-09-28T05:43:52.112Z",
+      "titleVi": "The New York Times công bố loạt phim truyền hình hay nhất thế kỷ: Đây là nơi đầu tiên"
+    },
+    {
+      "id": "https://nyheder.tv2.dk/udland/2026-09-28-taylor-swift-overgaar-beyonce-og-slaar-rekorden-for-flest-vma-priser",
+      "source": "tv2",
+      "title": "Taylor Swift overgår Beyoncé og slår rekorden for flest VMA-priser",
+      "url": "https://nyheder.tv2.dk/udland/2026-09-28-taylor-swift-overgaar-beyonce-og-slaar-rekorden-for-flest-vma-priser",
+      "date": "28/09/2026",
+      "type": "Udland",
+      "firstSeenAt": "2026-09-28T05:43:52.112Z",
+      "titleVi": "Taylor Swift vượt qua Beyoncé để phá kỷ lục cho hầu hết các VMA"
+    },
+    {
+      "id": "https://nyheder.tv2.dk/live/udland/2026-01-08-krig-i-mellemoesten",
+      "source": "tv2",
+      "title": "Olieeksport fra Mellemøsten stiger i september efter fald",
+      "url": "https://nyheder.tv2.dk/live/udland/2026-01-08-krig-i-mellemoesten",
+      "date": "08/01/2026",
+      "type": "Live",
+      "firstSeenAt": "2026-09-28T00:30:42.330Z",
+      "titleVi": "Xuất khẩu dầu Trung Đông tăng trong tháng 9 sau mùa thu"
     },
     {
       "id": "https://nyheder.tv2.dk/udland/2026-09-27-amerikanske-medier-gaar-sammen-om-at-boykotte-trump",
@@ -502,16 +702,6 @@
       "titleVi": "Truyền thông Mỹ tham gia lực lượng tẩy chay Trump"
     },
     {
-      "id": "https://nyheder.tv2.dk/live/udland/2026-09-27-stoerre-haendelse-i-storbritannien",
-      "source": "tv2",
-      "title": "Trump: Mistænkte overvåget i lang tid",
-      "url": "https://nyheder.tv2.dk/live/udland/2026-09-27-stoerre-haendelse-i-storbritannien",
-      "date": "27/09/2026",
-      "type": "Live",
-      "firstSeenAt": "2026-09-28T00:30:42.330Z",
-      "titleVi": "Trump: Nghi phạm bị theo dõi trong một thời gian dài"
-    },
-    {
       "id": "https://nyheder.tv2.dk/krimi/2026-09-26-paedofilidoemt-paedagog-vil-have-omstoedt-forvaringsdom",
       "source": "tv2",
       "title": "Pædofilidømt pædagog vil have omstødt forvaringsdom",
@@ -522,16 +712,6 @@
       "titleVi": "Nhà giáo dục bị kết án ấu dâm muốn đảo ngược bản án giám hộ"
     },
     {
-      "id": "https://nyheder.tv2.dk/live/politik/2025-08-11-dansk-politik",
-      "source": "tv2",
-      "title": "Dobbelt DF-exit skyldes \"et ikke-politisk mellemværende\", siger DF-chef",
-      "url": "https://nyheder.tv2.dk/live/politik/2025-08-11-dansk-politik",
-      "date": "11/08/2025",
-      "type": "Live",
-      "firstSeenAt": "2026-09-28T00:30:42.330Z",
-      "titleVi": "Giám đốc DF cho biết việc rút khỏi Double DF là do \"một khoảng cách phi chính trị\""
-    },
-    {
       "id": "https://nyheder.tv2.dk/samfund/2026-09-27-forsvundne-piger-fra-broenderslev-fundet-i-god-behold",
       "source": "tv2",
       "title": "Forsvundne piger fra Brønderslev fundet i god behold",
@@ -540,16 +720,6 @@
       "type": "Samfund",
       "firstSeenAt": "2026-09-28T00:30:42.330Z",
       "titleVi": "Các cô gái mất tích từ Brønderslev được tìm thấy an toàn và khỏe mạnh"
-    },
-    {
-      "id": "https://nyheder.tv2.dk/live/tech/2026-09-09-ai-forandrer-verden",
-      "source": "tv2",
-      "title": "Danskerne frygter tab af kontrol med AI",
-      "url": "https://nyheder.tv2.dk/live/tech/2026-09-09-ai-forandrer-verden",
-      "date": "09/09/2026",
-      "type": "Live",
-      "firstSeenAt": "2026-09-28T00:30:42.330Z",
-      "titleVi": "Người Đan Mạch sợ mất quyền kiểm soát AI"
     },
     {
       "id": "https://nyheder.tv2.dk/2026-09-27-nu-kommer-rotterne",
@@ -570,36 +740,6 @@
       "type": "Samfund",
       "firstSeenAt": "2026-09-28T00:30:42.330Z",
       "titleVi": "Bảy thành phố rung chuông báo động – nhiều thành phố bị phá hủy hơn bao giờ hết"
-    },
-    {
-      "id": "https://nyheder.tv2.dk/live/udland/2025-03-17-verden-i-forandring",
-      "source": "tv2",
-      "title": "Russiske hackere reagerer på trusselsvurdering",
-      "url": "https://nyheder.tv2.dk/live/udland/2025-03-17-verden-i-forandring",
-      "date": "17/03/2025",
-      "type": "Live",
-      "firstSeenAt": "2026-09-28T00:30:42.330Z",
-      "titleVi": "Tin tặc Nga phản ứng với đánh giá mối đe dọa"
-    },
-    {
-      "id": "https://nyheder.tv2.dk/live/2024-09-08-seneste-nyt-om-krigen-i-ukraine-70b1d6cc-0720-404e-9878-45546e1999e7",
-      "source": "tv2",
-      "title": "Luftalarmen lyder i Kyiv",
-      "url": "https://nyheder.tv2.dk/live/2024-09-08-seneste-nyt-om-krigen-i-ukraine-70b1d6cc-0720-404e-9878-45546e1999e7",
-      "date": "08/09/2024",
-      "type": "Live",
-      "firstSeenAt": "2026-09-28T00:30:42.330Z",
-      "titleVi": "Âm thanh báo động không khí ở Kyiv"
-    },
-    {
-      "id": "https://nyheder.tv2.dk/live/udland/2026-01-08-krig-i-mellemoesten",
-      "source": "tv2",
-      "title": "Frankrig vil sende soldater til Det Røde Hav",
-      "url": "https://nyheder.tv2.dk/live/udland/2026-01-08-krig-i-mellemoesten",
-      "date": "08/01/2026",
-      "type": "Live",
-      "firstSeenAt": "2026-09-28T00:30:42.330Z",
-      "titleVi": "Pháp sẽ cử binh sĩ đến Biển Đỏ"
     },
     {
       "id": "https://nyheder.tv2.dk/2026-09-27-har-du-ogsaa-undret-dig-mysteriet-om-aarhus-lugt-er-loest",
@@ -630,146 +770,6 @@
       "type": "Krimi",
       "firstSeenAt": "2026-09-28T00:30:42.330Z",
       "titleVi": "Người đàn ông 19 tuổi bị buộc tội giết người đàn ông 59 tuổi ở Havdrup"
-    },
-    {
-      "id": "https://nyheder.tv2.dk/udland/2026-09-27-27-personer-draebt-i-to-sydafrikanske-masseskyderier",
-      "source": "tv2",
-      "title": "27 personer dræbt i to sydafrikanske masseskyderier",
-      "url": "https://nyheder.tv2.dk/udland/2026-09-27-27-personer-draebt-i-to-sydafrikanske-masseskyderier",
-      "date": "27/09/2026",
-      "type": "Udland",
-      "firstSeenAt": "2026-09-28T00:30:42.330Z",
-      "titleVi": "27 người thiệt mạng trong hai vụ xả súng hàng loạt ở Nam Phi"
-    },
-    {
-      "id": "https://nyheder.tv2.dk/samfund/2026-09-27-politiet-faar-nyt-magtmiddel-i-hele-landet",
-      "source": "tv2",
-      "title": "Politiet får nyt magtmiddel i hele landet",
-      "url": "https://nyheder.tv2.dk/samfund/2026-09-27-politiet-faar-nyt-magtmiddel-i-hele-landet",
-      "date": "27/09/2026",
-      "type": "Samfund",
-      "firstSeenAt": "2026-09-28T00:30:42.330Z",
-      "titleVi": "Cảnh sát đang giành được quyền lực mới trên cả nước"
-    },
-    {
-      "id": "https://nyheder.tv2.dk/udland/2026-09-24-hvem-er-de-russiske-hackere-og-hvordan-kan-de-ramme-danmark",
-      "source": "tv2",
-      "title": "Hvem er de russiske hackere, og hvordan kan de ramme Danmark?",
-      "url": "https://nyheder.tv2.dk/udland/2026-09-24-hvem-er-de-russiske-hackere-og-hvordan-kan-de-ramme-danmark",
-      "date": "24/09/2026",
-      "type": "Udland",
-      "firstSeenAt": "2026-09-28T00:30:42.330Z",
-      "titleVi": "Các tin tặc Nga là ai và làm thế nào họ có thể tấn công Đan Mạch?"
-    },
-    {
-      "id": "https://nyheder.tv2.dk/udland/2026-09-22-loebsk-ai-agent-stalkede-sit-offer-og-tog-kontakt-paa-dansk",
-      "source": "tv2",
-      "title": "Løbsk AI-agent stalkede sit offer og tog kontakt på dansk",
-      "url": "https://nyheder.tv2.dk/udland/2026-09-22-loebsk-ai-agent-stalkede-sit-offer-og-tog-kontakt-paa-dansk",
-      "date": "22/09/2026",
-      "type": "Udland",
-      "firstSeenAt": "2026-09-28T00:30:42.330Z",
-      "titleVi": "Đại lý AI đang chạy theo dõi nạn nhân của mình và liên lạc bằng tiếng Đan Mạch"
-    },
-    {
-      "id": "https://nyheder.tv2.dk/live/udland/2026-05-16-midtvejsvalg-i-usa",
-      "source": "tv2",
-      "title": "Trump lover igen 5000 dollars til alle amerikanere",
-      "url": "https://nyheder.tv2.dk/live/udland/2026-05-16-midtvejsvalg-i-usa",
-      "date": "16/05/2026",
-      "type": "Live",
-      "firstSeenAt": "2026-09-28T00:30:42.330Z",
-      "titleVi": "Trump một lần nữa cam kết 5.000 USD cho tất cả người Mỹ"
-    },
-    {
-      "id": "https://nyheder.tv2.dk/samfund/2026-09-26-forsvundne-piger-fra-broenderslev-fundet-i-god-behold",
-      "source": "tv2",
-      "title": "Forsvundne piger fra Brønderslev fundet i god behold",
-      "url": "https://nyheder.tv2.dk/samfund/2026-09-26-forsvundne-piger-fra-broenderslev-fundet-i-god-behold",
-      "date": "26/09/2026",
-      "type": "Samfund",
-      "firstSeenAt": "2026-09-28T00:30:42.330Z",
-      "titleVi": "Các cô gái mất tích từ Brønderslev được tìm thấy an toàn và khỏe mạnh"
-    },
-    {
-      "id": "https://nyheder.tv2.dk/politik/2026-09-26-foerst-efter-seks-timer-tog-messerschmidt-ordet-bagefter-fik-pressen-to-minutter",
-      "source": "tv2",
-      "title": "Først efter seks timer tog Messerschmidt ordet – bagefter fik pressen to minutter",
-      "url": "https://nyheder.tv2.dk/politik/2026-09-26-foerst-efter-seks-timer-tog-messerschmidt-ordet-bagefter-fik-pressen-to-minutter",
-      "date": "26/09/2026",
-      "type": "Politik",
-      "firstSeenAt": "2026-09-28T00:30:42.330Z",
-      "titleVi": "Chỉ sau sáu giờ, Messerschmidt đã phát biểu – sau đó báo chí được đưa ra hai phút"
-    },
-    {
-      "id": "https://nyheder.tv2.dk/samfund/2026-09-26-opladning-af-el-bil-gik-galt-seks-brandbiler-paa-stedet",
-      "source": "tv2",
-      "title": "Opladning af el-bil gik galt – seks brandbiler på stedet",
-      "url": "https://nyheder.tv2.dk/samfund/2026-09-26-opladning-af-el-bil-gik-galt-seks-brandbiler-paa-stedet",
-      "date": "26/09/2026",
-      "type": "Samfund",
-      "firstSeenAt": "2026-09-28T00:30:42.330Z",
-      "titleVi": "Sạc xe điện bị lỗi – sáu xe cứu hỏa tại chỗ"
-    },
-    {
-      "id": "https://nyheder.tv2.dk/live/politik/2026-09-26-dansk-folkeparti-holder-aarsmoede",
-      "source": "tv2",
-      "title": "- Jeg har givet bolden op – så må de andre sparke til den, siger Messerschmidt",
-      "url": "https://nyheder.tv2.dk/live/politik/2026-09-26-dansk-folkeparti-holder-aarsmoede",
-      "date": "26/09/2026",
-      "type": "Live",
-      "firstSeenAt": "2026-09-28T00:30:42.330Z",
-      "titleVi": "- Tôi đã từ bỏ quả bóng – sau đó những người khác phải đá nó, Messerschmidt nói"
-    },
-    {
-      "id": "https://nyheder.tv2.dk/udland/2026-09-26-trump-sat-i-dilemma-efter-iransk-forslag",
-      "source": "tv2",
-      "title": "Trump sat i dilemma efter iransk forslag",
-      "url": "https://nyheder.tv2.dk/udland/2026-09-26-trump-sat-i-dilemma-efter-iransk-forslag",
-      "date": "26/09/2026",
-      "type": "Udland",
-      "firstSeenAt": "2026-09-28T00:30:42.330Z",
-      "titleVi": "Trump đưa ra tình thế tiến thoái lưỡng nan sau đề xuất của Iran"
-    },
-    {
-      "id": "https://nyheder.tv2.dk/samfund/2026-09-26-undskyld-mig-men-det-er-vel-en-joke-kongeportraet-faar-haard-medfart",
-      "source": "tv2",
-      "title": "\"Undskyld mig, men det er vel en joke?\" – kongeportræt får hård medfart",
-      "url": "https://nyheder.tv2.dk/samfund/2026-09-26-undskyld-mig-men-det-er-vel-en-joke-kongeportraet-faar-haard-medfart",
-      "date": "26/09/2026",
-      "type": "Samfund",
-      "firstSeenAt": "2026-09-28T00:30:42.330Z",
-      "titleVi": "\"Xin lỗi, nhưng đó là một trò đùa, phải không?\" – Chân dung King nhận được một chuyến đi khó khăn"
-    },
-    {
-      "id": "https://nyheder.tv2.dk/samfund/2026-09-26-borger-opdager-doed-person-i-aa",
-      "source": "tv2",
-      "title": "Borger opdager død person i å",
-      "url": "https://nyheder.tv2.dk/samfund/2026-09-26-borger-opdager-doed-person-i-aa",
-      "date": "26/09/2026",
-      "type": "Samfund",
-      "firstSeenAt": "2026-09-28T00:30:42.330Z",
-      "titleVi": "Citizen phát hiện người chết trong"
-    },
-    {
-      "id": "https://nyheder.tv2.dk/udland/2026-09-24-ukraine-har-fundet-modtraekket-til-russernes-frygtede-jetdroner",
-      "source": "tv2",
-      "title": "Ukraine har fundet modtrækket til russernes frygtede jetdroner",
-      "url": "https://nyheder.tv2.dk/udland/2026-09-24-ukraine-har-fundet-modtraekket-til-russernes-frygtede-jetdroner",
-      "date": "24/09/2026",
-      "type": "Udland",
-      "firstSeenAt": "2026-09-28T00:30:42.330Z",
-      "titleVi": "Ukraine đã tìm thấy động thái đối phó với máy bay không người lái đáng sợ của Nga"
-    },
-    {
-      "id": "https://nyheder.tv2.dk/live/2025-01-06-kampen-om-groenlands-fremtid",
-      "source": "tv2",
-      "title": "Mette Frederiksen afslører, hvad Trump sagde til hende",
-      "url": "https://nyheder.tv2.dk/live/2025-01-06-kampen-om-groenlands-fremtid",
-      "date": "06/01/2025",
-      "type": "Live",
-      "firstSeenAt": "2026-09-28T00:30:42.330Z",
-      "titleVi": "Mette Frederiksen tiết lộ những gì Trump đã nói với cô"
     }
   ]
 }
