@@ -1,0 +1,356 @@
+<!doctype html>
+<html lang="vi">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Nhịp Mới - Blog tin tức ngắn gọn về công nghệ, đời sống và sáng tạo.">
+  <title>Nhịp Mới — Blog tin tức</title>
+  <style>
+    :root {
+      --ink: #151515;
+      --muted: #6f6f6f;
+      --paper: #f7f4ed;
+      --card: #fffdf8;
+      --accent: #e34a2b;
+      --line: #d9d3c7;
+      --radius: 18px;
+    }
+
+    * { box-sizing: border-box; }
+
+    html { scroll-behavior: smooth; }
+
+    body {
+      margin: 0;
+      color: var(--ink);
+      background: var(--paper);
+      font-family: Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+      line-height: 1.6;
+    }
+
+    a { color: inherit; text-decoration: none; }
+    img { display: block; width: 100%; }
+
+    .container {
+      width: min(1120px, calc(100% - 40px));
+      margin-inline: auto;
+    }
+
+    .topbar {
+      border-bottom: 1px solid var(--line);
+      font-size: .82rem;
+      color: var(--muted);
+    }
+
+    .topbar .container {
+      display: flex;
+      justify-content: space-between;
+      padding-block: 8px;
+    }
+
+    header {
+      position: sticky;
+      top: 0;
+      z-index: 10;
+      background: color-mix(in srgb, var(--paper) 92%, transparent);
+      backdrop-filter: blur(12px);
+      border-bottom: 1px solid var(--line);
+    }
+
+    nav {
+      min-height: 76px;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 24px;
+    }
+
+    .brand {
+      font-family: Georgia, "Times New Roman", serif;
+      font-size: 1.8rem;
+      font-weight: 800;
+      letter-spacing: -.04em;
+    }
+
+    .brand span { color: var(--accent); }
+
+    .nav-links {
+      display: flex;
+      gap: 24px;
+      font-size: .95rem;
+      font-weight: 650;
+    }
+
+    .nav-links a:hover { color: var(--accent); }
+
+    .hero {
+      display: grid;
+      grid-template-columns: 1.55fr .85fr;
+      gap: 22px;
+      padding-block: 48px 34px;
+    }
+
+    .feature,
+    .brief,
+    .card {
+      overflow: hidden;
+      border: 1px solid var(--line);
+      border-radius: var(--radius);
+      background: var(--card);
+    }
+
+    .feature-art,
+    .card-art {
+      position: relative;
+      min-height: 340px;
+      background:
+        radial-gradient(circle at 70% 30%, #ffc674 0 9%, transparent 10%),
+        linear-gradient(135deg, #173f5f, #20639b 52%, #3caea3);
+    }
+
+    .feature-art::after {
+      content: "AI";
+      position: absolute;
+      right: 7%;
+      bottom: -18%;
+      color: rgba(255,255,255,.15);
+      font: 900 15rem/1 Arial, sans-serif;
+      letter-spacing: -.12em;
+    }
+
+    .feature-copy { padding: 28px; }
+
+    .tag {
+      color: var(--accent);
+      font-size: .76rem;
+      font-weight: 800;
+      letter-spacing: .1em;
+      text-transform: uppercase;
+    }
+
+    h1, h2, h3 {
+      margin: 8px 0 10px;
+      font-family: Georgia, "Times New Roman", serif;
+      line-height: 1.12;
+    }
+
+    h1 { font-size: clamp(2rem, 5vw, 4.2rem); letter-spacing: -.045em; }
+    h2 { font-size: clamp(1.6rem, 3vw, 2.4rem); }
+    h3 { font-size: 1.35rem; }
+    p { margin: 0; color: var(--muted); }
+
+    .meta {
+      margin-top: 18px;
+      color: var(--muted);
+      font-size: .84rem;
+    }
+
+    .brief { padding: 26px; }
+    .brief h2 { margin-top: 0; }
+
+    .brief-item {
+      padding: 19px 0;
+      border-top: 1px solid var(--line);
+    }
+
+    .brief-item:first-of-type { border-top: 0; }
+    .brief-item a { font-weight: 720; }
+    .brief-item a:hover { color: var(--accent); }
+    .brief-item time { display: block; margin-top: 5px; color: var(--muted); font-size: .78rem; }
+
+    .section-head {
+      display: flex;
+      align-items: end;
+      justify-content: space-between;
+      gap: 20px;
+      padding: 28px 0 18px;
+      border-top: 3px solid var(--ink);
+    }
+
+    .section-head h2 { margin: 0; }
+
+    .grid {
+      display: grid;
+      grid-template-columns: repeat(3, 1fr);
+      gap: 22px;
+      padding-bottom: 64px;
+    }
+
+    .card { transition: transform .2s ease, box-shadow .2s ease; }
+    .card:hover { transform: translateY(-4px); box-shadow: 0 14px 34px rgba(30, 25, 18, .1); }
+    .card-art { min-height: 190px; }
+    .card:nth-child(2) .card-art { background: linear-gradient(145deg, #f7b267, #f25c54 55%, #642b73); }
+    .card:nth-child(3) .card-art { background: linear-gradient(145deg, #d9ed92, #52b69a 55%, #184e77); }
+    .card-copy { padding: 22px; }
+
+    .newsletter {
+      display: grid;
+      grid-template-columns: 1fr auto;
+      align-items: center;
+      gap: 24px;
+      margin-bottom: 64px;
+      padding: 36px;
+      color: white;
+      background: var(--ink);
+      border-radius: var(--radius);
+    }
+
+    .newsletter p { color: #bbb; }
+    .newsletter h2 { margin-top: 0; }
+
+    form { display: flex; gap: 8px; }
+    input, button {
+      min-height: 46px;
+      border: 0;
+      border-radius: 999px;
+      font: inherit;
+    }
+
+    input { width: min(280px, 45vw); padding: 0 18px; }
+    button { padding: 0 22px; color: white; background: var(--accent); font-weight: 750; cursor: pointer; }
+    button:hover { filter: brightness(1.08); }
+
+    footer {
+      padding-block: 26px;
+      color: var(--muted);
+      border-top: 1px solid var(--line);
+      font-size: .88rem;
+    }
+
+    footer .container { display: flex; justify-content: space-between; gap: 20px; }
+
+    @media (max-width: 780px) {
+      .nav-links { display: none; }
+      .hero, .grid, .newsletter { grid-template-columns: 1fr; }
+      .hero { padding-top: 28px; }
+      .feature-art { min-height: 240px; }
+      .newsletter { padding: 26px; }
+      form { flex-direction: column; }
+      input { width: 100%; }
+    }
+  </style>
+</head>
+<body>
+  <div class="topbar">
+    <div class="container">
+      <span id="today">Tin mới mỗi ngày</span>
+      <span>Đọc nhanh · Hiểu sâu</span>
+    </div>
+  </div>
+
+  <header>
+    <nav class="container" aria-label="Điều hướng chính">
+      <a class="brand" href="#">NHỊP<span>MỚI</span></a>
+      <div class="nav-links">
+        <a href="#cong-nghe">Công nghệ</a>
+        <a href="#doi-song">Đời sống</a>
+        <a href="#sang-tao">Sáng tạo</a>
+        <a href="#newsletter">Bản tin</a>
+      </div>
+    </nav>
+  </header>
+
+  <main class="container">
+    <section class="hero" aria-label="Tin nổi bật">
+      <article class="feature">
+        <div class="feature-art" role="img" aria-label="Minh họa trí tuệ nhân tạo và tương lai số"></div>
+        <div class="feature-copy">
+          <span class="tag">Tiêu điểm công nghệ</span>
+          <h1>AI đang thay đổi cách chúng ta làm việc như thế nào?</h1>
+          <p>Từ những công việc lặp lại đến các ý tưởng sáng tạo, trí tuệ nhân tạo đang trở thành một cộng sự mới trong đời sống số.</p>
+          <div class="meta">Minh Anh · 6 phút đọc</div>
+        </div>
+      </article>
+
+      <aside class="brief" aria-label="Tin nhanh">
+        <h2>Tin nhanh</h2>
+        <div class="brief-item">
+          <a href="#">Năm thói quen nhỏ giúp ngày làm việc nhẹ nhàng hơn</a>
+          <time>08:30 · Đời sống</time>
+        </div>
+        <div class="brief-item">
+          <a href="#">Xu hướng thiết kế tối giản quay trở lại trong năm nay</a>
+          <time>09:15 · Sáng tạo</time>
+        </div>
+        <div class="brief-item">
+          <a href="#">Người trẻ chọn học kỹ năng mới qua những khóa học ngắn</a>
+          <time>10:05 · Giáo dục</time>
+        </div>
+        <div class="brief-item">
+          <a href="#">Không gian xanh đang làm mới nhịp sống đô thị</a>
+          <time>11:20 · Môi trường</time>
+        </div>
+      </aside>
+    </section>
+
+    <section id="cong-nghe">
+      <div class="section-head">
+        <h2>Bài viết mới</h2>
+        <p>Câu chuyện đáng chú ý trong tuần</p>
+      </div>
+      <div class="grid">
+        <article class="card">
+          <div class="card-art" role="img" aria-label="Minh họa thành phố thông minh"></div>
+          <div class="card-copy">
+            <span class="tag">Công nghệ</span>
+            <h3>Thành phố thông minh bắt đầu từ những thay đổi rất nhỏ</h3>
+            <p>Dữ liệu mở và giao thông số đang giúp các đô thị vận hành linh hoạt hơn.</p>
+            <div class="meta">4 phút đọc</div>
+          </div>
+        </article>
+        <article class="card" id="sang-tao">
+          <div class="card-art" role="img" aria-label="Minh họa màu sắc sáng tạo"></div>
+          <div class="card-copy">
+            <span class="tag">Sáng tạo</span>
+            <h3>Khi cảm hứng đến từ những điều bình thường nhất</h3>
+            <p>Một góc nhìn mới có thể biến trải nghiệm quen thuộc thành ý tưởng thú vị.</p>
+            <div class="meta">5 phút đọc</div>
+          </div>
+        </article>
+        <article class="card" id="doi-song">
+          <div class="card-art" role="img" aria-label="Minh họa thiên nhiên và đời sống xanh"></div>
+          <div class="card-copy">
+            <span class="tag">Đời sống</span>
+            <h3>Sống xanh không nhất thiết phải bắt đầu bằng điều lớn lao</h3>
+            <p>Tiêu dùng vừa đủ và tái sử dụng là hai lựa chọn dễ áp dụng mỗi ngày.</p>
+            <div class="meta">3 phút đọc</div>
+          </div>
+        </article>
+      </div>
+    </section>
+
+    <section class="newsletter" id="newsletter">
+      <div>
+        <h2>Đón Nhịp Mới mỗi tuần</h2>
+        <p>Một email ngắn với những câu chuyện đáng đọc. Không quảng cáo, không làm phiền.</p>
+      </div>
+      <form id="subscribe-form">
+        <input type="email" aria-label="Địa chỉ email" placeholder="email@cuaban.com" required>
+        <button type="submit">Đăng ký</button>
+      </form>
+    </section>
+  </main>
+
+  <footer>
+    <div class="container">
+      <span>© <span id="year"></span> Nhịp Mới</span>
+      <span>Blog tin tức độc lập</span>
+    </div>
+  </footer>
+
+  <script>
+    const now = new Date();
+    document.querySelector('#year').textContent = now.getFullYear();
+    document.querySelector('#today').textContent = now.toLocaleDateString('vi-VN', {
+      weekday: 'long', day: '2-digit', month: '2-digit', year: 'numeric'
+    });
+
+    document.querySelector('#subscribe-form').addEventListener('submit', (event) => {
+      event.preventDefault();
+      const button = event.currentTarget.querySelector('button');
+      button.textContent = 'Đã đăng ký ✓';
+      button.disabled = true;
+    });
+  </script>
+</body>
+</html>
