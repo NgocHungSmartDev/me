@@ -1,6 +1,6 @@
 {
   "monitoringStartedAt": "2026-09-28T00:17:35.319Z",
-  "updatedAt": "2026-09-28T19:41:06.213Z",
+  "updatedAt": "2026-09-28T23:57:31.944Z",
   "sources": {
     "kongehuset": {
       "name": "Kongehuset",
@@ -482,6 +482,36 @@
       "titleVi": "Công chúa Benedikte của HRH đã tham dự Giải vô địch thế giới FEI Aachen 2026"
     },
     {
+      "id": "https://nyheder.tv2.dk/samfund/2026-09-28-borgmester-kalder-kritik-af-skandale-projekt-for-koebenhavner-bashing",
+      "source": "tv2",
+      "title": "Borgmester kalder kritik af \"skandale\"-projekt for \"københavner-bashing\"",
+      "url": "https://nyheder.tv2.dk/samfund/2026-09-28-borgmester-kalder-kritik-af-skandale-projekt-for-koebenhavner-bashing",
+      "date": "28/09/2026",
+      "type": "Samfund",
+      "firstSeenAt": "2026-09-28T23:57:31.944Z",
+      "titleVi": "Thị trưởng kêu gọi chỉ trích dự án \"scandal\" cho \"Copenhagener-bashing\""
+    },
+    {
+      "id": "https://nyheder.tv2.dk/live/kort-nyt",
+      "source": "tv2",
+      "title": "Pave Leo understreger bekymringer for AI",
+      "url": "https://nyheder.tv2.dk/live/kort-nyt",
+      "date": "—",
+      "type": "Live",
+      "firstSeenAt": "2026-09-28T00:30:42.330Z",
+      "titleVi": "Đức Giáo Hoàng Leo nhấn mạnh những lo ngại về AI"
+    },
+    {
+      "id": "https://nyheder.tv2.dk/samfund/2026-09-28-tv-2-erfarer-regeringen-haever-afgiften-paa-elbiler",
+      "source": "tv2",
+      "title": "Regeringen hæver afgiften på elbiler",
+      "url": "https://nyheder.tv2.dk/samfund/2026-09-28-tv-2-erfarer-regeringen-haever-afgiften-paa-elbiler",
+      "date": "28/09/2026",
+      "type": "Samfund",
+      "firstSeenAt": "2026-09-28T19:41:06.213Z",
+      "titleVi": "Chính phủ tăng thuế đối với xe điện"
+    },
+    {
       "id": "https://nyheder.tv2.dk/live/2024-09-08-seneste-nyt-om-krigen-i-ukraine-70b1d6cc-0720-404e-9878-45546e1999e7",
       "source": "tv2",
       "title": "Europa frygter, at Rusland vil slå civile europæere ihjel i hybridangreb",
@@ -492,14 +522,14 @@
       "titleVi": "Châu Âu lo ngại Nga sẽ giết chết dân thường châu Âu trong các cuộc tấn công hỗn hợp"
     },
     {
-      "id": "https://nyheder.tv2.dk/live/kort-nyt",
+      "id": "https://nyheder.tv2.dk/live/trafik/2026-09-28-nedrevne-koereledninger-flere-steder",
       "source": "tv2",
-      "title": "Skovbrand slukket efter to måneder i Frankrig – største i 77 år",
-      "url": "https://nyheder.tv2.dk/live/kort-nyt",
-      "date": "—",
+      "title": "Nedreven køreledning lammer kritisk strækning",
+      "url": "https://nyheder.tv2.dk/live/trafik/2026-09-28-nedrevne-koereledninger-flere-steder",
+      "date": "28/09/2026",
       "type": "Live",
-      "firstSeenAt": "2026-09-28T00:30:42.330Z",
-      "titleVi": "Cháy rừng được dập tắt sau hai tháng ở Pháp – lớn nhất trong 77 năm"
+      "firstSeenAt": "2026-09-28T19:41:06.213Z",
+      "titleVi": "Dây tiếp xúc trên cao bị phá hủy làm tê liệt căng tới hạn"
     },
     {
       "id": "https://nyheder.tv2.dk/live/udland/2026-09-27-stoerre-haendelse-i-storbritannien",
@@ -522,16 +552,6 @@
       "titleVi": "Trump nói rằng Mỹ sẽ sớm giành chiến thắng trong cuộc chiến chống lại Iran"
     },
     {
-      "id": "https://nyheder.tv2.dk/samfund/2026-09-28-tv-2-erfarer-regeringen-haever-afgiften-paa-elbiler",
-      "source": "tv2",
-      "title": "TV 2 erfarer: Regeringen hæver afgiften på elbiler",
-      "url": "https://nyheder.tv2.dk/samfund/2026-09-28-tv-2-erfarer-regeringen-haever-afgiften-paa-elbiler",
-      "date": "28/09/2026",
-      "type": "Samfund",
-      "firstSeenAt": "2026-09-28T19:41:06.213Z",
-      "titleVi": "TV 2 học được: Chính phủ tăng thuế đối với ô tô điện"
-    },
-    {
       "id": "https://nyheder.tv2.dk/samfund/2026-09-28-forsvaret-rydder-skov-for-at-udvide-ammunitionsdepot",
       "source": "tv2",
       "title": "Forsvaret rydder skov for at udvide ammunitionsdepot",
@@ -550,16 +570,6 @@
       "type": "Tech",
       "firstSeenAt": "2026-09-28T19:41:06.213Z",
       "titleVi": "Công ty vận tải Đan Mạch phát ra âm thanh báo động sau khi thử nghiệm xe buýt điện giật gân"
-    },
-    {
-      "id": "https://nyheder.tv2.dk/live/trafik/2026-09-28-nedrevne-koereledninger-flere-steder",
-      "source": "tv2",
-      "title": "Nedreven køreledning lammer kritisk strækning",
-      "url": "https://nyheder.tv2.dk/live/trafik/2026-09-28-nedrevne-koereledninger-flere-steder",
-      "date": "28/09/2026",
-      "type": "Live",
-      "firstSeenAt": "2026-09-28T19:41:06.213Z",
-      "titleVi": "Dây tiếp xúc trên cao bị phá hủy làm tê liệt căng tới hạn"
     },
     {
       "id": "https://nyheder.tv2.dk/business/2026-09-28-vi-bruger-flere-penge-paa-at-have-det-sjovt-nu-har-funflation-ramt-forbrugerne",
@@ -760,16 +770,6 @@
       "type": "Nyheder",
       "firstSeenAt": "2026-09-28T05:43:52.112Z",
       "titleVi": "Cô bé 13 tuổi mắc bệnh tâm thần sống đằng sau hàng rào thép gai với thanh thiếu niên phạm tội"
-    },
-    {
-      "id": "https://nyheder.tv2.dk/udland/2026-09-28-the-new-york-times-kaarer-aarhundredes-bedste-tv-serier-her-er-foerstepladsen",
-      "source": "tv2",
-      "title": "The New York Times kårer århundredes bedste tv-serier: Her er førstepladsen",
-      "url": "https://nyheder.tv2.dk/udland/2026-09-28-the-new-york-times-kaarer-aarhundredes-bedste-tv-serier-her-er-foerstepladsen",
-      "date": "28/09/2026",
-      "type": "Udland",
-      "firstSeenAt": "2026-09-28T05:43:52.112Z",
-      "titleVi": "The New York Times công bố loạt phim truyền hình hay nhất thế kỷ: Đây là nơi đầu tiên"
     }
   ]
 }
