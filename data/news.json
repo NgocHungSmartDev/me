@@ -1,372 +1,775 @@
 {
-  "source": "https://www.kongehuset.dk/nyhedsarkiv/",
   "monitoringStartedAt": "2026-09-28T00:17:35.319Z",
-  "updatedAt": "2026-09-28T00:17:35.319Z",
-  "status": {
-    "state": "ok",
-    "message": "",
-    "changedAt": "2026-09-28T00:22:35.498Z"
+  "updatedAt": "2026-09-28T00:34:21.102Z",
+  "sources": {
+    "kongehuset": {
+      "name": "Kongehuset",
+      "url": "https://www.kongehuset.dk/nyhedsarkiv/",
+      "monitoringStartedAt": "2026-09-28T00:17:35.319Z",
+      "status": {
+        "state": "ok",
+        "message": "",
+        "changedAt": "2026-09-28T00:22:35.498Z"
+      }
+    },
+    "tv2": {
+      "name": "TV 2 Nyheder",
+      "url": "https://nyheder.tv2.dk/",
+      "monitoringStartedAt": "2026-09-28T00:30:42.330Z",
+      "status": {
+        "state": "ok",
+        "message": "",
+        "changedAt": "2026-09-28T00:31:09.126Z"
+      }
+    }
+  },
+  "translation": {
+    "status": {
+      "state": "ok",
+      "message": "",
+      "changedAt": "2026-09-28T00:34:21.102Z"
+    }
   },
   "articles": [
     {
       "id": "https://www.kongehuset.dk/foto-video/kongeparret-afholdt-haerens-haederstegnsmiddag-2026",
+      "source": "kongehuset",
       "title": "Kongeparret afholdt Hærens Hæderstegnsmiddag",
       "url": "https://www.kongehuset.dk/foto-video/kongeparret-afholdt-haerens-haederstegnsmiddag-2026",
       "date": "26. september 2026",
       "type": "Galleri",
-      "firstSeenAt": "2026-09-28T00:17:35.319Z"
+      "firstSeenAt": "2026-09-28T00:17:35.319Z",
+      "titleVi": "Nhà vua và hoàng hậu đã tổ chức bữa tối danh dự của quân đội"
     },
     {
       "id": "https://www.kongehuset.dk/nyheder/gaesteliste-ved-haerens-haederstegnsmiddag-2026",
+      "source": "kongehuset",
       "title": "Gæsteliste ved Hærens Hæderstegnsmiddag",
       "url": "https://www.kongehuset.dk/nyheder/gaesteliste-ved-haerens-haederstegnsmiddag-2026",
       "date": "26. september 2026",
       "type": "Nyhed",
-      "firstSeenAt": "2026-09-28T00:17:35.319Z"
+      "firstSeenAt": "2026-09-28T00:17:35.319Z",
+      "titleVi": "Danh sách khách mời tại Bữa tối Danh dự Huy hiệu Quân đội"
     },
     {
       "id": "https://www.kongehuset.dk/foto-video/fejring-af-carlsbergfondets-150-aars-jubilaeum-og-portraetafsloering-paa-frederiksborg",
+      "source": "kongehuset",
       "title": "Fejring af Carlsbergfondets 150-års jubilæum og portrætafsløring på Frederiksborg",
       "url": "https://www.kongehuset.dk/foto-video/fejring-af-carlsbergfondets-150-aars-jubilaeum-og-portraetafsloering-paa-frederiksborg",
       "date": "25. september 2026",
       "type": "Galleri",
-      "firstSeenAt": "2026-09-28T00:17:35.319Z"
+      "firstSeenAt": "2026-09-28T00:17:35.319Z",
+      "titleVi": "Lễ kỷ niệm 150 năm thành lập Quỹ Carlsberg và tiết lộ chân dung tại Frederiksborg"
     },
     {
       "id": "https://www.kongehuset.dk/nyheder/nyt-portraet-af-h-m-kongen",
+      "source": "kongehuset",
       "title": "Nyt portræt af H.M. Kongen",
       "url": "https://www.kongehuset.dk/nyheder/nyt-portraet-af-h-m-kongen",
       "date": "25. september 2026",
       "type": "Nyhed",
-      "firstSeenAt": "2026-09-28T00:17:35.319Z"
+      "firstSeenAt": "2026-09-28T00:17:35.319Z",
+      "titleVi": "Chân dung mới của HM The King"
     },
     {
       "id": "https://www.kongehuset.dk/foto-video/h-m-dronningen-deltog-i-mary-fondens-markering-af-10-aar-med-antibulli",
+      "source": "kongehuset",
       "title": "H.M. Dronningen deltog i Mary Fondens markering af 10 år med Antibulli",
       "url": "https://www.kongehuset.dk/foto-video/h-m-dronningen-deltog-i-mary-fondens-markering-af-10-aar-med-antibulli",
       "date": "24. september 2026",
       "type": "Galleri",
-      "firstSeenAt": "2026-09-28T00:17:35.319Z"
+      "firstSeenAt": "2026-09-28T00:17:35.319Z",
+      "titleVi": "HM Nữ hoàng đã tham gia lễ kỷ niệm 10 năm thành lập Antibulli của Quỹ Mary"
     },
     {
       "id": "https://www.kongehuset.dk/foto-video/undervisningsprisen-2026",
+      "source": "kongehuset",
       "title": "Undervisningsprisen 2026",
       "url": "https://www.kongehuset.dk/foto-video/undervisningsprisen-2026",
       "date": "22. september 2026",
       "type": "Galleri",
-      "firstSeenAt": "2026-09-28T00:17:35.319Z"
+      "firstSeenAt": "2026-09-28T00:17:35.319Z",
+      "titleVi": "Giải thưởng Giảng dạy 2026"
     },
     {
       "id": "https://www.kongehuset.dk/foto-video/alzheimerforeningens-og-alzheimer-forskningsfondens-forskerpris-2026",
+      "source": "kongehuset",
       "title": "Alzheimerforeningens og Alzheimer-forskningsfondens Forskerpris 2026",
       "url": "https://www.kongehuset.dk/foto-video/alzheimerforeningens-og-alzheimer-forskningsfondens-forskerpris-2026",
       "date": "22. september 2026",
       "type": "Galleri",
-      "firstSeenAt": "2026-09-28T00:17:35.319Z"
+      "firstSeenAt": "2026-09-28T00:17:35.319Z",
+      "titleVi": "Giải thưởng Nghiên cứu của Hiệp hội Alzheimer và Quỹ Nghiên cứu Alzheimer năm 2026"
     },
     {
       "id": "https://www.kongehuset.dk/foto-video/video-h-m-kongen-besoeger-riddersalen-paa-frederiksborg-slot",
+      "source": "kongehuset",
       "title": "VIDEO: H.M. Kongen besøger Riddersalen på Frederiksborg Slot",
       "url": "https://www.kongehuset.dk/foto-video/video-h-m-kongen-besoeger-riddersalen-paa-frederiksborg-slot",
       "date": "21. september 2026",
       "type": "Video",
-      "firstSeenAt": "2026-09-28T00:17:35.319Z"
+      "firstSeenAt": "2026-09-28T00:17:35.319Z",
+      "titleVi": "VIDEO: HM Nhà vua đến thăm Đại lễ đường tại Lâu đài Frederiksborg"
     },
     {
       "id": "https://www.kongehuset.dk/foto-video/offentlig-audiens-den-21-september-2026",
+      "source": "kongehuset",
       "title": "Offentlig audiens den. 21. september 2026",
       "url": "https://www.kongehuset.dk/foto-video/offentlig-audiens-den-21-september-2026",
       "date": "21. september 2026",
       "type": "Galleri",
-      "firstSeenAt": "2026-09-28T00:17:35.319Z"
+      "firstSeenAt": "2026-09-28T00:17:35.319Z",
+      "titleVi": "Tiếp kiến công chúng vào ngày 21 tháng 9 năm 2026"
     },
     {
       "id": "https://www.kongehuset.dk/foto-video/middag-i-anledning-af-det-danske-vaertskab-for-nato-military-committee-conference",
+      "source": "kongehuset",
       "title": "Middag i anledning af det danske værtskab for NATO Military Committee Conference",
       "url": "https://www.kongehuset.dk/foto-video/middag-i-anledning-af-det-danske-vaertskab-for-nato-military-committee-conference",
       "date": "18. september 2026",
       "type": "Galleri",
-      "firstSeenAt": "2026-09-28T00:17:35.319Z"
+      "firstSeenAt": "2026-09-28T00:17:35.319Z",
+      "titleVi": "Bữa tối nhân dịp Đan Mạch đăng cai tổ chức Hội nghị Ủy ban Quân sự NATO"
     },
     {
       "id": "https://www.kongehuset.dk/foto-video/h-m-kongen-indviede-greensand",
+      "source": "kongehuset",
       "title": "H.M. Kongen indviede Greensand",
       "url": "https://www.kongehuset.dk/foto-video/h-m-kongen-indviede-greensand",
       "date": "18. september 2026",
       "type": "Galleri",
-      "firstSeenAt": "2026-09-28T00:17:35.319Z"
+      "firstSeenAt": "2026-09-28T00:17:35.319Z",
+      "titleVi": "HM The King khánh thành Greensand"
     },
     {
       "id": "https://www.kongehuset.dk/nyheder/vaertsbyer-royal-run-2027",
+      "source": "kongehuset",
       "title": "Værtsbyer Royal Run 2027",
       "url": "https://www.kongehuset.dk/nyheder/vaertsbyer-royal-run-2027",
       "date": "18. september 2026",
       "type": "Nyhed",
-      "firstSeenAt": "2026-09-28T00:17:35.319Z"
+      "firstSeenAt": "2026-09-28T00:17:35.319Z",
+      "titleVi": "Thành phố chủ nhà Royal Run 2027"
     },
     {
       "id": "https://www.kongehuset.dk/foto-video/ambassadoermodtagelse-den-17-september-2026",
+      "source": "kongehuset",
       "title": "Ambassadørmodtagelse den 17. september 2026",
       "url": "https://www.kongehuset.dk/foto-video/ambassadoermodtagelse-den-17-september-2026",
       "date": "17. september 2026",
       "type": "Galleri",
-      "firstSeenAt": "2026-09-28T00:17:35.319Z"
+      "firstSeenAt": "2026-09-28T00:17:35.319Z",
+      "titleVi": "Đại sứ đón tiếp vào ngày 17 tháng 9 năm 2026"
     },
     {
       "id": "https://www.kongehuset.dk/foto-video/h-m-kongen-indviede-fane-ved-beredskabsstyrelsen-midtjylland",
+      "source": "kongehuset",
       "title": "H.M. Kongen indviede fane ved Beredskabsstyrelsen Midtjylland",
       "url": "https://www.kongehuset.dk/foto-video/h-m-kongen-indviede-fane-ved-beredskabsstyrelsen-midtjylland",
       "date": "15. september 2026",
       "type": "Galleri",
-      "firstSeenAt": "2026-09-28T00:17:35.319Z"
+      "firstSeenAt": "2026-09-28T00:17:35.319Z",
+      "titleVi": "HM Nhà vua đã khánh thành một biểu ngữ tại Cơ quan Quản lý Khẩn cấp Đan Mạch Midtjylland"
     },
     {
       "id": "https://www.kongehuset.dk/foto-video/ceremoniel-og-officiel-ilandstigning-fra-kongeskibet-dannebrog",
+      "source": "kongehuset",
       "title": "Ceremoniel og officiel ilandstigning fra Kongeskibet Dannebrog",
       "url": "https://www.kongehuset.dk/foto-video/ceremoniel-og-officiel-ilandstigning-fra-kongeskibet-dannebrog",
       "date": "14. september 2026",
       "type": "Galleri",
-      "firstSeenAt": "2026-09-28T00:17:35.319Z"
+      "firstSeenAt": "2026-09-28T00:17:35.319Z",
+      "titleVi": "Nghi lễ và lên bờ chính thức từ Du thuyền Hoàng gia Dannebrog"
     },
     {
       "id": "https://www.kongehuset.dk/foto-video/besoeg-af-club-des-chefs-des-chefs",
+      "source": "kongehuset",
       "title": "Besøg af Club des Chefs des Chefs",
       "url": "https://www.kongehuset.dk/foto-video/besoeg-af-club-des-chefs-des-chefs",
       "date": "14. september 2026",
       "type": "Galleri",
-      "firstSeenAt": "2026-09-28T00:17:35.319Z"
+      "firstSeenAt": "2026-09-28T00:17:35.319Z",
+      "titleVi": "Chuyến thăm của Club des Chefs des Chefs"
     },
     {
       "id": "https://www.kongehuset.dk/foto-video/festgudstjeneste-i-anledning-af-500-aaret-for-reformationen-i-haderslev",
+      "source": "kongehuset",
       "title": "Festgudstjeneste i anledning af 500-året for Reformationen i Haderslev",
       "url": "https://www.kongehuset.dk/foto-video/festgudstjeneste-i-anledning-af-500-aaret-for-reformationen-i-haderslev",
       "date": "13. september 2026",
       "type": "Galleri",
-      "firstSeenAt": "2026-09-28T00:17:35.319Z"
+      "firstSeenAt": "2026-09-28T00:17:35.319Z",
+      "titleVi": "Phục vụ tiệc tùng nhân dịp kỷ niệm 500 năm Cải cách ở Haderslev"
     },
     {
       "id": "https://www.kongehuset.dk/foto-video/besoegsdag-paa-gardehusarregimentets-kaserne-2026",
+      "source": "kongehuset",
       "title": "Besøgsdag på Gardehusarregimentets kaserne",
       "url": "https://www.kongehuset.dk/foto-video/besoegsdag-paa-gardehusarregimentets-kaserne-2026",
       "date": "13. september 2026",
       "type": "Galleri",
-      "firstSeenAt": "2026-09-28T00:17:35.319Z"
+      "firstSeenAt": "2026-09-28T00:17:35.319Z",
+      "titleVi": "Ngày tham quan tại doanh trại Gardehusarregimentets"
     },
     {
       "id": "https://www.kongehuset.dk/presse/pressemeddelelse-h-m-dronning-margrethe-udskrevet-fra-rigshospitalet-100926",
+      "source": "kongehuset",
       "title": "Pressemeddelelse: H.M. Dronning Margrethe udskrevet fra Rigshospitalet",
       "url": "https://www.kongehuset.dk/presse/pressemeddelelse-h-m-dronning-margrethe-udskrevet-fra-rigshospitalet-100926",
       "date": "10. september 2026",
       "type": "Pressemeddelelse",
-      "firstSeenAt": "2026-09-28T00:17:35.319Z"
+      "firstSeenAt": "2026-09-28T00:17:35.319Z",
+      "titleVi": "Thông cáo báo chí: Nữ hoàng Margrethe xuất viện từ Rigshospitalet"
     },
     {
       "id": "https://www.kongehuset.dk/foto-video/kong-harald-v-s-statsbegravelse",
+      "source": "kongehuset",
       "title": "Kong Harald V's statsbegravelse",
       "url": "https://www.kongehuset.dk/foto-video/kong-harald-v-s-statsbegravelse",
       "date": "9. september 2026",
       "type": "Galleri",
-      "firstSeenAt": "2026-09-28T00:17:35.319Z"
+      "firstSeenAt": "2026-09-28T00:17:35.319Z",
+      "titleVi": "Tang lễ nhà nước của Vua Harald V"
     },
     {
       "id": "https://www.kongehuset.dk/foto-video/%C3%B8jeblikke-med-kong-harald-v",
+      "source": "kongehuset",
       "title": "Øjeblikke med Kong Harald V",
       "url": "https://www.kongehuset.dk/foto-video/%C3%B8jeblikke-med-kong-harald-v",
       "date": "8. september 2026",
       "type": "Galleri",
-      "firstSeenAt": "2026-09-28T00:17:35.319Z"
+      "firstSeenAt": "2026-09-28T00:17:35.319Z",
+      "titleVi": "Khoảnh khắc với Vua Harald V"
     },
     {
       "id": "https://www.kongehuset.dk/nyheder/kong-harald-v-skjold-som-ridder-af-elefantordenen",
+      "source": "kongehuset",
       "title": "Kong Harald V’s skjold som Ridder af Elefantordenen",
       "url": "https://www.kongehuset.dk/nyheder/kong-harald-v-skjold-som-ridder-af-elefantordenen",
       "date": "8. september 2026",
       "type": "Nyhed",
-      "firstSeenAt": "2026-09-28T00:17:35.319Z"
+      "firstSeenAt": "2026-09-28T00:17:35.319Z",
+      "titleVi": "Khiên của Vua Harald V với tư cách là Hiệp sĩ của Huân chương Voi"
     },
     {
       "id": "https://www.kongehuset.dk/nyheder/flagning-paa-halv-stang-fra-amalienborg-onsdag",
+      "source": "kongehuset",
       "title": "Flagning på halv stang fra Amalienborg onsdag",
       "url": "https://www.kongehuset.dk/nyheder/flagning-paa-halv-stang-fra-amalienborg-onsdag",
       "date": "8. september 2026",
       "type": "Nyhed",
-      "firstSeenAt": "2026-09-28T00:17:35.319Z"
+      "firstSeenAt": "2026-09-28T00:17:35.319Z",
+      "titleVi": "Đang treo cờ rủ từ Amalienborg vào thứ Tư"
     },
     {
       "id": "https://www.kongehuset.dk/presse/pressemeddelelse-h-m-dronning-margrethe-er-blevet-indlagt-paa-rigshospitalet",
+      "source": "kongehuset",
       "title": "Pressemeddelelse: H.M. Dronning Margrethe er blevet indlagt på Rigshospitalet",
       "url": "https://www.kongehuset.dk/presse/pressemeddelelse-h-m-dronning-margrethe-er-blevet-indlagt-paa-rigshospitalet",
       "date": "6. september 2026",
       "type": "Pressemeddelelse",
-      "firstSeenAt": "2026-09-28T00:17:35.319Z"
+      "firstSeenAt": "2026-09-28T00:17:35.319Z",
+      "titleVi": "Thông cáo báo chí: HM Nữ hoàng Margrethe đã được nhận vào Rigshospitalet"
     },
     {
       "id": "https://www.kongehuset.dk/foto-video/video-flagdag-for-danmarks-udsendte-2026",
+      "source": "kongehuset",
       "title": "VIDEO: Flagdag for Danmarks udsendte 2026",
       "url": "https://www.kongehuset.dk/foto-video/video-flagdag-for-danmarks-udsendte-2026",
       "date": "5. september 2026",
       "type": "Video",
-      "firstSeenAt": "2026-09-28T00:17:35.319Z"
+      "firstSeenAt": "2026-09-28T00:17:35.319Z",
+      "titleVi": "VIDEO: Ngày Quốc kỳ cho Chương trình Phát sóng Đan Mạch 2026"
     },
     {
       "id": "https://www.kongehuset.dk/foto-video/flagdag-for-danmarks-udsendte-2026",
+      "source": "kongehuset",
       "title": "Flagdag for Danmarks udsendte 2026",
       "url": "https://www.kongehuset.dk/foto-video/flagdag-for-danmarks-udsendte-2026",
       "date": "5. september 2026",
       "type": "Galleri",
-      "firstSeenAt": "2026-09-28T00:17:35.319Z"
+      "firstSeenAt": "2026-09-28T00:17:35.319Z",
+      "titleVi": "Ngày Quốc kỳ cho Chương trình Phát sóng Đan Mạch 2026"
     },
     {
       "id": "https://www.kongehuset.dk/foto-video/h-m-dronningen-besoegte-mary-elizabeths-hospital",
+      "source": "kongehuset",
       "title": "H.M. Dronningen besøgte Mary Elizabeths Hospital",
       "url": "https://www.kongehuset.dk/foto-video/h-m-dronningen-besoegte-mary-elizabeths-hospital",
       "date": "4. september 2026",
       "type": "Galleri",
-      "firstSeenAt": "2026-09-28T00:17:35.319Z"
+      "firstSeenAt": "2026-09-28T00:17:35.319Z",
+      "titleVi": "HM Nữ hoàng đã đến thăm Bệnh viện Mary Elizabeth"
     },
     {
       "id": "https://www.kongehuset.dk/foto-video/kommende-nyt-portraet-af-h-m-kongen",
+      "source": "kongehuset",
       "title": "Kommende nyt portræt af H.M. Kongen",
       "url": "https://www.kongehuset.dk/foto-video/kommende-nyt-portraet-af-h-m-kongen",
       "date": "3. september 2026",
       "type": "Galleri",
-      "firstSeenAt": "2026-09-28T00:17:35.319Z"
+      "firstSeenAt": "2026-09-28T00:17:35.319Z",
+      "titleVi": "Bức chân dung mới sắp ra mắt của HM The King"
     },
     {
       "id": "https://www.kongehuset.dk/foto-video/h-m-dronningen-deltog-i-dansk-erhvervs-%C3%A5rsdag-2026",
+      "source": "kongehuset",
       "title": "H.M. Dronningen deltog i Dansk Erhvervs Årsdag 2026",
       "url": "https://www.kongehuset.dk/foto-video/h-m-dronningen-deltog-i-dansk-erhvervs-%C3%A5rsdag-2026",
       "date": "2. september 2026",
       "type": "Galleri",
-      "firstSeenAt": "2026-09-28T00:17:35.319Z"
+      "firstSeenAt": "2026-09-28T00:17:35.319Z",
+      "titleVi": "Nữ hoàng đã tham dự lễ kỷ niệm của Phòng Thương mại Đan Mạch vào năm 2026"
     },
     {
       "id": "https://www.kongehuset.dk/foto-video/h-m-kongen-deltog-i-aabning-af-konferencen-space-for-inspiration",
+      "source": "kongehuset",
       "title": "H.M. Kongen deltog i åbning af konferencen Space for Inspiration",
       "url": "https://www.kongehuset.dk/foto-video/h-m-kongen-deltog-i-aabning-af-konferencen-space-for-inspiration",
       "date": "1. september 2026",
       "type": "Galleri",
-      "firstSeenAt": "2026-09-28T00:17:35.319Z"
+      "firstSeenAt": "2026-09-28T00:17:35.319Z",
+      "titleVi": "HM The King đã tham dự lễ khai mạc hội nghị Space for Inspiration"
     },
     {
       "id": "https://www.kongehuset.dk/foto-video/offentlig-audiens-den-31-august-2026",
+      "source": "kongehuset",
       "title": "Offentlig audiens den 31. august 2026",
       "url": "https://www.kongehuset.dk/foto-video/offentlig-audiens-den-31-august-2026",
       "date": "31. august 2026",
       "type": "Galleri",
-      "firstSeenAt": "2026-09-28T00:17:35.319Z"
+      "firstSeenAt": "2026-09-28T00:17:35.319Z",
+      "titleVi": "Khán giả công khai ngày 31 tháng 8 năm 2026"
     },
     {
       "id": "https://www.kongehuset.dk/nyheder/udskydelse-af-statsbesoeg-til-belgien",
+      "source": "kongehuset",
       "title": "Udskydelse af statsbesøg til Belgien",
       "url": "https://www.kongehuset.dk/nyheder/udskydelse-af-statsbesoeg-til-belgien",
       "date": "30. august 2026",
       "type": "Nyhed",
-      "firstSeenAt": "2026-09-28T00:17:35.319Z"
+      "firstSeenAt": "2026-09-28T00:17:35.319Z",
+      "titleVi": "Hoãn chuyến thăm cấp nhà nước tới Bỉ"
     },
     {
       "id": "https://www.kongehuset.dk/presse/pressemeddelelse-udskydelse-af-statsbesoeg-til-belgien",
+      "source": "kongehuset",
       "title": "Pressemeddelelse: Udskydelse af statsbesøg til Belgien",
       "url": "https://www.kongehuset.dk/presse/pressemeddelelse-udskydelse-af-statsbesoeg-til-belgien",
       "date": "30. august 2026",
       "type": "Pressemeddelelse",
-      "firstSeenAt": "2026-09-28T00:17:35.319Z"
+      "firstSeenAt": "2026-09-28T00:17:35.319Z",
+      "titleVi": "Thông cáo báo chí: Hoãn chuyến thăm cấp nhà nước tới Bỉ"
     },
     {
       "id": "https://www.kongehuset.dk/foto-video/h-m-dronning-anne-maries-80-aars-foedselsdag",
+      "source": "kongehuset",
       "title": "H.M. Dronning Anne-Maries 80-års fødselsdag",
       "url": "https://www.kongehuset.dk/foto-video/h-m-dronning-anne-maries-80-aars-foedselsdag",
       "date": "30. august 2026",
       "type": "Galleri",
-      "firstSeenAt": "2026-09-28T00:17:35.319Z"
+      "firstSeenAt": "2026-09-28T00:17:35.319Z",
+      "titleVi": "Sinh nhật lần thứ 80 của Nữ hoàng Anne-Marie"
     },
     {
       "id": "https://www.instagram.com/p/Dclg2kdgAIs/?utm_source=ig_web_copy_link&igsi=MzRlODBiNWFlZA==",
+      "source": "kongehuset",
       "title": "Flagning på halv stang",
       "url": "https://www.instagram.com/p/Dclg2kdgAIs/?utm_source=ig_web_copy_link&igsi=MzRlODBiNWFlZA==",
       "date": "28. august 2026",
       "type": "Instagram",
-      "firstSeenAt": "2026-09-28T00:17:35.319Z"
+      "firstSeenAt": "2026-09-28T00:17:35.319Z",
+      "titleVi": "Bong tróc ở nửa cột buồm"
     },
     {
       "id": "https://www.kongehuset.dk/nyheder/kong-harald-kondolence",
+      "source": "kongehuset",
       "title": "Kongeparret sender kondolenceskrivelse til H.M. Kong Haakon VIII",
       "url": "https://www.kongehuset.dk/nyheder/kong-harald-kondolence",
       "date": "28. august 2026",
       "type": "Nyhed",
-      "firstSeenAt": "2026-09-28T00:17:35.319Z"
+      "firstSeenAt": "2026-09-28T00:17:35.319Z",
+      "titleVi": "Nhà vua và hoàng hậu gửi thư chia buồn đến vua Haakon VIII"
     },
     {
       "id": "https://www.kongehuset.dk/nyheder/flagning-paa-halv-stang-fra-amalienborg-fredag",
+      "source": "kongehuset",
       "title": "Flagning på halv stang fra Amalienborg fredag",
       "url": "https://www.kongehuset.dk/nyheder/flagning-paa-halv-stang-fra-amalienborg-fredag",
       "date": "28. august 2026",
       "type": "Nyhed",
-      "firstSeenAt": "2026-09-28T00:17:35.319Z"
+      "firstSeenAt": "2026-09-28T00:17:35.319Z",
+      "titleVi": "Đang treo cờ rủ từ Amalienborg vào thứ Sáu"
     },
     {
       "id": "https://www.kongehuset.dk/foto-video/h-e-greve-nikolais-foedselsdag-2026",
+      "source": "kongehuset",
       "title": "H.E. Greve Nikolais fødselsdag",
       "url": "https://www.kongehuset.dk/foto-video/h-e-greve-nikolais-foedselsdag-2026",
       "date": "28. august 2026",
       "type": "Galleri",
-      "firstSeenAt": "2026-09-28T00:17:35.319Z"
+      "firstSeenAt": "2026-09-28T00:17:35.319Z",
+      "titleVi": "Ngày sinh của Bá tước Nikolai"
     },
     {
       "id": "https://www.kongehuset.dk/foto-video/ambassadoermodtagelse-den-26-august-2026",
+      "source": "kongehuset",
       "title": "Ambassadørmodtagelse den 26. august 2026",
       "url": "https://www.kongehuset.dk/foto-video/ambassadoermodtagelse-den-26-august-2026",
       "date": "26. august 2026",
       "type": "Galleri",
-      "firstSeenAt": "2026-09-28T00:17:35.319Z"
+      "firstSeenAt": "2026-09-28T00:17:35.319Z",
+      "titleVi": "Đại sứ đón tiếp vào ngày 26 tháng 8 năm 2026"
     },
     {
       "id": "https://www.kongehuset.dk/foto-video/h-m-dronningen-deltog-i-statusmoede-om-the-10-million-safer-births-initiative",
+      "source": "kongehuset",
       "title": "H.M. Dronningen deltog i statusmøde om ”The 10 Million Safer Births Initiative”",
       "url": "https://www.kongehuset.dk/foto-video/h-m-dronningen-deltog-i-statusmoede-om-the-10-million-safer-births-initiative",
       "date": "25. august 2026",
       "type": "Galleri",
-      "firstSeenAt": "2026-09-28T00:17:35.319Z"
+      "firstSeenAt": "2026-09-28T00:17:35.319Z",
+      "titleVi": "HM Nữ hoàng đã tham dự một cuộc họp về \"Sáng kiến 10 triệu ca sinh an toàn hơn\""
     },
     {
       "id": "https://www.kongehuset.dk/foto-video/h-m-dronningen-besoegte-momentet",
+      "source": "kongehuset",
       "title": "H.M. Dronningen besøgte Momentet",
       "url": "https://www.kongehuset.dk/foto-video/h-m-dronningen-besoegte-momentet",
       "date": "19. august 2026",
       "type": "Galleri",
-      "firstSeenAt": "2026-09-28T00:17:35.319Z"
+      "firstSeenAt": "2026-09-28T00:17:35.319Z",
+      "titleVi": "HM Nữ hoàng đã đến thăm Khoảnh khắc"
     },
     {
       "id": "https://www.kongehuset.dk/foto-video/h-m-kongen-modtog-nyudnaevnte-premierloejtnanter-fra-soevaernet-2026",
+      "source": "kongehuset",
       "title": "H.M. Kongen modtog nyudnævnte premierløjtnanter fra Søværnet",
       "url": "https://www.kongehuset.dk/foto-video/h-m-kongen-modtog-nyudnaevnte-premierloejtnanter-fra-soevaernet-2026",
       "date": "18. august 2026",
       "type": "Galleri",
-      "firstSeenAt": "2026-09-28T00:17:35.319Z"
+      "firstSeenAt": "2026-09-28T00:17:35.319Z",
+      "titleVi": "HM Nhà vua nhận được các trung úy mới được bổ nhiệm từ Hải quân"
     },
     {
       "id": "https://www.kongehuset.dk/foto-video/offentlig-audiens-den-17-august-2026",
+      "source": "kongehuset",
       "title": "Offentlig audiens den 17. august 2026",
       "url": "https://www.kongehuset.dk/foto-video/offentlig-audiens-den-17-august-2026",
       "date": "17. august 2026",
       "type": "Galleri",
-      "firstSeenAt": "2026-09-28T00:17:35.319Z"
+      "firstSeenAt": "2026-09-28T00:17:35.319Z",
+      "titleVi": "Khán giả công khai ngày 17 tháng 8 năm 2026"
     },
     {
       "id": "https://www.kongehuset.dk/foto-video/genindvielse-af-folkeobservatoriet-i-rundetaarn",
+      "source": "kongehuset",
       "title": "Genindvielse af Folkeobservatoriet i Rundetaarn",
       "url": "https://www.kongehuset.dk/foto-video/genindvielse-af-folkeobservatoriet-i-rundetaarn",
       "date": "12. august 2026",
       "type": "Galleri",
-      "firstSeenAt": "2026-09-28T00:17:35.319Z"
+      "firstSeenAt": "2026-09-28T00:17:35.319Z",
+      "titleVi": "Khánh thành lại Đài quan sát nhân dân tại Tháp Tròn"
     },
     {
       "id": "https://www.kongehuset.dk/foto-video/h-k-h-prinsesse-benedikte-overvaerede-fei-world-championships-aachen-2026",
+      "source": "kongehuset",
       "title": "H.K.H. Prinsesse Benedikte overværede FEI World Championships Aachen 2026",
       "url": "https://www.kongehuset.dk/foto-video/h-k-h-prinsesse-benedikte-overvaerede-fei-world-championships-aachen-2026",
       "date": "11. august 2026",
       "type": "Galleri",
-      "firstSeenAt": "2026-09-28T00:17:35.319Z"
+      "firstSeenAt": "2026-09-28T00:17:35.319Z",
+      "titleVi": "Công chúa Benedikte của HRH đã tham dự Giải vô địch thế giới FEI Aachen 2026"
+    },
+    {
+      "id": "https://nyheder.tv2.dk/live/kort-nyt",
+      "source": "tv2",
+      "title": "Politi rykker ud til mulig skudepisode i Tingbjerg",
+      "url": "https://nyheder.tv2.dk/live/kort-nyt",
+      "date": "—",
+      "type": "Live",
+      "firstSeenAt": "2026-09-28T00:30:42.330Z",
+      "titleVi": "Cảnh sát phản ứng với vụ nổ súng có thể xảy ra ở Tingbjerg"
+    },
+    {
+      "id": "https://nyheder.tv2.dk/udland/2026-09-27-amerikanske-medier-gaar-sammen-om-at-boykotte-trump",
+      "source": "tv2",
+      "title": "Amerikanske medier går sammen om at boykotte Trump",
+      "url": "https://nyheder.tv2.dk/udland/2026-09-27-amerikanske-medier-gaar-sammen-om-at-boykotte-trump",
+      "date": "27/09/2026",
+      "type": "Udland",
+      "firstSeenAt": "2026-09-28T00:30:42.330Z",
+      "titleVi": "Truyền thông Mỹ tham gia lực lượng tẩy chay Trump"
+    },
+    {
+      "id": "https://nyheder.tv2.dk/live/udland/2026-09-27-stoerre-haendelse-i-storbritannien",
+      "source": "tv2",
+      "title": "Trump: Mistænkte overvåget i lang tid",
+      "url": "https://nyheder.tv2.dk/live/udland/2026-09-27-stoerre-haendelse-i-storbritannien",
+      "date": "27/09/2026",
+      "type": "Live",
+      "firstSeenAt": "2026-09-28T00:30:42.330Z",
+      "titleVi": "Trump: Nghi phạm bị theo dõi trong một thời gian dài"
+    },
+    {
+      "id": "https://nyheder.tv2.dk/krimi/2026-09-26-paedofilidoemt-paedagog-vil-have-omstoedt-forvaringsdom",
+      "source": "tv2",
+      "title": "Pædofilidømt pædagog vil have omstødt forvaringsdom",
+      "url": "https://nyheder.tv2.dk/krimi/2026-09-26-paedofilidoemt-paedagog-vil-have-omstoedt-forvaringsdom",
+      "date": "26/09/2026",
+      "type": "Krimi",
+      "firstSeenAt": "2026-09-28T00:30:42.330Z",
+      "titleVi": "Nhà giáo dục bị kết án ấu dâm muốn đảo ngược bản án giám hộ"
+    },
+    {
+      "id": "https://nyheder.tv2.dk/live/politik/2025-08-11-dansk-politik",
+      "source": "tv2",
+      "title": "Dobbelt DF-exit skyldes \"et ikke-politisk mellemværende\", siger DF-chef",
+      "url": "https://nyheder.tv2.dk/live/politik/2025-08-11-dansk-politik",
+      "date": "11/08/2025",
+      "type": "Live",
+      "firstSeenAt": "2026-09-28T00:30:42.330Z",
+      "titleVi": "Giám đốc DF cho biết việc rút khỏi Double DF là do \"một khoảng cách phi chính trị\""
+    },
+    {
+      "id": "https://nyheder.tv2.dk/samfund/2026-09-27-forsvundne-piger-fra-broenderslev-fundet-i-god-behold",
+      "source": "tv2",
+      "title": "Forsvundne piger fra Brønderslev fundet i god behold",
+      "url": "https://nyheder.tv2.dk/samfund/2026-09-27-forsvundne-piger-fra-broenderslev-fundet-i-god-behold",
+      "date": "27/09/2026",
+      "type": "Samfund",
+      "firstSeenAt": "2026-09-28T00:30:42.330Z",
+      "titleVi": "Các cô gái mất tích từ Brønderslev được tìm thấy an toàn và khỏe mạnh"
+    },
+    {
+      "id": "https://nyheder.tv2.dk/live/tech/2026-09-09-ai-forandrer-verden",
+      "source": "tv2",
+      "title": "Danskerne frygter tab af kontrol med AI",
+      "url": "https://nyheder.tv2.dk/live/tech/2026-09-09-ai-forandrer-verden",
+      "date": "09/09/2026",
+      "type": "Live",
+      "firstSeenAt": "2026-09-28T00:30:42.330Z",
+      "titleVi": "Người Đan Mạch sợ mất quyền kiểm soát AI"
+    },
+    {
+      "id": "https://nyheder.tv2.dk/2026-09-27-nu-kommer-rotterne",
+      "source": "tv2",
+      "title": "Nu kommer rotterne",
+      "url": "https://nyheder.tv2.dk/2026-09-27-nu-kommer-rotterne",
+      "date": "27/09/2026",
+      "type": "Nyheder",
+      "firstSeenAt": "2026-09-28T00:30:42.330Z",
+      "titleVi": "Chuột đến rồi"
+    },
+    {
+      "id": "https://nyheder.tv2.dk/samfund/2026-09-27-syv-kommuner-slaar-alarm-mere-oedelaegges-end-nogensinde-foer",
+      "source": "tv2",
+      "title": "Syv kommuner slår alarm – mere ødelægges end nogensinde før",
+      "url": "https://nyheder.tv2.dk/samfund/2026-09-27-syv-kommuner-slaar-alarm-mere-oedelaegges-end-nogensinde-foer",
+      "date": "27/09/2026",
+      "type": "Samfund",
+      "firstSeenAt": "2026-09-28T00:30:42.330Z",
+      "titleVi": "Bảy thành phố rung chuông báo động – nhiều thành phố bị phá hủy hơn bao giờ hết"
+    },
+    {
+      "id": "https://nyheder.tv2.dk/live/udland/2025-03-17-verden-i-forandring",
+      "source": "tv2",
+      "title": "Russiske hackere reagerer på trusselsvurdering",
+      "url": "https://nyheder.tv2.dk/live/udland/2025-03-17-verden-i-forandring",
+      "date": "17/03/2025",
+      "type": "Live",
+      "firstSeenAt": "2026-09-28T00:30:42.330Z",
+      "titleVi": "Tin tặc Nga phản ứng với đánh giá mối đe dọa"
+    },
+    {
+      "id": "https://nyheder.tv2.dk/live/2024-09-08-seneste-nyt-om-krigen-i-ukraine-70b1d6cc-0720-404e-9878-45546e1999e7",
+      "source": "tv2",
+      "title": "Luftalarmen lyder i Kyiv",
+      "url": "https://nyheder.tv2.dk/live/2024-09-08-seneste-nyt-om-krigen-i-ukraine-70b1d6cc-0720-404e-9878-45546e1999e7",
+      "date": "08/09/2024",
+      "type": "Live",
+      "firstSeenAt": "2026-09-28T00:30:42.330Z",
+      "titleVi": "Âm thanh báo động không khí ở Kyiv"
+    },
+    {
+      "id": "https://nyheder.tv2.dk/live/udland/2026-01-08-krig-i-mellemoesten",
+      "source": "tv2",
+      "title": "Frankrig vil sende soldater til Det Røde Hav",
+      "url": "https://nyheder.tv2.dk/live/udland/2026-01-08-krig-i-mellemoesten",
+      "date": "08/01/2026",
+      "type": "Live",
+      "firstSeenAt": "2026-09-28T00:30:42.330Z",
+      "titleVi": "Pháp sẽ cử binh sĩ đến Biển Đỏ"
+    },
+    {
+      "id": "https://nyheder.tv2.dk/2026-09-27-har-du-ogsaa-undret-dig-mysteriet-om-aarhus-lugt-er-loest",
+      "source": "tv2",
+      "title": "Har du også undret dig? Mysteriet om Aarhus-lugt er løst",
+      "url": "https://nyheder.tv2.dk/2026-09-27-har-du-ogsaa-undret-dig-mysteriet-om-aarhus-lugt-er-loest",
+      "date": "27/09/2026",
+      "type": "Nyheder",
+      "firstSeenAt": "2026-09-28T00:30:42.330Z",
+      "titleVi": "Bạn cũng đã bao giờ tự hỏi chưa? Bí ẩn về mùi Aarhus đã được giải quyết"
+    },
+    {
+      "id": "https://nyheder.tv2.dk/2026-09-27-presset-kommune-bruger-108000-kroner-paa-indretning-af-borgmesterkontor",
+      "source": "tv2",
+      "title": "Presset kommune bruger 108.000 kroner på indretning af borgmesterkontor",
+      "url": "https://nyheder.tv2.dk/2026-09-27-presset-kommune-bruger-108000-kroner-paa-indretning-af-borgmesterkontor",
+      "date": "27/09/2026",
+      "type": "Nyheder",
+      "firstSeenAt": "2026-09-28T00:30:42.330Z",
+      "titleVi": "Thành phố bị áp lực chi 108.000 kroner cho thiết kế nội thất của văn phòng thị trưởng"
+    },
+    {
+      "id": "https://nyheder.tv2.dk/krimi/2026-09-27-19-aarig-sigtes-for-drab-paa-59-aarig-mand-i-havdrup",
+      "source": "tv2",
+      "title": "19-årig sigtes for drab på 59-årig mand i Havdrup",
+      "url": "https://nyheder.tv2.dk/krimi/2026-09-27-19-aarig-sigtes-for-drab-paa-59-aarig-mand-i-havdrup",
+      "date": "27/09/2026",
+      "type": "Krimi",
+      "firstSeenAt": "2026-09-28T00:30:42.330Z",
+      "titleVi": "Người đàn ông 19 tuổi bị buộc tội giết người đàn ông 59 tuổi ở Havdrup"
+    },
+    {
+      "id": "https://nyheder.tv2.dk/udland/2026-09-27-27-personer-draebt-i-to-sydafrikanske-masseskyderier",
+      "source": "tv2",
+      "title": "27 personer dræbt i to sydafrikanske masseskyderier",
+      "url": "https://nyheder.tv2.dk/udland/2026-09-27-27-personer-draebt-i-to-sydafrikanske-masseskyderier",
+      "date": "27/09/2026",
+      "type": "Udland",
+      "firstSeenAt": "2026-09-28T00:30:42.330Z",
+      "titleVi": "27 người thiệt mạng trong hai vụ xả súng hàng loạt ở Nam Phi"
+    },
+    {
+      "id": "https://nyheder.tv2.dk/samfund/2026-09-27-politiet-faar-nyt-magtmiddel-i-hele-landet",
+      "source": "tv2",
+      "title": "Politiet får nyt magtmiddel i hele landet",
+      "url": "https://nyheder.tv2.dk/samfund/2026-09-27-politiet-faar-nyt-magtmiddel-i-hele-landet",
+      "date": "27/09/2026",
+      "type": "Samfund",
+      "firstSeenAt": "2026-09-28T00:30:42.330Z",
+      "titleVi": "Cảnh sát đang giành được quyền lực mới trên cả nước"
+    },
+    {
+      "id": "https://nyheder.tv2.dk/udland/2026-09-24-hvem-er-de-russiske-hackere-og-hvordan-kan-de-ramme-danmark",
+      "source": "tv2",
+      "title": "Hvem er de russiske hackere, og hvordan kan de ramme Danmark?",
+      "url": "https://nyheder.tv2.dk/udland/2026-09-24-hvem-er-de-russiske-hackere-og-hvordan-kan-de-ramme-danmark",
+      "date": "24/09/2026",
+      "type": "Udland",
+      "firstSeenAt": "2026-09-28T00:30:42.330Z",
+      "titleVi": "Các tin tặc Nga là ai và làm thế nào họ có thể tấn công Đan Mạch?"
+    },
+    {
+      "id": "https://nyheder.tv2.dk/udland/2026-09-22-loebsk-ai-agent-stalkede-sit-offer-og-tog-kontakt-paa-dansk",
+      "source": "tv2",
+      "title": "Løbsk AI-agent stalkede sit offer og tog kontakt på dansk",
+      "url": "https://nyheder.tv2.dk/udland/2026-09-22-loebsk-ai-agent-stalkede-sit-offer-og-tog-kontakt-paa-dansk",
+      "date": "22/09/2026",
+      "type": "Udland",
+      "firstSeenAt": "2026-09-28T00:30:42.330Z",
+      "titleVi": "Đại lý AI đang chạy theo dõi nạn nhân của mình và liên lạc bằng tiếng Đan Mạch"
+    },
+    {
+      "id": "https://nyheder.tv2.dk/live/udland/2026-05-16-midtvejsvalg-i-usa",
+      "source": "tv2",
+      "title": "Trump lover igen 5000 dollars til alle amerikanere",
+      "url": "https://nyheder.tv2.dk/live/udland/2026-05-16-midtvejsvalg-i-usa",
+      "date": "16/05/2026",
+      "type": "Live",
+      "firstSeenAt": "2026-09-28T00:30:42.330Z",
+      "titleVi": "Trump một lần nữa cam kết 5.000 USD cho tất cả người Mỹ"
+    },
+    {
+      "id": "https://nyheder.tv2.dk/samfund/2026-09-26-forsvundne-piger-fra-broenderslev-fundet-i-god-behold",
+      "source": "tv2",
+      "title": "Forsvundne piger fra Brønderslev fundet i god behold",
+      "url": "https://nyheder.tv2.dk/samfund/2026-09-26-forsvundne-piger-fra-broenderslev-fundet-i-god-behold",
+      "date": "26/09/2026",
+      "type": "Samfund",
+      "firstSeenAt": "2026-09-28T00:30:42.330Z",
+      "titleVi": "Các cô gái mất tích từ Brønderslev được tìm thấy an toàn và khỏe mạnh"
+    },
+    {
+      "id": "https://nyheder.tv2.dk/politik/2026-09-26-foerst-efter-seks-timer-tog-messerschmidt-ordet-bagefter-fik-pressen-to-minutter",
+      "source": "tv2",
+      "title": "Først efter seks timer tog Messerschmidt ordet – bagefter fik pressen to minutter",
+      "url": "https://nyheder.tv2.dk/politik/2026-09-26-foerst-efter-seks-timer-tog-messerschmidt-ordet-bagefter-fik-pressen-to-minutter",
+      "date": "26/09/2026",
+      "type": "Politik",
+      "firstSeenAt": "2026-09-28T00:30:42.330Z",
+      "titleVi": "Chỉ sau sáu giờ, Messerschmidt đã phát biểu – sau đó báo chí được đưa ra hai phút"
+    },
+    {
+      "id": "https://nyheder.tv2.dk/samfund/2026-09-26-opladning-af-el-bil-gik-galt-seks-brandbiler-paa-stedet",
+      "source": "tv2",
+      "title": "Opladning af el-bil gik galt – seks brandbiler på stedet",
+      "url": "https://nyheder.tv2.dk/samfund/2026-09-26-opladning-af-el-bil-gik-galt-seks-brandbiler-paa-stedet",
+      "date": "26/09/2026",
+      "type": "Samfund",
+      "firstSeenAt": "2026-09-28T00:30:42.330Z",
+      "titleVi": "Sạc xe điện bị lỗi – sáu xe cứu hỏa tại chỗ"
+    },
+    {
+      "id": "https://nyheder.tv2.dk/live/politik/2026-09-26-dansk-folkeparti-holder-aarsmoede",
+      "source": "tv2",
+      "title": "- Jeg har givet bolden op – så må de andre sparke til den, siger Messerschmidt",
+      "url": "https://nyheder.tv2.dk/live/politik/2026-09-26-dansk-folkeparti-holder-aarsmoede",
+      "date": "26/09/2026",
+      "type": "Live",
+      "firstSeenAt": "2026-09-28T00:30:42.330Z",
+      "titleVi": "- Tôi đã từ bỏ quả bóng – sau đó những người khác phải đá nó, Messerschmidt nói"
+    },
+    {
+      "id": "https://nyheder.tv2.dk/udland/2026-09-26-trump-sat-i-dilemma-efter-iransk-forslag",
+      "source": "tv2",
+      "title": "Trump sat i dilemma efter iransk forslag",
+      "url": "https://nyheder.tv2.dk/udland/2026-09-26-trump-sat-i-dilemma-efter-iransk-forslag",
+      "date": "26/09/2026",
+      "type": "Udland",
+      "firstSeenAt": "2026-09-28T00:30:42.330Z",
+      "titleVi": "Trump đưa ra tình thế tiến thoái lưỡng nan sau đề xuất của Iran"
+    },
+    {
+      "id": "https://nyheder.tv2.dk/samfund/2026-09-26-undskyld-mig-men-det-er-vel-en-joke-kongeportraet-faar-haard-medfart",
+      "source": "tv2",
+      "title": "\"Undskyld mig, men det er vel en joke?\" – kongeportræt får hård medfart",
+      "url": "https://nyheder.tv2.dk/samfund/2026-09-26-undskyld-mig-men-det-er-vel-en-joke-kongeportraet-faar-haard-medfart",
+      "date": "26/09/2026",
+      "type": "Samfund",
+      "firstSeenAt": "2026-09-28T00:30:42.330Z",
+      "titleVi": "\"Xin lỗi, nhưng đó là một trò đùa, phải không?\" – Chân dung King nhận được một chuyến đi khó khăn"
+    },
+    {
+      "id": "https://nyheder.tv2.dk/samfund/2026-09-26-borger-opdager-doed-person-i-aa",
+      "source": "tv2",
+      "title": "Borger opdager død person i å",
+      "url": "https://nyheder.tv2.dk/samfund/2026-09-26-borger-opdager-doed-person-i-aa",
+      "date": "26/09/2026",
+      "type": "Samfund",
+      "firstSeenAt": "2026-09-28T00:30:42.330Z",
+      "titleVi": "Citizen phát hiện người chết trong"
+    },
+    {
+      "id": "https://nyheder.tv2.dk/udland/2026-09-24-ukraine-har-fundet-modtraekket-til-russernes-frygtede-jetdroner",
+      "source": "tv2",
+      "title": "Ukraine har fundet modtrækket til russernes frygtede jetdroner",
+      "url": "https://nyheder.tv2.dk/udland/2026-09-24-ukraine-har-fundet-modtraekket-til-russernes-frygtede-jetdroner",
+      "date": "24/09/2026",
+      "type": "Udland",
+      "firstSeenAt": "2026-09-28T00:30:42.330Z",
+      "titleVi": "Ukraine đã tìm thấy động thái đối phó với máy bay không người lái đáng sợ của Nga"
+    },
+    {
+      "id": "https://nyheder.tv2.dk/live/2025-01-06-kampen-om-groenlands-fremtid",
+      "source": "tv2",
+      "title": "Mette Frederiksen afslører, hvad Trump sagde til hende",
+      "url": "https://nyheder.tv2.dk/live/2025-01-06-kampen-om-groenlands-fremtid",
+      "date": "06/01/2025",
+      "type": "Live",
+      "firstSeenAt": "2026-09-28T00:30:42.330Z",
+      "titleVi": "Mette Frederiksen tiết lộ những gì Trump đã nói với cô"
     }
   ]
 }
