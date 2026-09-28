@@ -1,0 +1,372 @@
+{
+  "source": "https://www.kongehuset.dk/nyhedsarkiv/",
+  "monitoringStartedAt": "2026-09-28T00:17:35.319Z",
+  "updatedAt": "2026-09-28T00:17:35.319Z",
+  "status": {
+    "state": "ok",
+    "message": "",
+    "changedAt": "2026-09-28T00:22:35.498Z"
+  },
+  "articles": [
+    {
+      "id": "https://www.kongehuset.dk/foto-video/kongeparret-afholdt-haerens-haederstegnsmiddag-2026",
+      "title": "Kongeparret afholdt Hærens Hæderstegnsmiddag",
+      "url": "https://www.kongehuset.dk/foto-video/kongeparret-afholdt-haerens-haederstegnsmiddag-2026",
+      "date": "26. september 2026",
+      "type": "Galleri",
+      "firstSeenAt": "2026-09-28T00:17:35.319Z"
+    },
+    {
+      "id": "https://www.kongehuset.dk/nyheder/gaesteliste-ved-haerens-haederstegnsmiddag-2026",
+      "title": "Gæsteliste ved Hærens Hæderstegnsmiddag",
+      "url": "https://www.kongehuset.dk/nyheder/gaesteliste-ved-haerens-haederstegnsmiddag-2026",
+      "date": "26. september 2026",
+      "type": "Nyhed",
+      "firstSeenAt": "2026-09-28T00:17:35.319Z"
+    },
+    {
+      "id": "https://www.kongehuset.dk/foto-video/fejring-af-carlsbergfondets-150-aars-jubilaeum-og-portraetafsloering-paa-frederiksborg",
+      "title": "Fejring af Carlsbergfondets 150-års jubilæum og portrætafsløring på Frederiksborg",
+      "url": "https://www.kongehuset.dk/foto-video/fejring-af-carlsbergfondets-150-aars-jubilaeum-og-portraetafsloering-paa-frederiksborg",
+      "date": "25. september 2026",
+      "type": "Galleri",
+      "firstSeenAt": "2026-09-28T00:17:35.319Z"
+    },
+    {
+      "id": "https://www.kongehuset.dk/nyheder/nyt-portraet-af-h-m-kongen",
+      "title": "Nyt portræt af H.M. Kongen",
+      "url": "https://www.kongehuset.dk/nyheder/nyt-portraet-af-h-m-kongen",
+      "date": "25. september 2026",
+      "type": "Nyhed",
+      "firstSeenAt": "2026-09-28T00:17:35.319Z"
+    },
+    {
+      "id": "https://www.kongehuset.dk/foto-video/h-m-dronningen-deltog-i-mary-fondens-markering-af-10-aar-med-antibulli",
+      "title": "H.M. Dronningen deltog i Mary Fondens markering af 10 år med Antibulli",
+      "url": "https://www.kongehuset.dk/foto-video/h-m-dronningen-deltog-i-mary-fondens-markering-af-10-aar-med-antibulli",
+      "date": "24. september 2026",
+      "type": "Galleri",
+      "firstSeenAt": "2026-09-28T00:17:35.319Z"
+    },
+    {
+      "id": "https://www.kongehuset.dk/foto-video/undervisningsprisen-2026",
+      "title": "Undervisningsprisen 2026",
+      "url": "https://www.kongehuset.dk/foto-video/undervisningsprisen-2026",
+      "date": "22. september 2026",
+      "type": "Galleri",
+      "firstSeenAt": "2026-09-28T00:17:35.319Z"
+    },
+    {
+      "id": "https://www.kongehuset.dk/foto-video/alzheimerforeningens-og-alzheimer-forskningsfondens-forskerpris-2026",
+      "title": "Alzheimerforeningens og Alzheimer-forskningsfondens Forskerpris 2026",
+      "url": "https://www.kongehuset.dk/foto-video/alzheimerforeningens-og-alzheimer-forskningsfondens-forskerpris-2026",
+      "date": "22. september 2026",
+      "type": "Galleri",
+      "firstSeenAt": "2026-09-28T00:17:35.319Z"
+    },
+    {
+      "id": "https://www.kongehuset.dk/foto-video/video-h-m-kongen-besoeger-riddersalen-paa-frederiksborg-slot",
+      "title": "VIDEO: H.M. Kongen besøger Riddersalen på Frederiksborg Slot",
+      "url": "https://www.kongehuset.dk/foto-video/video-h-m-kongen-besoeger-riddersalen-paa-frederiksborg-slot",
+      "date": "21. september 2026",
+      "type": "Video",
+      "firstSeenAt": "2026-09-28T00:17:35.319Z"
+    },
+    {
+      "id": "https://www.kongehuset.dk/foto-video/offentlig-audiens-den-21-september-2026",
+      "title": "Offentlig audiens den. 21. september 2026",
+      "url": "https://www.kongehuset.dk/foto-video/offentlig-audiens-den-21-september-2026",
+      "date": "21. september 2026",
+      "type": "Galleri",
+      "firstSeenAt": "2026-09-28T00:17:35.319Z"
+    },
+    {
+      "id": "https://www.kongehuset.dk/foto-video/middag-i-anledning-af-det-danske-vaertskab-for-nato-military-committee-conference",
+      "title": "Middag i anledning af det danske værtskab for NATO Military Committee Conference",
+      "url": "https://www.kongehuset.dk/foto-video/middag-i-anledning-af-det-danske-vaertskab-for-nato-military-committee-conference",
+      "date": "18. september 2026",
+      "type": "Galleri",
+      "firstSeenAt": "2026-09-28T00:17:35.319Z"
+    },
+    {
+      "id": "https://www.kongehuset.dk/foto-video/h-m-kongen-indviede-greensand",
+      "title": "H.M. Kongen indviede Greensand",
+      "url": "https://www.kongehuset.dk/foto-video/h-m-kongen-indviede-greensand",
+      "date": "18. september 2026",
+      "type": "Galleri",
+      "firstSeenAt": "2026-09-28T00:17:35.319Z"
+    },
+    {
+      "id": "https://www.kongehuset.dk/nyheder/vaertsbyer-royal-run-2027",
+      "title": "Værtsbyer Royal Run 2027",
+      "url": "https://www.kongehuset.dk/nyheder/vaertsbyer-royal-run-2027",
+      "date": "18. september 2026",
+      "type": "Nyhed",
+      "firstSeenAt": "2026-09-28T00:17:35.319Z"
+    },
+    {
+      "id": "https://www.kongehuset.dk/foto-video/ambassadoermodtagelse-den-17-september-2026",
+      "title": "Ambassadørmodtagelse den 17. september 2026",
+      "url": "https://www.kongehuset.dk/foto-video/ambassadoermodtagelse-den-17-september-2026",
+      "date": "17. september 2026",
+      "type": "Galleri",
+      "firstSeenAt": "2026-09-28T00:17:35.319Z"
+    },
+    {
+      "id": "https://www.kongehuset.dk/foto-video/h-m-kongen-indviede-fane-ved-beredskabsstyrelsen-midtjylland",
+      "title": "H.M. Kongen indviede fane ved Beredskabsstyrelsen Midtjylland",
+      "url": "https://www.kongehuset.dk/foto-video/h-m-kongen-indviede-fane-ved-beredskabsstyrelsen-midtjylland",
+      "date": "15. september 2026",
+      "type": "Galleri",
+      "firstSeenAt": "2026-09-28T00:17:35.319Z"
+    },
+    {
+      "id": "https://www.kongehuset.dk/foto-video/ceremoniel-og-officiel-ilandstigning-fra-kongeskibet-dannebrog",
+      "title": "Ceremoniel og officiel ilandstigning fra Kongeskibet Dannebrog",
+      "url": "https://www.kongehuset.dk/foto-video/ceremoniel-og-officiel-ilandstigning-fra-kongeskibet-dannebrog",
+      "date": "14. september 2026",
+      "type": "Galleri",
+      "firstSeenAt": "2026-09-28T00:17:35.319Z"
+    },
+    {
+      "id": "https://www.kongehuset.dk/foto-video/besoeg-af-club-des-chefs-des-chefs",
+      "title": "Besøg af Club des Chefs des Chefs",
+      "url": "https://www.kongehuset.dk/foto-video/besoeg-af-club-des-chefs-des-chefs",
+      "date": "14. september 2026",
+      "type": "Galleri",
+      "firstSeenAt": "2026-09-28T00:17:35.319Z"
+    },
+    {
+      "id": "https://www.kongehuset.dk/foto-video/festgudstjeneste-i-anledning-af-500-aaret-for-reformationen-i-haderslev",
+      "title": "Festgudstjeneste i anledning af 500-året for Reformationen i Haderslev",
+      "url": "https://www.kongehuset.dk/foto-video/festgudstjeneste-i-anledning-af-500-aaret-for-reformationen-i-haderslev",
+      "date": "13. september 2026",
+      "type": "Galleri",
+      "firstSeenAt": "2026-09-28T00:17:35.319Z"
+    },
+    {
+      "id": "https://www.kongehuset.dk/foto-video/besoegsdag-paa-gardehusarregimentets-kaserne-2026",
+      "title": "Besøgsdag på Gardehusarregimentets kaserne",
+      "url": "https://www.kongehuset.dk/foto-video/besoegsdag-paa-gardehusarregimentets-kaserne-2026",
+      "date": "13. september 2026",
+      "type": "Galleri",
+      "firstSeenAt": "2026-09-28T00:17:35.319Z"
+    },
+    {
+      "id": "https://www.kongehuset.dk/presse/pressemeddelelse-h-m-dronning-margrethe-udskrevet-fra-rigshospitalet-100926",
+      "title": "Pressemeddelelse: H.M. Dronning Margrethe udskrevet fra Rigshospitalet",
+      "url": "https://www.kongehuset.dk/presse/pressemeddelelse-h-m-dronning-margrethe-udskrevet-fra-rigshospitalet-100926",
+      "date": "10. september 2026",
+      "type": "Pressemeddelelse",
+      "firstSeenAt": "2026-09-28T00:17:35.319Z"
+    },
+    {
+      "id": "https://www.kongehuset.dk/foto-video/kong-harald-v-s-statsbegravelse",
+      "title": "Kong Harald V's statsbegravelse",
+      "url": "https://www.kongehuset.dk/foto-video/kong-harald-v-s-statsbegravelse",
+      "date": "9. september 2026",
+      "type": "Galleri",
+      "firstSeenAt": "2026-09-28T00:17:35.319Z"
+    },
+    {
+      "id": "https://www.kongehuset.dk/foto-video/%C3%B8jeblikke-med-kong-harald-v",
+      "title": "Øjeblikke med Kong Harald V",
+      "url": "https://www.kongehuset.dk/foto-video/%C3%B8jeblikke-med-kong-harald-v",
+      "date": "8. september 2026",
+      "type": "Galleri",
+      "firstSeenAt": "2026-09-28T00:17:35.319Z"
+    },
+    {
+      "id": "https://www.kongehuset.dk/nyheder/kong-harald-v-skjold-som-ridder-af-elefantordenen",
+      "title": "Kong Harald V’s skjold som Ridder af Elefantordenen",
+      "url": "https://www.kongehuset.dk/nyheder/kong-harald-v-skjold-som-ridder-af-elefantordenen",
+      "date": "8. september 2026",
+      "type": "Nyhed",
+      "firstSeenAt": "2026-09-28T00:17:35.319Z"
+    },
+    {
+      "id": "https://www.kongehuset.dk/nyheder/flagning-paa-halv-stang-fra-amalienborg-onsdag",
+      "title": "Flagning på halv stang fra Amalienborg onsdag",
+      "url": "https://www.kongehuset.dk/nyheder/flagning-paa-halv-stang-fra-amalienborg-onsdag",
+      "date": "8. september 2026",
+      "type": "Nyhed",
+      "firstSeenAt": "2026-09-28T00:17:35.319Z"
+    },
+    {
+      "id": "https://www.kongehuset.dk/presse/pressemeddelelse-h-m-dronning-margrethe-er-blevet-indlagt-paa-rigshospitalet",
+      "title": "Pressemeddelelse: H.M. Dronning Margrethe er blevet indlagt på Rigshospitalet",
+      "url": "https://www.kongehuset.dk/presse/pressemeddelelse-h-m-dronning-margrethe-er-blevet-indlagt-paa-rigshospitalet",
+      "date": "6. september 2026",
+      "type": "Pressemeddelelse",
+      "firstSeenAt": "2026-09-28T00:17:35.319Z"
+    },
+    {
+      "id": "https://www.kongehuset.dk/foto-video/video-flagdag-for-danmarks-udsendte-2026",
+      "title": "VIDEO: Flagdag for Danmarks udsendte 2026",
+      "url": "https://www.kongehuset.dk/foto-video/video-flagdag-for-danmarks-udsendte-2026",
+      "date": "5. september 2026",
+      "type": "Video",
+      "firstSeenAt": "2026-09-28T00:17:35.319Z"
+    },
+    {
+      "id": "https://www.kongehuset.dk/foto-video/flagdag-for-danmarks-udsendte-2026",
+      "title": "Flagdag for Danmarks udsendte 2026",
+      "url": "https://www.kongehuset.dk/foto-video/flagdag-for-danmarks-udsendte-2026",
+      "date": "5. september 2026",
+      "type": "Galleri",
+      "firstSeenAt": "2026-09-28T00:17:35.319Z"
+    },
+    {
+      "id": "https://www.kongehuset.dk/foto-video/h-m-dronningen-besoegte-mary-elizabeths-hospital",
+      "title": "H.M. Dronningen besøgte Mary Elizabeths Hospital",
+      "url": "https://www.kongehuset.dk/foto-video/h-m-dronningen-besoegte-mary-elizabeths-hospital",
+      "date": "4. september 2026",
+      "type": "Galleri",
+      "firstSeenAt": "2026-09-28T00:17:35.319Z"
+    },
+    {
+      "id": "https://www.kongehuset.dk/foto-video/kommende-nyt-portraet-af-h-m-kongen",
+      "title": "Kommende nyt portræt af H.M. Kongen",
+      "url": "https://www.kongehuset.dk/foto-video/kommende-nyt-portraet-af-h-m-kongen",
+      "date": "3. september 2026",
+      "type": "Galleri",
+      "firstSeenAt": "2026-09-28T00:17:35.319Z"
+    },
+    {
+      "id": "https://www.kongehuset.dk/foto-video/h-m-dronningen-deltog-i-dansk-erhvervs-%C3%A5rsdag-2026",
+      "title": "H.M. Dronningen deltog i Dansk Erhvervs Årsdag 2026",
+      "url": "https://www.kongehuset.dk/foto-video/h-m-dronningen-deltog-i-dansk-erhvervs-%C3%A5rsdag-2026",
+      "date": "2. september 2026",
+      "type": "Galleri",
+      "firstSeenAt": "2026-09-28T00:17:35.319Z"
+    },
+    {
+      "id": "https://www.kongehuset.dk/foto-video/h-m-kongen-deltog-i-aabning-af-konferencen-space-for-inspiration",
+      "title": "H.M. Kongen deltog i åbning af konferencen Space for Inspiration",
+      "url": "https://www.kongehuset.dk/foto-video/h-m-kongen-deltog-i-aabning-af-konferencen-space-for-inspiration",
+      "date": "1. september 2026",
+      "type": "Galleri",
+      "firstSeenAt": "2026-09-28T00:17:35.319Z"
+    },
+    {
+      "id": "https://www.kongehuset.dk/foto-video/offentlig-audiens-den-31-august-2026",
+      "title": "Offentlig audiens den 31. august 2026",
+      "url": "https://www.kongehuset.dk/foto-video/offentlig-audiens-den-31-august-2026",
+      "date": "31. august 2026",
+      "type": "Galleri",
+      "firstSeenAt": "2026-09-28T00:17:35.319Z"
+    },
+    {
+      "id": "https://www.kongehuset.dk/nyheder/udskydelse-af-statsbesoeg-til-belgien",
+      "title": "Udskydelse af statsbesøg til Belgien",
+      "url": "https://www.kongehuset.dk/nyheder/udskydelse-af-statsbesoeg-til-belgien",
+      "date": "30. august 2026",
+      "type": "Nyhed",
+      "firstSeenAt": "2026-09-28T00:17:35.319Z"
+    },
+    {
+      "id": "https://www.kongehuset.dk/presse/pressemeddelelse-udskydelse-af-statsbesoeg-til-belgien",
+      "title": "Pressemeddelelse: Udskydelse af statsbesøg til Belgien",
+      "url": "https://www.kongehuset.dk/presse/pressemeddelelse-udskydelse-af-statsbesoeg-til-belgien",
+      "date": "30. august 2026",
+      "type": "Pressemeddelelse",
+      "firstSeenAt": "2026-09-28T00:17:35.319Z"
+    },
+    {
+      "id": "https://www.kongehuset.dk/foto-video/h-m-dronning-anne-maries-80-aars-foedselsdag",
+      "title": "H.M. Dronning Anne-Maries 80-års fødselsdag",
+      "url": "https://www.kongehuset.dk/foto-video/h-m-dronning-anne-maries-80-aars-foedselsdag",
+      "date": "30. august 2026",
+      "type": "Galleri",
+      "firstSeenAt": "2026-09-28T00:17:35.319Z"
+    },
+    {
+      "id": "https://www.instagram.com/p/Dclg2kdgAIs/?utm_source=ig_web_copy_link&igsi=MzRlODBiNWFlZA==",
+      "title": "Flagning på halv stang",
+      "url": "https://www.instagram.com/p/Dclg2kdgAIs/?utm_source=ig_web_copy_link&igsi=MzRlODBiNWFlZA==",
+      "date": "28. august 2026",
+      "type": "Instagram",
+      "firstSeenAt": "2026-09-28T00:17:35.319Z"
+    },
+    {
+      "id": "https://www.kongehuset.dk/nyheder/kong-harald-kondolence",
+      "title": "Kongeparret sender kondolenceskrivelse til H.M. Kong Haakon VIII",
+      "url": "https://www.kongehuset.dk/nyheder/kong-harald-kondolence",
+      "date": "28. august 2026",
+      "type": "Nyhed",
+      "firstSeenAt": "2026-09-28T00:17:35.319Z"
+    },
+    {
+      "id": "https://www.kongehuset.dk/nyheder/flagning-paa-halv-stang-fra-amalienborg-fredag",
+      "title": "Flagning på halv stang fra Amalienborg fredag",
+      "url": "https://www.kongehuset.dk/nyheder/flagning-paa-halv-stang-fra-amalienborg-fredag",
+      "date": "28. august 2026",
+      "type": "Nyhed",
+      "firstSeenAt": "2026-09-28T00:17:35.319Z"
+    },
+    {
+      "id": "https://www.kongehuset.dk/foto-video/h-e-greve-nikolais-foedselsdag-2026",
+      "title": "H.E. Greve Nikolais fødselsdag",
+      "url": "https://www.kongehuset.dk/foto-video/h-e-greve-nikolais-foedselsdag-2026",
+      "date": "28. august 2026",
+      "type": "Galleri",
+      "firstSeenAt": "2026-09-28T00:17:35.319Z"
+    },
+    {
+      "id": "https://www.kongehuset.dk/foto-video/ambassadoermodtagelse-den-26-august-2026",
+      "title": "Ambassadørmodtagelse den 26. august 2026",
+      "url": "https://www.kongehuset.dk/foto-video/ambassadoermodtagelse-den-26-august-2026",
+      "date": "26. august 2026",
+      "type": "Galleri",
+      "firstSeenAt": "2026-09-28T00:17:35.319Z"
+    },
+    {
+      "id": "https://www.kongehuset.dk/foto-video/h-m-dronningen-deltog-i-statusmoede-om-the-10-million-safer-births-initiative",
+      "title": "H.M. Dronningen deltog i statusmøde om ”The 10 Million Safer Births Initiative”",
+      "url": "https://www.kongehuset.dk/foto-video/h-m-dronningen-deltog-i-statusmoede-om-the-10-million-safer-births-initiative",
+      "date": "25. august 2026",
+      "type": "Galleri",
+      "firstSeenAt": "2026-09-28T00:17:35.319Z"
+    },
+    {
+      "id": "https://www.kongehuset.dk/foto-video/h-m-dronningen-besoegte-momentet",
+      "title": "H.M. Dronningen besøgte Momentet",
+      "url": "https://www.kongehuset.dk/foto-video/h-m-dronningen-besoegte-momentet",
+      "date": "19. august 2026",
+      "type": "Galleri",
+      "firstSeenAt": "2026-09-28T00:17:35.319Z"
+    },
+    {
+      "id": "https://www.kongehuset.dk/foto-video/h-m-kongen-modtog-nyudnaevnte-premierloejtnanter-fra-soevaernet-2026",
+      "title": "H.M. Kongen modtog nyudnævnte premierløjtnanter fra Søværnet",
+      "url": "https://www.kongehuset.dk/foto-video/h-m-kongen-modtog-nyudnaevnte-premierloejtnanter-fra-soevaernet-2026",
+      "date": "18. august 2026",
+      "type": "Galleri",
+      "firstSeenAt": "2026-09-28T00:17:35.319Z"
+    },
+    {
+      "id": "https://www.kongehuset.dk/foto-video/offentlig-audiens-den-17-august-2026",
+      "title": "Offentlig audiens den 17. august 2026",
+      "url": "https://www.kongehuset.dk/foto-video/offentlig-audiens-den-17-august-2026",
+      "date": "17. august 2026",
+      "type": "Galleri",
+      "firstSeenAt": "2026-09-28T00:17:35.319Z"
+    },
+    {
+      "id": "https://www.kongehuset.dk/foto-video/genindvielse-af-folkeobservatoriet-i-rundetaarn",
+      "title": "Genindvielse af Folkeobservatoriet i Rundetaarn",
+      "url": "https://www.kongehuset.dk/foto-video/genindvielse-af-folkeobservatoriet-i-rundetaarn",
+      "date": "12. august 2026",
+      "type": "Galleri",
+      "firstSeenAt": "2026-09-28T00:17:35.319Z"
+    },
+    {
+      "id": "https://www.kongehuset.dk/foto-video/h-k-h-prinsesse-benedikte-overvaerede-fei-world-championships-aachen-2026",
+      "title": "H.K.H. Prinsesse Benedikte overværede FEI World Championships Aachen 2026",
+      "url": "https://www.kongehuset.dk/foto-video/h-k-h-prinsesse-benedikte-overvaerede-fei-world-championships-aachen-2026",
+      "date": "11. august 2026",
+      "type": "Galleri",
+      "firstSeenAt": "2026-09-28T00:17:35.319Z"
+    }
+  ]
+}

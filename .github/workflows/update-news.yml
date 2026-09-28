@@ -1,0 +1,38 @@
+name: Update Kongehuset news
+on:
+  schedule:
+    - cron: "*/15 * * * *"
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: update-kongehuset-news
+  cancel-in-progress: true
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+      - name: Fetch latest articles
+        id: fetch
+        continue-on-error: true
+        run: node scripts/fetch-news.mjs
+      - name: Commit changed data
+        run: |
+          if git diff --quiet -- data/news.json; then
+            echo "No new or changed articles."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/news.json
+          git commit -m "Update Kongehuset news data"
+          git push
+      - name: Report source failure
+        if: steps.fetch.outcome == 'failure'
+        run: |
+          echo "The source check failed. Error details were saved to data/news.json."
+          exit 1
