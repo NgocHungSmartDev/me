@@ -1,6 +1,6 @@
 {
   "monitoringStartedAt": "2026-09-28T00:17:35.319Z",
-  "updatedAt": "2026-09-30T12:25:50.653Z",
+  "updatedAt": "2026-09-30T18:04:28.934Z",
   "sources": {
     "kongehuset": {
       "name": "Kongehuset",
@@ -482,34 +482,54 @@
       "titleVi": "Công chúa Benedikte của HRH đã tham dự Giải vô địch thế giới FEI Aachen 2026"
     },
     {
+      "id": "https://nyheder.tv2.dk/samfund/2026-09-30-kendt-radiovaert-gaar-til-kamp-mod-arbejdslivets-glansbillede",
+      "source": "tv2",
+      "title": "Kendt radiovært går til kamp mod arbejdslivets glansbillede",
+      "url": "https://nyheder.tv2.dk/samfund/2026-09-30-kendt-radiovaert-gaar-til-kamp-mod-arbejdslivets-glansbillede",
+      "date": "30/09/2026",
+      "type": "Samfund",
+      "firstSeenAt": "2026-09-30T18:04:28.934Z",
+      "titleVi": "Người dẫn chương trình phát thanh nổi tiếng đi chiến đấu chống lại vinh quang của cuộc sống làm việc"
+    },
+    {
+      "id": "https://nyheder.tv2.dk/penge/2026-09-30-saadan-kan-du-spare-paa-elregningen-uden-at-spare-paa-stroemmen",
+      "source": "tv2",
+      "title": "Sådan kan du spare på elregningen uden at spare på strømmen",
+      "url": "https://nyheder.tv2.dk/penge/2026-09-30-saadan-kan-du-spare-paa-elregningen-uden-at-spare-paa-stroemmen",
+      "date": "30/09/2026",
+      "type": "Penge",
+      "firstSeenAt": "2026-09-30T18:04:28.934Z",
+      "titleVi": "Cách tiết kiệm hóa đơn tiền điện mà không cần tiết kiệm tiền điện"
+    },
+    {
+      "id": "https://nyheder.tv2.dk/live/tech/2026-09-09-ai-forandrer-verden",
+      "source": "tv2",
+      "title": "Stor undersøgelse indledt mod AI-giganter i USA",
+      "url": "https://nyheder.tv2.dk/live/tech/2026-09-09-ai-forandrer-verden",
+      "date": "09/09/2026",
+      "type": "Live",
+      "firstSeenAt": "2026-09-28T00:30:42.330Z",
+      "titleVi": "Cuộc điều tra quy mô lớn bắt đầu chống lại những gã khổng lồ AI ở Mỹ"
+    },
+    {
+      "id": "https://nyheder.tv2.dk/live/samfund/2026-09-15-forsvarets-helikopter-beskudt-med-signalblus-af-russisk-fregat",
+      "source": "tv2",
+      "title": "Rusland indkalder dansk ambassadør efter helikoptersag",
+      "url": "https://nyheder.tv2.dk/live/samfund/2026-09-15-forsvarets-helikopter-beskudt-med-signalblus-af-russisk-fregat",
+      "date": "15/09/2026",
+      "type": "Live",
+      "firstSeenAt": "2026-09-30T18:04:28.934Z",
+      "titleVi": "Nga triệu tập đại sứ Đan Mạch sau vụ trực thăng"
+    },
+    {
       "id": "https://nyheder.tv2.dk/live/kort-nyt",
       "source": "tv2",
-      "title": "Strømmen er gået på hospital",
+      "title": "Kvinde tiltalt for drabsforsøg mod Rihanna",
       "url": "https://nyheder.tv2.dk/live/kort-nyt",
       "date": "—",
       "type": "Live",
       "firstSeenAt": "2026-09-28T00:30:42.330Z",
-      "titleVi": "Điện đã bị cúp trong bệnh viện"
-    },
-    {
-      "id": "https://nyheder.tv2.dk/live/politik/2026-09-30-firepart-om-fremtidens-griseproduktion",
-      "source": "tv2",
-      "title": "Landbruget får \"meget klar besked\", siger analytiker",
-      "url": "https://nyheder.tv2.dk/live/politik/2026-09-30-firepart-om-fremtidens-griseproduktion",
-      "date": "30/09/2026",
-      "type": "Live",
-      "firstSeenAt": "2026-09-30T12:25:50.653Z",
-      "titleVi": "Nhà phân tích nói rằng nông nghiệp nhận được 'thông điệp rất rõ ràng'"
-    },
-    {
-      "id": "https://nyheder.tv2.dk/samfund/2026-09-30-tidligere-bus-konge-beskyldt-for-at-afloenne-ansatte-med-narkopenge-nu-efterlyses-han-internationalt",
-      "source": "tv2",
-      "title": "Tidligere bus-konge beskyldt for at aflønne ansatte med narkopenge – nu efterlyses han internationalt",
-      "url": "https://nyheder.tv2.dk/samfund/2026-09-30-tidligere-bus-konge-beskyldt-for-at-afloenne-ansatte-med-narkopenge-nu-efterlyses-han-internationalt",
-      "date": "30/09/2026",
-      "type": "Samfund",
-      "firstSeenAt": "2026-09-30T12:25:50.653Z",
-      "titleVi": "Cựu vua xe buýt bị buộc tội trả tiền cho nhân viên bằng tiền ma túy – bây giờ anh ta đang bị truy nã quốc tế"
+      "titleVi": "Người phụ nữ bị buộc tội âm mưu giết Rihanna"
     },
     {
       "id": "https://nyheder.tv2.dk/live/2024-09-08-seneste-nyt-om-krigen-i-ukraine-70b1d6cc-0720-404e-9878-45546e1999e7",
@@ -522,14 +542,94 @@
       "titleVi": "Báo động không khí tiêu tốn của Ukraine 300 triệu NOK mỗi giờ"
     },
     {
-      "id": "https://nyheder.tv2.dk/live/2026-09-30-fly-mod-israel-omdirigeret-efter-slagsmaal-mellem-piloter",
+      "id": "https://nyheder.tv2.dk/live/2026-09-30-fly-mod-israel-omdirigeret-efter-voldelig-episode-i-cockpit",
       "source": "tv2",
-      "title": "Fly mod Israel omdirigeret efter slagsmål mellem piloter",
-      "url": "https://nyheder.tv2.dk/live/2026-09-30-fly-mod-israel-omdirigeret-efter-slagsmaal-mellem-piloter",
+      "title": "Fly mod Israel omdirigeret efter voldelig episode i cockpit",
+      "url": "https://nyheder.tv2.dk/live/2026-09-30-fly-mod-israel-omdirigeret-efter-voldelig-episode-i-cockpit",
+      "date": "30/09/2026",
+      "type": "Live",
+      "firstSeenAt": "2026-09-30T18:04:28.934Z",
+      "titleVi": "Chuyến bay đến Israel chuyển hướng sau sự cố bạo lực trong buồng lái"
+    },
+    {
+      "id": "https://nyheder.tv2.dk/live/udland/2026-09-27-stoerre-haendelse-i-storbritannien",
+      "source": "tv2",
+      "title": "Britiske myndigheder oplyser alder og nationalitet på anholdte ved flybase",
+      "url": "https://nyheder.tv2.dk/live/udland/2026-09-27-stoerre-haendelse-i-storbritannien",
+      "date": "27/09/2026",
+      "type": "Live",
+      "firstSeenAt": "2026-09-30T18:04:28.934Z",
+      "titleVi": "Chính quyền Anh cung cấp tuổi và quốc tịch của những người bị giam giữ tại căn cứ không quân"
+    },
+    {
+      "id": "https://nyheder.tv2.dk/samfund/2026-09-30-flertal-i-etisk-raad-anbefaler-at-fjerne-anonym-saed-og-aegdonation",
+      "source": "tv2",
+      "title": "Flertal i Etisk Råd anbefaler at fjerne anonym sæd- og ægdonation",
+      "url": "https://nyheder.tv2.dk/samfund/2026-09-30-flertal-i-etisk-raad-anbefaler-at-fjerne-anonym-saed-og-aegdonation",
+      "date": "30/09/2026",
+      "type": "Samfund",
+      "firstSeenAt": "2026-09-30T18:04:28.934Z",
+      "titleVi": "Đa số trong Hội đồng Đạo đức khuyến nghị loại bỏ tinh trùng và hiến trứng ẩn danh"
+    },
+    {
+      "id": "https://nyheder.tv2.dk/samfund/2026-09-30-undersoegelse-gaar-viralt-bliver-par-med-hvert-sit-efternavn-oftere-skilt",
+      "source": "tv2",
+      "title": "Undersøgelse går viralt – bliver par med hvert sit efternavn oftere skilt?",
+      "url": "https://nyheder.tv2.dk/samfund/2026-09-30-undersoegelse-gaar-viralt-bliver-par-med-hvert-sit-efternavn-oftere-skilt",
+      "date": "30/09/2026",
+      "type": "Samfund",
+      "firstSeenAt": "2026-09-30T18:04:28.934Z",
+      "titleVi": "Khảo sát lan truyền – các cặp vợ chồng có họ khác nhau có ly hôn thường xuyên hơn không?"
+    },
+    {
+      "id": "https://nyheder.tv2.dk/2026-09-30-gymnasieelever-frygter-at-miste-su-det-synes-jeg-ikke-er-fair",
+      "source": "tv2",
+      "title": "Gymnasieelever frygter at miste SU: - Det synes jeg ikke er fair",
+      "url": "https://nyheder.tv2.dk/2026-09-30-gymnasieelever-frygter-at-miste-su-det-synes-jeg-ikke-er-fair",
+      "date": "30/09/2026",
+      "type": "Nyheder",
+      "firstSeenAt": "2026-09-30T18:04:28.934Z",
+      "titleVi": "Học sinh trung học sợ mất SU: - Tôi không nghĩ điều đó là công bằng"
+    },
+    {
+      "id": "https://nyheder.tv2.dk/business/2026-09-28-varmeregningen-kan-blive-op-til-tre-gange-hoejere-end-sidste-vinter",
+      "source": "tv2",
+      "title": "Varmeregningen kan blive op til tre gange højere end sidste vinter",
+      "url": "https://nyheder.tv2.dk/business/2026-09-28-varmeregningen-kan-blive-op-til-tre-gange-hoejere-end-sidste-vinter",
+      "date": "28/09/2026",
+      "type": "Business",
+      "firstSeenAt": "2026-09-30T18:04:28.934Z",
+      "titleVi": "Hóa đơn sưởi ấm có thể cao gấp ba lần so với mùa đông năm ngoái"
+    },
+    {
+      "id": "https://nyheder.tv2.dk/samfund/2026-09-30-familier-vil-flytte-paa-grund-af-stoejende-unge",
+      "source": "tv2",
+      "title": "Familier vil flytte på grund af støjende unge",
+      "url": "https://nyheder.tv2.dk/samfund/2026-09-30-familier-vil-flytte-paa-grund-af-stoejende-unge",
+      "date": "30/09/2026",
+      "type": "Samfund",
+      "firstSeenAt": "2026-09-30T18:04:28.934Z",
+      "titleVi": "Các gia đình sẽ di dời do thanh thiếu niên ồn ào"
+    },
+    {
+      "id": "https://nyheder.tv2.dk/live/politik/2026-09-30-firepart-om-fremtidens-griseproduktion",
+      "source": "tv2",
+      "title": "Landbruget får \"meget klar besked\", siger analytiker",
+      "url": "https://nyheder.tv2.dk/live/politik/2026-09-30-firepart-om-fremtidens-griseproduktion",
       "date": "30/09/2026",
       "type": "Live",
       "firstSeenAt": "2026-09-30T12:25:50.653Z",
-      "titleVi": "Chuyến bay đến Israel bị chuyển hướng sau khi xảy ra xung đột giữa các phi công"
+      "titleVi": "Nhà phân tích nói rằng nông nghiệp nhận được 'thông điệp rất rõ ràng'"
+    },
+    {
+      "id": "https://nyheder.tv2.dk/samfund/2026-09-30-tidligere-flextrafik-konge-efterlyses-internationalt",
+      "source": "tv2",
+      "title": "Tidligere flextrafik-konge efterlyses internationalt",
+      "url": "https://nyheder.tv2.dk/samfund/2026-09-30-tidligere-flextrafik-konge-efterlyses-internationalt",
+      "date": "30/09/2026",
+      "type": "Samfund",
+      "firstSeenAt": "2026-09-30T18:04:28.934Z",
+      "titleVi": "Cựu vua giao thông linh hoạt muốn quốc tế"
     },
     {
       "id": "https://nyheder.tv2.dk/samfund/2026-09-30-instagram-profil-fik-familie-til-at-flytte-naesten-300-kilometer",
@@ -602,16 +702,6 @@
       "titleVi": "Đảng Cộng hòa đã sai lầm khủng khiếp – phiên điều trần về các cáo buộc chống lại Trump hoàn toàn đi chệch khỏi đường ray"
     },
     {
-      "id": "https://nyheder.tv2.dk/live/tech/2026-09-09-ai-forandrer-verden",
-      "source": "tv2",
-      "title": "Aftale om AI-sikkerhed er kun \"moralsk forpligtende\"",
-      "url": "https://nyheder.tv2.dk/live/tech/2026-09-09-ai-forandrer-verden",
-      "date": "09/09/2026",
-      "type": "Live",
-      "firstSeenAt": "2026-09-28T00:30:42.330Z",
-      "titleVi": "Thỏa thuận về bảo mật AI chỉ \"ràng buộc về mặt đạo đức\""
-    },
-    {
       "id": "https://nyheder.tv2.dk/live/politik/2025-08-11-dansk-politik",
       "source": "tv2",
       "title": "Hele DF's bestyrelse i Tønder er gået af",
@@ -680,96 +770,6 @@
       "type": "Udland",
       "firstSeenAt": "2026-09-30T05:59:47.828Z",
       "titleVi": "Tòa án Tối cao Hoa Kỳ từ chối ngừng hành quyết người phụ nữ bị kết án tử hình"
-    },
-    {
-      "id": "https://nyheder.tv2.dk/udland/2026-09-29-mand-loesladt-41-aar-efter-drab-paa-dansker",
-      "source": "tv2",
-      "title": "Mand løsladt 41 år efter drab på dansker",
-      "url": "https://nyheder.tv2.dk/udland/2026-09-29-mand-loesladt-41-aar-efter-drab-paa-dansker",
-      "date": "29/09/2026",
-      "type": "Udland",
-      "firstSeenAt": "2026-09-30T12:25:50.653Z",
-      "titleVi": "Người đàn ông được thả 41 năm sau khi giết Dane"
-    },
-    {
-      "id": "https://nyheder.tv2.dk/udland/2026-09-29-brexit-har-vaeret-en-katastrofe-nu-vil-andy-burnham-finde-vejen-tilbage-mod-eu",
-      "source": "tv2",
-      "title": "Brexit har været en ”katastrofe” – nu vil Andy Burnham finde vejen tilbage mod EU",
-      "url": "https://nyheder.tv2.dk/udland/2026-09-29-brexit-har-vaeret-en-katastrofe-nu-vil-andy-burnham-finde-vejen-tilbage-mod-eu",
-      "date": "29/09/2026",
-      "type": "Udland",
-      "firstSeenAt": "2026-09-30T00:40:30.338Z",
-      "titleVi": "Brexit là một 'thảm họa' – bây giờ Andy Burnham sẽ tìm đường trở lại EU"
-    },
-    {
-      "id": "https://nyheder.tv2.dk/live/udland/2026-09-04-retssagen-mod-lindsay-clancy",
-      "source": "tv2",
-      "title": "Lindsay Clancy var tirsdag tilbage i retten",
-      "url": "https://nyheder.tv2.dk/live/udland/2026-09-04-retssagen-mod-lindsay-clancy",
-      "date": "04/09/2026",
-      "type": "Live",
-      "firstSeenAt": "2026-09-29T21:20:45.790Z",
-      "titleVi": "Lindsay Clancy đã trở lại tòa án vào thứ ba"
-    },
-    {
-      "id": "https://nyheder.tv2.dk/live/samfund/2026-09-29-spoerg-om-hoejskolen-har-landbruget-en-fremtid",
-      "source": "tv2",
-      "title": "Er det dyremishandling at transportere grise?",
-      "url": "https://nyheder.tv2.dk/live/samfund/2026-09-29-spoerg-om-hoejskolen-har-landbruget-en-fremtid",
-      "date": "29/09/2026",
-      "type": "Live",
-      "firstSeenAt": "2026-09-29T16:58:47.703Z",
-      "titleVi": "Vận chuyển lợn có tàn ác với động vật không?"
-    },
-    {
-      "id": "https://nyheder.tv2.dk/live/samfund/2026-09-29-deltag-i-hoejskolen-live-debatten",
-      "source": "tv2",
-      "title": "Deltag i Højskolen Live-debatten",
-      "url": "https://nyheder.tv2.dk/live/samfund/2026-09-29-deltag-i-hoejskolen-live-debatten",
-      "date": "29/09/2026",
-      "type": "Live",
-      "firstSeenAt": "2026-09-29T11:29:20.518Z",
-      "titleVi": "Tham gia cuộc tranh luận trực tiếp tại trường trung học dân gian"
-    },
-    {
-      "id": "https://nyheder.tv2.dk/udland/2026-09-29-terrormistaenkte-var-formentlig-benzintyve-bizart-siger-steinmetz",
-      "source": "tv2",
-      "title": "Terrormistænkte var formentlig benzintyve – bizart, siger Steinmetz",
-      "url": "https://nyheder.tv2.dk/udland/2026-09-29-terrormistaenkte-var-formentlig-benzintyve-bizart-siger-steinmetz",
-      "date": "29/09/2026",
-      "type": "Udland",
-      "firstSeenAt": "2026-09-29T21:20:45.790Z",
-      "titleVi": "Steinmetz nói rằng nghi phạm khủng bố có thể là những tên trộm xăng dầu – thật kỳ quái"
-    },
-    {
-      "id": "https://nyheder.tv2.dk/live/samfund/2026-09-29-hoejskolen-live-har-landbruget-en-fremtid",
-      "source": "tv2",
-      "title": "Politikerne har besluttet sig – vi må gøre vores bedste, siger 16-årig",
-      "url": "https://nyheder.tv2.dk/live/samfund/2026-09-29-hoejskolen-live-har-landbruget-en-fremtid",
-      "date": "29/09/2026",
-      "type": "Live",
-      "firstSeenAt": "2026-09-29T21:20:45.790Z",
-      "titleVi": "Cô gái 16 tuổi nói rằng các chính trị gia đã quyết định – chúng ta phải cố gắng hết sức"
-    },
-    {
-      "id": "https://nyheder.tv2.dk/samfund/2026-09-22-mor-til-barn-i-mistrivsel-frygter-at-miste-beviser-hvis-aula-afskaffes",
-      "source": "tv2",
-      "title": "Mor til barn i mistrivsel frygter at miste beviser, hvis Aula afskaffes",
-      "url": "https://nyheder.tv2.dk/samfund/2026-09-22-mor-til-barn-i-mistrivsel-frygter-at-miste-beviser-hvis-aula-afskaffes",
-      "date": "22/09/2026",
-      "type": "Samfund",
-      "firstSeenAt": "2026-09-29T21:20:45.790Z",
-      "titleVi": "Mẹ của đứa trẻ gặp nạn sợ mất bằng chứng nếu Aula bị bãi bỏ"
-    },
-    {
-      "id": "https://nyheder.tv2.dk/live/udland/2026-01-08-krig-i-mellemoesten",
-      "source": "tv2",
-      "title": "USA vil snart vinde krigen mod Iran, siger Trump",
-      "url": "https://nyheder.tv2.dk/live/udland/2026-01-08-krig-i-mellemoesten",
-      "date": "08/01/2026",
-      "type": "Live",
-      "firstSeenAt": "2026-09-28T00:30:42.330Z",
-      "titleVi": "Trump nói rằng Mỹ sẽ sớm giành chiến thắng trong cuộc chiến chống lại Iran"
     }
   ]
 }
