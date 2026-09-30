@@ -1,6 +1,6 @@
 {
   "monitoringStartedAt": "2026-09-28T00:17:35.319Z",
-  "updatedAt": "2026-09-29T21:20:45.790Z",
+  "updatedAt": "2026-09-30T00:40:30.338Z",
   "sources": {
     "kongehuset": {
       "name": "Kongehuset",
@@ -482,6 +482,26 @@
       "titleVi": "Công chúa Benedikte của HRH đã tham dự Giải vô địch thế giới FEI Aachen 2026"
     },
     {
+      "id": "https://nyheder.tv2.dk/live/tech/2026-09-09-ai-forandrer-verden",
+      "source": "tv2",
+      "title": "OpenAI udskyder ny AI-model på grund af sikkerhedsbekymringer",
+      "url": "https://nyheder.tv2.dk/live/tech/2026-09-09-ai-forandrer-verden",
+      "date": "09/09/2026",
+      "type": "Live",
+      "firstSeenAt": "2026-09-28T00:30:42.330Z",
+      "titleVi": "OpenAI hoãn mô hình AI mới do lo ngại về bảo mật"
+    },
+    {
+      "id": "https://nyheder.tv2.dk/udland/2026-09-29-brexit-har-vaeret-en-katastrofe-nu-vil-andy-burnham-finde-vejen-tilbage-mod-eu",
+      "source": "tv2",
+      "title": "Brexit har været en ”katastrofe” – nu vil Andy Burnham finde vejen tilbage mod EU",
+      "url": "https://nyheder.tv2.dk/udland/2026-09-29-brexit-har-vaeret-en-katastrofe-nu-vil-andy-burnham-finde-vejen-tilbage-mod-eu",
+      "date": "29/09/2026",
+      "type": "Udland",
+      "firstSeenAt": "2026-09-30T00:40:30.338Z",
+      "titleVi": "Brexit là một 'thảm họa' – bây giờ Andy Burnham sẽ tìm đường trở lại EU"
+    },
+    {
       "id": "https://nyheder.tv2.dk/live/kort-nyt",
       "source": "tv2",
       "title": "Matthew Perry brugte 46 millioner kroner på at blive stoffri, fortæller søster",
@@ -540,16 +560,6 @@
       "type": "Udland",
       "firstSeenAt": "2026-09-29T21:20:45.790Z",
       "titleVi": "Steinmetz nói rằng nghi phạm khủng bố có thể là những tên trộm xăng dầu – thật kỳ quái"
-    },
-    {
-      "id": "https://nyheder.tv2.dk/live/tech/2026-09-09-ai-forandrer-verden",
-      "source": "tv2",
-      "title": "OpenAI udskyder ny AI-model på grund af sikkerhedsbekymringer",
-      "url": "https://nyheder.tv2.dk/live/tech/2026-09-09-ai-forandrer-verden",
-      "date": "09/09/2026",
-      "type": "Live",
-      "firstSeenAt": "2026-09-28T00:30:42.330Z",
-      "titleVi": "OpenAI hoãn mô hình AI mới do lo ngại về bảo mật"
     },
     {
       "id": "https://nyheder.tv2.dk/live/samfund/2026-09-29-hoejskolen-live-har-landbruget-en-fremtid",
@@ -760,16 +770,6 @@
       "type": "Samfund",
       "firstSeenAt": "2026-09-29T11:29:20.518Z",
       "titleVi": "Khi đồng nghiệp của anh ấy hỏi anh ấy có cần giúp đỡ không, anh ấy đã suy sụp"
-    },
-    {
-      "id": "https://nyheder.tv2.dk/live/trafik/2026-09-28-nedrevne-koereledninger-flere-steder",
-      "source": "tv2",
-      "title": "Nedreven køreledning lammer kritisk strækning",
-      "url": "https://nyheder.tv2.dk/live/trafik/2026-09-28-nedrevne-koereledninger-flere-steder",
-      "date": "28/09/2026",
-      "type": "Live",
-      "firstSeenAt": "2026-09-28T19:41:06.213Z",
-      "titleVi": "Dây tiếp xúc trên cao bị phá hủy làm tê liệt căng tới hạn"
     }
   ]
 }
