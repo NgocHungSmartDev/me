@@ -1,4 +1,4 @@
-name: Update Kongehuset news
+name: Update Nordic royal news
 on:
   schedule:
     - cron: "*/15 * * * *"
@@ -6,7 +6,7 @@ on:
 permissions:
   contents: write
 concurrency:
-  group: update-kongehuset-news
+  group: update-nordic-royal-news
   cancel-in-progress: true
 jobs:
   update:
@@ -29,7 +29,7 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add data/news.json
-          git commit -m "Update Kongehuset news data"
+          git commit -m "Update Nordic royal news data"
           git push
       - name: Report source failure
         if: steps.fetch.outcome == 'failure'

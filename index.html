@@ -28,8 +28,8 @@
   <header><h1>Tin tức Hoàng Gia</h1><p>Theo dõi tin tức hoàng gia mới nhất từ các quốc gia Bắc Âu.</p></header>
   <div class="tabs" role="tablist" aria-label="Tin tức theo quốc gia">
     <button class="tab active" id="tab-denmark" type="button" role="tab" aria-selected="true" aria-controls="panel-denmark" data-country="denmark">Tin tức Đan Mạch</button>
-    <button class="tab" id="tab-sweden" type="button" role="tab" aria-selected="false" aria-controls="panel-sweden" data-country="sweden">Tin tức Thụy Điển</button>
-    <button class="tab" id="tab-norway" type="button" role="tab" aria-selected="false" aria-controls="panel-norway" data-country="norway">Tin tức Na Uy</button>
+    <button class="tab" id="tab-sweden" type="button" role="tab" aria-selected="false" aria-controls="panel-denmark" data-country="sweden">Tin tức Thụy Điển</button>
+    <button class="tab" id="tab-norway" type="button" role="tab" aria-selected="false" aria-controls="panel-denmark" data-country="norway">Tin tức Na Uy</button>
   </div>
   <section class="country-panel" id="panel-denmark" role="tabpanel" aria-labelledby="tab-denmark">
   <section class="notice" id="notice" aria-live="polite"><div><strong id="notice-title">Đang tải dữ liệu…</strong><p id="notice-detail"></p><div class="error-detail" id="error-detail"></div></div><button id="mark-read" type="button">Đánh dấu tất cả đã đọc</button></section>
@@ -37,35 +37,34 @@
   <div class="table-wrap"><table><thead><tr><th aria-sort="none"><button class="sort-button" type="button" data-sort="status"><span>Trạng thái</span><span class="sort-icon" aria-hidden="true">↕</span></button></th><th aria-sort="none"><button class="sort-button" type="button" data-sort="source"><span>Nguồn</span><span class="sort-icon" aria-hidden="true">↕</span></button></th><th aria-sort="none"><button class="sort-button" type="button" data-sort="date"><span>Ngày đăng</span><span class="sort-icon" aria-hidden="true">↕</span></button></th><th aria-sort="none"><button class="sort-button" type="button" data-sort="type"><span>Phân loại</span><span class="sort-icon" aria-hidden="true">↕</span></button></th><th aria-sort="none"><button class="sort-button" type="button" data-sort="title"><span>Tiêu đề gốc</span><span class="sort-icon" aria-hidden="true">↕</span></button></th><th aria-sort="none"><button class="sort-button" type="button" data-sort="titleVi"><span>Tiêu đề tiếng Việt</span><span class="sort-icon" aria-hidden="true">↕</span></button></th><th>Liên kết</th></tr></thead><tbody id="rows"><tr><td colspan="7" class="loading">Đang tải…</td></tr></tbody></table></div>
   <div class="footer"><span id="result-count"></span><span id="updated-at"></span></div>
   </section>
-  <section class="country-panel" id="panel-sweden" role="tabpanel" aria-labelledby="tab-sweden" hidden><div class="country-empty"><span class="empty-icon">🇸🇪</span><h2>Tin tức Thụy Điển</h2><p>Nguồn tin Thụy Điển đang được chuẩn bị và sẽ sớm xuất hiện tại đây.</p></div></section>
-  <section class="country-panel" id="panel-norway" role="tabpanel" aria-labelledby="tab-norway" hidden><div class="country-empty"><span class="empty-icon">🇳🇴</span><h2>Tin tức Na Uy</h2><p>Nguồn tin Na Uy đang được chuẩn bị và sẽ sớm xuất hiện tại đây.</p></div></section>
 </main>
 <main class="view coming-soon" id="coming-soon" hidden><div class="coming-card"><span class="empty-icon">✨</span><h1>Coming soon</h1><p>Các tính năng mới đang được phát triển. Hãy quay lại sau nhé!</p></div></main>
 </div></div>
 <script>
-  const DATA_URL='./data/news.json',STORAGE_KEY='kongehuset-last-seen-at';
-  const state={data:null,lastSeen:localStorage.getItem(STORAGE_KEY),sortKey:null,sortDirection:'asc'};
+  const DATA_URL='./data/news.json',STORAGE_PREFIX='royal-news-last-seen-at-';
+  const state={data:null,country:'denmark',sortKey:null,sortDirection:'asc'};
   const $=s=>document.querySelector(s);
   const escapeHtml=v=>String(v??'').replace(/[&<>'"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;',"'":'&#39;','"':'&quot;'}[c]));
   const sourceInfo=id=>state.data.sources?.[id]||{};
-  const isNew=item=>{const sourceStart=sourceInfo(item.source).monitoringStartedAt||state.data.monitoringStartedAt;const baseline=Math.max(new Date(state.lastSeen||0),new Date(sourceStart||0));return new Date(item.firstSeenAt).getTime()>baseline};
+  const isNew=item=>{const sourceStart=sourceInfo(item.source).monitoringStartedAt||state.data.monitoringStartedAt;const lastSeen=localStorage.getItem(`${STORAGE_PREFIX}${state.country}`);const baseline=Math.max(new Date(lastSeen||0),new Date(sourceStart||0));return new Date(item.firstSeenAt).getTime()>baseline};
   const collator=new Intl.Collator('vi',{numeric:true,sensitivity:'base'});
   const dateValue=value=>{const match=String(value??'').match(/^(\d{1,2})\/(\d{1,2})\/(\d{4})$/);return match?Date.UTC(Number(match[3]),Number(match[2])-1,Number(match[1])):Date.parse(value)||0};
   document.querySelectorAll('.menu-item').forEach(button=>button.addEventListener('click',()=>{document.querySelectorAll('.menu-item').forEach(item=>item.classList.toggle('active',item===button));document.querySelectorAll('.view').forEach(view=>view.hidden=view.id!==button.dataset.view)}));
-  document.querySelectorAll('.tab').forEach(tab=>tab.addEventListener('click',()=>{document.querySelectorAll('.tab').forEach(item=>{const active=item===tab;item.classList.toggle('active',active);item.setAttribute('aria-selected',String(active))});document.querySelectorAll('.country-panel').forEach(panel=>panel.hidden=panel.id!==`panel-${tab.dataset.country}`)}));
-  const sortValue=(item,key)=>key==='status'?(isNew(item)?'Mới':'Đã đọc'):key==='source'?(sourceInfo(item.source).name||item.source):key==='date'?dateValue(item.date):(item[key]||'');
+  document.querySelectorAll('.tab').forEach(tab=>tab.addEventListener('click',()=>{document.querySelectorAll('.tab').forEach(item=>{const active=item===tab;item.classList.toggle('active',active);item.setAttribute('aria-selected',String(active))});state.country=tab.dataset.country;document.querySelectorAll('.country-panel').forEach(panel=>panel.hidden=panel.id!=='panel-denmark');if(state.data){populateFilters();render()}}));
+  const sortValue=(item,key)=>key==='status'?(isNew(item)?'Mới':'Đã đọc'):key==='source'?(sourceInfo(item.source).name||item.source):key==='date'?dateValue(item.publishedAt||item.date):(item[key]||'');
   function updateSortHeaders(){document.querySelectorAll('.sort-button').forEach(button=>{const active=button.dataset.sort===state.sortKey,direction=active?state.sortDirection:null;button.setAttribute('aria-pressed',String(active));button.querySelector('.sort-icon').textContent=direction==='asc'?'▲':direction==='desc'?'▼':'↕';const header=button.closest('th');header.setAttribute('aria-sort',direction==='asc'?'ascending':direction==='desc'?'descending':'none');button.title=active?`Đang sắp xếp ${direction==='asc'?'tăng dần':'giảm dần'}`:'Sắp xếp theo cột này'})}
   function render(){
-    const query=$('#search').value.trim().toLocaleLowerCase('vi'),source=$('#source').value,type=$('#type').value,status=$('#status').value,all=state.data.articles,newCount=all.filter(isNew).length;
+    const query=$('#search').value.trim().toLocaleLowerCase('vi'),source=$('#source').value,type=$('#type').value,status=$('#status').value,all=state.data.articles.filter(item=>sourceInfo(item.source).country===state.country),newCount=all.filter(isNew).length;
     const filtered=all.filter(item=>item.title.toLocaleLowerCase('vi').includes(query)&&(!source||item.source===source)&&(!type||item.type===type)&&(!status||(status==='new'?isNew(item):!isNew(item))));
     if(state.sortKey)filtered.sort((a,b)=>{const left=sortValue(a,state.sortKey),right=sortValue(b,state.sortKey),result=typeof left==='number'&&typeof right==='number'?left-right:collator.compare(String(left),String(right));return state.sortDirection==='asc'?result:-result});
     updateSortHeaders();
-    const sourceErrors=Object.values(state.data.sources||{}).filter(item=>item.status?.state==='error');
+    const countrySources=Object.values(state.data.sources||{}).filter(item=>item.country===state.country);
+    const sourceErrors=countrySources.filter(item=>item.status?.state==='error');
     const translationError=state.data.translation?.status?.state==='error'?state.data.translation:null;
     const errorCount=sourceErrors.length+(translationError?1:0);
     $('#notice').classList.toggle('error',errorCount>0);
     $('#notice-title').textContent=errorCount?`${errorCount} tác vụ cập nhật bị lỗi`:(newCount?`Có ${newCount} bài viết mới`:'Chưa có bài viết mới');
-    $('#notice-detail').textContent=errorCount?`Đang tiếp tục hiển thị ${all.length} bài đã lưu.`:`Đang theo dõi ${all.length} bài từ ${Object.keys(state.data.sources||{}).length} nguồn.`;
+    $('#notice-detail').textContent=errorCount?`Đang tiếp tục hiển thị ${all.length} bài đã lưu.`:`Đang theo dõi ${all.length} bài từ ${countrySources.length} nguồn.`;
     const errors=sourceErrors.map(item=>`${item.name}: ${item.status.message}\nThời điểm: ${new Date(item.status.changedAt).toLocaleString('vi-VN')}`);
     if(translationError)errors.push(`Dịch tiêu đề: ${translationError.status.message}\nThời điểm: ${new Date(translationError.status.changedAt).toLocaleString('vi-VN')}`);
     $('#error-detail').textContent=errors.join('\n\n');
@@ -73,8 +72,9 @@
     $('#updated-at').textContent=`Dữ liệu cập nhật: ${new Date(state.data.updatedAt).toLocaleString('vi-VN')}`;
     $('#rows').innerHTML=filtered.length?filtered.map(item=>`<tr class="${isNew(item)?'is-new':''}"><td><span class="badge ${isNew(item)?'new':''}">${isNew(item)?'Mới':'Đã đọc'}</span></td><td>${escapeHtml(sourceInfo(item.source).name||item.source)}</td><td>${escapeHtml(item.date)}</td><td><span class="badge">${escapeHtml(item.type)}</span></td><td class="title">${escapeHtml(item.title)}</td><td class="title">${item.titleVi?escapeHtml(item.titleVi):`<span class="error-detail" style="display:block">${escapeHtml(item.translationError||'Chưa có bản dịch')}</span>`}</td><td><a href="${escapeHtml(item.url)}" target="_blank" rel="noopener">Xem bài ↗</a></td></tr>`).join(''):'<tr><td colspan="7" class="empty">Không tìm thấy bài viết phù hợp.</td></tr>';
   }
-  async function load(){try{const response=await fetch(`${DATA_URL}?v=${Date.now()}`);if(!response.ok)throw new Error(`Không tải được ${DATA_URL} — HTTP ${response.status} ${response.statusText}`);state.data=await response.json();if(!Array.isArray(state.data.articles))throw new Error('File dữ liệu không hợp lệ: thiếu mảng articles');Object.entries(state.data.sources||{}).forEach(([id,item])=>$('#source').insertAdjacentHTML('beforeend',`<option value="${escapeHtml(id)}">${escapeHtml(item.name)}</option>`));[...new Set(state.data.articles.map(item=>item.type))].sort().forEach(type=>$('#type').insertAdjacentHTML('beforeend',`<option value="${escapeHtml(type)}">${escapeHtml(type)}</option>`));render()}catch(error){$('#notice').classList.add('error');$('#notice-title').textContent='Không thể tải dữ liệu';$('#notice-detail').textContent='Chi tiết lỗi:';$('#error-detail').textContent=error?.stack||error?.message||String(error);$('#rows').innerHTML='<tr><td colspan="7" class="empty">Không có dữ liệu để hiển thị.</td></tr>'}}
+  function populateFilters(){const articles=state.data.articles.filter(item=>sourceInfo(item.source).country===state.country);$('#source').innerHTML='<option value="">Tất cả nguồn</option>';Object.entries(state.data.sources||{}).filter(([,item])=>item.country===state.country).forEach(([id,item])=>$('#source').insertAdjacentHTML('beforeend',`<option value="${escapeHtml(id)}">${escapeHtml(item.name)}</option>`));$('#type').innerHTML='<option value="">Tất cả phân loại</option>';[...new Set(articles.map(item=>item.type))].sort().forEach(type=>$('#type').insertAdjacentHTML('beforeend',`<option value="${escapeHtml(type)}">${escapeHtml(type)}</option>`));}
+  async function load(){try{const response=await fetch(`${DATA_URL}?v=${Date.now()}`);if(!response.ok)throw new Error(`Không tải được ${DATA_URL} — HTTP ${response.status} ${response.statusText}`);state.data=await response.json();if(!Array.isArray(state.data.articles))throw new Error('File dữ liệu không hợp lệ: thiếu mảng articles');populateFilters();render()}catch(error){$('#notice').classList.add('error');$('#notice-title').textContent='Không thể tải dữ liệu';$('#notice-detail').textContent='Chi tiết lỗi:';$('#error-detail').textContent=error?.stack||error?.message||String(error);$('#rows').innerHTML='<tr><td colspan="7" class="empty">Không có dữ liệu để hiển thị.</td></tr>'}}
   $('#search').addEventListener('input',render);$('#source').addEventListener('change',render);$('#type').addEventListener('change',render);$('#status').addEventListener('change',render);
   document.querySelectorAll('.sort-button').forEach(button=>button.addEventListener('click',()=>{const key=button.dataset.sort;if(state.sortKey===key)state.sortDirection=state.sortDirection==='asc'?'desc':'asc';else{state.sortKey=key;state.sortDirection=key==='date'?'desc':'asc'}render()}));
-  $('#mark-read').addEventListener('click',()=>{state.lastSeen=new Date().toISOString();localStorage.setItem(STORAGE_KEY,state.lastSeen);render()});load();
+  $('#mark-read').addEventListener('click',()=>{localStorage.setItem(`${STORAGE_PREFIX}${state.country}`,new Date().toISOString());render()});load();
 </script></body></html>
