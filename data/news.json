@@ -1,6 +1,6 @@
 {
   "monitoringStartedAt": "2026-09-28T00:17:35.319Z",
-  "updatedAt": "2026-10-01T07:33:06.489Z",
+  "updatedAt": "2026-10-01T14:46:52.636Z",
   "sources": {
     "kongehuset": {
       "name": "Kongehuset",
@@ -31,6 +31,26 @@
     }
   },
   "articles": [
+    {
+      "id": "https://www.kongehuset.dk/nyheder/statsbesoeg-fra-den-socialistiske-republik-vietnam",
+      "source": "kongehuset",
+      "title": "Statsbesøg fra Den Socialistiske Republik Vietnam",
+      "url": "https://www.kongehuset.dk/nyheder/statsbesoeg-fra-den-socialistiske-republik-vietnam",
+      "date": "1. oktober 2026",
+      "type": "Nyhed",
+      "firstSeenAt": "2026-10-01T14:46:52.636Z",
+      "titleVi": "Chuyến thăm cấp nhà nước của nước Cộng hòa xã hội chủ nghĩa Việt Nam"
+    },
+    {
+      "id": "https://www.kongehuset.dk/presse/pressemeddelelse-statsbesoeg-fra-den-socialistiske-republik-vietnam",
+      "source": "kongehuset",
+      "title": "Pressemeddelelse: Statsbesøg fra Den Socialistiske Republik Vietnam",
+      "url": "https://www.kongehuset.dk/presse/pressemeddelelse-statsbesoeg-fra-den-socialistiske-republik-vietnam",
+      "date": "1. oktober 2026",
+      "type": "Pressemeddelelse",
+      "firstSeenAt": "2026-10-01T14:46:52.636Z",
+      "titleVi": "Thông cáo báo chí: Chuyến thăm cấp nhà nước của nước Cộng hòa xã hội chủ nghĩa Việt Nam"
+    },
     {
       "id": "https://www.kongehuset.dk/foto-video/kongeparret-afholdt-haerens-haederstegnsmiddag-2026",
       "source": "kongehuset",
@@ -462,54 +482,34 @@
       "titleVi": "Khán giả công khai ngày 17 tháng 8 năm 2026"
     },
     {
-      "id": "https://www.kongehuset.dk/foto-video/genindvielse-af-folkeobservatoriet-i-rundetaarn",
-      "source": "kongehuset",
-      "title": "Genindvielse af Folkeobservatoriet i Rundetaarn",
-      "url": "https://www.kongehuset.dk/foto-video/genindvielse-af-folkeobservatoriet-i-rundetaarn",
-      "date": "12. august 2026",
-      "type": "Galleri",
-      "firstSeenAt": "2026-09-28T00:17:35.319Z",
-      "titleVi": "Khánh thành lại Đài quan sát nhân dân tại Tháp Tròn"
-    },
-    {
-      "id": "https://www.kongehuset.dk/foto-video/h-k-h-prinsesse-benedikte-overvaerede-fei-world-championships-aachen-2026",
-      "source": "kongehuset",
-      "title": "H.K.H. Prinsesse Benedikte overværede FEI World Championships Aachen 2026",
-      "url": "https://www.kongehuset.dk/foto-video/h-k-h-prinsesse-benedikte-overvaerede-fei-world-championships-aachen-2026",
-      "date": "11. august 2026",
-      "type": "Galleri",
-      "firstSeenAt": "2026-09-28T00:17:35.319Z",
-      "titleVi": "Công chúa Benedikte của HRH đã tham dự Giải vô địch thế giới FEI Aachen 2026"
-    },
-    {
-      "id": "https://nyheder.tv2.dk/live/2026-09-30-fly-mod-israel-omdirigeret-efter-voldelig-episode-i-cockpit",
-      "source": "tv2",
-      "title": "Fly mod Israel omdirigeret efter voldelig episode i cockpit",
-      "url": "https://nyheder.tv2.dk/live/2026-09-30-fly-mod-israel-omdirigeret-efter-voldelig-episode-i-cockpit",
-      "date": "30/09/2026",
-      "type": "Live",
-      "firstSeenAt": "2026-09-30T18:04:28.934Z",
-      "titleVi": "Chuyến bay đến Israel chuyển hướng sau sự cố bạo lực trong buồng lái"
-    },
-    {
-      "id": "https://nyheder.tv2.dk/politik/2026-09-29-stoettepartier-vil-have-frandsen-til-lommerne-foer-forfremmelse",
-      "source": "tv2",
-      "title": "Støttepartier vil have Frandsen til lommerne før forfremmelse",
-      "url": "https://nyheder.tv2.dk/politik/2026-09-29-stoettepartier-vil-have-frandsen-til-lommerne-foer-forfremmelse",
-      "date": "29/09/2026",
-      "type": "Politik",
-      "firstSeenAt": "2026-10-01T07:33:06.489Z",
-      "titleVi": "Các bên ủng hộ muốn Frandsen vào túi của họ trước khi quảng bá"
-    },
-    {
       "id": "https://nyheder.tv2.dk/live/kort-nyt",
       "source": "tv2",
-      "title": "95-årig narret til at udlevere guldsmykker",
+      "title": "Spanien anholder 16-årig mistænkt for at stå bag hackergruppe",
       "url": "https://nyheder.tv2.dk/live/kort-nyt",
       "date": "—",
       "type": "Live",
       "firstSeenAt": "2026-09-28T00:30:42.330Z",
-      "titleVi": "Người đàn ông 95 tuổi bị lừa giao đồ trang sức bằng vàng"
+      "titleVi": "Tây Ban Nha bắt giữ nghi phạm 16 tuổi đứng sau nhóm hacker"
+    },
+    {
+      "id": "https://nyheder.tv2.dk/live/udland/2026-09-30-fly-mod-israel-omdirigeret-efter-voldelig-episode-i-cockpit",
+      "source": "tv2",
+      "title": "Israel deler nyt om gerningsmand i flydubai-hændelse",
+      "url": "https://nyheder.tv2.dk/live/udland/2026-09-30-fly-mod-israel-omdirigeret-efter-voldelig-episode-i-cockpit",
+      "date": "30/09/2026",
+      "type": "Live",
+      "firstSeenAt": "2026-10-01T14:46:52.636Z",
+      "titleVi": "Israel chia sẻ tin tức về thủ phạm của sự cố flydubai"
+    },
+    {
+      "id": "https://nyheder.tv2.dk/live/politik/2026-10-01-ny-redegoerelse-om-droner-over-danmark",
+      "source": "tv2",
+      "title": "Ny droneredegørelse lander i dag, erfarer TV 2",
+      "url": "https://nyheder.tv2.dk/live/politik/2026-10-01-ny-redegoerelse-om-droner-over-danmark",
+      "date": "01/10/2026",
+      "type": "Live",
+      "firstSeenAt": "2026-10-01T14:46:52.636Z",
+      "titleVi": "Bản ghi máy bay không người lái mới hạ cánh hôm nay, TV 2 học hỏi"
     },
     {
       "id": "https://nyheder.tv2.dk/live/2024-09-08-seneste-nyt-om-krigen-i-ukraine-70b1d6cc-0720-404e-9878-45546e1999e7",
@@ -520,6 +520,86 @@
       "type": "Live",
       "firstSeenAt": "2026-09-28T00:30:42.330Z",
       "titleVi": "Løkke nói rằng Đan Mạch không thể bị đe dọa bởi các mối đe dọa của Nga"
+    },
+    {
+      "id": "https://nyheder.tv2.dk/business/2026-10-01-chefanalytiker-ser-for-en-gangs-skyld-en-god-nyhed-fra-hormuzstraedet",
+      "source": "tv2",
+      "title": "Chefanalytiker ser \"for en gangs skyld\" en god nyhed fra Hormuzstrædet",
+      "url": "https://nyheder.tv2.dk/business/2026-10-01-chefanalytiker-ser-for-en-gangs-skyld-en-god-nyhed-fra-hormuzstraedet",
+      "date": "01/10/2026",
+      "type": "Business",
+      "firstSeenAt": "2026-10-01T14:46:52.636Z",
+      "titleVi": "Nhà phân tích trưởng nhìn thấy \"một lần\" tin tốt từ Eo biển Hormuz"
+    },
+    {
+      "id": "https://nyheder.tv2.dk/live/politik/2025-08-11-dansk-politik",
+      "source": "tv2",
+      "title": "Ny droneredegørelse lander i dag, erfarer TV 2",
+      "url": "https://nyheder.tv2.dk/live/politik/2025-08-11-dansk-politik",
+      "date": "11/08/2025",
+      "type": "Live",
+      "firstSeenAt": "2026-09-28T00:30:42.330Z",
+      "titleVi": "Bản ghi máy bay không người lái mới hạ cánh hôm nay, TV 2 học hỏi"
+    },
+    {
+      "id": "https://nyheder.tv2.dk/politik/2026-09-30-igen-og-igen-har-pia-olsen-dyhr-forsvaret-suen-nu-vil-hun-fjerne-den-for-81000-unge",
+      "source": "tv2",
+      "title": "Igen og igen har Pia Olsen Dyhr forsvaret SU’en – nu vil hun fjerne den for 81.000 unge",
+      "url": "https://nyheder.tv2.dk/politik/2026-09-30-igen-og-igen-har-pia-olsen-dyhr-forsvaret-suen-nu-vil-hun-fjerne-den-for-81000-unge",
+      "date": "30/09/2026",
+      "type": "Politik",
+      "firstSeenAt": "2026-10-01T14:46:52.636Z",
+      "titleVi": "Một lần nữa và một lần nữa, Pia Olsen Dyhr đã bảo vệ SU – bây giờ cô muốn loại bỏ nó cho 81.000 người trẻ tuổi"
+    },
+    {
+      "id": "https://nyheder.tv2.dk/samfund/2026-10-01-efter-to-overfald-politiet-ser-paa-endnu-en-haendelse-fra-riis-skov",
+      "source": "tv2",
+      "title": "Efter to overfald: Politiet ser på endnu en hændelse fra Riis Skov",
+      "url": "https://nyheder.tv2.dk/samfund/2026-10-01-efter-to-overfald-politiet-ser-paa-endnu-en-haendelse-fra-riis-skov",
+      "date": "01/10/2026",
+      "type": "Samfund",
+      "firstSeenAt": "2026-10-01T14:46:52.636Z",
+      "titleVi": "Sau hai vụ hành hung: Cảnh sát xem xét một sự cố khác từ Riis Skov"
+    },
+    {
+      "id": "https://nyheder.tv2.dk/krimi/2026-10-01-kvinde-soegte-raad-hos-politiet-inden-hun-blev-draebt",
+      "source": "tv2",
+      "title": "Kvinde søgte råd hos politiet inden hun blev dræbt",
+      "url": "https://nyheder.tv2.dk/krimi/2026-10-01-kvinde-soegte-raad-hos-politiet-inden-hun-blev-draebt",
+      "date": "01/10/2026",
+      "type": "Krimi",
+      "firstSeenAt": "2026-10-01T14:46:52.636Z",
+      "titleVi": "Người phụ nữ tìm kiếm lời khuyên từ cảnh sát trước khi bị giết"
+    },
+    {
+      "id": "https://nyheder.tv2.dk/samfund/2026-10-01-ny-undersoegelse-peger-paa-voldsom-udvikling-i-skolerne-de-yngste-haardest-ramt",
+      "source": "tv2",
+      "title": "Ny undersøgelse peger på voldsom udvikling i skolerne – de yngste hårdest ramt",
+      "url": "https://nyheder.tv2.dk/samfund/2026-10-01-ny-undersoegelse-peger-paa-voldsom-udvikling-i-skolerne-de-yngste-haardest-ramt",
+      "date": "01/10/2026",
+      "type": "Samfund",
+      "firstSeenAt": "2026-10-01T14:46:52.636Z",
+      "titleVi": "Nghiên cứu mới chỉ ra sự phát triển nhanh chóng trong trường học – người trẻ tuổi nhất bị ảnh hưởng nặng nề nhất"
+    },
+    {
+      "id": "https://nyheder.tv2.dk/live/krimi/2026-07-03-mand-doed-efter-vold-ved-vm-arrangement-paa-islands-brygge",
+      "source": "tv2",
+      "title": "Anklager kræver fængsel for dødeligt slag ved storskærmsarrangement",
+      "url": "https://nyheder.tv2.dk/live/krimi/2026-07-03-mand-doed-efter-vold-ved-vm-arrangement-paa-islands-brygge",
+      "date": "03/07/2026",
+      "type": "Live",
+      "firstSeenAt": "2026-10-01T14:46:52.636Z",
+      "titleVi": "Công tố viên yêu cầu bỏ tù vì đánh chết người tại sự kiện trên màn hình lớn"
+    },
+    {
+      "id": "https://nyheder.tv2.dk/politik/2026-09-29-stoettepartier-vil-have-frandsen-til-lommerne-foer-forfremmelse",
+      "source": "tv2",
+      "title": "Støttepartier vil have Frandsen til lommerne før forfremmelse",
+      "url": "https://nyheder.tv2.dk/politik/2026-09-29-stoettepartier-vil-have-frandsen-til-lommerne-foer-forfremmelse",
+      "date": "29/09/2026",
+      "type": "Politik",
+      "firstSeenAt": "2026-10-01T07:33:06.489Z",
+      "titleVi": "Các bên ủng hộ muốn Frandsen vào túi của họ trước khi quảng bá"
     },
     {
       "id": "https://nyheder.tv2.dk/live/tech/2026-09-09-ai-forandrer-verden",
@@ -550,16 +630,6 @@
       "type": "Udland",
       "firstSeenAt": "2026-10-01T07:33:06.489Z",
       "titleVi": "Tàu lượn siêu tốc đóng cửa sau khi báo cáo chấn thương não"
-    },
-    {
-      "id": "https://nyheder.tv2.dk/live/politik/2025-08-11-dansk-politik",
-      "source": "tv2",
-      "title": "Hele DF's bestyrelse i Tønder er gået af",
-      "url": "https://nyheder.tv2.dk/live/politik/2025-08-11-dansk-politik",
-      "date": "11/08/2025",
-      "type": "Live",
-      "firstSeenAt": "2026-09-28T00:30:42.330Z",
-      "titleVi": "Toàn bộ hội đồng quản trị của DF ở Tønder đã từ chức"
     },
     {
       "id": "https://nyheder.tv2.dk/live/udland/2025-03-17-verden-i-forandring",
@@ -700,76 +770,6 @@
       "type": "Live",
       "firstSeenAt": "2026-09-30T12:25:50.653Z",
       "titleVi": "Nhà phân tích nói rằng nông nghiệp nhận được 'thông điệp rất rõ ràng'"
-    },
-    {
-      "id": "https://nyheder.tv2.dk/samfund/2026-09-30-tidligere-flextrafik-konge-efterlyses-internationalt",
-      "source": "tv2",
-      "title": "Tidligere flextrafik-konge efterlyses internationalt",
-      "url": "https://nyheder.tv2.dk/samfund/2026-09-30-tidligere-flextrafik-konge-efterlyses-internationalt",
-      "date": "30/09/2026",
-      "type": "Samfund",
-      "firstSeenAt": "2026-09-30T18:04:28.934Z",
-      "titleVi": "Cựu vua giao thông linh hoạt muốn quốc tế"
-    },
-    {
-      "id": "https://nyheder.tv2.dk/samfund/2026-09-30-instagram-profil-fik-familie-til-at-flytte-naesten-300-kilometer",
-      "source": "tv2",
-      "title": "Instagram-profil fik familie til at flytte næsten 300 kilometer",
-      "url": "https://nyheder.tv2.dk/samfund/2026-09-30-instagram-profil-fik-familie-til-at-flytte-naesten-300-kilometer",
-      "date": "30/09/2026",
-      "type": "Samfund",
-      "firstSeenAt": "2026-09-30T12:25:50.653Z",
-      "titleVi": "Hồ sơ Instagram khiến gia đình phải di chuyển gần 300 km"
-    },
-    {
-      "id": "https://nyheder.tv2.dk/samfund/2026-09-30-flere-kom-alvorligt-til-skade-i-lalandia-forlystelse-kaldes-hoej-risiko",
-      "source": "tv2",
-      "title": "Flere kom alvorligt til skade i Lalandia – forlystelse kaldes \"høj risiko\"",
-      "url": "https://nyheder.tv2.dk/samfund/2026-09-30-flere-kom-alvorligt-til-skade-i-lalandia-forlystelse-kaldes-hoej-risiko",
-      "date": "30/09/2026",
-      "type": "Samfund",
-      "firstSeenAt": "2026-09-30T12:25:50.653Z",
-      "titleVi": "Một số người bị thương nặng tại Lalandia – giải trí được gọi là \"nguy cơ cao\""
-    },
-    {
-      "id": "https://nyheder.tv2.dk/live/udland/2025-07-18-storbritannien-overvejer-at-fjerne-eksprins-andrew-fra-arvefoelge",
-      "source": "tv2",
-      "title": "Stort presseopbud til Epstein-høring",
-      "url": "https://nyheder.tv2.dk/live/udland/2025-07-18-storbritannien-overvejer-at-fjerne-eksprins-andrew-fra-arvefoelge",
-      "date": "18/07/2025",
-      "type": "Live",
-      "firstSeenAt": "2026-09-30T12:25:50.653Z",
-      "titleVi": "Cuộc gọi báo chí lớn cho phiên điều trần Epstein"
-    },
-    {
-      "id": "https://nyheder.tv2.dk/live/samfund/2026-09-28-dansk-landbrug-i-forandring",
-      "source": "tv2",
-      "title": "V-politiker sammenligner sprøjteforbud med mink-sagen",
-      "url": "https://nyheder.tv2.dk/live/samfund/2026-09-28-dansk-landbrug-i-forandring",
-      "date": "28/09/2026",
-      "type": "Live",
-      "firstSeenAt": "2026-09-28T19:41:06.213Z",
-      "titleVi": "Chính trị gia V so sánh lệnh cấm phun với vỏ chồn"
-    },
-    {
-      "id": "https://nyheder.tv2.dk/udland/2026-09-30-hoejrefloejens-haab-i-frankrig-advarer-om-total-krig-efter-beskyldninger-om-antisemitisme",
-      "source": "tv2",
-      "title": "Højrefløjens håb i Frankrig advarer om \"total krig\" efter beskyldninger om antisemitisme",
-      "url": "https://nyheder.tv2.dk/udland/2026-09-30-hoejrefloejens-haab-i-frankrig-advarer-om-total-krig-efter-beskyldninger-om-antisemitisme",
-      "date": "30/09/2026",
-      "type": "Udland",
-      "firstSeenAt": "2026-09-30T12:25:50.653Z",
-      "titleVi": "Hy vọng cánh hữu ở Pháp cảnh báo về \"chiến tranh tổng lực\" sau những cáo buộc chống chủ nghĩa bài Do Thái"
-    },
-    {
-      "id": "https://nyheder.tv2.dk/samfund/2026-09-30-siden-hendes-hjertestop-har-usynlige-problemer-sendt-hende-i-dyb-ensomhed",
-      "source": "tv2",
-      "title": "Siden hendes hjertestop har 'usynlige problemer' sendt hende i dyb ensomhed",
-      "url": "https://nyheder.tv2.dk/samfund/2026-09-30-siden-hendes-hjertestop-har-usynlige-problemer-sendt-hende-i-dyb-ensomhed",
-      "date": "30/09/2026",
-      "type": "Samfund",
-      "firstSeenAt": "2026-09-30T12:25:50.653Z",
-      "titleVi": "Kể từ khi cô ấy bị ngừng tim, 'những vấn đề vô hình' đã khiến cô ấy cô đơn sâu sắc"
     }
   ]
 }
