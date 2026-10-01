@@ -1,6 +1,6 @@
 {
   "monitoringStartedAt": "2026-09-28T00:17:35.319Z",
-  "updatedAt": "2026-10-01T20:09:51.057Z",
+  "updatedAt": "2026-10-01T23:52:50.508Z",
   "sources": {
     "kongehuset": {
       "name": "Kongehuset",
@@ -522,6 +522,16 @@
       "titleVi": "Khán giả công khai ngày 17 tháng 8 năm 2026"
     },
     {
+      "id": "https://nyheder.tv2.dk/live/kort-nyt",
+      "source": "tv2",
+      "title": "Unge kører på el-løbehjul i Rema 1000",
+      "url": "https://nyheder.tv2.dk/live/kort-nyt",
+      "date": "—",
+      "type": "Live",
+      "firstSeenAt": "2026-09-28T00:30:42.330Z",
+      "titleVi": "Giới trẻ đi xe máy điện trong REMA 1000"
+    },
+    {
       "id": "https://nyheder.tv2.dk/live/2024-09-08-seneste-nyt-om-krigen-i-ukraine-70b1d6cc-0720-404e-9878-45546e1999e7",
       "source": "tv2",
       "title": "Putin fremhæver \"ødelæggelsesvåben\" i kampen mod NATO",
@@ -530,6 +540,56 @@
       "type": "Live",
       "firstSeenAt": "2026-09-28T00:30:42.330Z",
       "titleVi": "Putin nêu bật 'Vũ khí hủy diệt' trong cuộc chiến chống lại NATO"
+    },
+    {
+      "id": "https://nyheder.tv2.dk/live/udland/2026-09-04-retssagen-mod-lindsay-clancy",
+      "source": "tv2",
+      "title": "Dommer afviser at frifinde Lindsay Clancy",
+      "url": "https://nyheder.tv2.dk/live/udland/2026-09-04-retssagen-mod-lindsay-clancy",
+      "date": "04/09/2026",
+      "type": "Live",
+      "firstSeenAt": "2026-10-01T23:52:50.508Z",
+      "titleVi": "Thẩm phán từ chối tha bổng Lindsay Clancy"
+    },
+    {
+      "id": "https://nyheder.tv2.dk/udland/2026-09-30-missionen-er-fuldfoert-saadan-knaekkede-vesten-islamisk-stat",
+      "source": "tv2",
+      "title": "Missionen er fuldført – sådan knækkede Vesten Islamisk Stat",
+      "url": "https://nyheder.tv2.dk/udland/2026-09-30-missionen-er-fuldfoert-saadan-knaekkede-vesten-islamisk-stat",
+      "date": "30/09/2026",
+      "type": "Udland",
+      "firstSeenAt": "2026-10-01T23:52:50.508Z",
+      "titleVi": "Nhiệm vụ đã hoàn thành – phương Tây đã phá vỡ Nhà nước Hồi giáo như thế nào"
+    },
+    {
+      "id": "https://nyheder.tv2.dk/live/politik/2026-10-01-ny-redegoerelse-om-droner-over-danmark",
+      "source": "tv2",
+      "title": "Efter TV 2-afsløring: Forsvaret erkender fejl – skød da passagerfly fløj forbi",
+      "url": "https://nyheder.tv2.dk/live/politik/2026-10-01-ny-redegoerelse-om-droner-over-danmark",
+      "date": "01/10/2026",
+      "type": "Live",
+      "firstSeenAt": "2026-10-01T14:46:52.636Z",
+      "titleVi": "Sau khi truyền hình 2 tiết lộ: Quốc phòng thừa nhận lỗi – bị bắn khi máy bay chở khách bay qua"
+    },
+    {
+      "id": "https://nyheder.tv2.dk/live/udland/2026-01-08-krig-i-mellemoesten",
+      "source": "tv2",
+      "title": "USA vil snart vinde krigen mod Iran, siger Trump",
+      "url": "https://nyheder.tv2.dk/live/udland/2026-01-08-krig-i-mellemoesten",
+      "date": "08/01/2026",
+      "type": "Live",
+      "firstSeenAt": "2026-10-01T23:52:50.508Z",
+      "titleVi": "Trump nói rằng Mỹ sẽ sớm giành chiến thắng trong cuộc chiến chống lại Iran"
+    },
+    {
+      "id": "https://nyheder.tv2.dk/live/udland/2025-01-13-konflikten-i-israel-gaza-og-vestbredden",
+      "source": "tv2",
+      "title": "Israelsk finansminister vil i krig på Vestbredden",
+      "url": "https://nyheder.tv2.dk/live/udland/2025-01-13-konflikten-i-israel-gaza-og-vestbredden",
+      "date": "13/01/2025",
+      "type": "Live",
+      "firstSeenAt": "2026-10-01T23:52:50.508Z",
+      "titleVi": "Bộ trưởng Tài chính Israel muốn tham chiến ở Bờ Tây"
     },
     {
       "id": "https://nyheder.tv2.dk/udland/2026-09-30-norge-mister-100000-sardindaaser-fra-kriselager",
@@ -542,16 +602,6 @@
       "titleVi": "Na Uy mất 100.000 lon cá mòi từ kho dự trữ khủng hoảng"
     },
     {
-      "id": "https://nyheder.tv2.dk/live/kort-nyt",
-      "source": "tv2",
-      "title": "Zara offentliggør kollektion med omstridte John Galliano",
-      "url": "https://nyheder.tv2.dk/live/kort-nyt",
-      "date": "—",
-      "type": "Live",
-      "firstSeenAt": "2026-09-28T00:30:42.330Z",
-      "titleVi": "Zara xuất bản bộ sưu tập với John Galliano gây tranh cãi"
-    },
-    {
       "id": "https://nyheder.tv2.dk/live/udland/2026-09-30-fly-mod-israel-omdirigeret-efter-voldelig-episode-i-cockpit",
       "source": "tv2",
       "title": "Israel deler nyt om gerningsmand i flydubai-hændelse",
@@ -560,16 +610,6 @@
       "type": "Live",
       "firstSeenAt": "2026-10-01T14:46:52.636Z",
       "titleVi": "Israel chia sẻ tin tức về thủ phạm của sự cố flydubai"
-    },
-    {
-      "id": "https://nyheder.tv2.dk/live/politik/2026-10-01-ny-redegoerelse-om-droner-over-danmark",
-      "source": "tv2",
-      "title": "Efter TV 2-afsløring: Forsvaret erkender fejl – skød da passagerfly fløj forbi",
-      "url": "https://nyheder.tv2.dk/live/politik/2026-10-01-ny-redegoerelse-om-droner-over-danmark",
-      "date": "01/10/2026",
-      "type": "Live",
-      "firstSeenAt": "2026-10-01T14:46:52.636Z",
-      "titleVi": "Sau khi truyền hình 2 tiết lộ: Quốc phòng thừa nhận lỗi – bị bắn khi máy bay chở khách bay qua"
     },
     {
       "id": "https://nyheder.tv2.dk/live/politik/2025-08-11-dansk-politik",
@@ -602,13 +642,13 @@
       "titleVi": "Cuộc tranh luận lan truyền trực tuyến – bạn phải mang cà phê đá đến một cuộc phỏng vấn xin việc"
     },
     {
-      "id": "https://nyheder.tv2.dk/udland/2026-10-01-tidligere-jaegerpilot-kalder-fly-episode-for-mirakel",
+      "id": "https://nyheder.tv2.dk/udland/2026-10-01-tidligere-jagerpilot-kalder-fly-episode-for-mirakel",
       "source": "tv2",
-      "title": "Tidligere jægerpilot kalder fly-episode for \"mirakel\"",
-      "url": "https://nyheder.tv2.dk/udland/2026-10-01-tidligere-jaegerpilot-kalder-fly-episode-for-mirakel",
+      "title": "Tidligere jagerpilot kalder fly-episode for \"mirakel\"",
+      "url": "https://nyheder.tv2.dk/udland/2026-10-01-tidligere-jagerpilot-kalder-fly-episode-for-mirakel",
       "date": "01/10/2026",
       "type": "Udland",
-      "firstSeenAt": "2026-10-01T20:09:51.057Z",
+      "firstSeenAt": "2026-10-01T23:52:50.508Z",
       "titleVi": "Cựu phi công máy bay chiến đấu gọi sự cố máy bay là \"phép màu\""
     },
     {
@@ -770,46 +810,6 @@
       "type": "Live",
       "firstSeenAt": "2026-09-30T22:16:36.466Z",
       "titleVi": "Bộ Quốc phòng Hoa Kỳ được Musk hỗ trợ trong chiến tranh trong tương lai"
-    },
-    {
-      "id": "https://nyheder.tv2.dk/live/samfund/2026-09-15-forsvarets-helikopter-beskudt-med-signalblus-af-russisk-fregat",
-      "source": "tv2",
-      "title": "Rusland indkalder dansk ambassadør efter helikoptersag",
-      "url": "https://nyheder.tv2.dk/live/samfund/2026-09-15-forsvarets-helikopter-beskudt-med-signalblus-af-russisk-fregat",
-      "date": "15/09/2026",
-      "type": "Live",
-      "firstSeenAt": "2026-09-30T18:04:28.934Z",
-      "titleVi": "Nga triệu tập đại sứ Đan Mạch sau vụ trực thăng"
-    },
-    {
-      "id": "https://nyheder.tv2.dk/udland/2026-09-30-vi-befinder-os-i-cockpittet-vi-har-netop-overmandet-terroristerne",
-      "source": "tv2",
-      "title": "- Vi befinder os i cockpittet. Vi har netop overmandet terroristerne",
-      "url": "https://nyheder.tv2.dk/udland/2026-09-30-vi-befinder-os-i-cockpittet-vi-har-netop-overmandet-terroristerne",
-      "date": "30/09/2026",
-      "type": "Udland",
-      "firstSeenAt": "2026-09-30T22:16:36.466Z",
-      "titleVi": "- Chúng tôi đang ở trong buồng lái. Chúng ta vừa áp đảo những kẻ khủng bố"
-    },
-    {
-      "id": "https://nyheder.tv2.dk/samfund/2026-09-30-lolland-sparer-skoler-og-plejecentre-vaek-fuldstaendig-vanvittigt-siger-borgmester",
-      "source": "tv2",
-      "title": "Lolland sparer skoler og plejecentre væk – \"fuldstændig vanvittigt\", siger borgmester",
-      "url": "https://nyheder.tv2.dk/samfund/2026-09-30-lolland-sparer-skoler-og-plejecentre-vaek-fuldstaendig-vanvittigt-siger-borgmester",
-      "date": "30/09/2026",
-      "type": "Samfund",
-      "firstSeenAt": "2026-09-30T22:16:36.466Z",
-      "titleVi": "Thị trưởng cho biết Lolland cứu các trường học và trung tâm chăm sóc – \"hoàn toàn điên rồ\""
-    },
-    {
-      "id": "https://nyheder.tv2.dk/live/udland/2026-07-31-migrantstroem-til-spansk-eksklave",
-      "source": "tv2",
-      "title": "Spanien vil undersøge anklager om soldaters overgreb i Ceuta",
-      "url": "https://nyheder.tv2.dk/live/udland/2026-07-31-migrantstroem-til-spansk-eksklave",
-      "date": "31/07/2026",
-      "type": "Live",
-      "firstSeenAt": "2026-09-30T22:16:36.466Z",
-      "titleVi": "Tây Ban Nha sẽ điều tra các cáo buộc lạm dụng binh lính ở Ceuta"
     },
     {
       "id": "https://www.kungahuset.se/arkiv/nyheter/2026-10-01-prins-daniel-gav-foretrade-for-guvernor-tim-walz",
@@ -1087,6 +1087,39 @@
       "titleVi": "Nghi thức hoàng gia: 10 quy tắc bạn không bao giờ được phá vỡ gần hoàng gia"
     },
     {
+      "id": "https://www.svenskdam.se/kungligt/furstinnan-charlenes-bebislycka-urgulliga-bilderna/11639576",
+      "source": "svenskdam",
+      "title": "Furstinnan Charlenes bebislycka – urgulliga bilderna!",
+      "url": "https://www.svenskdam.se/kungligt/furstinnan-charlenes-bebislycka-urgulliga-bilderna/11639576",
+      "date": "2/10/2026",
+      "publishedAt": "2026-10-02T00:00:00+02:00",
+      "type": "Kungligt",
+      "firstSeenAt": "2026-10-01T23:52:50.508Z",
+      "titleVi": "Hạnh phúc của công chúa Charlene – những bức ảnh đáng yêu!"
+    },
+    {
+      "id": "https://www.svenskdam.se/kungligt/drottning-letizia-stjal-showen-i-maxade-klanningen/11640576",
+      "source": "svenskdam",
+      "title": "Drottning Letizia stjäl showen – i maxade klänningen!",
+      "url": "https://www.svenskdam.se/kungligt/drottning-letizia-stjal-showen-i-maxade-klanningen/11640576",
+      "date": "1/10/2026",
+      "publishedAt": "2026-10-01T22:00:00+02:00",
+      "type": "Kungligt",
+      "firstSeenAt": "2026-10-01T23:52:50.508Z",
+      "titleVi": "Nữ hoàng Letizia đánh cắp chương trình – trong bộ váy tối đa!"
+    },
+    {
+      "id": "https://www.svenskdam.se/kungligt/victorias-orubbliga-mammabeslut-efter-egna-uppvaxten/10002551",
+      "source": "svenskdam",
+      "title": "Victorias orubbliga mammabeslut – efter egna uppväxten",
+      "url": "https://www.svenskdam.se/kungligt/victorias-orubbliga-mammabeslut-efter-egna-uppvaxten/10002551",
+      "date": "1/10/2026",
+      "publishedAt": "2026-10-01T06:00:00+02:00",
+      "type": "Kungligt",
+      "firstSeenAt": "2026-10-01T16:23:23.818Z",
+      "titleVi": "Quyết định không lay chuyển của mẹ Victoria – sau khi được nuôi dưỡng bởi chính mình"
+    },
+    {
       "id": "https://www.svenskdam.se/noje/soraya-lavasanis-utbrott-i-nyhetsmorgon-som-inte-kamerorna-fick-se/11637979",
       "source": "svenskdam",
       "title": "Soraya Lavasanis utbrott i Nyhetsmorgon – som inte kamerorna fick se!",
@@ -1107,17 +1140,6 @@
       "type": "Kungligt",
       "firstSeenAt": "2026-10-01T20:09:51.057Z",
       "titleVi": "Khoảnh khắc kỳ lạ giữa Victoria và Madeleine trên cầu thang – được chụp trên ảnh"
-    },
-    {
-      "id": "https://www.svenskdam.se/kungligt/victorias-orubbliga-mammabeslut-efter-egna-uppvaxten/10002551",
-      "source": "svenskdam",
-      "title": "Victorias orubbliga mammabeslut – efter egna uppväxten",
-      "url": "https://www.svenskdam.se/kungligt/victorias-orubbliga-mammabeslut-efter-egna-uppvaxten/10002551",
-      "date": "1/10/2026",
-      "publishedAt": "2026-10-01T06:00:00+02:00",
-      "type": "Kungligt",
-      "firstSeenAt": "2026-10-01T16:23:23.818Z",
-      "titleVi": "Quyết định không lay chuyển của mẹ Victoria – sau khi được nuôi dưỡng bởi chính mình"
     },
     {
       "id": "https://www.svenskdam.se/noje/kristin-kaspersens-karleksgladje-visar-upp-nya-en-fin-foljeslagare/11639330",
@@ -1263,28 +1285,6 @@
       "titleVi": "Sau những lời nói gay gắt của nhà vua trong quốc hội – bây giờ mọi người đều phản ứng"
     },
     {
-      "id": "https://www.svenskdam.se/noje/christina-schollin-har-salt-huset-bestamt-sig-nytt-kapitel/11637090",
-      "source": "svenskdam",
-      "title": "Christina Schollin har sålt huset – bestämt sig: “Vill skapa ett hem”",
-      "url": "https://www.svenskdam.se/noje/christina-schollin-har-salt-huset-bestamt-sig-nytt-kapitel/11637090",
-      "date": "30/9/2026",
-      "publishedAt": "2026-09-30T19:00:00+02:00",
-      "type": "Nöje",
-      "firstSeenAt": "2026-10-01T16:23:23.818Z",
-      "titleVi": "Christina Schollin đã bán ngôi nhà – quyết định: “Muốn tạo ra một ngôi nhà”"
-    },
-    {
-      "id": "https://www.svenskdam.se/kungligt/meghans-hemliga-mote-med-okanda-programledaren-allt-fangades-pa-bild/11637779",
-      "source": "svenskdam",
-      "title": "Meghans hemliga möte med ökända programledaren – allt fångades på bild",
-      "url": "https://www.svenskdam.se/kungligt/meghans-hemliga-mote-med-okanda-programledaren-allt-fangades-pa-bild/11637779",
-      "date": "30/9/2026",
-      "publishedAt": "2026-09-30T18:00:00+02:00",
-      "type": "Kungligt",
-      "firstSeenAt": "2026-10-01T16:23:23.818Z",
-      "titleVi": "Cuộc gặp bí mật của Meghan với chủ nhà khét tiếng – mọi thứ được ghi lại trên camera"
-    },
-    {
       "id": "https://www.svenskdam.se/creative-studio/darfor-byter-fler-elavtal-nar-de-flyttar-till-hus-och-sa-har-valjer-du-ratt/11609705",
       "source": "svenskdam",
       "title": "Därför byter fler elavtal när de flyttar till hus – och så här väljer du rätt",
@@ -1296,15 +1296,15 @@
       "titleVi": "Tại sao nhiều hợp đồng điện thay đổi khi họ chuyển đến một ngôi nhà – và đây là cách chọn hợp đồng điện phù hợp"
     },
     {
-      "id": "https://www.svenskdam.se/noje/pernilla-wahlgrens-beslut-paverkar-hela-familjen/11637032",
+      "id": "https://www.svenskdam.se/noje/christina-schollin-har-salt-huset-bestamt-sig-nytt-kapitel/11637090",
       "source": "svenskdam",
-      "title": "Pernilla Wahlgrens beslut – påverkar hela familjen",
-      "url": "https://www.svenskdam.se/noje/pernilla-wahlgrens-beslut-paverkar-hela-familjen/11637032",
+      "title": "Christina Schollin har sålt huset – bestämt sig: “Vill skapa ett hem”",
+      "url": "https://www.svenskdam.se/noje/christina-schollin-har-salt-huset-bestamt-sig-nytt-kapitel/11637090",
       "date": "30/9/2026",
-      "publishedAt": "2026-09-30T17:00:00+02:00",
+      "publishedAt": "2026-09-30T19:00:00+02:00",
       "type": "Nöje",
       "firstSeenAt": "2026-10-01T16:23:23.818Z",
-      "titleVi": "Quyết định của Pernilla Wahlgren – ảnh hưởng đến cả gia đình"
+      "titleVi": "Christina Schollin đã bán ngôi nhà – quyết định: “Muốn tạo ra một ngôi nhà”"
     },
     {
       "id": "https://www.svenskdam.se/noje/lasse-kroners-trakiga-beslut-med-karleken-camilla-efter-alla-ar/11634598",
@@ -1351,6 +1351,28 @@
       "titleVi": "Đó là lý do tại sao Sanna Nielsen, 41 tuổi, đội tóc giả trong vài năm – tự nói"
     },
     {
+      "id": "https://www.svenskdam.se/kungligt/meghans-hemliga-mote-med-okanda-programledaren-allt-fangades-pa-bild/11637779",
+      "source": "svenskdam",
+      "title": "Meghans hemliga möte med ökända programledaren – allt fångades på bild",
+      "url": "https://www.svenskdam.se/kungligt/meghans-hemliga-mote-med-okanda-programledaren-allt-fangades-pa-bild/11637779",
+      "date": "30/9/2026",
+      "publishedAt": "2026-09-30T18:00:00+02:00",
+      "type": "Kungligt",
+      "firstSeenAt": "2026-10-01T16:23:23.818Z",
+      "titleVi": "Cuộc gặp bí mật của Meghan với chủ nhà khét tiếng – mọi thứ được ghi lại trên camera"
+    },
+    {
+      "id": "https://www.svenskdam.se/noje/pernilla-wahlgrens-beslut-paverkar-hela-familjen/11637032",
+      "source": "svenskdam",
+      "title": "Pernilla Wahlgrens beslut – påverkar hela familjen",
+      "url": "https://www.svenskdam.se/noje/pernilla-wahlgrens-beslut-paverkar-hela-familjen/11637032",
+      "date": "30/9/2026",
+      "publishedAt": "2026-09-30T17:00:00+02:00",
+      "type": "Nöje",
+      "firstSeenAt": "2026-10-01T16:23:23.818Z",
+      "titleVi": "Quyết định của Pernilla Wahlgren – ảnh hưởng đến cả gia đình"
+    },
+    {
       "id": "https://www.svenskdam.se/kungligt/prinsessan-sofia-har-fargat-haret-svart-bryter-mot-traditionen-i-kungafamiljen/11637333",
       "source": "svenskdam",
       "title": "Prinsessan Sofia har färgat håret: \"Det är nästan svart\" • chockar alla",
@@ -1371,28 +1393,6 @@
       "type": "Nöje",
       "firstSeenAt": "2026-10-01T16:23:23.818Z",
       "titleVi": "Steffo Törnquist đã rời đi – xác nhận với người xem: \"Khá bất tỉnh\""
-    },
-    {
-      "id": "https://www.svenskdam.se/kungligt/prinsessan-forsvunnen-nu-riktas-skarp-kritik-ytterst-beklagligt/11635186",
-      "source": "svenskdam",
-      "title": "Prinsessan försvunnen – nu riktas skarp kritik: \"Ytterst beklagligt\"",
-      "url": "https://www.svenskdam.se/kungligt/prinsessan-forsvunnen-nu-riktas-skarp-kritik-ytterst-beklagligt/11635186",
-      "date": "30/9/2026",
-      "publishedAt": "2026-09-30T14:00:00+02:00",
-      "type": "Kungligt",
-      "firstSeenAt": "2026-10-01T16:23:23.818Z",
-      "titleVi": "Công chúa biến mất – bây giờ bị chỉ trích gay gắt: \"Vô cùng đáng tiếc\""
-    },
-    {
-      "id": "https://www.svenskdam.se/noje/sofia-far-inte-behalla-trissvinsten-efter-anders-pihlblads-utbrott-inte-klokt/11637376",
-      "source": "svenskdam",
-      "title": "Sofia får inte behålla trissvinsten – efter Anders Pihlblads utbrott: \"Inte klokt\"",
-      "url": "https://www.svenskdam.se/noje/sofia-far-inte-behalla-trissvinsten-efter-anders-pihlblads-utbrott-inte-klokt/11637376",
-      "date": "30/9/2026",
-      "publishedAt": "2026-09-30T13:00:00+02:00",
-      "type": "Nöje",
-      "firstSeenAt": "2026-10-01T16:23:23.818Z",
-      "titleVi": "Sofia không được phép giữ ba chiến thắng – sau khi Anders Pihlblad bùng nổ: \"Không khôn ngoan\""
     },
     {
       "id": "https://www.kongehuset.no/nyheter/dei-kongelege-beskyttarskapa",
