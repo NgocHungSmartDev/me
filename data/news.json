@@ -1,6 +1,6 @@
 {
   "monitoringStartedAt": "2026-09-28T00:17:35.319Z",
-  "updatedAt": "2026-09-30T22:16:36.466Z",
+  "updatedAt": "2026-10-01T07:33:06.489Z",
   "sources": {
     "kongehuset": {
       "name": "Kongehuset",
@@ -482,14 +482,74 @@
       "titleVi": "Công chúa Benedikte của HRH đã tham dự Giải vô địch thế giới FEI Aachen 2026"
     },
     {
+      "id": "https://nyheder.tv2.dk/live/2026-09-30-fly-mod-israel-omdirigeret-efter-voldelig-episode-i-cockpit",
+      "source": "tv2",
+      "title": "Fly mod Israel omdirigeret efter voldelig episode i cockpit",
+      "url": "https://nyheder.tv2.dk/live/2026-09-30-fly-mod-israel-omdirigeret-efter-voldelig-episode-i-cockpit",
+      "date": "30/09/2026",
+      "type": "Live",
+      "firstSeenAt": "2026-09-30T18:04:28.934Z",
+      "titleVi": "Chuyến bay đến Israel chuyển hướng sau sự cố bạo lực trong buồng lái"
+    },
+    {
+      "id": "https://nyheder.tv2.dk/politik/2026-09-29-stoettepartier-vil-have-frandsen-til-lommerne-foer-forfremmelse",
+      "source": "tv2",
+      "title": "Støttepartier vil have Frandsen til lommerne før forfremmelse",
+      "url": "https://nyheder.tv2.dk/politik/2026-09-29-stoettepartier-vil-have-frandsen-til-lommerne-foer-forfremmelse",
+      "date": "29/09/2026",
+      "type": "Politik",
+      "firstSeenAt": "2026-10-01T07:33:06.489Z",
+      "titleVi": "Các bên ủng hộ muốn Frandsen vào túi của họ trước khi quảng bá"
+    },
+    {
       "id": "https://nyheder.tv2.dk/live/kort-nyt",
       "source": "tv2",
-      "title": "Politi og beredskab massivt til stede ved brand i etageejendom",
+      "title": "95-årig narret til at udlevere guldsmykker",
       "url": "https://nyheder.tv2.dk/live/kort-nyt",
       "date": "—",
       "type": "Live",
       "firstSeenAt": "2026-09-28T00:30:42.330Z",
-      "titleVi": "Cảnh sát và các dịch vụ khẩn cấp ồ ạt có mặt trong trường hợp hỏa hoạn trong tòa nhà chung cư"
+      "titleVi": "Người đàn ông 95 tuổi bị lừa giao đồ trang sức bằng vàng"
+    },
+    {
+      "id": "https://nyheder.tv2.dk/live/2024-09-08-seneste-nyt-om-krigen-i-ukraine-70b1d6cc-0720-404e-9878-45546e1999e7",
+      "source": "tv2",
+      "title": "Danmark må ikke lade sig skræmme af russiske trusler, siger Løkke",
+      "url": "https://nyheder.tv2.dk/live/2024-09-08-seneste-nyt-om-krigen-i-ukraine-70b1d6cc-0720-404e-9878-45546e1999e7",
+      "date": "08/09/2024",
+      "type": "Live",
+      "firstSeenAt": "2026-09-28T00:30:42.330Z",
+      "titleVi": "Løkke nói rằng Đan Mạch không thể bị đe dọa bởi các mối đe dọa của Nga"
+    },
+    {
+      "id": "https://nyheder.tv2.dk/live/tech/2026-09-09-ai-forandrer-verden",
+      "source": "tv2",
+      "title": "Gavin Newsom går imod Trumps AI-navneændring",
+      "url": "https://nyheder.tv2.dk/live/tech/2026-09-09-ai-forandrer-verden",
+      "date": "09/09/2026",
+      "type": "Live",
+      "firstSeenAt": "2026-09-28T00:30:42.330Z",
+      "titleVi": "Gavin Newsom phản đối việc thay đổi tên AI của Trump"
+    },
+    {
+      "id": "https://nyheder.tv2.dk/udland/2026-10-01-amerikansk-kvinde-er-stadig-i-live-efter-henrettelsesforsoeg",
+      "source": "tv2",
+      "title": "Amerikansk kvinde er stadig i live efter henrettelsesforsøg",
+      "url": "https://nyheder.tv2.dk/udland/2026-10-01-amerikansk-kvinde-er-stadig-i-live-efter-henrettelsesforsoeg",
+      "date": "01/10/2026",
+      "type": "Udland",
+      "firstSeenAt": "2026-10-01T07:33:06.489Z",
+      "titleVi": "Người phụ nữ Mỹ vẫn còn sống sau khi cố gắng thực hiện"
+    },
+    {
+      "id": "https://nyheder.tv2.dk/udland/2026-10-01-rutsjebane-lukker-efter-meldinger-om-hjerneskader",
+      "source": "tv2",
+      "title": "Rutsjebane lukker efter meldinger om hjerneskader",
+      "url": "https://nyheder.tv2.dk/udland/2026-10-01-rutsjebane-lukker-efter-meldinger-om-hjerneskader",
+      "date": "01/10/2026",
+      "type": "Udland",
+      "firstSeenAt": "2026-10-01T07:33:06.489Z",
+      "titleVi": "Tàu lượn siêu tốc đóng cửa sau khi báo cáo chấn thương não"
     },
     {
       "id": "https://nyheder.tv2.dk/live/politik/2025-08-11-dansk-politik",
@@ -510,36 +570,6 @@
       "type": "Live",
       "firstSeenAt": "2026-09-30T22:16:36.466Z",
       "titleVi": "Bộ Quốc phòng Hoa Kỳ được Musk hỗ trợ trong chiến tranh trong tương lai"
-    },
-    {
-      "id": "https://nyheder.tv2.dk/live/2026-09-30-fly-mod-israel-omdirigeret-efter-voldelig-episode-i-cockpit",
-      "source": "tv2",
-      "title": "Fly mod Israel omdirigeret efter voldelig episode i cockpit",
-      "url": "https://nyheder.tv2.dk/live/2026-09-30-fly-mod-israel-omdirigeret-efter-voldelig-episode-i-cockpit",
-      "date": "30/09/2026",
-      "type": "Live",
-      "firstSeenAt": "2026-09-30T18:04:28.934Z",
-      "titleVi": "Chuyến bay đến Israel chuyển hướng sau sự cố bạo lực trong buồng lái"
-    },
-    {
-      "id": "https://nyheder.tv2.dk/live/tech/2026-09-09-ai-forandrer-verden",
-      "source": "tv2",
-      "title": "Stor undersøgelse indledt mod AI-giganter i USA",
-      "url": "https://nyheder.tv2.dk/live/tech/2026-09-09-ai-forandrer-verden",
-      "date": "09/09/2026",
-      "type": "Live",
-      "firstSeenAt": "2026-09-28T00:30:42.330Z",
-      "titleVi": "Cuộc điều tra quy mô lớn bắt đầu chống lại những gã khổng lồ AI ở Mỹ"
-    },
-    {
-      "id": "https://nyheder.tv2.dk/live/2024-09-08-seneste-nyt-om-krigen-i-ukraine-70b1d6cc-0720-404e-9878-45546e1999e7",
-      "source": "tv2",
-      "title": "Luftalarmer koster Ukraine 300 millioner kroner i timen",
-      "url": "https://nyheder.tv2.dk/live/2024-09-08-seneste-nyt-om-krigen-i-ukraine-70b1d6cc-0720-404e-9878-45546e1999e7",
-      "date": "08/09/2024",
-      "type": "Live",
-      "firstSeenAt": "2026-09-28T00:30:42.330Z",
-      "titleVi": "Báo động không khí tiêu tốn của Ukraine 300 triệu NOK mỗi giờ"
     },
     {
       "id": "https://nyheder.tv2.dk/live/samfund/2026-09-15-forsvarets-helikopter-beskudt-med-signalblus-af-russisk-fregat",
@@ -740,36 +770,6 @@
       "type": "Samfund",
       "firstSeenAt": "2026-09-30T12:25:50.653Z",
       "titleVi": "Kể từ khi cô ấy bị ngừng tim, 'những vấn đề vô hình' đã khiến cô ấy cô đơn sâu sắc"
-    },
-    {
-      "id": "https://nyheder.tv2.dk/udland/2026-09-30-republikaner-tager-grueligt-fejl-hoering-om-anklager-mod-trump-loeber-helt-af-sporet",
-      "source": "tv2",
-      "title": "Republikaner tager grueligt fejl – høring om anklager mod Trump løber helt af sporet",
-      "url": "https://nyheder.tv2.dk/udland/2026-09-30-republikaner-tager-grueligt-fejl-hoering-om-anklager-mod-trump-loeber-helt-af-sporet",
-      "date": "30/09/2026",
-      "type": "Udland",
-      "firstSeenAt": "2026-09-30T12:25:50.653Z",
-      "titleVi": "Đảng Cộng hòa đã sai lầm khủng khiếp – phiên điều trần về các cáo buộc chống lại Trump hoàn toàn đi chệch khỏi đường ray"
-    },
-    {
-      "id": "https://nyheder.tv2.dk/samfund/2026-09-30-roskilde-festival-offentliggoer-foerste-18-navne",
-      "source": "tv2",
-      "title": "Roskilde Festival offentliggør første 18 navne",
-      "url": "https://nyheder.tv2.dk/samfund/2026-09-30-roskilde-festival-offentliggoer-foerste-18-navne",
-      "date": "30/09/2026",
-      "type": "Samfund",
-      "firstSeenAt": "2026-09-30T12:25:50.653Z",
-      "titleVi": "Lễ hội Roskilde công bố 18 cái tên đầu tiên"
-    },
-    {
-      "id": "https://nyheder.tv2.dk/udland/2026-09-30-pilot-overfaldet-under-flyvning-til-israel-siger-passagerer",
-      "source": "tv2",
-      "title": "Pilot overfaldet under flyvning til Israel, siger passagerer",
-      "url": "https://nyheder.tv2.dk/udland/2026-09-30-pilot-overfaldet-under-flyvning-til-israel-siger-passagerer",
-      "date": "30/09/2026",
-      "type": "Udland",
-      "firstSeenAt": "2026-09-30T12:25:50.653Z",
-      "titleVi": "Hành khách cho biết phi công bị tấn công khi bay đến Israel"
     }
   ]
 }
