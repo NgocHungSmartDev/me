@@ -1,6 +1,6 @@
 {
   "monitoringStartedAt": "2026-09-28T00:17:35.319Z",
-  "updatedAt": "2026-10-02T20:52:25.582Z",
+  "updatedAt": "2026-10-03T00:11:13.124Z",
   "sources": {
     "kongehuset": {
       "name": "Kongehuset",
@@ -33,9 +33,9 @@
       "language": "sv",
       "monitoringStartedAt": "2026-10-01T16:20:13.213Z",
       "status": {
-        "state": "ok",
-        "message": "",
-        "changedAt": "2026-10-02T16:22:25.026Z"
+        "state": "error",
+        "message": "fetch failed",
+        "changedAt": "2026-10-03T00:11:13.124Z"
       }
     },
     "svenskdam": {
@@ -522,6 +522,16 @@
       "titleVi": "Khán giả công khai ngày 17 tháng 8 năm 2026"
     },
     {
+      "id": "https://nyheder.tv2.dk/krimi/2026-10-02-mand-smadrer-flere-ruder-paa-tv-2-med-brosten",
+      "source": "tv2",
+      "title": "Mand smadrer flere ruder på TV 2 med brosten",
+      "url": "https://nyheder.tv2.dk/krimi/2026-10-02-mand-smadrer-flere-ruder-paa-tv-2-med-brosten",
+      "date": "02/10/2026",
+      "type": "Krimi",
+      "firstSeenAt": "2026-10-03T00:11:13.124Z",
+      "titleVi": "Người đàn ông đập vỡ một số cửa sổ trên TV 2 bằng đá cuội"
+    },
+    {
       "id": "https://nyheder.tv2.dk/live/2024-09-08-seneste-nyt-om-krigen-i-ukraine-70b1d6cc-0720-404e-9878-45546e1999e7",
       "source": "tv2",
       "title": "Hemmelig modoffensiv har gjort livet surt for russerne, siger tænketank",
@@ -800,16 +810,6 @@
       "type": "Samfund",
       "firstSeenAt": "2026-10-02T10:40:03.251Z",
       "titleVi": "Kiểm soát dịch hại lo ngại năm chuột lớn - đi kèm với lời kêu gọi trực tiếp"
-    },
-    {
-      "id": "https://nyheder.tv2.dk/tech/2026-08-29-twitter-genopstaar-midt-i-strid-med-elon-musk",
-      "source": "tv2",
-      "title": "Twitter genopstår midt i strid med Elon Musk",
-      "url": "https://nyheder.tv2.dk/tech/2026-08-29-twitter-genopstaar-midt-i-strid-med-elon-musk",
-      "date": "29/08/2026",
-      "type": "Tech",
-      "firstSeenAt": "2026-10-02T10:40:03.251Z",
-      "titleVi": "Twitter hồi sinh giữa tranh cãi với Elon Musk"
     },
     {
       "id": "https://www.kungahuset.se/arkiv/nyheter/2026-10-02-estlands-president-togs-emot-i-audiens",
