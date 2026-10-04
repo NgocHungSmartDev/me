@@ -1,6 +1,6 @@
 {
   "monitoringStartedAt": "2026-09-28T00:17:35.319Z",
-  "updatedAt": "2026-10-04T16:56:05.527Z",
+  "updatedAt": "2026-10-04T19:55:49.982Z",
   "sources": {
     "kongehuset": {
       "name": "Kongehuset",
@@ -524,12 +524,82 @@
     {
       "id": "https://nyheder.tv2.dk/live/kort-nyt",
       "source": "tv2",
-      "title": "Brand i Bilka er slukket",
+      "title": "Netanyahu kræver gennemgang af sikkerhed efter angreb i fly",
       "url": "https://nyheder.tv2.dk/live/kort-nyt",
       "date": "—",
       "type": "Live",
       "firstSeenAt": "2026-09-28T00:30:42.330Z",
-      "titleVi": "Cháy ở Bilka đã được dập tắt"
+      "titleVi": "Netanyahu yêu cầu đánh giá an ninh sau vụ tấn công máy bay"
+    },
+    {
+      "id": "https://nyheder.tv2.dk/samfund/2026-10-04-kendt-bageri-forsoeger-at-raabe-branchen-op-mangler-faglaert-arbejdskraft",
+      "source": "tv2",
+      "title": "Kendt bageri forsøger at råbe branchen op – mangler faglært arbejdskraft",
+      "url": "https://nyheder.tv2.dk/samfund/2026-10-04-kendt-bageri-forsoeger-at-raabe-branchen-op-mangler-faglaert-arbejdskraft",
+      "date": "04/10/2026",
+      "type": "Samfund",
+      "firstSeenAt": "2026-10-04T19:55:49.982Z",
+      "titleVi": "Tiệm bánh nổi tiếng cố gắng chỉ ra ngành công nghiệp – thiếu lao động lành nghề"
+    },
+    {
+      "id": "https://nyheder.tv2.dk/live/udland/2026-01-08-krig-i-mellemoesten",
+      "source": "tv2",
+      "title": "Houthier hævder igen at have angrebet saudisk oliegigant",
+      "url": "https://nyheder.tv2.dk/live/udland/2026-01-08-krig-i-mellemoesten",
+      "date": "08/01/2026",
+      "type": "Live",
+      "firstSeenAt": "2026-10-03T14:55:54.692Z",
+      "titleVi": "Houthis một lần nữa tuyên bố đã tấn công gã khổng lồ dầu mỏ Saudi"
+    },
+    {
+      "id": "https://nyheder.tv2.dk/live/udland/2026-09-30-fly-mod-israel-omdirigeret-efter-voldelig-episode-i-cockpit",
+      "source": "tv2",
+      "title": "Pilot brugte økse under terrorforsøg, siger anklagemyndighed",
+      "url": "https://nyheder.tv2.dk/live/udland/2026-09-30-fly-mod-israel-omdirigeret-efter-voldelig-episode-i-cockpit",
+      "date": "30/09/2026",
+      "type": "Live",
+      "firstSeenAt": "2026-10-01T14:46:52.636Z",
+      "titleVi": "Công tố viên cho biết phi công đã sử dụng rìu trong nỗ lực khủng bố"
+    },
+    {
+      "id": "https://nyheder.tv2.dk/live/2024-09-08-seneste-nyt-om-krigen-i-ukraine-70b1d6cc-0720-404e-9878-45546e1999e7",
+      "source": "tv2",
+      "title": "Ukraine og Tyskland drøfter leverancer af flydende naturgas",
+      "url": "https://nyheder.tv2.dk/live/2024-09-08-seneste-nyt-om-krigen-i-ukraine-70b1d6cc-0720-404e-9878-45546e1999e7",
+      "date": "08/09/2024",
+      "type": "Live",
+      "firstSeenAt": "2026-09-28T00:30:42.330Z",
+      "titleVi": "Ukraine và Đức thảo luận về việc cung cấp khí đốt tự nhiên hóa lỏng"
+    },
+    {
+      "id": "https://nyheder.tv2.dk/live/udland/2025-03-17-verden-i-forandring",
+      "source": "tv2",
+      "title": "Premierminister vinder valget i Letland – godt nyt for Ukraine",
+      "url": "https://nyheder.tv2.dk/live/udland/2025-03-17-verden-i-forandring",
+      "date": "17/03/2025",
+      "type": "Live",
+      "firstSeenAt": "2026-10-03T10:31:35.864Z",
+      "titleVi": "Thủ tướng thắng cuộc bầu cử ở Latvia – tin tốt cho Ukraine"
+    },
+    {
+      "id": "https://nyheder.tv2.dk/live/2025-01-06-kampen-om-groenlands-fremtid",
+      "source": "tv2",
+      "title": "Trump deler mystisk billede af sig selv og Grønland – igen",
+      "url": "https://nyheder.tv2.dk/live/2025-01-06-kampen-om-groenlands-fremtid",
+      "date": "06/01/2025",
+      "type": "Live",
+      "firstSeenAt": "2026-10-04T19:55:49.982Z",
+      "titleVi": "Trump chia sẻ bức ảnh bí ẩn của mình và Greenland – một lần nữa"
+    },
+    {
+      "id": "https://nyheder.tv2.dk/samfund/2026-10-04-italiensk-koebmand-i-koebenhavn-er-irriteret-over-kunder-der-ikke-hilser",
+      "source": "tv2",
+      "title": "Italiensk købmand i København er irriteret over kunder, der ikke hilser",
+      "url": "https://nyheder.tv2.dk/samfund/2026-10-04-italiensk-koebmand-i-koebenhavn-er-irriteret-over-kunder-der-ikke-hilser",
+      "date": "04/10/2026",
+      "type": "Samfund",
+      "firstSeenAt": "2026-10-04T19:55:49.982Z",
+      "titleVi": "Cửa hàng tạp hóa Ý ở Copenhagen cảm thấy khó chịu bởi những khách hàng không chào hỏi"
     },
     {
       "id": "https://nyheder.tv2.dk/udland/2026-10-04-putins-nye-doktrin-varsler-haarde-tider-for-ukraine",
@@ -592,16 +662,6 @@
       "titleVi": "Trump bổ nhiệm Giám đốc AI mới của Hoa Kỳ"
     },
     {
-      "id": "https://nyheder.tv2.dk/live/2024-09-08-seneste-nyt-om-krigen-i-ukraine-70b1d6cc-0720-404e-9878-45546e1999e7",
-      "source": "tv2",
-      "title": "Ukraine og Tyskland drøfter leverancer af flydende naturgas",
-      "url": "https://nyheder.tv2.dk/live/2024-09-08-seneste-nyt-om-krigen-i-ukraine-70b1d6cc-0720-404e-9878-45546e1999e7",
-      "date": "08/09/2024",
-      "type": "Live",
-      "firstSeenAt": "2026-09-28T00:30:42.330Z",
-      "titleVi": "Ukraine và Đức thảo luận về việc cung cấp khí đốt tự nhiên hóa lỏng"
-    },
-    {
       "id": "https://nyheder.tv2.dk/samfund/2026-10-04-hytteost-hitter-ekspert-har-ikke-set-noget-lignende",
       "source": "tv2",
       "title": "Hytteost hitter – ekspert har ikke set noget lignende",
@@ -610,16 +670,6 @@
       "type": "Samfund",
       "firstSeenAt": "2026-10-04T16:56:05.527Z",
       "titleVi": "Cottage Cheese Hitter – Chuyên gia chưa từng thấy bất cứ thứ gì giống như vậy"
-    },
-    {
-      "id": "https://nyheder.tv2.dk/live/udland/2026-01-08-krig-i-mellemoesten",
-      "source": "tv2",
-      "title": "Houthier hævder igen at have angrebet saudisk oliegigant",
-      "url": "https://nyheder.tv2.dk/live/udland/2026-01-08-krig-i-mellemoesten",
-      "date": "08/01/2026",
-      "type": "Live",
-      "firstSeenAt": "2026-10-03T14:55:54.692Z",
-      "titleVi": "Houthis một lần nữa tuyên bố đã tấn công gã khổng lồ dầu mỏ Saudi"
     },
     {
       "id": "https://nyheder.tv2.dk/udland/2026-10-04-panikken-bredte-sig-siger-dansker-naer-stor-brand-paa-italiensk-campingplads",
@@ -680,26 +730,6 @@
       "type": "Samfund",
       "firstSeenAt": "2026-10-04T12:23:59.824Z",
       "titleVi": "Các chuyến bay của SAS chuyển hướng với khói trong cabin"
-    },
-    {
-      "id": "https://nyheder.tv2.dk/live/udland/2026-09-30-fly-mod-israel-omdirigeret-efter-voldelig-episode-i-cockpit",
-      "source": "tv2",
-      "title": "Pilot brugte økse under terrorforsøg, siger anklagemyndighed",
-      "url": "https://nyheder.tv2.dk/live/udland/2026-09-30-fly-mod-israel-omdirigeret-efter-voldelig-episode-i-cockpit",
-      "date": "30/09/2026",
-      "type": "Live",
-      "firstSeenAt": "2026-10-01T14:46:52.636Z",
-      "titleVi": "Công tố viên cho biết phi công đã sử dụng rìu trong nỗ lực khủng bố"
-    },
-    {
-      "id": "https://nyheder.tv2.dk/live/udland/2025-03-17-verden-i-forandring",
-      "source": "tv2",
-      "title": "Premierminister vinder valget i Letland – godt nyt for Ukraine",
-      "url": "https://nyheder.tv2.dk/live/udland/2025-03-17-verden-i-forandring",
-      "date": "17/03/2025",
-      "type": "Live",
-      "firstSeenAt": "2026-10-03T10:31:35.864Z",
-      "titleVi": "Thủ tướng thắng cuộc bầu cử ở Latvia – tin tốt cho Ukraine"
     },
     {
       "id": "https://nyheder.tv2.dk/live/business/2025-03-12-seneste-nyt-fra-de-finansielle-markeder",
@@ -780,36 +810,6 @@
       "type": "Live",
       "firstSeenAt": "2026-10-03T21:47:18.986Z",
       "titleVi": "Đan Mạch đứng đầu danh sách sàng lọc ung thư quan trọng"
-    },
-    {
-      "id": "https://nyheder.tv2.dk/samfund/2026-10-03-saa-hurtige-er-de-danske-unge-til-at-flytte-hjemmefra-se-kortet-over-europa",
-      "source": "tv2",
-      "title": "Så hurtige er de danske unge til at flytte hjemmefra – se kortet over Europa",
-      "url": "https://nyheder.tv2.dk/samfund/2026-10-03-saa-hurtige-er-de-danske-unge-til-at-flytte-hjemmefra-se-kortet-over-europa",
-      "date": "03/10/2026",
-      "type": "Samfund",
-      "firstSeenAt": "2026-10-03T18:34:46.576Z",
-      "titleVi": "Giới trẻ Đan Mạch di chuyển xa nhà quá nhanh – xem bản đồ châu Âu"
-    },
-    {
-      "id": "https://nyheder.tv2.dk/udland/2026-10-03-faengselschef-traeder-tilbage-efter-mislykket-henrettelse",
-      "source": "tv2",
-      "title": "Fængselschef træder tilbage efter mislykket henrettelse",
-      "url": "https://nyheder.tv2.dk/udland/2026-10-03-faengselschef-traeder-tilbage-efter-mislykket-henrettelse",
-      "date": "03/10/2026",
-      "type": "Udland",
-      "firstSeenAt": "2026-10-04T16:56:05.527Z",
-      "titleVi": "Cai ngục từ chức sau khi thi hành án không thành công"
-    },
-    {
-      "id": "https://nyheder.tv2.dk/udland/2026-10-03-putin-pumper-flere-milliarder-i-sin-krig-og-sender-regningen-til-russerne",
-      "source": "tv2",
-      "title": "Putin pumper flere milliarder i sin krig og sender regningen til russerne",
-      "url": "https://nyheder.tv2.dk/udland/2026-10-03-putin-pumper-flere-milliarder-i-sin-krig-og-sender-regningen-til-russerne",
-      "date": "03/10/2026",
-      "type": "Udland",
-      "firstSeenAt": "2026-10-03T18:34:46.576Z",
-      "titleVi": "Putin bơm hàng tỷ đô la vào cuộc chiến của mình và gửi dự luật cho người Nga"
     },
     {
       "id": "https://www.kungahuset.se/arkiv/nyheter/2026-10-02-estlands-president-togs-emot-i-audiens",
@@ -1120,6 +1120,61 @@
       "titleVi": "Nghi thức hoàng gia: 10 quy tắc bạn không bao giờ được phá vỡ gần hoàng gia"
     },
     {
+      "id": "https://www.svenskdam.se/kungligt/marcus-schenkenbergs-ord-om-relationen-med-victoria-flirt/11643435",
+      "source": "svenskdam",
+      "title": "Marcus Schenkenbergs ord om relationen med Victoria: \"Flirt\"",
+      "url": "https://www.svenskdam.se/kungligt/marcus-schenkenbergs-ord-om-relationen-med-victoria-flirt/11643435",
+      "date": "4/10/2026",
+      "publishedAt": "2026-10-04T21:30:15+02:00",
+      "type": "Kungligt",
+      "firstSeenAt": "2026-10-04T19:55:49.982Z",
+      "titleVi": "Những lời của Marcus Schenkenberg về mối quan hệ với Victoria: \"Tán tỉnh\""
+    },
+    {
+      "id": "https://www.svenskdam.se/noje/carina-bergfeldts-nya-beslut-med-familjen-latt-vart/11642973",
+      "source": "svenskdam",
+      "title": "Carina Bergfeldts nya beslut med familjen: \"Lätt värt\"",
+      "url": "https://www.svenskdam.se/noje/carina-bergfeldts-nya-beslut-med-familjen-latt-vart/11642973",
+      "date": "4/10/2026",
+      "publishedAt": "2026-10-04T21:00:00+02:00",
+      "type": "Nöje",
+      "firstSeenAt": "2026-10-04T19:55:49.982Z",
+      "titleVi": "Quyết định mới của Carina Bergfeldt với gia đình: \"Giá trị dễ dàng\""
+    },
+    {
+      "id": "https://www.svenskdam.se/kungligt/visste-kronprinsessan-victoria-om-furst-alberts-hemlighet-fore-charlene/11561489",
+      "source": "svenskdam",
+      "title": "Visste kronprinsessan Victoria om furst Alberts hemlighet före Charlene?",
+      "url": "https://www.svenskdam.se/kungligt/visste-kronprinsessan-victoria-om-furst-alberts-hemlighet-fore-charlene/11561489",
+      "date": "4/10/2026",
+      "publishedAt": "2026-10-04T07:03:00+02:00",
+      "type": "Kungligt",
+      "firstSeenAt": "2026-10-04T06:11:11.160Z",
+      "titleVi": "Công chúa Victoria có biết bí mật của Hoàng tử Albert trước Charlene không?"
+    },
+    {
+      "id": "https://www.svenskdam.se/kungligt/alice-sommerlaths-sista-hem-hit-reste-drottning-silvia-i-smyg/11641740",
+      "source": "svenskdam",
+      "title": "Alice Sommerlaths sista hem – hit reste drottning Silvia i smyg",
+      "url": "https://www.svenskdam.se/kungligt/alice-sommerlaths-sista-hem-hit-reste-drottning-silvia-i-smyg/11641740",
+      "date": "4/10/2026",
+      "publishedAt": "2026-10-04T20:00:00+02:00",
+      "type": "Kungligt",
+      "firstSeenAt": "2026-10-04T19:55:49.982Z",
+      "titleVi": "Ngôi nhà cuối cùng của Alice Sommerlath – tại đây Nữ hoàng Silvia lén lút di chuyển"
+    },
+    {
+      "id": "https://www.svenskdam.se/kungligt/drottning-margrethes-lycka-efter-svara-tiden/11643220",
+      "source": "svenskdam",
+      "title": "Drottning Margrethes stora lycka – efter svåra tiden",
+      "url": "https://www.svenskdam.se/kungligt/drottning-margrethes-lycka-efter-svara-tiden/11643220",
+      "date": "4/10/2026",
+      "publishedAt": "2026-10-04T19:00:00+02:00",
+      "type": "Kungligt",
+      "firstSeenAt": "2026-10-04T19:55:49.982Z",
+      "titleVi": "Niềm hạnh phúc lớn lao của Nữ hoàng Margrethe – sau một thời gian khó khăn"
+    },
+    {
       "id": "https://www.svenskdam.se/noje/christina-schollin-har-bestamt-sig-paverkar-hela-familjen/11638034",
       "source": "svenskdam",
       "title": "Christina Schollin har bestämt sig – påverkar hela familjen",
@@ -1140,17 +1195,6 @@
       "type": "Kungligt",
       "firstSeenAt": "2026-10-04T16:56:05.527Z",
       "titleVi": "Khuyết tật của Nữ hoàng Mary – lý do đằng sau"
-    },
-    {
-      "id": "https://www.svenskdam.se/kungligt/visste-kronprinsessan-victoria-om-furst-alberts-hemlighet-fore-charlene/11561489",
-      "source": "svenskdam",
-      "title": "Visste kronprinsessan Victoria om furst Alberts hemlighet före Charlene?",
-      "url": "https://www.svenskdam.se/kungligt/visste-kronprinsessan-victoria-om-furst-alberts-hemlighet-fore-charlene/11561489",
-      "date": "4/10/2026",
-      "publishedAt": "2026-10-04T07:03:00+02:00",
-      "type": "Kungligt",
-      "firstSeenAt": "2026-10-04T06:11:11.160Z",
-      "titleVi": "Công chúa Victoria có biết bí mật của Hoàng tử Albert trước Charlene không?"
     },
     {
       "id": "https://www.svenskdam.se/noje/christina-schollins-besked-till-foljarna-har-bestamt-sig-nu-borjar-det/11643238",
@@ -1274,6 +1318,17 @@
       "titleVi": "Chuyến xe sang trọng mới của Zlatan và Helena – hãy xem mức giá cao ngất ngưởng!"
     },
     {
+      "id": "https://www.svenskdam.se/creative-studio/darfor-byter-fler-elavtal-nar-de-flyttar-till-hus-och-sa-har-valjer-du-ratt/11609705",
+      "source": "svenskdam",
+      "title": "Därför byter fler elavtal när de flyttar till hus – och så här väljer du rätt",
+      "url": "https://www.svenskdam.se/creative-studio/darfor-byter-fler-elavtal-nar-de-flyttar-till-hus-och-sa-har-valjer-du-ratt/11609705",
+      "date": "14/9/2026",
+      "publishedAt": "2026-09-14T14:33:26+02:00",
+      "type": "Creative studio",
+      "firstSeenAt": "2026-10-01T16:23:23.818Z",
+      "titleVi": "Tại sao nhiều hợp đồng điện thay đổi khi họ chuyển đến một ngôi nhà – và đây là cách chọn hợp đồng điện phù hợp"
+    },
+    {
       "id": "https://www.svenskdam.se/noje/carina-bergfeldts-arliga-ord-situationen-med-sonen-fel-pa-mig/11642345",
       "source": "svenskdam",
       "title": "Carina Bergfeldts ärliga ord – situationen med sonen: “Fel på mig”",
@@ -1283,6 +1338,50 @@
       "type": "Nöje",
       "firstSeenAt": "2026-10-03T14:55:54.692Z",
       "titleVi": "Những lời chân thành của Carina Bergfeldt – tình huống với con trai: \"Sai lầm với tôi\""
+    },
+    {
+      "id": "https://www.svenskdam.se/noje/lotta-lundgrens-beslut-i-relationen-med-erik-haag/11641673",
+      "source": "svenskdam",
+      "title": "Lotta Lundgrens beslut i relationen med Erik Haag",
+      "url": "https://www.svenskdam.se/noje/lotta-lundgrens-beslut-i-relationen-med-erik-haag/11641673",
+      "date": "2/10/2026",
+      "publishedAt": "2026-10-02T22:00:00+02:00",
+      "type": "Nöje",
+      "firstSeenAt": "2026-10-02T20:52:25.582Z",
+      "titleVi": "Quyết định của Lotta Lundgren liên quan đến Erik Haag"
+    },
+    {
+      "id": "https://www.svenskdam.se/noje/gunilla-vann-250-000-kronor-svenska-spels-dom-gammal-trisslott/11640906",
+      "source": "svenskdam",
+      "title": "Gunilla vann 250 000 kronor – Svenska Spels dom: \"Gammal trisslott\"",
+      "url": "https://www.svenskdam.se/noje/gunilla-vann-250-000-kronor-svenska-spels-dom-gammal-trisslott/11640906",
+      "date": "3/10/2026",
+      "publishedAt": "2026-10-03T08:00:00+02:00",
+      "type": "Nöje",
+      "firstSeenAt": "2026-10-03T10:31:35.864Z",
+      "titleVi": "Gunilla đã giành được 250.000 SEK – phán quyết của Svenska Spel: \"Old trisslott\""
+    },
+    {
+      "id": "https://www.svenskdam.se/noje/christer-sjogrens-nya-partner-en-kvinna-vi-kanner-igen-fantastiskt/11641710",
+      "source": "svenskdam",
+      "title": "Christer Sjögrens nya partner – en kvinna vi känner igen: \"Fantastiskt\"",
+      "url": "https://www.svenskdam.se/noje/christer-sjogrens-nya-partner-en-kvinna-vi-kanner-igen-fantastiskt/11641710",
+      "date": "3/10/2026",
+      "publishedAt": "2026-10-03T10:00:00+02:00",
+      "type": "Nöje",
+      "firstSeenAt": "2026-10-03T10:31:35.864Z",
+      "titleVi": "Bạn đời mới của Christer Sjögren – một người phụ nữ mà chúng tôi nhận ra: \"Tuyệt vời\""
+    },
+    {
+      "id": "https://www.svenskdam.se/noje/stefan-holms-hustru-jessica-bekraftar-beslutet-efter-14-ar-mar-inte-bra/11639115",
+      "source": "svenskdam",
+      "title": "Stefan Holms hustru Jessica bekräftar beslutet – efter 14 år: \"Mår inte bra\"",
+      "url": "https://www.svenskdam.se/noje/stefan-holms-hustru-jessica-bekraftar-beslutet-efter-14-ar-mar-inte-bra/11639115",
+      "date": "1/10/2026",
+      "publishedAt": "2026-10-01T13:00:00+02:00",
+      "type": "Nöje",
+      "firstSeenAt": "2026-10-01T16:23:23.818Z",
+      "titleVi": "Vợ của Stefan Holm, Jessica xác nhận quyết định – sau 14 năm: \"Cảm thấy không khỏe\""
     },
     {
       "id": "https://www.svenskdam.se/kungligt/rorande-hyllningen-till-victoria-toppar-nya-listan-stolta/11641746",
@@ -1318,17 +1417,6 @@
       "titleVi": "Sinh sản sau hành vi đối với trẻ: “Vô cùng bất cẩn”"
     },
     {
-      "id": "https://www.svenskdam.se/creative-studio/darfor-byter-fler-elavtal-nar-de-flyttar-till-hus-och-sa-har-valjer-du-ratt/11609705",
-      "source": "svenskdam",
-      "title": "Därför byter fler elavtal när de flyttar till hus – och så här väljer du rätt",
-      "url": "https://www.svenskdam.se/creative-studio/darfor-byter-fler-elavtal-nar-de-flyttar-till-hus-och-sa-har-valjer-du-ratt/11609705",
-      "date": "14/9/2026",
-      "publishedAt": "2026-09-14T14:33:26+02:00",
-      "type": "Creative studio",
-      "firstSeenAt": "2026-10-01T16:23:23.818Z",
-      "titleVi": "Tại sao nhiều hợp đồng điện thay đổi khi họ chuyển đến một ngôi nhà – và đây là cách chọn hợp đồng điện phù hợp"
-    },
-    {
       "id": "https://www.svenskdam.se/noje/armand-duplantis-trakiga-besked-till-desire-ger-upp/11641861",
       "source": "svenskdam",
       "title": "Armand Duplantis tråkiga besked till Desiré – ger upp",
@@ -1338,94 +1426,6 @@
       "type": "Nöje",
       "firstSeenAt": "2026-10-03T10:31:35.864Z",
       "titleVi": "Thông điệp buồn của Armand Duplanti dành cho Desiré – từ bỏ"
-    },
-    {
-      "id": "https://www.svenskdam.se/noje/lotta-lundgrens-beslut-i-relationen-med-erik-haag/11641673",
-      "source": "svenskdam",
-      "title": "Lotta Lundgrens beslut i relationen med Erik Haag",
-      "url": "https://www.svenskdam.se/noje/lotta-lundgrens-beslut-i-relationen-med-erik-haag/11641673",
-      "date": "2/10/2026",
-      "publishedAt": "2026-10-02T22:00:00+02:00",
-      "type": "Nöje",
-      "firstSeenAt": "2026-10-02T20:52:25.582Z",
-      "titleVi": "Quyết định của Lotta Lundgren liên quan đến Erik Haag"
-    },
-    {
-      "id": "https://www.svenskdam.se/kungligt/kungen-blixtinkallad-till-mote-pa-slottet-hovets-besked/11641434",
-      "source": "svenskdam",
-      "title": "Kungen blixtinkallad till möte på slottet – hovets besked",
-      "url": "https://www.svenskdam.se/kungligt/kungen-blixtinkallad-till-mote-pa-slottet-hovets-besked/11641434",
-      "date": "2/10/2026",
-      "publishedAt": "2026-10-02T10:48:43+02:00",
-      "type": "Kungligt",
-      "firstSeenAt": "2026-10-02T10:40:03.251Z",
-      "titleVi": "Nhà vua bị sét đánh triệu tới họp ở lâu đài - thông báo của triều đình"
-    },
-    {
-      "id": "https://www.svenskdam.se/noje/stefan-holms-hustru-jessica-bekraftar-beslutet-efter-14-ar-mar-inte-bra/11639115",
-      "source": "svenskdam",
-      "title": "Stefan Holms hustru Jessica bekräftar beslutet – efter 14 år: \"Mår inte bra\"",
-      "url": "https://www.svenskdam.se/noje/stefan-holms-hustru-jessica-bekraftar-beslutet-efter-14-ar-mar-inte-bra/11639115",
-      "date": "1/10/2026",
-      "publishedAt": "2026-10-01T13:00:00+02:00",
-      "type": "Nöje",
-      "firstSeenAt": "2026-10-01T16:23:23.818Z",
-      "titleVi": "Vợ của Stefan Holm, Jessica xác nhận quyết định – sau 14 năm: \"Cảm thấy không khỏe\""
-    },
-    {
-      "id": "https://www.svenskdam.se/noje/kristin-kaspersen-visar-upp-karleken-pa-sin-fodelsedag-tacksam/11638819",
-      "source": "svenskdam",
-      "title": "Kristin Kaspersen visar upp kärleken – på sin födelsedag: \"Tacksam!\"",
-      "url": "https://www.svenskdam.se/noje/kristin-kaspersen-visar-upp-karleken-pa-sin-fodelsedag-tacksam/11638819",
-      "date": "2/10/2026",
-      "publishedAt": "2026-10-02T09:00:00+02:00",
-      "type": "Nöje",
-      "firstSeenAt": "2026-10-04T06:11:11.160Z",
-      "titleVi": "Kristin Kaspersen thể hiện tình yêu – vào ngày sinh nhật của cô: \"Cảm ơn bạn!\""
-    },
-    {
-      "id": "https://www.svenskdam.se/kungligt/syrliga-svaret-fran-meghan-markes-tidigare-anstallda-pa-kansliga-fragan/11640290",
-      "source": "svenskdam",
-      "title": "Syrliga svaret från Meghan Markes tidigare anställda – på känsliga frågan",
-      "url": "https://www.svenskdam.se/kungligt/syrliga-svaret-fran-meghan-markes-tidigare-anstallda-pa-kansliga-fragan/11640290",
-      "date": "3/10/2026",
-      "publishedAt": "2026-10-03T11:00:00+02:00",
-      "type": "Kungligt",
-      "firstSeenAt": "2026-10-03T10:31:35.864Z",
-      "titleVi": "Câu trả lời chua cay từ các nhân viên cũ của Meghan Marke – cho câu hỏi nhạy cảm"
-    },
-    {
-      "id": "https://www.svenskdam.se/noje/christer-sjogrens-nya-partner-en-kvinna-vi-kanner-igen-fantastiskt/11641710",
-      "source": "svenskdam",
-      "title": "Christer Sjögrens nya partner – en kvinna vi känner igen: \"Fantastiskt\"",
-      "url": "https://www.svenskdam.se/noje/christer-sjogrens-nya-partner-en-kvinna-vi-kanner-igen-fantastiskt/11641710",
-      "date": "3/10/2026",
-      "publishedAt": "2026-10-03T10:00:00+02:00",
-      "type": "Nöje",
-      "firstSeenAt": "2026-10-03T10:31:35.864Z",
-      "titleVi": "Bạn đời mới của Christer Sjögren – một người phụ nữ mà chúng tôi nhận ra: \"Tuyệt vời\""
-    },
-    {
-      "id": "https://www.svenskdam.se/kungligt/drottning-camilla-har-en-dubbelgangare-hjalpt-henne-i-alla-ar-kusligt/11639734",
-      "source": "svenskdam",
-      "title": "Camilla har en dubbelgångare – hjälpt henne i alla år: \"Kusligt\"",
-      "url": "https://www.svenskdam.se/kungligt/drottning-camilla-har-en-dubbelgangare-hjalpt-henne-i-alla-ar-kusligt/11639734",
-      "date": "3/10/2026",
-      "publishedAt": "2026-10-03T09:00:00+02:00",
-      "type": "Kungligt",
-      "firstSeenAt": "2026-10-03T10:31:35.864Z",
-      "titleVi": "Camilla có một bản sao – đã giúp cô ấy trong suốt những năm qua: \"Kỳ lạ\""
-    },
-    {
-      "id": "https://www.svenskdam.se/noje/gunilla-vann-250-000-kronor-svenska-spels-dom-gammal-trisslott/11640906",
-      "source": "svenskdam",
-      "title": "Gunilla vann 250 000 kronor – Svenska Spels dom: \"Gammal trisslott\"",
-      "url": "https://www.svenskdam.se/noje/gunilla-vann-250-000-kronor-svenska-spels-dom-gammal-trisslott/11640906",
-      "date": "3/10/2026",
-      "publishedAt": "2026-10-03T08:00:00+02:00",
-      "type": "Nöje",
-      "firstSeenAt": "2026-10-03T10:31:35.864Z",
-      "titleVi": "Gunilla đã giành được 250.000 SEK – phán quyết của Svenska Spel: \"Old trisslott\""
     },
     {
       "id": "https://www.kongehuset.no/nyheter/kong-haakon-apnet-det-171-storting",
