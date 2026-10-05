@@ -1,6 +1,6 @@
 {
   "monitoringStartedAt": "2026-09-28T00:17:35.319Z",
-  "updatedAt": "2026-10-04T22:51:38.571Z",
+  "updatedAt": "2026-10-05T01:39:35.801Z",
   "sources": {
     "kongehuset": {
       "name": "Kongehuset",
@@ -33,9 +33,9 @@
       "language": "sv",
       "monitoringStartedAt": "2026-10-01T16:20:13.213Z",
       "status": {
-        "state": "ok",
-        "message": "",
-        "changedAt": "2026-10-04T00:22:26.703Z"
+        "state": "error",
+        "message": "fetch failed",
+        "changedAt": "2026-10-05T01:39:35.801Z"
       }
     },
     "svenskdam": {
@@ -1373,15 +1373,15 @@
       "titleVi": "Bạn đời mới của Christer Sjögren – một người phụ nữ mà chúng tôi nhận ra: \"Tuyệt vời\""
     },
     {
-      "id": "https://www.svenskdam.se/noje/stefan-holms-hustru-jessica-bekraftar-beslutet-efter-14-ar-mar-inte-bra/11639115",
+      "id": "https://www.svenskdam.se/kungligt/kung-haakon-och-mette-marits-kris-med-boendet-nu-star-det-klart/11636697",
       "source": "svenskdam",
-      "title": "Stefan Holms hustru Jessica bekräftar beslutet – efter 14 år: \"Mår inte bra\"",
-      "url": "https://www.svenskdam.se/noje/stefan-holms-hustru-jessica-bekraftar-beslutet-efter-14-ar-mar-inte-bra/11639115",
-      "date": "1/10/2026",
-      "publishedAt": "2026-10-01T13:00:00+02:00",
-      "type": "Nöje",
-      "firstSeenAt": "2026-10-01T16:23:23.818Z",
-      "titleVi": "Vợ của Stefan Holm, Jessica xác nhận quyết định – sau 14 năm: \"Cảm thấy không khỏe\""
+      "title": "Kung Haakon och Mette-Marits kris med boendet – nu står det klart",
+      "url": "https://www.svenskdam.se/kungligt/kung-haakon-och-mette-marits-kris-med-boendet-nu-star-det-klart/11636697",
+      "date": "2/10/2026",
+      "publishedAt": "2026-10-02T16:00:00+02:00",
+      "type": "Kungligt",
+      "firstSeenAt": "2026-10-05T01:39:35.801Z",
+      "titleVi": "Cuộc khủng hoảng của Vua Haakon và Mette-Marit về chỗ ở – bây giờ đã rõ"
     },
     {
       "id": "https://www.svenskdam.se/kungligt/rorande-hyllningen-till-victoria-toppar-nya-listan-stolta/11641746",
