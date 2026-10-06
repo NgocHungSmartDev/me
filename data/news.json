@@ -1,6 +1,6 @@
 {
   "monitoringStartedAt": "2026-09-28T00:17:35.319Z",
-  "updatedAt": "2026-10-05T22:50:46.619Z",
+  "updatedAt": "2026-10-06T02:43:12.643Z",
   "sources": {
     "kongehuset": {
       "name": "Kongehuset",
@@ -57,9 +57,9 @@
       "language": "no",
       "monitoringStartedAt": "2026-10-01T16:30:06.936Z",
       "status": {
-        "state": "ok",
-        "message": "",
-        "changedAt": "2026-10-05T16:24:22.707Z"
+        "state": "error",
+        "message": "The Norwegian Royal House Atom feed returned no entries",
+        "changedAt": "2026-10-06T02:43:12.643Z"
       }
     }
   },
@@ -1329,48 +1329,48 @@
       "titleVi": "Christina Schollin đã quyết định – ảnh hưởng đến cả gia đình"
     },
     {
-      "id": "https://www.svenskdam.se/kungligt/kungens-beslut-reser-bort-utan-silvia/11642937",
+      "id": "https://www.svenskdam.se/kungligt/kung-haakon-och-mette-marits-kris-med-boendet-nu-star-det-klart/11636697",
       "source": "svenskdam",
-      "title": "Kungen lämnar Stockholm – reser bort utan Silvia",
-      "url": "https://www.svenskdam.se/kungligt/kungens-beslut-reser-bort-utan-silvia/11642937",
-      "date": "4/10/2026",
-      "publishedAt": "2026-10-04T07:00:00+02:00",
-      "type": "Kungligt",
-      "firstSeenAt": "2026-10-04T06:11:11.160Z",
-      "titleVi": "Nhà vua rời Stockholm – ra đi mà không có Silvia"
-    },
-    {
-      "id": "https://www.svenskdam.se/noje/lotta-lundgrens-beslut-i-relationen-med-erik-haag/11641673",
-      "source": "svenskdam",
-      "title": "Lotta Lundgrens beslut i relationen med Erik Haag",
-      "url": "https://www.svenskdam.se/noje/lotta-lundgrens-beslut-i-relationen-med-erik-haag/11641673",
+      "title": "Kung Haakon och Mette-Marits kris med boendet – nu står det klart",
+      "url": "https://www.svenskdam.se/kungligt/kung-haakon-och-mette-marits-kris-med-boendet-nu-star-det-klart/11636697",
       "date": "2/10/2026",
-      "publishedAt": "2026-10-02T22:00:00+02:00",
-      "type": "Nöje",
-      "firstSeenAt": "2026-10-02T20:52:25.582Z",
-      "titleVi": "Quyết định của Lotta Lundgren liên quan đến Erik Haag"
+      "publishedAt": "2026-10-02T16:00:00+02:00",
+      "type": "Kungligt",
+      "firstSeenAt": "2026-10-06T02:43:12.643Z",
+      "titleVi": "Cuộc khủng hoảng của Vua Haakon và Mette-Marit về chỗ ở – bây giờ đã rõ"
     },
     {
-      "id": "https://www.svenskdam.se/noje/gunilla-vann-250-000-kronor-svenska-spels-dom-gammal-trisslott/11640906",
+      "id": "https://www.svenskdam.se/kungligt/ingrid-alexandras-rorande-hyllning-till-mamma-mette-marit/11642797",
       "source": "svenskdam",
-      "title": "Gunilla vann 250 000 kronor – Svenska Spels dom: \"Gammal trisslott\"",
-      "url": "https://www.svenskdam.se/noje/gunilla-vann-250-000-kronor-svenska-spels-dom-gammal-trisslott/11640906",
-      "date": "3/10/2026",
-      "publishedAt": "2026-10-03T08:00:00+02:00",
-      "type": "Nöje",
-      "firstSeenAt": "2026-10-03T10:31:35.864Z",
-      "titleVi": "Gunilla đã giành được 250.000 SEK – phán quyết của Svenska Spel: \"Old trisslott\""
+      "title": "Ingrid Alexandras rörande hyllning till mamma Mette-Marit",
+      "url": "https://www.svenskdam.se/kungligt/ingrid-alexandras-rorande-hyllning-till-mamma-mette-marit/11642797",
+      "date": "4/10/2026",
+      "publishedAt": "2026-10-04T09:00:00+02:00",
+      "type": "Kungligt",
+      "firstSeenAt": "2026-10-06T02:43:12.643Z",
+      "titleVi": "Ingrid Alexandras tưởng nhớ mẹ Mette-Marit"
     },
     {
-      "id": "https://www.svenskdam.se/noje/christer-sjogrens-nya-partner-en-kvinna-vi-kanner-igen-fantastiskt/11641710",
+      "id": "https://www.svenskdam.se/noje/lasse-kroners-trakiga-beslut-med-karleken-camilla-efter-alla-ar/11634598",
       "source": "svenskdam",
-      "title": "Christer Sjögrens nya partner – en kvinna vi känner igen: \"Fantastiskt\"",
-      "url": "https://www.svenskdam.se/noje/christer-sjogrens-nya-partner-en-kvinna-vi-kanner-igen-fantastiskt/11641710",
-      "date": "3/10/2026",
-      "publishedAt": "2026-10-03T10:00:00+02:00",
+      "title": "Lasse Kronérs tråkiga beslut med kärleken Camilla – efter alla år",
+      "url": "https://www.svenskdam.se/noje/lasse-kroners-trakiga-beslut-med-karleken-camilla-efter-alla-ar/11634598",
+      "date": "30/9/2026",
+      "publishedAt": "2026-09-30T09:00:00+02:00",
       "type": "Nöje",
-      "firstSeenAt": "2026-10-03T10:31:35.864Z",
-      "titleVi": "Bạn đời mới của Christer Sjögren – một người phụ nữ mà chúng tôi nhận ra: \"Tuyệt vời\""
+      "firstSeenAt": "2026-10-06T02:43:12.643Z",
+      "titleVi": "Quyết định đáng buồn của Lasse Kronér với tình yêu Camilla – sau ngần ấy năm"
+    },
+    {
+      "id": "https://www.svenskdam.se/kungligt/prinsens-skilsmassa-chockat-alla-efter-10-ar-som-gifta-gemensamt-beslutat/11637862",
+      "source": "svenskdam",
+      "title": "Prinsens skilsmässa chockat alla: \"Gemensamt beslutat\"",
+      "url": "https://www.svenskdam.se/kungligt/prinsens-skilsmassa-chockat-alla-efter-10-ar-som-gifta-gemensamt-beslutat/11637862",
+      "date": "1/10/2026",
+      "publishedAt": "2026-10-01T10:00:00+02:00",
+      "type": "Kungligt",
+      "firstSeenAt": "2026-10-06T02:43:12.643Z",
+      "titleVi": "Vụ ly hôn của Hoàng tử khiến mọi người sốc: \"Quyết định chung\""
     },
     {
       "id": "https://www.svenskdam.se/kungligt/drottning-mary-hoppar-av-anledningen-bakom/11642675",
