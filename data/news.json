@@ -1,6 +1,6 @@
 {
   "monitoringStartedAt": "2026-09-28T00:17:35.319Z",
-  "updatedAt": "2026-10-07T19:50:59.276Z",
+  "updatedAt": "2026-10-08T00:01:44.393Z",
   "sources": {
     "kongehuset": {
       "name": "Kongehuset",
@@ -522,6 +522,16 @@
       "titleVi": "Đại sứ đón tiếp vào ngày 26 tháng 8 năm 2026"
     },
     {
+      "id": "https://nyheder.tv2.dk/live/kort-nyt",
+      "source": "tv2",
+      "title": "Vejdirektoratet advarer om tæt trafik op til efterårsferien",
+      "url": "https://nyheder.tv2.dk/live/kort-nyt",
+      "date": "—",
+      "type": "Live",
+      "firstSeenAt": "2026-09-28T00:30:42.330Z",
+      "titleVi": "Tổng cục Đường bộ cảnh báo giao thông đông đúc trong dịp nghỉ lễ"
+    },
+    {
       "id": "https://nyheder.tv2.dk/live/samfund/2026-10-07-hoejskolen-live-hvornaar-er-man-dansk",
       "source": "tv2",
       "title": "Højskolen Live – Hvornår er man dansk?",
@@ -530,36 +540,6 @@
       "type": "Live",
       "firstSeenAt": "2026-10-07T19:50:59.276Z",
       "titleVi": "Højskolen Live – Khi nào bạn là người Đan Mạch?"
-    },
-    {
-      "id": "https://nyheder.tv2.dk/live/tech/2026-10-07-it-systemer-nede-i-landets-kommuner",
-      "source": "tv2",
-      "title": "It-nedbrud i flere kommuner",
-      "url": "https://nyheder.tv2.dk/live/tech/2026-10-07-it-systemer-nede-i-landets-kommuner",
-      "date": "07/10/2026",
-      "type": "Live",
-      "firstSeenAt": "2026-10-07T19:50:59.276Z",
-      "titleVi": "Sự cố CNTT ở một số đô thị"
-    },
-    {
-      "id": "https://nyheder.tv2.dk/live/udland/2025-01-13-konflikten-i-israel-gaza-og-vestbredden",
-      "source": "tv2",
-      "title": "Omstridt film sættes midlertidigt på pause i danske biografer",
-      "url": "https://nyheder.tv2.dk/live/udland/2025-01-13-konflikten-i-israel-gaza-og-vestbredden",
-      "date": "13/01/2025",
-      "type": "Live",
-      "firstSeenAt": "2026-10-07T06:30:26.517Z",
-      "titleVi": "Phim gây tranh cãi tạm thời bị tạm dừng tại các rạp chiếu phim Đan Mạch"
-    },
-    {
-      "id": "https://nyheder.tv2.dk/live/kort-nyt",
-      "source": "tv2",
-      "title": "Trump skal overrække prestigefyldt pris til Musk",
-      "url": "https://nyheder.tv2.dk/live/kort-nyt",
-      "date": "—",
-      "type": "Live",
-      "firstSeenAt": "2026-09-28T00:30:42.330Z",
-      "titleVi": "Trump trao giải thưởng danh giá cho Musk"
     },
     {
       "id": "https://nyheder.tv2.dk/live/krimi/2026-07-03-31-aarig-tiltalt-for-vold-efter-doedsfald-ved-vm-arrangement-paa-islands-brygge",
@@ -572,6 +552,56 @@
       "titleVi": "31 tuổi lĩnh 1 năm tù sau vụ bạo lực tại WC"
     },
     {
+      "id": "https://nyheder.tv2.dk/samfund/2026-10-07-mors-instagram-er-skyld-i-manglende-stoette-til-pasning-af-sygt-barn-skriver-kommune",
+      "source": "tv2",
+      "title": "Mors Instagram er skyld i manglende støtte til pasning af sygt barn, skriver kommune",
+      "url": "https://nyheder.tv2.dk/samfund/2026-10-07-mors-instagram-er-skyld-i-manglende-stoette-til-pasning-af-sygt-barn-skriver-kommune",
+      "date": "07/10/2026",
+      "type": "Samfund",
+      "firstSeenAt": "2026-10-08T00:01:44.393Z",
+      "titleVi": "Chính quyền thành phố viết rằng Instagram của mẹ là nguyên nhân dẫn đến việc thiếu hỗ trợ chăm sóc con ốm"
+    },
+    {
+      "id": "https://nyheder.tv2.dk/live/udland/2025-01-13-konflikten-i-israel-gaza-og-vestbredden",
+      "source": "tv2",
+      "title": "Omstridt film sættes midlertidigt på pause i danske biografer",
+      "url": "https://nyheder.tv2.dk/live/udland/2025-01-13-konflikten-i-israel-gaza-og-vestbredden",
+      "date": "13/01/2025",
+      "type": "Live",
+      "firstSeenAt": "2026-10-07T06:30:26.517Z",
+      "titleVi": "Phim gây tranh cãi tạm thời bị tạm dừng tại các rạp chiếu phim Đan Mạch"
+    },
+    {
+      "id": "https://nyheder.tv2.dk/samfund/2026-10-07-hver-fjerde-elev-undervises-udenfor-folkeskolen",
+      "source": "tv2",
+      "title": "Hver fjerde elev undervises udenfor folkeskolen",
+      "url": "https://nyheder.tv2.dk/samfund/2026-10-07-hver-fjerde-elev-undervises-udenfor-folkeskolen",
+      "date": "07/10/2026",
+      "type": "Samfund",
+      "firstSeenAt": "2026-10-08T00:01:44.393Z",
+      "titleVi": "Mỗi học sinh thứ tư được dạy ngoài trường tiểu học"
+    },
+    {
+      "id": "https://nyheder.tv2.dk/live/tech/2026-10-07-it-systemer-nede-i-landets-kommuner",
+      "source": "tv2",
+      "title": "It-nedbrud i flere kommuner",
+      "url": "https://nyheder.tv2.dk/live/tech/2026-10-07-it-systemer-nede-i-landets-kommuner",
+      "date": "07/10/2026",
+      "type": "Live",
+      "firstSeenAt": "2026-10-07T19:50:59.276Z",
+      "titleVi": "Sự cố CNTT ở một số đô thị"
+    },
+    {
+      "id": "https://nyheder.tv2.dk/live/udland/2026-01-08-krig-i-mellemoesten",
+      "source": "tv2",
+      "title": "Flere dræbt i angreb på lufthavne i Saudi-Arabien",
+      "url": "https://nyheder.tv2.dk/live/udland/2026-01-08-krig-i-mellemoesten",
+      "date": "08/01/2026",
+      "type": "Live",
+      "firstSeenAt": "2026-10-08T00:01:44.393Z",
+      "titleVi": "Nhiều người thiệt mạng trong vụ tấn công sân bay ở Ả Rập Saudi"
+    },
+    {
       "id": "https://nyheder.tv2.dk/live/2024-09-08-seneste-nyt-om-krigen-i-ukraine-70b1d6cc-0720-404e-9878-45546e1999e7",
       "source": "tv2",
       "title": "Ukrainske dødstal stiger efter stort russisk angreb",
@@ -580,6 +610,16 @@
       "type": "Live",
       "firstSeenAt": "2026-09-28T00:30:42.330Z",
       "titleVi": "Số người chết ở Ukraine tăng lên sau cuộc tấn công lớn của Nga"
+    },
+    {
+      "id": "https://nyheder.tv2.dk/business/2026-10-06-365discount-kunder-stadig-mest-utilfredse-det-er-det-samme-hver-uge",
+      "source": "tv2",
+      "title": "365discount-kunder stadig mest utilfredse: - Det er det samme hver uge",
+      "url": "https://nyheder.tv2.dk/business/2026-10-06-365discount-kunder-stadig-mest-utilfredse-det-er-det-samme-hver-uge",
+      "date": "06/10/2026",
+      "type": "Business",
+      "firstSeenAt": "2026-10-08T00:01:44.393Z",
+      "titleVi": "Khách hàng 365discount vẫn không hài lòng nhất: - Tuần nào cũng vậy"
     },
     {
       "id": "https://nyheder.tv2.dk/live/samfund/2026-10-07-spoerg-om-hoejskolen-hvornaar-er-man-dansk",
@@ -770,46 +810,6 @@
       "type": "Samfund",
       "firstSeenAt": "2026-10-07T13:57:32.939Z",
       "titleVi": "Giáo viên tiểu học bị dán nhãn là người nghiện ma túy sau khi gian lận số an sinh xã hội"
-    },
-    {
-      "id": "https://nyheder.tv2.dk/samfund/2026-10-06-ny-analyse-saar-tvivl-om-effekten-af-forlaenget-dansk-gasproduktion",
-      "source": "tv2",
-      "title": "Ny analyse sår tvivl om effekten af forlænget dansk gasproduktion",
-      "url": "https://nyheder.tv2.dk/samfund/2026-10-06-ny-analyse-saar-tvivl-om-effekten-af-forlaenget-dansk-gasproduktion",
-      "date": "06/10/2026",
-      "type": "Samfund",
-      "firstSeenAt": "2026-10-07T13:57:32.939Z",
-      "titleVi": "Phân tích mới đặt ra nghi ngờ về ảnh hưởng của việc sản xuất khí đốt Đan Mạch kéo dài"
-    },
-    {
-      "id": "https://nyheder.tv2.dk/samfund/2026-09-30-pia-kjaersgaard-i-strid-med-muslimsk-influencer-det-er-jo-helt-vanvittigt",
-      "source": "tv2",
-      "title": "Pia Kjærsgaard i strid med muslimsk influencer: - Det er jo helt vanvittigt",
-      "url": "https://nyheder.tv2.dk/samfund/2026-09-30-pia-kjaersgaard-i-strid-med-muslimsk-influencer-det-er-jo-helt-vanvittigt",
-      "date": "30/09/2026",
-      "type": "Samfund",
-      "firstSeenAt": "2026-10-07T13:57:32.939Z",
-      "titleVi": "Pia Kjærsgaard thách thức người có ảnh hưởng Hồi giáo: - Thật điên rồ"
-    },
-    {
-      "id": "https://nyheder.tv2.dk/krimi/2026-10-07-faengselsbetjente-fra-kosovo-sigtet-for-vold-under-oplaering-i-danmark",
-      "source": "tv2",
-      "title": "Fængselsbetjente fra Kosovo sigtet for vold under oplæring i Danmark",
-      "url": "https://nyheder.tv2.dk/krimi/2026-10-07-faengselsbetjente-fra-kosovo-sigtet-for-vold-under-oplaering-i-danmark",
-      "date": "07/10/2026",
-      "type": "Krimi",
-      "firstSeenAt": "2026-10-07T13:57:32.939Z",
-      "titleVi": "Cán bộ nhà tù từ Kosovo bị buộc tội bạo lực trong quá trình đào tạo ở Đan Mạch"
-    },
-    {
-      "id": "https://nyheder.tv2.dk/krimi/2026-10-07-20-aarig-erkender-sig-skyldig-i-trafikdrab-i-tilst",
-      "source": "tv2",
-      "title": "20-årig erkender sig skyldig i trafikdrab i Tilst",
-      "url": "https://nyheder.tv2.dk/krimi/2026-10-07-20-aarig-erkender-sig-skyldig-i-trafikdrab-i-tilst",
-      "date": "07/10/2026",
-      "type": "Krimi",
-      "firstSeenAt": "2026-10-07T13:57:32.939Z",
-      "titleVi": "Cô gái 20 tuổi nhận tội giết người vì tai nạn giao thông ở Tilst"
     },
     {
       "id": "https://www.kungahuset.se/arkiv/nyheter/2026-10-07-prins-daniel-aterinvigde-utstallning-pa-pradomuseet",
@@ -1109,6 +1109,17 @@
       "titleVi": "Vua Haakon sẵn sàng từ bỏ mọi thứ – câu hỏi dành cho em gái có thể đã thay đổi chế độ quân chủ"
     },
     {
+      "id": "https://www.svenskdam.se/kungligt/kritik-mot-martha-louise-efter-miljonstamningen-bryter-mot-avtalet-med-kungahuset/11649417",
+      "source": "svenskdam",
+      "title": "Kritik mot Märtha Louise efter miljonstämningen: \"Bryter mot avtalet med kungahuset\"",
+      "url": "https://www.svenskdam.se/kungligt/kritik-mot-martha-louise-efter-miljonstamningen-bryter-mot-avtalet-med-kungahuset/11649417",
+      "date": "7/10/2026",
+      "publishedAt": "2026-10-07T22:00:00+02:00",
+      "type": "Kungligt",
+      "firstSeenAt": "2026-10-08T00:01:44.393Z",
+      "titleVi": "Chỉ trích Märtha Louise sau vụ kiện triệu đô: \"Vi phạm thỏa thuận với hoàng gia\""
+    },
+    {
       "id": "https://www.svenskdam.se/noje/christer-lindarws-besked-med-alkoholen-madde-daligt/11649100",
       "source": "svenskdam",
       "title": "Christer Lindarws besked med alkoholen: \"Mådde dåligt\"",
@@ -1120,17 +1131,6 @@
       "titleVi": "Lời nhắn của Christer Lindarw với rượu: \"Cảm thấy tồi tệ\""
     },
     {
-      "id": "https://www.svenskdam.se/kungligt/drottningen-dyker-plotsligt-upp-i-finland-med-gratt-har/11648010",
-      "source": "svenskdam",
-      "title": "Drottningen dyker upp i Finland – med grått hår: \"Bryr sig inte\"",
-      "url": "https://www.svenskdam.se/kungligt/drottningen-dyker-plotsligt-upp-i-finland-med-gratt-har/11648010",
-      "date": "7/10/2026",
-      "publishedAt": "2026-10-07T20:00:00+02:00",
-      "type": "Kungligt",
-      "firstSeenAt": "2026-10-07T19:50:59.276Z",
-      "titleVi": "Nữ hoàng xuất hiện ở Phần Lan - tóc bạc: \"Đừng quan tâm\""
-    },
-    {
       "id": "https://www.svenskdam.se/kungligt/har-ar-hemligheten-bakom-marys-frascha-look/11558234",
       "source": "svenskdam",
       "title": "Experten: Här är hemligheten bakom Marys fräscha look",
@@ -1140,6 +1140,17 @@
       "type": "Kungligt",
       "firstSeenAt": "2026-10-07T19:50:59.276Z",
       "titleVi": "Chuyên gia: Đây là bí mật đằng sau vẻ ngoài tươi trẻ của Mary"
+    },
+    {
+      "id": "https://www.svenskdam.se/kungligt/drottningen-dyker-plotsligt-upp-i-finland-med-gratt-har/11648010",
+      "source": "svenskdam",
+      "title": "Drottningen dyker upp i Finland – med grått hår: \"Bryr sig inte\"",
+      "url": "https://www.svenskdam.se/kungligt/drottningen-dyker-plotsligt-upp-i-finland-med-gratt-har/11648010",
+      "date": "7/10/2026",
+      "publishedAt": "2026-10-07T20:00:00+02:00",
+      "type": "Kungligt",
+      "firstSeenAt": "2026-10-07T19:50:59.276Z",
+      "titleVi": "Nữ hoàng xuất hiện ở Phần Lan - tóc bạc: \"Đừng quan tâm\""
     },
     {
       "id": "https://www.svenskdam.se/kungligt/brittiska-kungafamiljen-skakas-av-dodsfall-45-aringen-hittad-mordad/11648314",
@@ -1296,17 +1307,6 @@
       "titleVi": "Leif GW Persson rời khỏi phòng thu truyền hình – sau câu hỏi nhạy cảm: \"Thiếu tôn trọng\""
     },
     {
-      "id": "https://www.svenskdam.se/kungligt/bli-granne-med-ewa-och-olle-westling-dar-victoria-trivs-som-bast/11646091",
-      "source": "svenskdam",
-      "title": "Bli granne med Ewa och Olle Westling – där Victoria trivs som bäst",
-      "url": "https://www.svenskdam.se/kungligt/bli-granne-med-ewa-och-olle-westling-dar-victoria-trivs-som-bast/11646091",
-      "date": "7/10/2026",
-      "publishedAt": "2026-10-07T06:00:00+02:00",
-      "type": "Kungligt",
-      "firstSeenAt": "2026-10-07T06:30:26.517Z",
-      "titleVi": "Ở ngay bên cạnh Ewa và Olle Westling – nơi Victoria phát triển mạnh nhất"
-    },
-    {
       "id": "https://www.svenskdam.se/creative-studio/darfor-byter-fler-elavtal-nar-de-flyttar-till-hus-och-sa-har-valjer-du-ratt/11609705",
       "source": "svenskdam",
       "title": "Därför byter fler elavtal när de flyttar till hus – och så här väljer du rätt",
@@ -1318,15 +1318,15 @@
       "titleVi": "Tại sao nhiều hợp đồng điện thay đổi khi họ chuyển đến một ngôi nhà – và đây là cách chọn hợp đồng điện phù hợp"
     },
     {
-      "id": "https://www.svenskdam.se/noje/slaget-mot-anne-lundberg-anmald-efter-handelsen-i-svt/11647208",
+      "id": "https://www.svenskdam.se/kungligt/bli-granne-med-ewa-och-olle-westling-dar-victoria-trivs-som-bast/11646091",
       "source": "svenskdam",
-      "title": "Slaget mot Anne Lundberg – anmäld efter händelsen i SVT",
-      "url": "https://www.svenskdam.se/noje/slaget-mot-anne-lundberg-anmald-efter-handelsen-i-svt/11647208",
-      "date": "6/10/2026",
-      "publishedAt": "2026-10-06T22:00:00+02:00",
-      "type": "Nöje",
-      "firstSeenAt": "2026-10-06T20:59:45.906Z",
-      "titleVi": "Cuộc chiến chống lại Anne Lundberg – được báo cáo sau sự kiện trên SVT"
+      "title": "Bli granne med Ewa och Olle Westling – där Victoria trivs som bäst",
+      "url": "https://www.svenskdam.se/kungligt/bli-granne-med-ewa-och-olle-westling-dar-victoria-trivs-som-bast/11646091",
+      "date": "7/10/2026",
+      "publishedAt": "2026-10-07T06:00:00+02:00",
+      "type": "Kungligt",
+      "firstSeenAt": "2026-10-07T06:30:26.517Z",
+      "titleVi": "Ở ngay bên cạnh Ewa và Olle Westling – nơi Victoria phát triển mạnh nhất"
     },
     {
       "id": "https://www.svenskdam.se/noje/vader-ulrika-har-lamnat-tv4-huset-nya-sysselsattningen-nyp-mig-i-armen/11645936",
@@ -1373,6 +1373,17 @@
       "titleVi": "Vụ ly hôn của Hoàng tử khiến mọi người sốc: \"Quyết định chung\""
     },
     {
+      "id": "https://www.svenskdam.se/noje/slaget-mot-anne-lundberg-anmald-efter-handelsen-i-svt/11647208",
+      "source": "svenskdam",
+      "title": "Slaget mot Anne Lundberg – anmäld efter händelsen i SVT",
+      "url": "https://www.svenskdam.se/noje/slaget-mot-anne-lundberg-anmald-efter-handelsen-i-svt/11647208",
+      "date": "6/10/2026",
+      "publishedAt": "2026-10-06T22:00:00+02:00",
+      "type": "Nöje",
+      "firstSeenAt": "2026-10-06T20:59:45.906Z",
+      "titleVi": "Cuộc chiến chống lại Anne Lundberg – được báo cáo sau sự kiện trên SVT"
+    },
+    {
       "id": "https://www.svenskdam.se/kungligt/folket-vadjar-till-furst-albert-att-kliva-at-sidan-efter-skandalen/11646646",
       "source": "svenskdam",
       "title": "Folket vädjar till furst Albert att kliva åt sidan – efter skandalen",
@@ -1404,17 +1415,6 @@
       "type": "Nöje",
       "firstSeenAt": "2026-10-06T20:59:45.906Z",
       "titleVi": "Gunde Svan khẳng định – thông điệp của người vợ sau ngần ấy năm: “Hãy là người giỏi nhất”"
-    },
-    {
-      "id": "https://www.svenskdam.se/kungligt/nya-bilden-avslojar-det-har-gor-kungen-utomlands-egentligen/11646682",
-      "source": "svenskdam",
-      "title": "Nya bilden avslöjar: Det här gör kungen utomlands – egentligen",
-      "url": "https://www.svenskdam.se/kungligt/nya-bilden-avslojar-det-har-gor-kungen-utomlands-egentligen/11646682",
-      "date": "6/10/2026",
-      "publishedAt": "2026-10-06T20:00:00+02:00",
-      "type": "Kungligt",
-      "firstSeenAt": "2026-10-06T20:59:45.906Z",
-      "titleVi": "Hình ảnh mới tiết lộ: Đây là những gì nhà vua làm ở nước ngoài – thực sự"
     },
     {
       "id": "https://www.kongehuset.no/presse/pressemeldinger/hans-majestet-kongen-til-narvik",
