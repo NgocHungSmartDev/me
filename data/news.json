@@ -1,6 +1,6 @@
 {
   "monitoringStartedAt": "2026-09-28T00:17:35.319Z",
-  "updatedAt": "2026-10-09T17:33:12.928Z",
+  "updatedAt": "2026-10-09T21:52:48.979Z",
   "sources": {
     "kongehuset": {
       "name": "Kongehuset",
@@ -33,9 +33,9 @@
       "language": "sv",
       "monitoringStartedAt": "2026-10-01T16:20:13.213Z",
       "status": {
-        "state": "ok",
-        "message": "",
-        "changedAt": "2026-10-07T13:57:32.939Z"
+        "state": "error",
+        "message": "fetch failed",
+        "changedAt": "2026-10-09T21:52:48.979Z"
       }
     },
     "svenskdam": {
@@ -57,9 +57,9 @@
       "language": "no",
       "monitoringStartedAt": "2026-10-01T16:30:06.936Z",
       "status": {
-        "state": "ok",
-        "message": "",
-        "changedAt": "2026-10-09T04:54:10.861Z"
+        "state": "error",
+        "message": "The Norwegian Royal House Atom feed returned no entries",
+        "changedAt": "2026-10-09T21:52:48.979Z"
       }
     }
   },
@@ -522,34 +522,54 @@
       "titleVi": "Nhà vua và hoàng hậu gửi thư chia buồn đến vua Haakon VIII"
     },
     {
-      "id": "https://nyheder.tv2.dk/live/udland/2026-09-30-fly-mod-israel-omdirigeret-efter-voldelig-episode-i-cockpit",
-      "source": "tv2",
-      "title": "Pilot brugte økse under terrorforsøg, siger anklagemyndighed",
-      "url": "https://nyheder.tv2.dk/live/udland/2026-09-30-fly-mod-israel-omdirigeret-efter-voldelig-episode-i-cockpit",
-      "date": "30/09/2026",
-      "type": "Live",
-      "firstSeenAt": "2026-10-09T17:33:12.928Z",
-      "titleVi": "Công tố viên cho biết phi công đã sử dụng rìu trong nỗ lực khủng bố"
-    },
-    {
       "id": "https://nyheder.tv2.dk/live/kort-nyt",
       "source": "tv2",
-      "title": "Bil brudt i brand på Holbækmotorvejen",
+      "title": "Darth Vaders lyssværd kommer på auktion",
       "url": "https://nyheder.tv2.dk/live/kort-nyt",
       "date": "—",
       "type": "Live",
       "firstSeenAt": "2026-09-28T00:30:42.330Z",
-      "titleVi": "Ô tô bốc cháy trên đường cao tốc Holbæk"
+      "titleVi": "Thanh gươm ánh sáng của Darth Vader được bán đấu giá"
     },
     {
-      "id": "https://nyheder.tv2.dk/live/samfund/2026-09-15-forsvarets-helikopter-beskudt-med-signalblus-af-russisk-fregat",
+      "id": "https://nyheder.tv2.dk/udland/2026-10-09-vance-vil-ikke-se-livestream-af-planlagt-henrettelse-i-usa",
       "source": "tv2",
-      "title": "Rusland indkalder dansk ambassadør efter helikoptersag",
-      "url": "https://nyheder.tv2.dk/live/samfund/2026-09-15-forsvarets-helikopter-beskudt-med-signalblus-af-russisk-fregat",
-      "date": "15/09/2026",
+      "title": "Vance vil ikke se livestream af planlagt henrettelse i USA",
+      "url": "https://nyheder.tv2.dk/udland/2026-10-09-vance-vil-ikke-se-livestream-af-planlagt-henrettelse-i-usa",
+      "date": "09/10/2026",
+      "type": "Udland",
+      "firstSeenAt": "2026-10-09T21:52:48.979Z",
+      "titleVi": "Vance sẽ không thấy phát trực tuyến thực thi theo lịch trình ở Hoa Kỳ"
+    },
+    {
+      "id": "https://nyheder.tv2.dk/live/business/2025-03-12-seneste-nyt-fra-de-finansielle-markeder",
+      "source": "tv2",
+      "title": "Trump laver aftale med Putin om flere millioner ton olie",
+      "url": "https://nyheder.tv2.dk/live/business/2025-03-12-seneste-nyt-fra-de-finansielle-markeder",
+      "date": "12/03/2025",
       "type": "Live",
-      "firstSeenAt": "2026-10-09T17:33:12.928Z",
-      "titleVi": "Nga triệu tập đại sứ Đan Mạch sau vụ trực thăng"
+      "firstSeenAt": "2026-10-09T21:52:48.979Z",
+      "titleVi": "Trump thỏa thuận với Putin mua vài triệu tấn dầu"
+    },
+    {
+      "id": "https://nyheder.tv2.dk/2026-10-08-forskning-afsloerer-stor-social-ulighed-i-risikoen-for-oversvoemmelser",
+      "source": "tv2",
+      "title": "Forskning afslører stor social ulighed i risikoen for oversvømmelser",
+      "url": "https://nyheder.tv2.dk/2026-10-08-forskning-afsloerer-stor-social-ulighed-i-risikoen-for-oversvoemmelser",
+      "date": "08/10/2026",
+      "type": "Nyheder",
+      "firstSeenAt": "2026-10-09T21:52:48.979Z",
+      "titleVi": "Nghiên cứu cho thấy bất bình đẳng xã hội cao trong nguy cơ lũ lụt"
+    },
+    {
+      "id": "https://nyheder.tv2.dk/udland/2026-10-09-russerne-forsoegte-storstilet-offensiv-men-ukraine-har-vendt-det-til-deres-fordel",
+      "source": "tv2",
+      "title": "Russerne forsøgte storstilet offensiv, men Ukraine har vendt det til deres fordel",
+      "url": "https://nyheder.tv2.dk/udland/2026-10-09-russerne-forsoegte-storstilet-offensiv-men-ukraine-har-vendt-det-til-deres-fordel",
+      "date": "09/10/2026",
+      "type": "Udland",
+      "firstSeenAt": "2026-10-09T21:52:48.979Z",
+      "titleVi": "Người Nga đã cố gắng tấn công quy mô lớn, nhưng Ukraine đã biến nó thành lợi thế của họ"
     },
     {
       "id": "https://nyheder.tv2.dk/live/2024-09-08-seneste-nyt-om-krigen-i-ukraine-70b1d6cc-0720-404e-9878-45546e1999e7",
@@ -570,6 +590,56 @@
       "type": "Live",
       "firstSeenAt": "2026-09-28T00:30:42.330Z",
       "titleVi": "Bức ảnh chính trị gia và con trai gặp phải những bình luận trịch thượng"
+    },
+    {
+      "id": "https://nyheder.tv2.dk/business/2026-10-08-yousee-kunder-maa-gang-paa-gang-rette-henvendelse-for-at-faa-loest-deres-sager",
+      "source": "tv2",
+      "title": "YouSee-kunder må gang på gang rette henvendelse for at få løst deres sager",
+      "url": "https://nyheder.tv2.dk/business/2026-10-08-yousee-kunder-maa-gang-paa-gang-rette-henvendelse-for-at-faa-loest-deres-sager",
+      "date": "08/10/2026",
+      "type": "Business",
+      "firstSeenAt": "2026-10-09T21:52:48.979Z",
+      "titleVi": "Khách hàng của YouSee phải liên tục đặt câu hỏi để giải quyết trường hợp của họ"
+    },
+    {
+      "id": "https://nyheder.tv2.dk/live/samfund/2026-10-06-toejgigant-er-blevet-hacket",
+      "source": "tv2",
+      "title": "Asos forklarer hackerangreb i besked til danske kunder",
+      "url": "https://nyheder.tv2.dk/live/samfund/2026-10-06-toejgigant-er-blevet-hacket",
+      "date": "06/10/2026",
+      "type": "Live",
+      "firstSeenAt": "2026-10-09T21:52:48.979Z",
+      "titleVi": "Asos giải thích các cuộc tấn công của tin tặc trong tin nhắn gửi cho khách hàng Đan Mạch"
+    },
+    {
+      "id": "https://nyheder.tv2.dk/krimi/2026-10-09-justitsministeren-vil-have-gennemgaaet-efterforskningen-i-kirkerup-sagen",
+      "source": "tv2",
+      "title": "Justitsministeren vil have gennemgået efterforskningen i Kirkerup-sagen",
+      "url": "https://nyheder.tv2.dk/krimi/2026-10-09-justitsministeren-vil-have-gennemgaaet-efterforskningen-i-kirkerup-sagen",
+      "date": "09/10/2026",
+      "type": "Krimi",
+      "firstSeenAt": "2026-10-09T21:52:48.979Z",
+      "titleVi": "Bộ trưởng Bộ Tư pháp sẽ xem xét lại cuộc điều tra trong vụ án Kirkerup"
+    },
+    {
+      "id": "https://nyheder.tv2.dk/live/udland/2026-09-30-fly-mod-israel-omdirigeret-efter-voldelig-episode-i-cockpit",
+      "source": "tv2",
+      "title": "Pilot brugte økse under terrorforsøg, siger anklagemyndighed",
+      "url": "https://nyheder.tv2.dk/live/udland/2026-09-30-fly-mod-israel-omdirigeret-efter-voldelig-episode-i-cockpit",
+      "date": "30/09/2026",
+      "type": "Live",
+      "firstSeenAt": "2026-10-09T17:33:12.928Z",
+      "titleVi": "Công tố viên cho biết phi công đã sử dụng rìu trong nỗ lực khủng bố"
+    },
+    {
+      "id": "https://nyheder.tv2.dk/live/samfund/2026-09-15-forsvarets-helikopter-beskudt-med-signalblus-af-russisk-fregat",
+      "source": "tv2",
+      "title": "Der er gang i russisk \"misinformationskampagne\", siger minister",
+      "url": "https://nyheder.tv2.dk/live/samfund/2026-09-15-forsvarets-helikopter-beskudt-med-signalblus-af-russisk-fregat",
+      "date": "15/09/2026",
+      "type": "Live",
+      "firstSeenAt": "2026-10-09T17:33:12.928Z",
+      "titleVi": "Bộ trưởng cho biết \"chiến dịch thông tin sai lệch\" của Nga đang được tiến hành"
     },
     {
       "id": "https://nyheder.tv2.dk/live/udland/2025-03-17-verden-i-forandring",
@@ -740,76 +810,6 @@
       "type": "Live",
       "firstSeenAt": "2026-10-09T11:40:56.155Z",
       "titleVi": "Cổ phiếu giảm mạnh sau khi số liệu OpenAI giảm mạnh"
-    },
-    {
-      "id": "https://nyheder.tv2.dk/krimi/2026-10-09-raadgiver-fra-den-sorte-svane-tiltalt-i-gigantsag",
-      "source": "tv2",
-      "title": "Rådgiver fra 'Den sorte svane' tiltalt i gigantsag",
-      "url": "https://nyheder.tv2.dk/krimi/2026-10-09-raadgiver-fra-den-sorte-svane-tiltalt-i-gigantsag",
-      "date": "09/10/2026",
-      "type": "Krimi",
-      "firstSeenAt": "2026-10-09T11:40:56.155Z",
-      "titleVi": "Cố vấn từ 'Thiên nga đen' bị truy tố trong vụ án khổng lồ"
-    },
-    {
-      "id": "https://nyheder.tv2.dk/samfund/2026-10-09-sardiner-bliver-pludselig-revet-ned-fra-hylderne",
-      "source": "tv2",
-      "title": "Sardiner bliver pludselig revet ned fra hylderne",
-      "url": "https://nyheder.tv2.dk/samfund/2026-10-09-sardiner-bliver-pludselig-revet-ned-fra-hylderne",
-      "date": "09/10/2026",
-      "type": "Samfund",
-      "firstSeenAt": "2026-10-09T11:40:56.155Z",
-      "titleVi": "Cá mòi đột nhiên bị xé toạc khỏi kệ"
-    },
-    {
-      "id": "https://nyheder.tv2.dk/2026-10-06-15-af-danmarks-stoerste-kunstnere-gaar-sammen-om-ny-sang",
-      "source": "tv2",
-      "title": "15 af Danmarks største kunstnere går sammen om ny sang",
-      "url": "https://nyheder.tv2.dk/2026-10-06-15-af-danmarks-stoerste-kunstnere-gaar-sammen-om-ny-sang",
-      "date": "06/10/2026",
-      "type": "Nyheder",
-      "firstSeenAt": "2026-10-09T11:40:56.155Z",
-      "titleVi": "15 nghệ sĩ vĩ đại nhất của Đan Mạch tham gia lực lượng cho bài hát mới"
-    },
-    {
-      "id": "https://nyheder.tv2.dk/udland/2026-10-08-hun-var-forlovet-med-trump-jr-nu-beskyldes-amerikansk-ambassadoer-for-korruption",
-      "source": "tv2",
-      "title": "Hun var forlovet med Trump Jr. – nu beskyldes amerikansk ambassadør for korruption",
-      "url": "https://nyheder.tv2.dk/udland/2026-10-08-hun-var-forlovet-med-trump-jr-nu-beskyldes-amerikansk-ambassadoer-for-korruption",
-      "date": "08/10/2026",
-      "type": "Udland",
-      "firstSeenAt": "2026-10-09T11:40:56.155Z",
-      "titleVi": "Cô đã đính hôn với Trump Jr. – bây giờ đại sứ Hoa Kỳ bị buộc tội tham nhũng"
-    },
-    {
-      "id": "https://nyheder.tv2.dk/politik/2026-10-09-her-er-de-centrale-dele-af-regeringens-udspil-til-finanslov",
-      "source": "tv2",
-      "title": "Her er de centrale dele af regeringens udspil til finanslov",
-      "url": "https://nyheder.tv2.dk/politik/2026-10-09-her-er-de-centrale-dele-af-regeringens-udspil-til-finanslov",
-      "date": "09/10/2026",
-      "type": "Politik",
-      "firstSeenAt": "2026-10-09T11:40:56.155Z",
-      "titleVi": "Dưới đây là các phần trung tâm của đề xuất của chính phủ về Đạo luật Tài chính"
-    },
-    {
-      "id": "https://nyheder.tv2.dk/trafik/2026-10-09-togtrafikken-paa-tvaers-af-landet-ramt-af-aflysninger",
-      "source": "tv2",
-      "title": "Togtrafikken på tværs af landet ramt af aflysninger",
-      "url": "https://nyheder.tv2.dk/trafik/2026-10-09-togtrafikken-paa-tvaers-af-landet-ramt-af-aflysninger",
-      "date": "09/10/2026",
-      "type": "Trafik",
-      "firstSeenAt": "2026-10-09T11:40:56.155Z",
-      "titleVi": "Giao thông đường sắt xuyên quốc gia bị ảnh hưởng bởi việc hủy chuyến"
-    },
-    {
-      "id": "https://nyheder.tv2.dk/business/2026-10-07-tusindvis-af-kunder-risikerede-dobbeltregning-nu-goer-vagthund-klar-til-at-gribe-ind",
-      "source": "tv2",
-      "title": "Tusindvis af kunder risikerede dobbeltregning – nu gør vagthund klar til at gribe ind",
-      "url": "https://nyheder.tv2.dk/business/2026-10-07-tusindvis-af-kunder-risikerede-dobbeltregning-nu-goer-vagthund-klar-til-at-gribe-ind",
-      "date": "07/10/2026",
-      "type": "Business",
-      "firstSeenAt": "2026-10-09T11:40:56.155Z",
-      "titleVi": "Hàng ngàn khách hàng đã mạo hiểm thanh toán hai lần – bây giờ hãy để cơ quan giám sát sẵn sàng hành động"
     },
     {
       "id": "https://www.kungahuset.se/arkiv/nyheter/2026-10-08-kronprinsessan-sag-ocean-dreams",
@@ -1098,26 +1098,26 @@
       "titleVi": "Lập bản đồ: Điều gì xảy ra với Silvia – khi Victoria trở thành Nữ hoàng"
     },
     {
-      "id": "https://www.svenskdam.se/noje/lisa-borgs-stod-av-maken-under-tuffa-tiden-i-lets-dance-kant-mig-lag/11652239",
+      "id": "https://www.svenskdam.se/noje/martinus-gunnarsen-vinner-lets-dance-2026-vilda-gladjescenerna/11653793",
       "source": "svenskdam",
-      "title": "Lisa Borgs stöd av maken under tuffa tiden i Let's Dance: \"Känt mig låg\"",
-      "url": "https://www.svenskdam.se/noje/lisa-borgs-stod-av-maken-under-tuffa-tiden-i-lets-dance-kant-mig-lag/11652239",
+      "title": "Martinus Gunnarsen vinner Let's Dance 2026 – vilda glädjescenerna!",
+      "url": "https://www.svenskdam.se/noje/martinus-gunnarsen-vinner-lets-dance-2026-vilda-gladjescenerna/11653793",
       "date": "9/10/2026",
-      "publishedAt": "2026-10-09T19:30:00+02:00",
+      "publishedAt": "2026-10-09T22:06:53+02:00",
       "type": "Nöje",
-      "firstSeenAt": "2026-10-09T17:33:12.928Z",
-      "titleVi": "Sự ủng hộ của Lisa Borg dành cho chồng trong khoảng thời gian khó khăn ở Let's Dance: \"Felt low\""
+      "firstSeenAt": "2026-10-09T21:52:48.979Z",
+      "titleVi": "Martinus Gunnarsen giành chiến thắng Let's Dance 2026 – những cảnh vui nhộn hoang dã!"
     },
     {
-      "id": "https://www.svenskdam.se/kungligt/drama-vid-prinsens-skola-14-arig-pojke-attackerade-flicka-med-kniv/11652668",
+      "id": "https://www.svenskdam.se/noje/walter-wallbergs-beslut-med-flickvannen-har-lamnat-mycket-har-hant/11653178",
       "source": "svenskdam",
-      "title": "Drama vid prinsens skola – 14-årig pojke attackerade flicka med kniv",
-      "url": "https://www.svenskdam.se/kungligt/drama-vid-prinsens-skola-14-arig-pojke-attackerade-flicka-med-kniv/11652668",
+      "title": "Walter Wallbergs beslut med flickvännen – har lämnat: ”Mycket har hänt”",
+      "url": "https://www.svenskdam.se/noje/walter-wallbergs-beslut-med-flickvannen-har-lamnat-mycket-har-hant/11653178",
       "date": "9/10/2026",
-      "publishedAt": "2026-10-09T19:00:00+02:00",
-      "type": "Kungligt",
-      "firstSeenAt": "2026-10-09T17:33:12.928Z",
-      "titleVi": "Kịch tính tại trường của hoàng tử – cậu bé 14 tuổi tấn công cô gái bằng dao"
+      "publishedAt": "2026-10-09T21:00:00+02:00",
+      "type": "Nöje",
+      "firstSeenAt": "2026-10-09T21:52:48.979Z",
+      "titleVi": "Quyết định của Walter Wallberg với bạn gái – đã rời đi: \"Rất nhiều điều đã xảy ra\""
     },
     {
       "id": "https://www.svenskdam.se/kungligt/darfor-far-inte-zara-tindall-prinsessan-annes-unika-titel/11651041",
@@ -1140,6 +1140,39 @@
       "type": "Creative studio",
       "firstSeenAt": "2026-10-08T13:30:06.955Z",
       "titleVi": "Nó bắt đầu khi đang tắm: Đưa thói quen cơ thể của bạn lên một tầm cao mới"
+    },
+    {
+      "id": "https://www.svenskdam.se/noje/anna-lindmarkers-ovantade-comeback-i-rutan-hurra/11653949",
+      "source": "svenskdam",
+      "title": "Anna Lindmarkers oväntade comeback i TV4: \"Hurra!\"",
+      "url": "https://www.svenskdam.se/noje/anna-lindmarkers-ovantade-comeback-i-rutan-hurra/11653949",
+      "date": "9/10/2026",
+      "publishedAt": "2026-10-09T20:27:52+02:00",
+      "type": "Nöje",
+      "firstSeenAt": "2026-10-09T21:52:48.979Z",
+      "titleVi": "Sự trở lại bất ngờ của Anna Lindmarker trên TV4: \"Hoan hô!\""
+    },
+    {
+      "id": "https://www.svenskdam.se/noje/lisa-borgs-stod-av-maken-under-tuffa-tiden-i-lets-dance-kant-mig-lag/11652239",
+      "source": "svenskdam",
+      "title": "Lisa Borgs stöd av maken under tuffa tiden i Let's Dance: \"Känt mig låg\"",
+      "url": "https://www.svenskdam.se/noje/lisa-borgs-stod-av-maken-under-tuffa-tiden-i-lets-dance-kant-mig-lag/11652239",
+      "date": "9/10/2026",
+      "publishedAt": "2026-10-09T19:30:00+02:00",
+      "type": "Nöje",
+      "firstSeenAt": "2026-10-09T17:33:12.928Z",
+      "titleVi": "Sự ủng hộ của Lisa Borg dành cho chồng trong khoảng thời gian khó khăn ở Let's Dance: \"Felt low\""
+    },
+    {
+      "id": "https://www.svenskdam.se/kungligt/drama-vid-prinsens-skola-14-arig-pojke-attackerade-flicka-med-kniv/11652668",
+      "source": "svenskdam",
+      "title": "Drama vid prinsens skola – 14-årig pojke attackerade flicka med kniv",
+      "url": "https://www.svenskdam.se/kungligt/drama-vid-prinsens-skola-14-arig-pojke-attackerade-flicka-med-kniv/11652668",
+      "date": "9/10/2026",
+      "publishedAt": "2026-10-09T19:00:00+02:00",
+      "type": "Kungligt",
+      "firstSeenAt": "2026-10-09T17:33:12.928Z",
+      "titleVi": "Kịch tính tại trường của hoàng tử – cậu bé 14 tuổi tấn công cô gái bằng dao"
     },
     {
       "id": "https://www.svenskdam.se/noje/tony-irvings-besked-om-aktenskapet-efter-11-ar-som-gifta-min-relation/11652621",
@@ -1263,39 +1296,6 @@
       "titleVi": "Sự lựa chọn vé số của Tris scraper bị nghi ngờ – những cảnh được phát sóng: \"Tumbling\""
     },
     {
-      "id": "https://www.svenskdam.se/noje/bjorn-ulvaeus-ord-om-halsan-beskedet-om-forandringen-nufortiden/11650977",
-      "source": "svenskdam",
-      "title": "Björn Ulvaeus ord om hälsan – beskedet om förändringen: \"Nuförtiden...\"",
-      "url": "https://www.svenskdam.se/noje/bjorn-ulvaeus-ord-om-halsan-beskedet-om-forandringen-nufortiden/11650977",
-      "date": "9/10/2026",
-      "publishedAt": "2026-10-09T08:00:00+02:00",
-      "type": "Nöje",
-      "firstSeenAt": "2026-10-09T11:40:56.155Z",
-      "titleVi": "Những lời của Björn Ulvaeus về sức khỏe – thông điệp về sự thay đổi: \"Ngày nay...\""
-    },
-    {
-      "id": "https://www.svenskdam.se/noje/darfor-tackade-david-hellenius-ja-till-nya-jobbet-beskedet-om-tv4/11648577",
-      "source": "svenskdam",
-      "title": "Därför tackade David Hellenius ja till nya jobbet – beskedet om TV4",
-      "url": "https://www.svenskdam.se/noje/darfor-tackade-david-hellenius-ja-till-nya-jobbet-beskedet-om-tv4/11648577",
-      "date": "9/10/2026",
-      "publishedAt": "2026-10-09T07:00:00+02:00",
-      "type": "Nöje",
-      "firstSeenAt": "2026-10-09T11:40:56.155Z",
-      "titleVi": "Do đó, David Hellenius đã chấp nhận công việc mới – thông báo về TV4"
-    },
-    {
-      "id": "https://www.svenskdam.se/kungligt/drottning-silvias-privata-mobil-avslojar-beslutet-fangas-pa-bild/11649805",
-      "source": "svenskdam",
-      "title": "Drottning Silvias privata mobil avslöjar henne – allt fastnar på bild",
-      "url": "https://www.svenskdam.se/kungligt/drottning-silvias-privata-mobil-avslojar-beslutet-fangas-pa-bild/11649805",
-      "date": "9/10/2026",
-      "publishedAt": "2026-10-09T06:00:00+02:00",
-      "type": "Kungligt",
-      "firstSeenAt": "2026-10-09T04:54:10.861Z",
-      "titleVi": "Điện thoại riêng của Nữ hoàng Silvia cho thấy cô ấy – mọi thứ đều dính vào bức tranh"
-    },
-    {
       "id": "https://www.svenskdam.se/creative-studio/darfor-byter-fler-elavtal-nar-de-flyttar-till-hus-och-sa-har-valjer-du-ratt/11609705",
       "source": "svenskdam",
       "title": "Därför byter fler elavtal när de flyttar till hus – och så här väljer du rätt",
@@ -1307,15 +1307,15 @@
       "titleVi": "Tại sao nhiều hợp đồng điện thay đổi khi họ chuyển đến một ngôi nhà – và đây là cách chọn hợp đồng điện phù hợp"
     },
     {
-      "id": "https://www.svenskdam.se/noje/maken-avslojar-hemliga-smeknamnet-pa-anders-pihlblad-minitripp-med/11651426",
+      "id": "https://www.svenskdam.se/noje/bjorn-ulvaeus-ord-om-halsan-beskedet-om-forandringen-nufortiden/11650977",
       "source": "svenskdam",
-      "title": "Maken avslöjar hemliga smeknamnet på Anders Pihlblad: \"Minitripp med…\"",
-      "url": "https://www.svenskdam.se/noje/maken-avslojar-hemliga-smeknamnet-pa-anders-pihlblad-minitripp-med/11651426",
-      "date": "8/10/2026",
-      "publishedAt": "2026-10-08T22:00:00+02:00",
+      "title": "Björn Ulvaeus ord om hälsan – beskedet om förändringen: \"Nuförtiden...\"",
+      "url": "https://www.svenskdam.se/noje/bjorn-ulvaeus-ord-om-halsan-beskedet-om-forandringen-nufortiden/11650977",
+      "date": "9/10/2026",
+      "publishedAt": "2026-10-09T08:00:00+02:00",
       "type": "Nöje",
-      "firstSeenAt": "2026-10-08T23:51:12.861Z",
-      "titleVi": "Người chồng tiết lộ biệt danh bí mật của Anders Pihlblad: \"Chuyến đi nhỏ với…\""
+      "firstSeenAt": "2026-10-09T11:40:56.155Z",
+      "titleVi": "Những lời của Björn Ulvaeus về sức khỏe – thông điệp về sự thay đổi: \"Ngày nay...\""
     },
     {
       "id": "https://www.svenskdam.se/kungligt/brittiska-kungafamiljen-skakas-av-dodsfall-45-aringen-hittad-mordad/11648314",
@@ -1362,48 +1362,48 @@
       "titleVi": "Weather-Ulrika đã rời khỏi tòa nhà TV4 – công việc mới: \"véo vào cánh tay tôi\""
     },
     {
-      "id": "https://www.svenskdam.se/kungligt/alla-tappar-hakan-efter-avslojandet-om-prislappen-pa-charlenes-klanning/11650077",
+      "id": "https://www.svenskdam.se/noje/darfor-tackade-david-hellenius-ja-till-nya-jobbet-beskedet-om-tv4/11648577",
       "source": "svenskdam",
-      "title": "Alla tappar hakan – efter avslöjandet om prislappen på Charlenes klänning",
-      "url": "https://www.svenskdam.se/kungligt/alla-tappar-hakan-efter-avslojandet-om-prislappen-pa-charlenes-klanning/11650077",
-      "date": "8/10/2026",
-      "publishedAt": "2026-10-08T21:00:00+02:00",
-      "type": "Kungligt",
-      "firstSeenAt": "2026-10-08T19:23:59.337Z",
-      "titleVi": "Mọi người há hốc mồm sau tiết lộ về giá váy của Charlene"
-    },
-    {
-      "id": "https://www.svenskdam.se/noje/sofia-geites-forvaning-efter-gastens-ovantade-beteende-oj/11650746",
-      "source": "svenskdam",
-      "title": "Sofia Geites förvåning efter gästens oväntade beteende: \"Oj!\"",
-      "url": "https://www.svenskdam.se/noje/sofia-geites-forvaning-efter-gastens-ovantade-beteende-oj/11650746",
-      "date": "8/10/2026",
-      "publishedAt": "2026-10-08T20:00:00+02:00",
+      "title": "Därför tackade David Hellenius ja till nya jobbet – beskedet om TV4",
+      "url": "https://www.svenskdam.se/noje/darfor-tackade-david-hellenius-ja-till-nya-jobbet-beskedet-om-tv4/11648577",
+      "date": "9/10/2026",
+      "publishedAt": "2026-10-09T07:00:00+02:00",
       "type": "Nöje",
-      "firstSeenAt": "2026-10-08T19:23:59.337Z",
-      "titleVi": "Sofia Geite ngạc nhiên trước hành vi bất ngờ của vị khách: \"Ôi!\""
+      "firstSeenAt": "2026-10-09T11:40:56.155Z",
+      "titleVi": "Do đó, David Hellenius đã chấp nhận công việc mới – thông báo về TV4"
     },
     {
-      "id": "https://www.svenskdam.se/kungligt/polisen-stormat-kungens-skola-utreder-situationen/11651541",
+      "id": "https://www.svenskdam.se/kungligt/drottning-silvias-privata-mobil-avslojar-beslutet-fangas-pa-bild/11649805",
       "source": "svenskdam",
-      "title": "Stor polisinsats på kungens skola – situationen under utredning",
-      "url": "https://www.svenskdam.se/kungligt/polisen-stormat-kungens-skola-utreder-situationen/11651541",
-      "date": "8/10/2026",
-      "publishedAt": "2026-10-08T19:08:35+02:00",
+      "title": "Drottning Silvias privata mobil avslöjar henne – allt fastnar på bild",
+      "url": "https://www.svenskdam.se/kungligt/drottning-silvias-privata-mobil-avslojar-beslutet-fangas-pa-bild/11649805",
+      "date": "9/10/2026",
+      "publishedAt": "2026-10-09T06:00:00+02:00",
       "type": "Kungligt",
-      "firstSeenAt": "2026-10-08T19:23:59.337Z",
-      "titleVi": "Chiến dịch lớn của cảnh sát tại trường King's School – tình huống đang được điều tra"
+      "firstSeenAt": "2026-10-09T04:54:10.861Z",
+      "titleVi": "Điện thoại riêng của Nữ hoàng Silvia cho thấy cô ấy – mọi thứ đều dính vào bức tranh"
     },
     {
-      "id": "https://www.svenskdam.se/kungligt/drottning-silvias-hemliga-stopp-under-tysklandsresan/11650548",
+      "id": "https://www.svenskdam.se/noje/darfor-kanner-du-igen-pa-sparet-deltagarens-dotter-tydliga-likheten/11653376",
       "source": "svenskdam",
-      "title": "Drottning Silvias hemliga stopp under Tysklandsresan: \"Ingen berättar\"",
-      "url": "https://www.svenskdam.se/kungligt/drottning-silvias-hemliga-stopp-under-tysklandsresan/11650548",
+      "title": "Därför känner du igen På Spåret-deltagarens dotter – tydliga likheten",
+      "url": "https://www.svenskdam.se/noje/darfor-kanner-du-igen-pa-sparet-deltagarens-dotter-tydliga-likheten/11653376",
+      "date": "9/10/2026",
+      "publishedAt": "2026-10-09T00:00:00+02:00",
+      "type": "Nöje",
+      "firstSeenAt": "2026-10-09T21:52:48.979Z",
+      "titleVi": "Tại sao bạn nhận ra con gái của người tham gia On the Track – sự tương đồng rõ ràng"
+    },
+    {
+      "id": "https://www.svenskdam.se/noje/maken-avslojar-hemliga-smeknamnet-pa-anders-pihlblad-minitripp-med/11651426",
+      "source": "svenskdam",
+      "title": "Maken avslöjar hemliga smeknamnet på Anders Pihlblad: \"Minitripp med…\"",
+      "url": "https://www.svenskdam.se/noje/maken-avslojar-hemliga-smeknamnet-pa-anders-pihlblad-minitripp-med/11651426",
       "date": "8/10/2026",
-      "publishedAt": "2026-10-08T19:00:00+02:00",
-      "type": "Kungligt",
-      "firstSeenAt": "2026-10-08T19:23:59.337Z",
-      "titleVi": "Điểm dừng chân bí mật của Hoàng hậu Silvia trong chuyến công du Đức: “Không ai kể”"
+      "publishedAt": "2026-10-08T22:00:00+02:00",
+      "type": "Nöje",
+      "firstSeenAt": "2026-10-08T23:51:12.861Z",
+      "titleVi": "Người chồng tiết lộ biệt danh bí mật của Anders Pihlblad: \"Chuyến đi nhỏ với…\""
     },
     {
       "id": "https://www.kongehuset.no/presse/pressemeldinger/dronning-sonja-besoker-nasjonalarkivet",
