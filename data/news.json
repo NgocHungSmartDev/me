@@ -1,6 +1,6 @@
 {
   "monitoringStartedAt": "2026-09-28T00:17:35.319Z",
-  "updatedAt": "2026-10-09T21:52:48.979Z",
+  "updatedAt": "2026-10-10T01:32:29.694Z",
   "sources": {
     "kongehuset": {
       "name": "Kongehuset",
@@ -33,9 +33,9 @@
       "language": "sv",
       "monitoringStartedAt": "2026-10-01T16:20:13.213Z",
       "status": {
-        "state": "error",
-        "message": "fetch failed",
-        "changedAt": "2026-10-09T21:52:48.979Z"
+        "state": "ok",
+        "message": "",
+        "changedAt": "2026-10-10T01:32:29.694Z"
       }
     },
     "svenskdam": {
@@ -57,9 +57,9 @@
       "language": "no",
       "monitoringStartedAt": "2026-10-01T16:30:06.936Z",
       "status": {
-        "state": "error",
-        "message": "The Norwegian Royal House Atom feed returned no entries",
-        "changedAt": "2026-10-09T21:52:48.979Z"
+        "state": "ok",
+        "message": "",
+        "changedAt": "2026-10-10T01:32:29.694Z"
       }
     }
   },
@@ -1318,37 +1318,15 @@
       "titleVi": "Những lời của Björn Ulvaeus về sức khỏe – thông điệp về sự thay đổi: \"Ngày nay...\""
     },
     {
-      "id": "https://www.svenskdam.se/kungligt/brittiska-kungafamiljen-skakas-av-dodsfall-45-aringen-hittad-mordad/11648314",
+      "id": "https://www.svenskdam.se/kungligt/bli-granne-med-ewa-och-olle-westling-dar-victoria-trivs-som-bast/11646091",
       "source": "svenskdam",
-      "title": "Brittiska kungafamiljen skakas av dödsfall – 45-åringen hittad mördad",
-      "url": "https://www.svenskdam.se/kungligt/brittiska-kungafamiljen-skakas-av-dodsfall-45-aringen-hittad-mordad/11648314",
+      "title": "Bli granne med Ewa och Olle Westling – där Victoria trivs som bäst",
+      "url": "https://www.svenskdam.se/kungligt/bli-granne-med-ewa-och-olle-westling-dar-victoria-trivs-som-bast/11646091",
       "date": "7/10/2026",
-      "publishedAt": "2026-10-07T18:00:00+02:00",
+      "publishedAt": "2026-10-07T06:00:00+02:00",
       "type": "Kungligt",
-      "firstSeenAt": "2026-10-07T19:50:59.276Z",
-      "titleVi": "Hoàng gia Anh chấn động trước cái chết - người đàn ông 45 tuổi được phát hiện bị sát hại"
-    },
-    {
-      "id": "https://www.svenskdam.se/kungligt/victorias-beteende-en-snackis-pa-gotland-forsokte-tranga-sig-fore/11648695",
-      "source": "svenskdam",
-      "title": "Victorias beteende en snackis på Gotland: \"Försökte tränga sig före\"",
-      "url": "https://www.svenskdam.se/kungligt/victorias-beteende-en-snackis-pa-gotland-forsokte-tranga-sig-fore/11648695",
-      "date": "7/10/2026",
-      "publishedAt": "2026-10-07T16:30:00+02:00",
-      "type": "Kungligt",
-      "firstSeenAt": "2026-10-09T04:54:10.861Z",
-      "titleVi": "Hành vi của Victoria là một bữa ăn nhẹ ở Gotland: \"Cố gắng tiến lên phía trước\""
-    },
-    {
-      "id": "https://www.svenskdam.se/kungligt/kritik-mot-martha-louise-efter-miljonstamningen-bryter-mot-avtalet-med-kungahuset/11649417",
-      "source": "svenskdam",
-      "title": "Kritik mot Märtha Louise efter miljonstämningen: \"Bryter mot avtalet med kungahuset\"",
-      "url": "https://www.svenskdam.se/kungligt/kritik-mot-martha-louise-efter-miljonstamningen-bryter-mot-avtalet-med-kungahuset/11649417",
-      "date": "7/10/2026",
-      "publishedAt": "2026-10-07T22:00:00+02:00",
-      "type": "Kungligt",
-      "firstSeenAt": "2026-10-08T00:01:44.393Z",
-      "titleVi": "Chỉ trích Märtha Louise sau vụ kiện triệu đô: \"Vi phạm thỏa thuận với hoàng gia\""
+      "firstSeenAt": "2026-10-10T01:32:29.694Z",
+      "titleVi": "Ở ngay bên cạnh Ewa và Olle Westling – nơi Victoria phát triển mạnh nhất"
     },
     {
       "id": "https://www.svenskdam.se/noje/vader-ulrika-har-lamnat-tv4-huset-nya-sysselsattningen-nyp-mig-i-armen/11645936",
