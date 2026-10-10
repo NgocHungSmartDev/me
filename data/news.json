@@ -1,6 +1,6 @@
 {
   "monitoringStartedAt": "2026-09-28T00:17:35.319Z",
-  "updatedAt": "2026-10-10T14:16:44.169Z",
+  "updatedAt": "2026-10-10T18:46:37.785Z",
   "sources": {
     "kongehuset": {
       "name": "Kongehuset",
@@ -57,9 +57,9 @@
       "language": "no",
       "monitoringStartedAt": "2026-10-01T16:30:06.936Z",
       "status": {
-        "state": "error",
-        "message": "The Norwegian Royal House Atom feed returned no entries",
-        "changedAt": "2026-10-10T07:45:10.836Z"
+        "state": "ok",
+        "message": "",
+        "changedAt": "2026-10-10T18:46:37.785Z"
       }
     }
   },
@@ -522,16 +522,6 @@
       "titleVi": "Bong tróc ở nửa cột buồm"
     },
     {
-      "id": "https://nyheder.tv2.dk/live/kort-nyt",
-      "source": "tv2",
-      "title": "Øjenvidner hører kraftige brag i lufthavn i Riyadh",
-      "url": "https://nyheder.tv2.dk/live/kort-nyt",
-      "date": "—",
-      "type": "Live",
-      "firstSeenAt": "2026-09-28T00:30:42.330Z",
-      "titleVi": "Các nhân chứng nghe thấy tiếng nổ lớn tại sân bay Riyadh"
-    },
-    {
       "id": "https://nyheder.tv2.dk/live/2024-09-08-seneste-nyt-om-krigen-i-ukraine-70b1d6cc-0720-404e-9878-45546e1999e7",
       "source": "tv2",
       "title": "Russisk militærblogger tilbageholdt i NATO-land",
@@ -540,6 +530,56 @@
       "type": "Live",
       "firstSeenAt": "2026-09-28T00:30:42.330Z",
       "titleVi": "Blogger quân đội Nga bị giam giữ tại quốc gia NATO"
+    },
+    {
+      "id": "https://nyheder.tv2.dk/live/kort-nyt",
+      "source": "tv2",
+      "title": "Bil faldt fem etager ned fra parkeringshus i Honolulu – kvinde dræbt",
+      "url": "https://nyheder.tv2.dk/live/kort-nyt",
+      "date": "—",
+      "type": "Live",
+      "firstSeenAt": "2026-09-28T00:30:42.330Z",
+      "titleVi": "Xe hơi rơi từ tầng 5 của gara đỗ xe ở Honolulu – một phụ nữ thiệt mạng"
+    },
+    {
+      "id": "https://nyheder.tv2.dk/udland/2026-10-10-frygt-for-blodig-fredag-spreder-sig-i-polen-loerdag-blev-endnu-en-skole-ramt",
+      "source": "tv2",
+      "title": "Frygt for \"blodig fredag\" spreder sig i Polen – lørdag blev endnu en skole ramt",
+      "url": "https://nyheder.tv2.dk/udland/2026-10-10-frygt-for-blodig-fredag-spreder-sig-i-polen-loerdag-blev-endnu-en-skole-ramt",
+      "date": "10/10/2026",
+      "type": "Udland",
+      "firstSeenAt": "2026-10-10T18:46:37.785Z",
+      "titleVi": "Sợ \"Thứ Sáu đẫm máu\" lan rộng ở Ba Lan – Thứ Bảy, một trường học khác đã bị tấn công"
+    },
+    {
+      "id": "https://nyheder.tv2.dk/udland/2026-10-10-doedsdoemt-kvinde-udskrevet-efter-mislykket-henrettelse",
+      "source": "tv2",
+      "title": "Dødsdømt kvinde udskrevet efter mislykket henrettelse",
+      "url": "https://nyheder.tv2.dk/udland/2026-10-10-doedsdoemt-kvinde-udskrevet-efter-mislykket-henrettelse",
+      "date": "10/10/2026",
+      "type": "Udland",
+      "firstSeenAt": "2026-10-10T18:46:37.785Z",
+      "titleVi": "Người phụ nữ bị kết án tử hình được xuất viện sau khi thi hành án không thành công"
+    },
+    {
+      "id": "https://nyheder.tv2.dk/krimi/2026-10-10-elever-antastet-af-mand-i-varevogn",
+      "source": "tv2",
+      "title": "Elever antastet af mand i varevogn",
+      "url": "https://nyheder.tv2.dk/krimi/2026-10-10-elever-antastet-af-mand-i-varevogn",
+      "date": "10/10/2026",
+      "type": "Krimi",
+      "firstSeenAt": "2026-10-10T18:46:37.785Z",
+      "titleVi": "Học sinh bị đàn ông quấy rối trong xe tải"
+    },
+    {
+      "id": "https://nyheder.tv2.dk/udland/2026-10-10-eritrea-beder-om-hjaelp-efter-krigserklaering",
+      "source": "tv2",
+      "title": "Eritrea beder om hjælp efter krigserklæring",
+      "url": "https://nyheder.tv2.dk/udland/2026-10-10-eritrea-beder-om-hjaelp-efter-krigserklaering",
+      "date": "10/10/2026",
+      "type": "Udland",
+      "firstSeenAt": "2026-10-10T18:46:37.785Z",
+      "titleVi": "Eritrea yêu cầu giúp đỡ sau khi tuyên chiến"
     },
     {
       "id": "https://nyheder.tv2.dk/live/udland/2026-01-08-krig-i-mellemoesten",
@@ -770,46 +810,6 @@
       "type": "Krimi",
       "firstSeenAt": "2026-10-09T21:52:48.979Z",
       "titleVi": "Bộ trưởng Bộ Tư pháp sẽ xem xét lại cuộc điều tra trong vụ án Kirkerup"
-    },
-    {
-      "id": "https://nyheder.tv2.dk/live/udland/2026-09-30-fly-mod-israel-omdirigeret-efter-voldelig-episode-i-cockpit",
-      "source": "tv2",
-      "title": "Pilot brugte økse under terrorforsøg, siger anklagemyndighed",
-      "url": "https://nyheder.tv2.dk/live/udland/2026-09-30-fly-mod-israel-omdirigeret-efter-voldelig-episode-i-cockpit",
-      "date": "30/09/2026",
-      "type": "Live",
-      "firstSeenAt": "2026-10-09T17:33:12.928Z",
-      "titleVi": "Công tố viên cho biết phi công đã sử dụng rìu trong nỗ lực khủng bố"
-    },
-    {
-      "id": "https://nyheder.tv2.dk/live/samfund/2026-09-15-forsvarets-helikopter-beskudt-med-signalblus-af-russisk-fregat",
-      "source": "tv2",
-      "title": "Der er gang i russisk \"misinformationskampagne\", siger minister",
-      "url": "https://nyheder.tv2.dk/live/samfund/2026-09-15-forsvarets-helikopter-beskudt-med-signalblus-af-russisk-fregat",
-      "date": "15/09/2026",
-      "type": "Live",
-      "firstSeenAt": "2026-10-09T17:33:12.928Z",
-      "titleVi": "Bộ trưởng cho biết \"chiến dịch thông tin sai lệch\" của Nga đang được tiến hành"
-    },
-    {
-      "id": "https://nyheder.tv2.dk/live/udland/2025-03-17-verden-i-forandring",
-      "source": "tv2",
-      "title": "USA sanktionerer Den Internationale Straffedomstol",
-      "url": "https://nyheder.tv2.dk/live/udland/2025-03-17-verden-i-forandring",
-      "date": "17/03/2025",
-      "type": "Live",
-      "firstSeenAt": "2026-10-09T17:33:12.928Z",
-      "titleVi": "Mỹ trừng phạt Tòa án Hình sự Quốc tế"
-    },
-    {
-      "id": "https://nyheder.tv2.dk/udland/2026-10-09-offentlig-henrettelse-kan-skade-trump-ved-midtvejsvalget-saa-hvad-er-ideen",
-      "source": "tv2",
-      "title": "Offentlig henrettelse kan skade Trump ved midtvejsvalget – så hvad er ideen?",
-      "url": "https://nyheder.tv2.dk/udland/2026-10-09-offentlig-henrettelse-kan-skade-trump-ved-midtvejsvalget-saa-hvad-er-ideen",
-      "date": "09/10/2026",
-      "type": "Udland",
-      "firstSeenAt": "2026-10-09T17:33:12.928Z",
-      "titleVi": "Hành quyết công khai có thể làm tổn thương Trump trong cuộc bầu cử giữa nhiệm kỳ – vậy ý tưởng là gì?"
     },
     {
       "id": "https://www.kungahuset.se/arkiv/nyheter/2026-10-10-drottningen-prisades-i-dusseldorf",
@@ -1076,15 +1076,15 @@
       "titleVi": "Những chiếc xe sang trọng không thể tưởng tượng được của nhà vua – và ước mơ trở thành một nông dân"
     },
     {
-      "id": "https://www.svenskdam.se/kungligt/charlene-overraskar-i-glasogon-sa-har-vi-aldrig-sett-henne-forut/11651246",
+      "id": "https://www.svenskdam.se/kungligt/chocken-william-och-kate-dyker-upp-pa-ikea-serverar-lunch-till-gasterna/11654112",
       "source": "svenskdam",
-      "title": "Charlene överraskar i glasögon – så har vi aldrig sett henne förut!",
-      "url": "https://www.svenskdam.se/kungligt/charlene-overraskar-i-glasogon-sa-har-vi-aldrig-sett-henne-forut/11651246",
+      "title": "Chocken! William och Kate dyker upp på Ikea – serverar lunch till gästerna",
+      "url": "https://www.svenskdam.se/kungligt/chocken-william-och-kate-dyker-upp-pa-ikea-serverar-lunch-till-gasterna/11654112",
       "date": "10/10/2026",
-      "publishedAt": "2026-10-10T07:00:00+02:00",
+      "publishedAt": "2026-10-10T14:00:00+02:00",
       "type": "Kungligt",
-      "firstSeenAt": "2026-10-10T07:45:10.836Z",
-      "titleVi": "Charlene ngạc nhiên trong cặp kính – chúng tôi chưa bao giờ thấy cô ấy như thế này trước đây!"
+      "firstSeenAt": "2026-10-10T14:16:44.169Z",
+      "titleVi": "Sốc! William và Kate xuất hiện tại Ikea – phục vụ bữa trưa cho khách"
     },
     {
       "id": "https://www.svenskdam.se/kungligt/kartlaggning-det-hander-med-silvia-nar-victoria-blir-drottning/7506316",
@@ -1098,26 +1098,26 @@
       "titleVi": "Lập bản đồ: Điều gì xảy ra với Silvia – khi Victoria trở thành Nữ hoàng"
     },
     {
-      "id": "https://www.svenskdam.se/noje/lasse-kroner-vagrar-nobbar-tv4-programmet-tackar-nej/11647828",
+      "id": "https://www.svenskdam.se/kungligt/prinsessans-forlovningsring-stulen-vittnar-i-domstol/11650627",
       "source": "svenskdam",
-      "title": "Lasse Kronér vägrar – nobbar TV4-programmet: ”Tackar nej”",
-      "url": "https://www.svenskdam.se/noje/lasse-kroner-vagrar-nobbar-tv4-programmet-tackar-nej/11647828",
+      "title": "Prinsessans förlovningsring stulen – kungligheten vittnar i domstol",
+      "url": "https://www.svenskdam.se/kungligt/prinsessans-forlovningsring-stulen-vittnar-i-domstol/11650627",
       "date": "10/10/2026",
-      "publishedAt": "2026-10-10T16:00:00+02:00",
-      "type": "Nöje",
-      "firstSeenAt": "2026-10-10T14:16:44.169Z",
-      "titleVi": "Lasse Kronér từ chối – từ chối chương trình TV4: \"Cảm ơn bạn không\""
+      "publishedAt": "2026-10-10T19:00:00+02:00",
+      "type": "Kungligt",
+      "firstSeenAt": "2026-10-10T18:46:37.785Z",
+      "titleVi": "Nhẫn đính hôn của công chúa bị đánh cắp – hoàng gia làm chứng trước tòa"
     },
     {
-      "id": "https://www.svenskdam.se/kungligt/chocken-william-och-kate-dyker-upp-pa-ikea-serverar-lunch-till-gasterna/11654112",
+      "id": "https://www.svenskdam.se/vimmel/bildextra-kandisarnas-premiarkvall-pa-populara-inneklubben/11654360",
       "source": "svenskdam",
-      "title": "Chocken! William och Kate dyker upp på Ikea – serverar lunch till gästerna",
-      "url": "https://www.svenskdam.se/kungligt/chocken-william-och-kate-dyker-upp-pa-ikea-serverar-lunch-till-gasterna/11654112",
+      "title": "Bildextra! Kändisarnas premiärkväll på populära inneklubben",
+      "url": "https://www.svenskdam.se/vimmel/bildextra-kandisarnas-premiarkvall-pa-populara-inneklubben/11654360",
       "date": "10/10/2026",
-      "publishedAt": "2026-10-10T14:00:00+02:00",
-      "type": "Kungligt",
-      "firstSeenAt": "2026-10-10T14:16:44.169Z",
-      "titleVi": "Sốc! William và Kate xuất hiện tại Ikea – phục vụ bữa trưa cho khách"
+      "publishedAt": "2026-10-10T18:00:00+02:00",
+      "type": "Vimmel",
+      "firstSeenAt": "2026-10-10T18:46:37.785Z",
+      "titleVi": "Ảnh bổ sung! Đêm ra mắt người nổi tiếng tại câu lạc bộ trong nhà nổi tiếng"
     },
     {
       "id": "https://www.svenskdam.se/kungligt/darfor-far-inte-zara-tindall-prinsessan-annes-unika-titel/11651041",
@@ -1140,6 +1140,28 @@
       "type": "Creative studio",
       "firstSeenAt": "2026-10-08T13:30:06.955Z",
       "titleVi": "Nó bắt đầu khi đang tắm: Đưa thói quen cơ thể của bạn lên một tầm cao mới"
+    },
+    {
+      "id": "https://www.svenskdam.se/kungligt/kronprins-christian-stoppas-efter-handelsen-far-inte-traffa-familjen/11652926",
+      "source": "svenskdam",
+      "title": "Kronprins Christian stoppas efter händelsen – får inte träffa familjen",
+      "url": "https://www.svenskdam.se/kungligt/kronprins-christian-stoppas-efter-handelsen-far-inte-traffa-familjen/11652926",
+      "date": "10/10/2026",
+      "publishedAt": "2026-10-10T17:00:00+02:00",
+      "type": "Kungligt",
+      "firstSeenAt": "2026-10-10T18:46:37.785Z",
+      "titleVi": "Thái tử Christian bị dừng lại sau sự kiện – không được phép gặp gia đình"
+    },
+    {
+      "id": "https://www.svenskdam.se/noje/lasse-kroner-vagrar-nobbar-tv4-programmet-tackar-nej/11647828",
+      "source": "svenskdam",
+      "title": "Lasse Kronér vägrar – nobbar TV4-programmet: ”Tackar nej”",
+      "url": "https://www.svenskdam.se/noje/lasse-kroner-vagrar-nobbar-tv4-programmet-tackar-nej/11647828",
+      "date": "10/10/2026",
+      "publishedAt": "2026-10-10T16:00:00+02:00",
+      "type": "Nöje",
+      "firstSeenAt": "2026-10-10T14:16:44.169Z",
+      "titleVi": "Lasse Kronér từ chối – từ chối chương trình TV4: \"Cảm ơn bạn không\""
     },
     {
       "id": "https://www.svenskdam.se/noje/per-morbergs-hemliga-relation-till-svenska-hollywood-kandisen/11654078",
@@ -1173,6 +1195,17 @@
       "type": "Nöje",
       "firstSeenAt": "2026-10-10T07:45:10.836Z",
       "titleVi": "Martin \"E-Type\" Eriksson trong một cuộc chiến với đồng nghiệp nhạc sĩ của mình: \"Pissed off\""
+    },
+    {
+      "id": "https://www.svenskdam.se/kungligt/charlene-overraskar-i-glasogon-sa-har-vi-aldrig-sett-henne-forut/11651246",
+      "source": "svenskdam",
+      "title": "Charlene överraskar i glasögon – så har vi aldrig sett henne förut!",
+      "url": "https://www.svenskdam.se/kungligt/charlene-overraskar-i-glasogon-sa-har-vi-aldrig-sett-henne-forut/11651246",
+      "date": "10/10/2026",
+      "publishedAt": "2026-10-10T07:00:00+02:00",
+      "type": "Kungligt",
+      "firstSeenAt": "2026-10-10T07:45:10.836Z",
+      "titleVi": "Charlene ngạc nhiên trong cặp kính – chúng tôi chưa bao giờ thấy cô ấy như thế này trước đây!"
     },
     {
       "id": "https://www.svenskdam.se/noje/martinus-gunnarsen-vinner-lets-dance-2026-vilda-gladjescenerna/11653793",
@@ -1263,39 +1296,6 @@
       "titleVi": "Hồ sơ TV4 thân yêu đã từ chức – dòng chữ về công việc mới: \"Đã đến lúc\""
     },
     {
-      "id": "https://www.svenskdam.se/kungligt/prinsessdottern-leah-behns-hemliga-relation-till-59-arige-lets-dance-kollegan/11650669",
-      "source": "svenskdam",
-      "title": "Prinsessdottern Leah Behns hemliga relation till 59-årige Let’s dance-kollegan",
-      "url": "https://www.svenskdam.se/kungligt/prinsessdottern-leah-behns-hemliga-relation-till-59-arige-lets-dance-kollegan/11650669",
-      "date": "9/10/2026",
-      "publishedAt": "2026-10-09T15:00:00+02:00",
-      "type": "Kungligt",
-      "firstSeenAt": "2026-10-09T17:33:12.928Z",
-      "titleVi": "Mối quan hệ bí mật của công chúa Leah Behn với đồng nghiệp 59 tuổi của Let’s dance"
-    },
-    {
-      "id": "https://www.svenskdam.se/noje/svt-profilen-dod-blev-55-ar-gammal-rackte-inte/11653237",
-      "source": "svenskdam",
-      "title": "SVT-profilen död – blev 55 år gammal: \"Räckte inte\"",
-      "url": "https://www.svenskdam.se/noje/svt-profilen-dod-blev-55-ar-gammal-rackte-inte/11653237",
-      "date": "9/10/2026",
-      "publishedAt": "2026-10-09T14:50:15+02:00",
-      "type": "Nöje",
-      "firstSeenAt": "2026-10-09T17:33:12.928Z",
-      "titleVi": "Hồ sơ SVT chết – 55 tuổi: \"Không đủ\""
-    },
-    {
-      "id": "https://www.svenskdam.se/noje/artisten-bryter-ihop-i-svt-programledaren-chockad/11652127",
-      "source": "svenskdam",
-      "title": "Artisten bryter ihop i SVT – programledaren chockad",
-      "url": "https://www.svenskdam.se/noje/artisten-bryter-ihop-i-svt-programledaren-chockad/11652127",
-      "date": "9/10/2026",
-      "publishedAt": "2026-10-09T14:00:00+02:00",
-      "type": "Nöje",
-      "firstSeenAt": "2026-10-09T17:33:12.928Z",
-      "titleVi": "Nghệ sĩ thất vọng về SVT – chủ nhà bị sốc"
-    },
-    {
       "id": "https://www.svenskdam.se/creative-studio/darfor-byter-fler-elavtal-nar-de-flyttar-till-hus-och-sa-har-valjer-du-ratt/11609705",
       "source": "svenskdam",
       "title": "Därför byter fler elavtal när de flyttar till hus – och så här väljer du rätt",
@@ -1307,15 +1307,15 @@
       "titleVi": "Tại sao nhiều hợp đồng điện thay đổi khi họ chuyển đến một ngôi nhà – và đây là cách chọn hợp đồng điện phù hợp"
     },
     {
-      "id": "https://www.svenskdam.se/noje/tiger-woods-och-elin-nordegrens-beslut-med-sonen-lamnar-landet/11652634",
+      "id": "https://www.svenskdam.se/kungligt/prinsessdottern-leah-behns-hemliga-relation-till-59-arige-lets-dance-kollegan/11650669",
       "source": "svenskdam",
-      "title": "Tiger Woods och Elin Nordegrens beslut med sonen – lämnar landet",
-      "url": "https://www.svenskdam.se/noje/tiger-woods-och-elin-nordegrens-beslut-med-sonen-lamnar-landet/11652634",
+      "title": "Prinsessdottern Leah Behns hemliga relation till 59-årige Let’s dance-kollegan",
+      "url": "https://www.svenskdam.se/kungligt/prinsessdottern-leah-behns-hemliga-relation-till-59-arige-lets-dance-kollegan/11650669",
       "date": "9/10/2026",
-      "publishedAt": "2026-10-09T13:26:55+02:00",
-      "type": "Nöje",
-      "firstSeenAt": "2026-10-09T11:40:56.155Z",
-      "titleVi": "Quyết định của Tiger Woods và Elin Nordegren với con trai – rời khỏi đất nước"
+      "publishedAt": "2026-10-09T15:00:00+02:00",
+      "type": "Kungligt",
+      "firstSeenAt": "2026-10-09T17:33:12.928Z",
+      "titleVi": "Mối quan hệ bí mật của công chúa Leah Behn với đồng nghiệp 59 tuổi của Let’s dance"
     },
     {
       "id": "https://www.svenskdam.se/kungligt/drottning-sonja-forlorar-sitt-apanage-efter-kung-haralds-dod/11650496",
@@ -1362,6 +1362,39 @@
       "titleVi": "Điện thoại riêng của Nữ hoàng Silvia cho thấy cô ấy – mọi thứ đều dính vào bức tranh"
     },
     {
+      "id": "https://www.svenskdam.se/noje/svt-profilen-dod-blev-55-ar-gammal-rackte-inte/11653237",
+      "source": "svenskdam",
+      "title": "SVT-profilen död – blev 55 år gammal: \"Räckte inte\"",
+      "url": "https://www.svenskdam.se/noje/svt-profilen-dod-blev-55-ar-gammal-rackte-inte/11653237",
+      "date": "9/10/2026",
+      "publishedAt": "2026-10-09T14:50:15+02:00",
+      "type": "Nöje",
+      "firstSeenAt": "2026-10-09T17:33:12.928Z",
+      "titleVi": "Hồ sơ SVT chết – 55 tuổi: \"Không đủ\""
+    },
+    {
+      "id": "https://www.svenskdam.se/noje/artisten-bryter-ihop-i-svt-programledaren-chockad/11652127",
+      "source": "svenskdam",
+      "title": "Artisten bryter ihop i SVT – programledaren chockad",
+      "url": "https://www.svenskdam.se/noje/artisten-bryter-ihop-i-svt-programledaren-chockad/11652127",
+      "date": "9/10/2026",
+      "publishedAt": "2026-10-09T14:00:00+02:00",
+      "type": "Nöje",
+      "firstSeenAt": "2026-10-09T17:33:12.928Z",
+      "titleVi": "Nghệ sĩ thất vọng về SVT – chủ nhà bị sốc"
+    },
+    {
+      "id": "https://www.svenskdam.se/noje/tiger-woods-och-elin-nordegrens-beslut-med-sonen-lamnar-landet/11652634",
+      "source": "svenskdam",
+      "title": "Tiger Woods och Elin Nordegrens beslut med sonen – lämnar landet",
+      "url": "https://www.svenskdam.se/noje/tiger-woods-och-elin-nordegrens-beslut-med-sonen-lamnar-landet/11652634",
+      "date": "9/10/2026",
+      "publishedAt": "2026-10-09T13:26:55+02:00",
+      "type": "Nöje",
+      "firstSeenAt": "2026-10-09T11:40:56.155Z",
+      "titleVi": "Quyết định của Tiger Woods và Elin Nordegren với con trai – rời khỏi đất nước"
+    },
+    {
       "id": "https://www.svenskdam.se/kungligt/kronprinsessan-victorias-hemliga-dag-pa-gotland-ovantade-besoket/11650585",
       "source": "svenskdam",
       "title": "Kronprinsessan Victorias hemliga dag på Gotland – oväntade besöket",
@@ -1371,39 +1404,6 @@
       "type": "Kungligt",
       "firstSeenAt": "2026-10-09T11:40:56.155Z",
       "titleVi": "Ngày bí mật của Công chúa Victoria tại Gotland – chuyến thăm bất ngờ"
-    },
-    {
-      "id": "https://www.svenskdam.se/noje/morgan-alling-lamnar-med-omedelbar-verkan-sorgliga-orsaken/11652595",
-      "source": "svenskdam",
-      "title": "Kim Sulocki lämnar med omedelbar verkan – sorgliga orsaken",
-      "url": "https://www.svenskdam.se/noje/morgan-alling-lamnar-med-omedelbar-verkan-sorgliga-orsaken/11652595",
-      "date": "9/10/2026",
-      "publishedAt": "2026-10-09T12:22:37+02:00",
-      "type": "Nöje",
-      "firstSeenAt": "2026-10-09T11:40:56.155Z",
-      "titleVi": "Kim Sulocki rời đi có hiệu lực ngay lập tức – lý do buồn"
-    },
-    {
-      "id": "https://www.svenskdam.se/kungligt/kungliga-sorgebeskedet-prinsessan-ar-dod-blev-74-ar/11652551",
-      "source": "svenskdam",
-      "title": "Kungliga sorgebeskedet: Prinsessan är död – blev 74 år",
-      "url": "https://www.svenskdam.se/kungligt/kungliga-sorgebeskedet-prinsessan-ar-dod-blev-74-ar/11652551",
-      "date": "9/10/2026",
-      "publishedAt": "2026-10-09T12:05:46+02:00",
-      "type": "Kungligt",
-      "firstSeenAt": "2026-10-09T11:40:56.155Z",
-      "titleVi": "Thư tang hoàng gia: Công chúa đã qua đời – 74 tuổi"
-    },
-    {
-      "id": "https://www.svenskdam.se/noje/ett-ar-sedan-andreas-johnsons-frus-dod-nu-talar-dottern-ut-om-sorgen/11652093",
-      "source": "svenskdam",
-      "title": "Ett år sedan Andreas Johnsons frus död – nu talar dottern ut om sorgen",
-      "url": "https://www.svenskdam.se/noje/ett-ar-sedan-andreas-johnsons-frus-dod-nu-talar-dottern-ut-om-sorgen/11652093",
-      "date": "9/10/2026",
-      "publishedAt": "2026-10-09T12:00:00+02:00",
-      "type": "Nöje",
-      "firstSeenAt": "2026-10-09T11:40:56.155Z",
-      "titleVi": "Một năm sau cái chết của vợ Andreas Johnson – bây giờ cô con gái lên tiếng về nỗi đau buồn"
     },
     {
       "id": "https://www.kongehuset.no/presse/pressemeldinger/dronning-sonja-besoker-nasjonalarkivet",
