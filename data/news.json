@@ -1,6 +1,6 @@
 {
   "monitoringStartedAt": "2026-09-28T00:17:35.319Z",
-  "updatedAt": "2026-10-10T22:15:11.453Z",
+  "updatedAt": "2026-10-11T01:09:12.346Z",
   "sources": {
     "kongehuset": {
       "name": "Kongehuset",
@@ -57,9 +57,9 @@
       "language": "no",
       "monitoringStartedAt": "2026-10-01T16:30:06.936Z",
       "status": {
-        "state": "ok",
-        "message": "",
-        "changedAt": "2026-10-10T18:46:37.785Z"
+        "state": "error",
+        "message": "The Norwegian Royal House Atom feed returned no entries",
+        "changedAt": "2026-10-11T01:09:12.346Z"
       }
     }
   },
@@ -1318,28 +1318,6 @@
       "titleVi": "Hồ sơ TV4 thân yêu đã từ chức – dòng chữ về công việc mới: \"Đã đến lúc\""
     },
     {
-      "id": "https://www.svenskdam.se/kungligt/drottning-sonja-forlorar-sitt-apanage-efter-kung-haralds-dod/11650496",
-      "source": "svenskdam",
-      "title": "Drottning Sonja förlorar sitt apanage – efter kung Haralds död",
-      "url": "https://www.svenskdam.se/kungligt/drottning-sonja-forlorar-sitt-apanage-efter-kung-haralds-dod/11650496",
-      "date": "9/10/2026",
-      "publishedAt": "2026-10-09T11:00:00+02:00",
-      "type": "Kungligt",
-      "firstSeenAt": "2026-10-09T11:40:56.155Z",
-      "titleVi": "Hoàng hậu Sonja mất bình tĩnh – sau cái chết của Vua Harald"
-    },
-    {
-      "id": "https://www.svenskdam.se/kungligt/dramat-framfor-drottning-silvia-mitt-under-firandet-pa-mainau/11648353",
-      "source": "svenskdam",
-      "title": "Dramat framför drottning Silvia – mitt under firandet på Mainau",
-      "url": "https://www.svenskdam.se/kungligt/dramat-framfor-drottning-silvia-mitt-under-firandet-pa-mainau/11648353",
-      "date": "8/10/2026",
-      "publishedAt": "2026-10-08T20:45:25+02:00",
-      "type": "Kungligt",
-      "firstSeenAt": "2026-10-08T19:23:59.337Z",
-      "titleVi": "Vở kịch trước mặt Nữ hoàng Silvia - giữa lễ kỷ niệm ở Mainau"
-    },
-    {
       "id": "https://www.svenskdam.se/noje/bjorn-ulvaeus-ord-om-halsan-beskedet-om-forandringen-nufortiden/11650977",
       "source": "svenskdam",
       "title": "Björn Ulvaeus ord om hälsan – beskedet om förändringen: \"Nuförtiden...\"",
@@ -1351,15 +1329,26 @@
       "titleVi": "Những lời của Björn Ulvaeus về sức khỏe – thông điệp về sự thay đổi: \"Ngày nay...\""
     },
     {
-      "id": "https://www.svenskdam.se/kungligt/drottning-silvias-privata-mobil-avslojar-beslutet-fangas-pa-bild/11649805",
+      "id": "https://www.svenskdam.se/noje/kristin-kaspersen-bekraftar-relationen-med-tv4-profilen-otrolig/11648040",
       "source": "svenskdam",
-      "title": "Drottning Silvias privata mobil avslöjar henne – allt fastnar på bild",
-      "url": "https://www.svenskdam.se/kungligt/drottning-silvias-privata-mobil-avslojar-beslutet-fangas-pa-bild/11649805",
-      "date": "9/10/2026",
-      "publishedAt": "2026-10-09T06:00:00+02:00",
-      "type": "Kungligt",
-      "firstSeenAt": "2026-10-09T04:54:10.861Z",
-      "titleVi": "Điện thoại riêng của Nữ hoàng Silvia cho thấy cô ấy – mọi thứ đều dính vào bức tranh"
+      "title": "Kristin Kaspersen bekräftar relationen med TV4-profilen: ”Otrolig”",
+      "url": "https://www.svenskdam.se/noje/kristin-kaspersen-bekraftar-relationen-med-tv4-profilen-otrolig/11648040",
+      "date": "8/10/2026",
+      "publishedAt": "2026-10-08T12:00:00+02:00",
+      "type": "Nöje",
+      "firstSeenAt": "2026-10-11T01:09:12.346Z",
+      "titleVi": "Kristin Kaspersen xác nhận mối quan hệ với hồ sơ TV4: \"Không thể tin được\""
+    },
+    {
+      "id": "https://www.svenskdam.se/noje/vader-ulrika-har-lamnat-tv4-huset-nya-sysselsattningen-nyp-mig-i-armen/11645936",
+      "source": "svenskdam",
+      "title": "Väder-Ulrika har lämnat TV4-huset – nya sysselsättningen: \"Nyp mig i armen\"",
+      "url": "https://www.svenskdam.se/noje/vader-ulrika-har-lamnat-tv4-huset-nya-sysselsattningen-nyp-mig-i-armen/11645936",
+      "date": "6/10/2026",
+      "publishedAt": "2026-10-06T13:00:00+02:00",
+      "type": "Nöje",
+      "firstSeenAt": "2026-10-11T01:09:12.346Z",
+      "titleVi": "Weather-Ulrika đã rời khỏi tòa nhà TV4 – công việc mới: \"véo vào cánh tay tôi\""
     },
     {
       "id": "https://www.svenskdam.se/kungligt/prinsessdottern-leah-behns-hemliga-relation-till-59-arige-lets-dance-kollegan/11650669",
