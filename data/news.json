@@ -1,6 +1,6 @@
 {
   "monitoringStartedAt": "2026-09-28T00:17:35.319Z",
-  "updatedAt": "2026-10-11T22:41:34.605Z",
+  "updatedAt": "2026-10-12T01:48:51.006Z",
   "sources": {
     "kongehuset": {
       "name": "Kongehuset",
@@ -1329,15 +1329,15 @@
       "titleVi": "Junior Lerin xác nhận: Lars Lerin đã rời khỏi nhà"
     },
     {
-      "id": "https://www.svenskdam.se/noje/walter-wallbergs-beslut-med-flickvannen-har-lamnat-mycket-har-hant/11653178",
+      "id": "https://www.svenskdam.se/kungligt/victorias-beteende-i-kyrkan-vacker-reaktioner-blev-brak-utanfor/11652791",
       "source": "svenskdam",
-      "title": "Walter Wallbergs beslut med flickvännen – har lämnat: ”Mycket har hänt”",
-      "url": "https://www.svenskdam.se/noje/walter-wallbergs-beslut-med-flickvannen-har-lamnat-mycket-har-hant/11653178",
-      "date": "9/10/2026",
-      "publishedAt": "2026-10-09T21:00:00+02:00",
-      "type": "Nöje",
-      "firstSeenAt": "2026-10-09T21:52:48.979Z",
-      "titleVi": "Quyết định của Walter Wallberg với bạn gái – đã rời đi: \"Rất nhiều điều đã xảy ra\""
+      "title": "Victorias beteende i kyrkan väcker reaktioner – blev bråk utanför",
+      "url": "https://www.svenskdam.se/kungligt/victorias-beteende-i-kyrkan-vacker-reaktioner-blev-brak-utanfor/11652791",
+      "date": "10/10/2026",
+      "publishedAt": "2026-10-10T12:00:00+02:00",
+      "type": "Kungligt",
+      "firstSeenAt": "2026-10-12T01:48:51.006Z",
+      "titleVi": "Hành vi của Victoria trong nhà thờ gây phản ứng - bên ngoài xảy ra xô xát"
     },
     {
       "id": "https://www.svenskdam.se/noje/alskade-profilen-har-lamnat-tv4-nya-jobbet-det-var-dags/11651853",
@@ -1349,17 +1349,6 @@
       "type": "Nöje",
       "firstSeenAt": "2026-10-09T17:33:12.928Z",
       "titleVi": "Hồ sơ TV4 thân yêu đã từ chức – dòng chữ về công việc mới: \"Đã đến lúc\""
-    },
-    {
-      "id": "https://www.svenskdam.se/noje/bjorn-ulvaeus-ord-om-halsan-beskedet-om-forandringen-nufortiden/11650977",
-      "source": "svenskdam",
-      "title": "Björn Ulvaeus ord om hälsan – beskedet om förändringen: \"Nuförtiden...\"",
-      "url": "https://www.svenskdam.se/noje/bjorn-ulvaeus-ord-om-halsan-beskedet-om-forandringen-nufortiden/11650977",
-      "date": "9/10/2026",
-      "publishedAt": "2026-10-09T08:00:00+02:00",
-      "type": "Nöje",
-      "firstSeenAt": "2026-10-09T11:40:56.155Z",
-      "titleVi": "Những lời của Björn Ulvaeus về sức khỏe – thông điệp về sự thay đổi: \"Ngày nay...\""
     },
     {
       "id": "https://www.svenskdam.se/kungligt/efter-uppmarksammade-bilderna-pa-drottning-silvia-nu-reagerar-alla/11653866",
