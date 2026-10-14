@@ -1,6 +1,6 @@
 {
   "monitoringStartedAt": "2026-09-28T00:17:35.319Z",
-  "updatedAt": "2026-10-14T09:40:08.201Z",
+  "updatedAt": "2026-10-14T14:40:15.831Z",
   "sources": {
     "kongehuset": {
       "name": "Kongehuset",
@@ -57,9 +57,9 @@
       "language": "no",
       "monitoringStartedAt": "2026-10-01T16:30:06.936Z",
       "status": {
-        "state": "error",
-        "message": "The Norwegian Royal House Atom feed returned no entries",
-        "changedAt": "2026-10-14T09:40:08.201Z"
+        "state": "ok",
+        "message": "",
+        "changedAt": "2026-10-14T14:40:15.831Z"
       }
     }
   },
@@ -71,6 +71,16 @@
     }
   },
   "articles": [
+    {
+      "id": "https://www.kongehuset.dk/nyheder/nytaarstaffel-og--kure-2027",
+      "source": "kongehuset",
+      "title": "Nytårstaffel og -kure 2027",
+      "url": "https://www.kongehuset.dk/nyheder/nytaarstaffel-og--kure-2027",
+      "date": "14. oktober 2026",
+      "type": "Nyhed",
+      "firstSeenAt": "2026-10-14T14:40:15.831Z",
+      "titleVi": "Đĩa & Chữa bệnh Năm mới 2027"
+    },
     {
       "id": "https://www.kongehuset.dk/nyheder/program-for-statsbesoeg-fra-den-socialistiske-republik-vietnam",
       "source": "kongehuset",
@@ -512,24 +522,54 @@
       "titleVi": "Hoãn chuyến thăm cấp nhà nước tới Bỉ"
     },
     {
-      "id": "https://www.kongehuset.dk/presse/pressemeddelelse-udskydelse-af-statsbesoeg-til-belgien",
-      "source": "kongehuset",
-      "title": "Pressemeddelelse: Udskydelse af statsbesøg til Belgien",
-      "url": "https://www.kongehuset.dk/presse/pressemeddelelse-udskydelse-af-statsbesoeg-til-belgien",
-      "date": "30. august 2026",
-      "type": "Pressemeddelelse",
-      "firstSeenAt": "2026-09-28T00:17:35.319Z",
-      "titleVi": "Thông cáo báo chí: Hoãn chuyến thăm cấp nhà nước tới Bỉ"
-    },
-    {
       "id": "https://nyheder.tv2.dk/live/kort-nyt",
       "source": "tv2",
-      "title": "EU vil udsætte nye regler om metanudledning",
+      "title": "Danmark forlænger midlertidig grænsekontrol",
       "url": "https://nyheder.tv2.dk/live/kort-nyt",
       "date": "—",
       "type": "Live",
       "firstSeenAt": "2026-09-28T00:30:42.330Z",
-      "titleVi": "EU sẽ hoãn các quy định mới về phát thải khí mê-tan"
+      "titleVi": "Đan Mạch mở rộng kiểm soát biên giới tạm thời"
+    },
+    {
+      "id": "https://nyheder.tv2.dk/live/2025-01-06-kampen-om-groenlands-fremtid",
+      "source": "tv2",
+      "title": "Trump deler mystisk billede af sig selv og Grønland – igen",
+      "url": "https://nyheder.tv2.dk/live/2025-01-06-kampen-om-groenlands-fremtid",
+      "date": "06/01/2025",
+      "type": "Live",
+      "firstSeenAt": "2026-10-14T04:26:10.809Z",
+      "titleVi": "Trump chia sẻ bức ảnh bí ẩn của mình và Greenland – một lần nữa"
+    },
+    {
+      "id": "https://nyheder.tv2.dk/live/udland/2025-08-21-ukrainere-anholdt-for-sabotage-paa-nord-stream",
+      "source": "tv2",
+      "title": "Fremmødte sender luftkys til anklagede – betjente må træde til",
+      "url": "https://nyheder.tv2.dk/live/udland/2025-08-21-ukrainere-anholdt-for-sabotage-paa-nord-stream",
+      "date": "21/08/2025",
+      "type": "Live",
+      "firstSeenAt": "2026-10-14T09:40:08.201Z",
+      "titleVi": "Người tham dự gửi những nụ hôn gió cho bị cáo – cảnh sát phải bước vào"
+    },
+    {
+      "id": "https://nyheder.tv2.dk/samfund/2026-10-13-tusindvis-af-boern-foelger-populaer-livestream-men-foraeldre-boer-holde-oeje-siger-eksperter",
+      "source": "tv2",
+      "title": "Tusindvis af børn følger populær livestream – men forældre bør holde øje, siger eksperter",
+      "url": "https://nyheder.tv2.dk/samfund/2026-10-13-tusindvis-af-boern-foelger-populaer-livestream-men-foraeldre-boer-holde-oeje-siger-eksperter",
+      "date": "13/10/2026",
+      "type": "Samfund",
+      "firstSeenAt": "2026-10-14T14:40:15.831Z",
+      "titleVi": "Các chuyên gia nói rằng hàng ngàn trẻ em theo dõi livestream phổ biến – nhưng các bậc cha mẹ nên chú ý theo dõi"
+    },
+    {
+      "id": "https://nyheder.tv2.dk/live/2024-09-08-seneste-nyt-om-krigen-i-ukraine-70b1d6cc-0720-404e-9878-45546e1999e7",
+      "source": "tv2",
+      "title": "NATO-chef advarer om konsekvenser, hvis russerne er \"dumme nok\"",
+      "url": "https://nyheder.tv2.dk/live/2024-09-08-seneste-nyt-om-krigen-i-ukraine-70b1d6cc-0720-404e-9878-45546e1999e7",
+      "date": "08/09/2024",
+      "type": "Live",
+      "firstSeenAt": "2026-09-28T00:30:42.330Z",
+      "titleVi": "Tổng thư ký NATO cảnh báo về hậu quả nếu người Nga \"đủ ngu ngốc\""
     },
     {
       "id": "https://nyheder.tv2.dk/live/samfund/2026-09-28-dansk-landbrug-i-forandring",
@@ -542,14 +582,94 @@
       "titleVi": "- Một trò hề, cho biết Nông nghiệp và Thực phẩm về lỗi tính toán"
     },
     {
-      "id": "https://nyheder.tv2.dk/live/udland/2025-08-21-ukrainere-anholdt-for-sabotage-paa-nord-stream",
+      "id": "https://nyheder.tv2.dk/live/politik/2025-08-11-dansk-politik",
       "source": "tv2",
-      "title": "I dag starter retssag mod ukrainer i Nord Stream",
-      "url": "https://nyheder.tv2.dk/live/udland/2025-08-21-ukrainere-anholdt-for-sabotage-paa-nord-stream",
-      "date": "21/08/2025",
+      "title": "Venstre-rebel langer ud efter \"arrogant\" minister",
+      "url": "https://nyheder.tv2.dk/live/politik/2025-08-11-dansk-politik",
+      "date": "11/08/2025",
       "type": "Live",
+      "firstSeenAt": "2026-10-11T18:54:55.744Z",
+      "titleVi": "Phiến quân cánh tả đả kích bộ trưởng 'kiêu ngạo'"
+    },
+    {
+      "id": "https://nyheder.tv2.dk/udland/2026-10-14-dansker-har-mistet-livet-i-flystyrt-i-schweiz",
+      "source": "tv2",
+      "title": "Dansker har mistet livet i flystyrt i Schweiz",
+      "url": "https://nyheder.tv2.dk/udland/2026-10-14-dansker-har-mistet-livet-i-flystyrt-i-schweiz",
+      "date": "14/10/2026",
+      "type": "Udland",
+      "firstSeenAt": "2026-10-14T14:40:15.831Z",
+      "titleVi": "Người Đan Mạch đã thiệt mạng trong một vụ tai nạn máy bay ở Thụy Sĩ"
+    },
+    {
+      "id": "https://nyheder.tv2.dk/samfund/2026-10-14-par-sigtet-for-at-bedoeve-og-voldtaget-datter",
+      "source": "tv2",
+      "title": "Par sigtet for at bedøve og voldtaget datter",
+      "url": "https://nyheder.tv2.dk/samfund/2026-10-14-par-sigtet-for-at-bedoeve-og-voldtaget-datter",
+      "date": "14/10/2026",
+      "type": "Samfund",
+      "firstSeenAt": "2026-10-14T14:40:15.831Z",
+      "titleVi": "Cặp vợ chồng bị buộc tội đánh thuốc mê và hãm hiếp con gái"
+    },
+    {
+      "id": "https://livsstil.tv2.dk/live/2025-12-01-danskernes-sundhed",
+      "source": "tv2",
+      "title": "Smitte med corona starter fra historisk lavt niveau, siger SSI",
+      "url": "https://livsstil.tv2.dk/live/2025-12-01-danskernes-sundhed",
+      "date": "01/12/2025",
+      "type": "Live",
+      "firstSeenAt": "2026-10-14T14:40:15.831Z",
+      "titleVi": "SSI cho biết nhiễm Corona bắt đầu từ mức thấp trong lịch sử"
+    },
+    {
+      "id": "https://nyheder.tv2.dk/tech/2026-10-12-ai-gigant-forbyder-mishandling-af-chatbot-ekstremt-farligt",
+      "source": "tv2",
+      "title": "AI-gigant forbyder 'mishandling' af chatbot: - Ekstremt farligt",
+      "url": "https://nyheder.tv2.dk/tech/2026-10-12-ai-gigant-forbyder-mishandling-af-chatbot-ekstremt-farligt",
+      "date": "12/10/2026",
+      "type": "Tech",
       "firstSeenAt": "2026-10-14T09:40:08.201Z",
-      "titleVi": "Vụ kiện chống lại người Ukraine ở Nord Stream bắt đầu từ hôm nay"
+      "titleVi": "Gã khổng lồ AI cấm chatbot 'lạm dụng': - Cực kỳ nguy hiểm"
+    },
+    {
+      "id": "https://nyheder.tv2.dk/samfund/2026-10-14-mor-lagde-skjulte-smaabeloeb-i-folkeskolen-sammen-resultatet-overraskede-hende",
+      "source": "tv2",
+      "title": "Mor lagde skjulte småbeløb i folkeskolen sammen – resultatet overraskede hende",
+      "url": "https://nyheder.tv2.dk/samfund/2026-10-14-mor-lagde-skjulte-smaabeloeb-i-folkeskolen-sammen-resultatet-overraskede-hende",
+      "date": "14/10/2026",
+      "type": "Samfund",
+      "firstSeenAt": "2026-10-14T14:40:15.831Z",
+      "titleVi": "Mẹ giấu một số tiền nhỏ ở trường tiểu học với nhau – kết quả khiến mẹ ngạc nhiên"
+    },
+    {
+      "id": "https://nyheder.tv2.dk/live/udland/2026-05-16-midtvejsvalg-i-usa",
+      "source": "tv2",
+      "title": "Her er de fire scenarier til midtvejsvalget",
+      "url": "https://nyheder.tv2.dk/live/udland/2026-05-16-midtvejsvalg-i-usa",
+      "date": "16/05/2026",
+      "type": "Live",
+      "firstSeenAt": "2026-10-14T14:40:15.831Z",
+      "titleVi": "Dưới đây là bốn kịch bản cho cuộc bầu cử giữa nhiệm kỳ"
+    },
+    {
+      "id": "https://nyheder.tv2.dk/samfund/2026-10-13-dagtilbud-i-ferieopraab-til-foraeldre",
+      "source": "tv2",
+      "title": "Dagtilbud i ferieopråb til forældre",
+      "url": "https://nyheder.tv2.dk/samfund/2026-10-13-dagtilbud-i-ferieopraab-til-foraeldre",
+      "date": "13/10/2026",
+      "type": "Samfund",
+      "firstSeenAt": "2026-10-14T14:40:15.831Z",
+      "titleVi": "Di ̣ ch vu ̣ giư ̃ tre ̉ trong ca ́ c cuô ̣"
+    },
+    {
+      "id": "https://nyheder.tv2.dk/business/2026-10-13-prisstigninger-rammer-nye-koebere-haardt-chefoekonom-bekymret",
+      "source": "tv2",
+      "title": "Prisstigninger rammer nye købere hårdt – cheføkonom bekymret",
+      "url": "https://nyheder.tv2.dk/business/2026-10-13-prisstigninger-rammer-nye-koebere-haardt-chefoekonom-bekymret",
+      "date": "13/10/2026",
+      "type": "Business",
+      "firstSeenAt": "2026-10-14T14:40:15.831Z",
+      "titleVi": "Tăng giá ảnh hưởng mạnh đến người mua mới – nhà kinh tế trưởng lo lắng"
     },
     {
       "id": "https://nyheder.tv2.dk/live/udland/2026-01-08-krig-i-mellemoesten",
@@ -562,34 +682,14 @@
       "titleVi": "Tàu bị chìm ở eo biển Hormuz"
     },
     {
-      "id": "https://nyheder.tv2.dk/live/2024-09-08-seneste-nyt-om-krigen-i-ukraine-70b1d6cc-0720-404e-9878-45546e1999e7",
+      "id": "https://nyheder.tv2.dk/krimi/2026-10-14-81-aarig-anholdt-i-sagen-om-knivdrab",
       "source": "tv2",
-      "title": "600.000 ukrainere uden strøm – Zelensky med direkte appel til Trump",
-      "url": "https://nyheder.tv2.dk/live/2024-09-08-seneste-nyt-om-krigen-i-ukraine-70b1d6cc-0720-404e-9878-45546e1999e7",
-      "date": "08/09/2024",
-      "type": "Live",
-      "firstSeenAt": "2026-09-28T00:30:42.330Z",
-      "titleVi": "600.000 người Ukraine không có quyền lực – Zelensky trực tiếp kêu gọi Trump"
-    },
-    {
-      "id": "https://nyheder.tv2.dk/krimi/2026-10-14-65-aarig-mand-doed-efter-knivstikkeri-i-odense",
-      "source": "tv2",
-      "title": "65-årig mand død efter knivstikkeri i Odense",
-      "url": "https://nyheder.tv2.dk/krimi/2026-10-14-65-aarig-mand-doed-efter-knivstikkeri-i-odense",
+      "title": "81-årig anholdt i sagen om knivdrab",
+      "url": "https://nyheder.tv2.dk/krimi/2026-10-14-81-aarig-anholdt-i-sagen-om-knivdrab",
       "date": "14/10/2026",
       "type": "Krimi",
-      "firstSeenAt": "2026-10-14T09:40:08.201Z",
-      "titleVi": "Người đàn ông 65 tuổi chết sau khi đâm ở Odense"
-    },
-    {
-      "id": "https://nyheder.tv2.dk/live/2025-01-06-kampen-om-groenlands-fremtid",
-      "source": "tv2",
-      "title": "Trump deler mystisk billede af sig selv og Grønland – igen",
-      "url": "https://nyheder.tv2.dk/live/2025-01-06-kampen-om-groenlands-fremtid",
-      "date": "06/01/2025",
-      "type": "Live",
-      "firstSeenAt": "2026-10-14T04:26:10.809Z",
-      "titleVi": "Trump chia sẻ bức ảnh bí ẩn của mình và Greenland – một lần nữa"
+      "firstSeenAt": "2026-10-14T14:40:15.831Z",
+      "titleVi": "Người đàn ông 81 tuổi bị bắt trong vụ án giết người bằng dao"
     },
     {
       "id": "https://nyheder.tv2.dk/live/tech/2026-09-09-ai-forandrer-verden",
@@ -612,24 +712,14 @@
       "titleVi": "Bây giờ Kirsten Schwalbe là người Đan Mạch lớn tuổi nhất từ trước đến nay"
     },
     {
-      "id": "https://nyheder.tv2.dk/live/politik/2025-08-11-dansk-politik",
-      "source": "tv2",
-      "title": "LA finder mulig Hamas-støtte blandt statsborgerskab-ansøgere",
-      "url": "https://nyheder.tv2.dk/live/politik/2025-08-11-dansk-politik",
-      "date": "11/08/2025",
-      "type": "Live",
-      "firstSeenAt": "2026-10-11T18:54:55.744Z",
-      "titleVi": "LA tìm thấy sự hỗ trợ có thể có của Hamas trong số những người nộp đơn xin nhập quốc tịch"
-    },
-    {
       "id": "https://nyheder.tv2.dk/politik/2026-10-12-midt-i-bitter-retssag-retter-de-radikale-racisme-beskyldninger-mod-df",
       "source": "tv2",
-      "title": "Midt i bitter retssag retter De Radikale racisme-beskyldninger mod DF",
+      "title": "Midt i bitter retssag retter Radikale racisme-beskyldninger mod DF",
       "url": "https://nyheder.tv2.dk/politik/2026-10-12-midt-i-bitter-retssag-retter-de-radikale-racisme-beskyldninger-mod-df",
       "date": "12/10/2026",
       "type": "Politik",
       "firstSeenAt": "2026-10-14T09:40:08.201Z",
-      "titleVi": "Giữa quá trình tố tụng pháp lý gay gắt, De Radikale cáo buộc phân biệt chủng tộc chống lại DF"
+      "titleVi": "Giữa các thủ tục tố tụng pháp lý gay gắt, các cáo buộc phân biệt chủng tộc cấp tiến nhắm vào DF"
     },
     {
       "id": "https://nyheder.tv2.dk/samfund/2026-10-07-hans-hus-er-fyldt-med-skrald-men-en-dag-fik-han-en-afgoerende-besked",
@@ -664,12 +754,12 @@
     {
       "id": "https://nyheder.tv2.dk/samfund/2026-10-13-bagom-hvad-goer-man-naar-ens-hovedperson-vil-slukke-for-kameraet",
       "source": "tv2",
-      "title": "BAGOM: Hvad gør man, når ens hovedperson vil slukke for kameraet?",
+      "title": "'Bagom': Hvad gør man, når ens hovedperson vil slukke for kameraet?",
       "url": "https://nyheder.tv2.dk/samfund/2026-10-13-bagom-hvad-goer-man-naar-ens-hovedperson-vil-slukke-for-kameraet",
       "date": "13/10/2026",
       "type": "Samfund",
       "firstSeenAt": "2026-10-14T09:40:08.201Z",
-      "titleVi": "PHÍA SAU: Bạn làm gì khi nhân vật chính của bạn muốn tắt máy ảnh?"
+      "titleVi": "'Phía sau': Bạn làm gì khi nhân vật chính của bạn muốn tắt máy ảnh?"
     },
     {
       "id": "https://nyheder.tv2.dk/2026-10-13-dyre-danskere-koster-mere-og-mere",
@@ -722,94 +812,26 @@
       "titleVi": "Công trình Fehmarnbelt bị tin tặc tấn công"
     },
     {
-      "id": "https://nyheder.tv2.dk/live/udland/2026-10-02-protester-udloeser-voldsomme-sammenstoed-i-frankrig",
-      "source": "tv2",
-      "title": "Frankrig indstiller brug af chokgranater efter 15-årigs ulykke",
-      "url": "https://nyheder.tv2.dk/live/udland/2026-10-02-protester-udloeser-voldsomme-sammenstoed-i-frankrig",
-      "date": "02/10/2026",
-      "type": "Live",
-      "firstSeenAt": "2026-10-13T20:42:23.835Z",
-      "titleVi": "Pháp ngừng sử dụng lựu đạn gây sốc sau 15 năm tai nạn"
+      "id": "https://www.kungahuset.se/arkiv/nyheter/2026-10-14-drottningen-delade-ut-stipendier-till-forskare",
+      "source": "kungahuset",
+      "title": "Drottningen delade ut stipendier till forskare",
+      "url": "https://www.kungahuset.se/arkiv/nyheter/2026-10-14-drottningen-delade-ut-stipendier-till-forskare",
+      "date": "14 oktober 2026",
+      "publishedAt": "2026-10-14T16:19:41+02:00",
+      "type": "Nyheter",
+      "firstSeenAt": "2026-10-14T14:40:15.831Z",
+      "titleVi": "Nữ hoàng trao học bổng cho các nhà nghiên cứu"
     },
     {
-      "id": "https://nyheder.tv2.dk/live/samfund/2026-10-13-hoejskolen-live-hvad-er-der-galt-med-folkeskolen",
-      "source": "tv2",
-      "title": "Hvad er der galt med folkeskolen?",
-      "url": "https://nyheder.tv2.dk/live/samfund/2026-10-13-hoejskolen-live-hvad-er-der-galt-med-folkeskolen",
-      "date": "13/10/2026",
-      "type": "Live",
-      "firstSeenAt": "2026-10-13T20:42:23.835Z",
-      "titleVi": "Trường tiểu học có gì không ổn?"
-    },
-    {
-      "id": "https://nyheder.tv2.dk/udland/2026-10-13-ingen-republikaner-havde-vundet-her-siden-nixon-saa-kom-trump",
-      "source": "tv2",
-      "title": "Ingen republikaner havde vundet her siden Nixon – så kom Trump",
-      "url": "https://nyheder.tv2.dk/udland/2026-10-13-ingen-republikaner-havde-vundet-her-siden-nixon-saa-kom-trump",
-      "date": "13/10/2026",
-      "type": "Udland",
-      "firstSeenAt": "2026-10-13T20:42:23.835Z",
-      "titleVi": "Không có đảng viên Cộng hòa nào giành chiến thắng ở đây kể từ Nixon – sau đó là Trump"
-    },
-    {
-      "id": "https://nyheder.tv2.dk/samfund/2026-10-13-tavshed-fra-amerikansk-it-gigant-efter-cpr-laek",
-      "source": "tv2",
-      "title": "Tavshed fra amerikansk it-gigant efter cpr-læk",
-      "url": "https://nyheder.tv2.dk/samfund/2026-10-13-tavshed-fra-amerikansk-it-gigant-efter-cpr-laek",
-      "date": "13/10/2026",
-      "type": "Samfund",
-      "firstSeenAt": "2026-10-13T20:42:23.835Z",
-      "titleVi": "Sự im lặng từ gã khổng lồ CNTT Hoa Kỳ sau khi rò rỉ CPR"
-    },
-    {
-      "id": "https://nyheder.tv2.dk/udland/2026-10-13-efter-30-aar-er-der-faldet-dom-i-sagen-om-tupacs-drab",
-      "source": "tv2",
-      "title": "Efter 30 år er der faldet dom i sagen om Tupacs drab",
-      "url": "https://nyheder.tv2.dk/udland/2026-10-13-efter-30-aar-er-der-faldet-dom-i-sagen-om-tupacs-drab",
-      "date": "13/10/2026",
-      "type": "Udland",
-      "firstSeenAt": "2026-10-13T20:42:23.835Z",
-      "titleVi": "Sau 30 năm, đã có một bản án trong vụ án giết Tupac"
-    },
-    {
-      "id": "https://nyheder.tv2.dk/politik/2026-10-12-problembarnet-jim-lyngvild-vil-lave-den-folkeskole-som-han-aldrig-selv-fik",
-      "source": "tv2",
-      "title": "”Problembarnet\" Jim Lyngvild vil lave den folkeskole, som han aldrig selv fik",
-      "url": "https://nyheder.tv2.dk/politik/2026-10-12-problembarnet-jim-lyngvild-vil-lave-den-folkeskole-som-han-aldrig-selv-fik",
-      "date": "12/10/2026",
-      "type": "Politik",
-      "firstSeenAt": "2026-10-13T20:42:23.835Z",
-      "titleVi": "\"The Problem Child\" Jim Lyngvild muốn làm trường tiểu học mà anh chưa bao giờ có"
-    },
-    {
-      "id": "https://nyheder.tv2.dk/samfund/2026-10-13-udskaeldt-p-selskab-laegger-sig-fladt-ned-efter-kaos-ved-rosengaardcentret",
-      "source": "tv2",
-      "title": "Udskældt p-selskab lægger sig fladt ned efter kaos ved Rosengårdcentret",
-      "url": "https://nyheder.tv2.dk/samfund/2026-10-13-udskaeldt-p-selskab-laegger-sig-fladt-ned-efter-kaos-ved-rosengaardcentret",
-      "date": "13/10/2026",
-      "type": "Samfund",
-      "firstSeenAt": "2026-10-13T20:42:23.835Z",
-      "titleVi": "Công ty đỗ xe bị thất sủng nằm im sau sự hỗn loạn tại Rosengårdcentret"
-    },
-    {
-      "id": "https://nyheder.tv2.dk/tech/2026-10-12-ai-gigant-forbyder-mishandling-af-chatbot-ekstremt-farligt",
-      "source": "tv2",
-      "title": "AI-gigant forbyder 'mishandling' af chatbot: - Ekstremt farligt",
-      "url": "https://nyheder.tv2.dk/tech/2026-10-12-ai-gigant-forbyder-mishandling-af-chatbot-ekstremt-farligt",
-      "date": "12/10/2026",
-      "type": "Tech",
-      "firstSeenAt": "2026-10-14T09:40:08.201Z",
-      "titleVi": "Gã khổng lồ AI cấm chatbot 'lạm dụng': - Cực kỳ nguy hiểm"
-    },
-    {
-      "id": "https://nyheder.tv2.dk/live/samfund/2026-10-13-spoerg-om-hoejskolen-hvad-er-der-galt-med-folkeskolen",
-      "source": "tv2",
-      "title": "Skal kontaktbogen tilbage?",
-      "url": "https://nyheder.tv2.dk/live/samfund/2026-10-13-spoerg-om-hoejskolen-hvad-er-der-galt-med-folkeskolen",
-      "date": "13/10/2026",
-      "type": "Live",
-      "firstSeenAt": "2026-10-13T15:12:34.007Z",
-      "titleVi": "Sổ liên lạc có nên được trả lại không?"
+      "id": "https://www.kungahuset.se/arkiv/nyheter/2026-10-14-kronprinsessan-besokte-lansstyrelsen-i-stockholms-lan",
+      "source": "kungahuset",
+      "title": "Kronprinsessan besökte Länsstyrelsen i Stockholms län",
+      "url": "https://www.kungahuset.se/arkiv/nyheter/2026-10-14-kronprinsessan-besokte-lansstyrelsen-i-stockholms-lan",
+      "date": "14 oktober 2026",
+      "publishedAt": "2026-10-14T15:56:32+02:00",
+      "type": "Nyheter",
+      "firstSeenAt": "2026-10-14T14:40:15.831Z",
+      "titleVi": "Công chúa vương miện đã đến thăm Hội đồng hành chính quận Stockholm"
     },
     {
       "id": "https://www.kungahuset.se/arkiv/nyheter/2026-10-14-kungaparet-och-prinsessan-sofia-pa-global-child-forum-2026",
@@ -1010,26 +1032,15 @@
       "titleVi": "Hoàng tử Daniel đã có buổi tiếp kiến với Thống đốc Tim Walz"
     },
     {
-      "id": "https://www.kungahuset.se/arkiv/nyheter/2026-10-01-prins-carl-philip-delade-ut--smilepriset",
-      "source": "kungahuset",
-      "title": "Prins Carl Philip delade ut Smilepriset",
-      "url": "https://www.kungahuset.se/arkiv/nyheter/2026-10-01-prins-carl-philip-delade-ut--smilepriset",
-      "date": "1 oktober 2026",
-      "publishedAt": "2026-10-01T10:43:57+02:00",
-      "type": "Nyheter",
-      "firstSeenAt": "2026-10-01T16:20:13.213Z",
-      "titleVi": "Hoàng tử Carl Philip trao Giải thưởng Nụ cười"
-    },
-    {
-      "id": "https://www.kungahuset.se/arkiv/nyheter/2026-10-01-kungen-gav-avskedsaudiens-for-ambassador",
-      "source": "kungahuset",
-      "title": "Kungen gav avskeds­audiens för ambassadör",
-      "url": "https://www.kungahuset.se/arkiv/nyheter/2026-10-01-kungen-gav-avskedsaudiens-for-ambassador",
-      "date": "1 oktober 2026",
-      "publishedAt": "2026-10-01T09:34:57+02:00",
-      "type": "Nyheter",
-      "firstSeenAt": "2026-10-01T16:20:13.213Z",
-      "titleVi": "Nhà vua chào tạm biệt một đại sứ"
+      "id": "https://www.svenskdam.se/kungligt/victorias-skogsaventyr-utan-daniel-se-nya-bilderna/11658076",
+      "source": "svenskdam",
+      "title": "Victorias skogsäventyr utan Daniel – se nya bilderna!",
+      "url": "https://www.svenskdam.se/kungligt/victorias-skogsaventyr-utan-daniel-se-nya-bilderna/11658076",
+      "date": "14/10/2026",
+      "publishedAt": "2026-10-14T15:22:19+02:00",
+      "type": "Kungligt",
+      "firstSeenAt": "2026-10-14T14:40:15.831Z",
+      "titleVi": "Cuộc phiêu lưu trong rừng của Victoria mà không có Daniel – hãy xem những bức ảnh mới!"
     },
     {
       "id": "https://www.svenskdam.se/kungligt/hovet-bekraftar-prins-daniel-staller-in-resan-med-victoria-blivit-sjuk/11660162",
@@ -1043,6 +1054,28 @@
       "titleVi": "Tòa án Hoàng gia xác nhận: Hoàng tử Daniel hủy chuyến đi với Victoria – bị ốm"
     },
     {
+      "id": "https://www.svenskdam.se/kungligt/drottning-silvias-rorande-ord-till-sofia/11660003",
+      "source": "svenskdam",
+      "title": "Drottning Silvias rörande ord till Sofia: \"Kungen bad oss...\"",
+      "url": "https://www.svenskdam.se/kungligt/drottning-silvias-rorande-ord-till-sofia/11660003",
+      "date": "14/10/2026",
+      "publishedAt": "2026-10-14T13:00:00+02:00",
+      "type": "Kungligt",
+      "firstSeenAt": "2026-10-14T14:40:15.831Z",
+      "titleVi": "Những lời cảm động của Nữ hoàng Silvia nói với Sofia: \"Nhà vua đã yêu cầu chúng tôi...\""
+    },
+    {
+      "id": "https://www.svenskdam.se/kungligt/kungens-och-silvias-ilskna-besked-vagrar-dyka-upp-pa-tillstallningen/11660335",
+      "source": "svenskdam",
+      "title": "Kungaparets bojkott – vägrar dyka upp på tillställningen",
+      "url": "https://www.svenskdam.se/kungligt/kungens-och-silvias-ilskna-besked-vagrar-dyka-upp-pa-tillstallningen/11660335",
+      "date": "14/10/2026",
+      "publishedAt": "2026-10-14T12:09:57+02:00",
+      "type": "Kungligt",
+      "firstSeenAt": "2026-10-14T14:40:15.831Z",
+      "titleVi": "Cuộc tẩy chay của Nhà vua và Nữ hoàng – từ chối xuất hiện tại sự kiện"
+    },
+    {
       "id": "https://www.svenskdam.se/kungligt/nya-bilden-med-sofia-drottning-silvia-kan-inte-sluta-skratta/11658353",
       "source": "svenskdam",
       "title": "Nya bilden med Sofia – här kan Silvia inte sluta skratta",
@@ -1052,28 +1085,6 @@
       "type": "Kungligt",
       "firstSeenAt": "2026-10-13T20:42:23.835Z",
       "titleVi": "Hình ảnh mới với Sofia – Silvia không thể ngừng cười ở đây"
-    },
-    {
-      "id": "https://www.svenskdam.se/kungligt/victoria-klar-sig-inte-som-svagerskan-sofia-medvetet-skulle-aldrig-ske/11658949",
-      "source": "svenskdam",
-      "title": "Victoria klär sig inte som Sofia – medvetet: \"Skulle aldrig ske\"",
-      "url": "https://www.svenskdam.se/kungligt/victoria-klar-sig-inte-som-svagerskan-sofia-medvetet-skulle-aldrig-ske/11658949",
-      "date": "14/10/2026",
-      "publishedAt": "2026-10-14T06:00:00+02:00",
-      "type": "Kungligt",
-      "firstSeenAt": "2026-10-14T04:26:10.809Z",
-      "titleVi": "Victoria không ăn mặc như Sofia – có ý thức: \"Sẽ không bao giờ xảy ra\""
-    },
-    {
-      "id": "https://www.svenskdam.se/kungligt/darfor-sprids-bilderna-pa-prins-carl-philip-over-hela-varlden-viral/11658624",
-      "source": "svenskdam",
-      "title": "Därför sprids bilderna på prins Carl Philip över hela världen: \"Viral\"",
-      "url": "https://www.svenskdam.se/kungligt/darfor-sprids-bilderna-pa-prins-carl-philip-over-hela-varlden-viral/11658624",
-      "date": "13/10/2026",
-      "publishedAt": "2026-10-13T20:00:00+02:00",
-      "type": "Kungligt",
-      "firstSeenAt": "2026-10-13T20:42:23.835Z",
-      "titleVi": "Do đó, hình ảnh của Hoàng tử Carl Philip được lan truyền khắp nơi trên thế giới: “Viral”"
     },
     {
       "id": "https://www.svenskdam.se/kungligt/chockbeskedet-han-pastar-sig-vara-charles-och-camillas-okande-son-skrammande-lik/7893722",
@@ -1087,26 +1098,26 @@
       "titleVi": "Các nhân viên của Nữ hoàng biết mọi thứ: Bí mật đằng sau 'những đứa con nuôi' của Charles và Camilla"
     },
     {
-      "id": "https://www.svenskdam.se/kungligt/nya-beskedet-om-kungens-van-dyker-upp-i-forradarna/11659875",
+      "id": "https://www.svenskdam.se/noje/frida-karlssons-forbjudna-pussar-nu-angrar-hon-sig/11660633",
       "source": "svenskdam",
-      "title": "Nya beskedet om kungens vän – dyker upp i Förrädarna",
-      "url": "https://www.svenskdam.se/kungligt/nya-beskedet-om-kungens-van-dyker-upp-i-forradarna/11659875",
+      "title": "Frida Karlsson påkommen under intim stund – nu ångrar hon sig",
+      "url": "https://www.svenskdam.se/noje/frida-karlssons-forbjudna-pussar-nu-angrar-hon-sig/11660633",
       "date": "14/10/2026",
-      "publishedAt": "2026-10-14T11:00:00+02:00",
-      "type": "Kungligt",
-      "firstSeenAt": "2026-10-14T09:40:08.201Z",
-      "titleVi": "Thông điệp mới về người bạn của nhà vua – xuất hiện trong Kẻ phản bội"
+      "publishedAt": "2026-10-14T16:00:00+02:00",
+      "type": "Nöje",
+      "firstSeenAt": "2026-10-14T14:40:15.831Z",
+      "titleVi": "Frida Karlsson bị bắt gặp trong khoảnh khắc thân mật – bây giờ cô ấy hối hận vì điều đó"
     },
     {
-      "id": "https://www.svenskdam.se/noje/peter-forsbergs-gladje-visar-upp-nya-partnern-en-drom/11658685",
+      "id": "https://www.svenskdam.se/kungligt/charlenes-babylycka-bekraftad-stralar-pa-nya-bilden-med-furst-albert/11660802",
       "source": "svenskdam",
-      "title": "Peter Forsbergs glädje – visar upp nya partnern: \"En dröm\"",
-      "url": "https://www.svenskdam.se/noje/peter-forsbergs-gladje-visar-upp-nya-partnern-en-drom/11658685",
+      "title": "Furstinnan Charlenes babylycka – strålar på nya bilden med furst Albert!",
+      "url": "https://www.svenskdam.se/kungligt/charlenes-babylycka-bekraftad-stralar-pa-nya-bilden-med-furst-albert/11660802",
       "date": "14/10/2026",
-      "publishedAt": "2026-10-14T11:00:00+02:00",
-      "type": "Nöje",
-      "firstSeenAt": "2026-10-14T09:40:08.201Z",
-      "titleVi": "Niềm vui của Peter Forsberg – khoe bạn đời mới: \"Một giấc mơ\""
+      "publishedAt": "2026-10-14T15:00:00+02:00",
+      "type": "Kungligt",
+      "firstSeenAt": "2026-10-14T14:40:15.831Z",
+      "titleVi": "Hạnh phúc em bé của Công chúa Charlene – tỏa sáng trong bức ảnh mới với Hoàng tử Albert!"
     },
     {
       "id": "https://www.svenskdam.se/kungligt/eva-oneill/11010261",
@@ -1129,6 +1140,50 @@
       "type": "Creative studio",
       "firstSeenAt": "2026-10-08T13:30:06.955Z",
       "titleVi": "Nó bắt đầu khi đang tắm: Đưa thói quen cơ thể của bạn lên một tầm cao mới"
+    },
+    {
+      "id": "https://www.svenskdam.se/noje/tilde-de-paula-eby-har-lamnat-tv4-huset-kanner-lycka-hojdpunkten/11660601",
+      "source": "svenskdam",
+      "title": "Tilde de Paula Eby har lämnat TV4-huset – känner glädje: \"Höjdpunkten\"",
+      "url": "https://www.svenskdam.se/noje/tilde-de-paula-eby-har-lamnat-tv4-huset-kanner-lycka-hojdpunkten/11660601",
+      "date": "14/10/2026",
+      "publishedAt": "2026-10-14T14:00:00+02:00",
+      "type": "Nöje",
+      "firstSeenAt": "2026-10-14T14:40:15.831Z",
+      "titleVi": "Tilde de Paula Eby đã rời khỏi tòa nhà TV4 – cảm nhận niềm vui: \"Điểm nhấn\""
+    },
+    {
+      "id": "https://www.svenskdam.se/kungligt/christians-nya-erkannande-efter-alla-festbilder-fullt-medveten/11659823",
+      "source": "svenskdam",
+      "title": "Christians nya erkännande – efter alla festbilder: “Fullt medveten”",
+      "url": "https://www.svenskdam.se/kungligt/christians-nya-erkannande-efter-alla-festbilder-fullt-medveten/11659823",
+      "date": "14/10/2026",
+      "publishedAt": "2026-10-14T12:00:00+02:00",
+      "type": "Kungligt",
+      "firstSeenAt": "2026-10-14T14:40:15.831Z",
+      "titleVi": "Sự công nhận mới của Christian – sau tất cả các bức ảnh tiệc tùng: \"Nhận thức đầy đủ\""
+    },
+    {
+      "id": "https://www.svenskdam.se/kungligt/nya-beskedet-om-kungens-van-dyker-upp-i-forradarna/11659875",
+      "source": "svenskdam",
+      "title": "Nya beskedet om kungens vän – dyker upp i Förrädarna",
+      "url": "https://www.svenskdam.se/kungligt/nya-beskedet-om-kungens-van-dyker-upp-i-forradarna/11659875",
+      "date": "14/10/2026",
+      "publishedAt": "2026-10-14T11:00:00+02:00",
+      "type": "Kungligt",
+      "firstSeenAt": "2026-10-14T09:40:08.201Z",
+      "titleVi": "Thông điệp mới về người bạn của nhà vua – xuất hiện trong Kẻ phản bội"
+    },
+    {
+      "id": "https://www.svenskdam.se/noje/peter-forsbergs-gladje-visar-upp-nya-partnern-en-drom/11658685",
+      "source": "svenskdam",
+      "title": "Peter Forsbergs glädje – visar upp nya partnern: \"En dröm\"",
+      "url": "https://www.svenskdam.se/noje/peter-forsbergs-gladje-visar-upp-nya-partnern-en-drom/11658685",
+      "date": "14/10/2026",
+      "publishedAt": "2026-10-14T11:00:00+02:00",
+      "type": "Nöje",
+      "firstSeenAt": "2026-10-14T09:40:08.201Z",
+      "titleVi": "Niềm vui của Peter Forsberg – khoe bạn đời mới: \"Một giấc mơ\""
     },
     {
       "id": "https://www.svenskdam.se/kungligt/prinsessan-satter-ord-pa-nya-lyckan-med-maken-min-alskade/11658936",
@@ -1175,6 +1230,17 @@
       "titleVi": "Yêu cầu về hồ sơ truyền hình – muốn SVT nói không với Carina Bergfeldt: \"Vô dụng\""
     },
     {
+      "id": "https://www.svenskdam.se/kungligt/victoria-klar-sig-inte-som-svagerskan-sofia-medvetet-skulle-aldrig-ske/11658949",
+      "source": "svenskdam",
+      "title": "Victoria klär sig inte som Sofia – medvetet: \"Skulle aldrig ske\"",
+      "url": "https://www.svenskdam.se/kungligt/victoria-klar-sig-inte-som-svagerskan-sofia-medvetet-skulle-aldrig-ske/11658949",
+      "date": "14/10/2026",
+      "publishedAt": "2026-10-14T06:00:00+02:00",
+      "type": "Kungligt",
+      "firstSeenAt": "2026-10-14T04:26:10.809Z",
+      "titleVi": "Victoria không ăn mặc như Sofia – có ý thức: \"Sẽ không bao giờ xảy ra\""
+    },
+    {
       "id": "https://www.svenskdam.se/noje/tilde-de-paulas-nya-besked-om-maken-efter-14-ar-som-gifta/11658964",
       "source": "svenskdam",
       "title": "Tilde de Paulas nya besked om maken – efter 14 år som gifta",
@@ -1195,6 +1261,17 @@
       "type": "Nöje",
       "firstSeenAt": "2026-10-13T20:42:23.835Z",
       "titleVi": "Manne af Klintberg về thảm kịch với con gái – cú sốc và đau buồn"
+    },
+    {
+      "id": "https://www.svenskdam.se/kungligt/darfor-sprids-bilderna-pa-prins-carl-philip-over-hela-varlden-viral/11658624",
+      "source": "svenskdam",
+      "title": "Därför sprids bilderna på prins Carl Philip över hela världen: \"Viral\"",
+      "url": "https://www.svenskdam.se/kungligt/darfor-sprids-bilderna-pa-prins-carl-philip-over-hela-varlden-viral/11658624",
+      "date": "13/10/2026",
+      "publishedAt": "2026-10-13T20:00:00+02:00",
+      "type": "Kungligt",
+      "firstSeenAt": "2026-10-13T20:42:23.835Z",
+      "titleVi": "Do đó, hình ảnh của Hoàng tử Carl Philip được lan truyền khắp nơi trên thế giới: “Viral”"
     },
     {
       "id": "https://www.svenskdam.se/noje/sanna-nielsen-blev-hart-drabbad-av-skilsmassan-nya-orden/11657657",
@@ -1241,72 +1318,6 @@
       "titleVi": "Tương lai không chắc chắn của Ingrid Alexandra – theo thời gian trong gia đình"
     },
     {
-      "id": "https://www.svenskdam.se/noje/carina-bergfeldt-gor-det-forbjudna-for-sonens-skull/11657475",
-      "source": "svenskdam",
-      "title": "Carina Bergfeldt erkänner: Gjorde det förbjudna – för sonens skull",
-      "url": "https://www.svenskdam.se/noje/carina-bergfeldt-gor-det-forbjudna-for-sonens-skull/11657475",
-      "date": "13/10/2026",
-      "publishedAt": "2026-10-13T15:00:00+02:00",
-      "type": "Nöje",
-      "firstSeenAt": "2026-10-13T15:12:34.007Z",
-      "titleVi": "Carina Bergfeldt thừa nhận: Đã làm những gì bị cấm – vì lợi ích của con trai mình"
-    },
-    {
-      "id": "https://www.svenskdam.se/kungligt/danska-prinsessan-lamnar-landet-efter-skilsmassan-allt-tycks-handa-samtidigt/11657953",
-      "source": "svenskdam",
-      "title": "Danska prinsessan lämnar landet – efter skilsmässan",
-      "url": "https://www.svenskdam.se/kungligt/danska-prinsessan-lamnar-landet-efter-skilsmassan-allt-tycks-handa-samtidigt/11657953",
-      "date": "13/10/2026",
-      "publishedAt": "2026-10-13T14:00:00+02:00",
-      "type": "Kungligt",
-      "firstSeenAt": "2026-10-13T15:12:34.007Z",
-      "titleVi": "Công chúa Đan Mạch rời khỏi đất nước – sau khi ly hôn"
-    },
-    {
-      "id": "https://www.svenskdam.se/noje/karl-fredriks-galna-viktresa-gatt-ner-40-kilo-pa-under-tva-ar/11658147",
-      "source": "svenskdam",
-      "title": "Karl Fredriks galna viktresa – gått ner 40 kilo på drygt ett år",
-      "url": "https://www.svenskdam.se/noje/karl-fredriks-galna-viktresa-gatt-ner-40-kilo-pa-under-tva-ar/11658147",
-      "date": "13/10/2026",
-      "publishedAt": "2026-10-13T13:39:48+02:00",
-      "type": "Nöje",
-      "firstSeenAt": "2026-10-13T15:12:34.007Z",
-      "titleVi": "Hành trình giảm cân điên rồ của Karl Fredrik – giảm 40 kg chỉ trong hơn một năm"
-    },
-    {
-      "id": "https://www.svenskdam.se/kungligt/haakons-rorande-ord-om-harald-for-att-minnas-min-far/11658672",
-      "source": "svenskdam",
-      "title": "Haakons rörande ord om Harald – det saknar han: \"Att kunna ringa\"",
-      "url": "https://www.svenskdam.se/kungligt/haakons-rorande-ord-om-harald-for-att-minnas-min-far/11658672",
-      "date": "13/10/2026",
-      "publishedAt": "2026-10-13T13:16:35+02:00",
-      "type": "Kungligt",
-      "firstSeenAt": "2026-10-13T15:12:34.007Z",
-      "titleVi": "Những lời cảm động của Haakon về Harald – anh nhớ rằng: \"Có thể gọi\""
-    },
-    {
-      "id": "https://www.svenskdam.se/noje/kristian-luuk-om-relationen-med-carina-berg-hon-och-jag-ar/11657498",
-      "source": "svenskdam",
-      "title": "Kristian Luuk om relationen med Carina Berg: \"Hon och jag är...\"",
-      "url": "https://www.svenskdam.se/noje/kristian-luuk-om-relationen-med-carina-berg-hon-och-jag-ar/11657498",
-      "date": "13/10/2026",
-      "publishedAt": "2026-10-13T13:00:00+02:00",
-      "type": "Nöje",
-      "firstSeenAt": "2026-10-13T15:12:34.007Z",
-      "titleVi": "Kristian Luuk nói về mối quan hệ với Carina Berg: \"Cô ấy và tôi là...\""
-    },
-    {
-      "id": "https://www.svenskdam.se/kungligt/nya-beskedet-om-1-ariga-prinsessan-ines-lite-langre-fram/11657666",
-      "source": "svenskdam",
-      "title": "Nya beskedet om prinsessan Ines, 1 – hovets plan: \"Lite längre fram\"",
-      "url": "https://www.svenskdam.se/kungligt/nya-beskedet-om-1-ariga-prinsessan-ines-lite-langre-fram/11657666",
-      "date": "13/10/2026",
-      "publishedAt": "2026-10-13T12:00:00+02:00",
-      "type": "Kungligt",
-      "firstSeenAt": "2026-10-13T15:12:34.007Z",
-      "titleVi": "Thông điệp mới về Công chúa Ines, 1 – kế hoạch của tòa án: \"Tiến xa hơn một chút\""
-    },
-    {
       "id": "https://www.svenskdam.se/kungligt/har-firas-drottning-silvia-pa-lyxhotellet-som-att-komma-hem/11657407",
       "source": "svenskdam",
       "title": "Här firas drottning Silvia på lyxhotellet: ”Som att komma hem”",
@@ -1351,48 +1362,48 @@
       "titleVi": "Quyết định của Nhà vua và Hoàng hậu với Sofia – không có Carl Philip"
     },
     {
-      "id": "https://www.svenskdam.se/noje/linda-lindorff-satter-ord-pa-barnlyckan-alskar/11656858",
+      "id": "https://www.svenskdam.se/noje/carina-bergfeldt-gor-det-forbjudna-for-sonens-skull/11657475",
       "source": "svenskdam",
-      "title": "Linda Lindorff sätter ord på barnlyckan: \"Älskar\"",
-      "url": "https://www.svenskdam.se/noje/linda-lindorff-satter-ord-pa-barnlyckan-alskar/11656858",
+      "title": "Carina Bergfeldt erkänner: Gjorde det förbjudna – för sonens skull",
+      "url": "https://www.svenskdam.se/noje/carina-bergfeldt-gor-det-forbjudna-for-sonens-skull/11657475",
       "date": "13/10/2026",
-      "publishedAt": "2026-10-13T11:00:00+02:00",
+      "publishedAt": "2026-10-13T15:00:00+02:00",
       "type": "Nöje",
       "firstSeenAt": "2026-10-13T15:12:34.007Z",
-      "titleVi": "Linda Lindorff đặt từ cho hạnh phúc của trẻ em: \"Tình yêu\""
+      "titleVi": "Carina Bergfeldt thừa nhận: Đã làm những gì bị cấm – vì lợi ích của con trai mình"
     },
     {
-      "id": "https://www.svenskdam.se/kungligt/camilla-avslojar-charles-storande-beteende-i-hemmet-jag-borjar-grata/11657534",
+      "id": "https://www.svenskdam.se/kungligt/danska-prinsessan-lamnar-landet-efter-skilsmassan-allt-tycks-handa-samtidigt/11657953",
       "source": "svenskdam",
-      "title": "Camilla avslöjar – Charles störande beteende i hemmet: \"Jag börjar gråta\"",
-      "url": "https://www.svenskdam.se/kungligt/camilla-avslojar-charles-storande-beteende-i-hemmet-jag-borjar-grata/11657534",
+      "title": "Danska prinsessan lämnar landet – efter skilsmässan",
+      "url": "https://www.svenskdam.se/kungligt/danska-prinsessan-lamnar-landet-efter-skilsmassan-allt-tycks-handa-samtidigt/11657953",
       "date": "13/10/2026",
-      "publishedAt": "2026-10-13T10:00:00+02:00",
+      "publishedAt": "2026-10-13T14:00:00+02:00",
       "type": "Kungligt",
       "firstSeenAt": "2026-10-13T15:12:34.007Z",
-      "titleVi": "Camilla tiết lộ – Thái độ khó chịu của Charles ở nhà: \"Tôi bắt đầu khóc\""
+      "titleVi": "Công chúa Đan Mạch rời khỏi đất nước – sau khi ly hôn"
     },
     {
-      "id": "https://www.svenskdam.se/kungligt/stjarnan-svarar-pa-kungens-ilskna-utspel-hemskt-gransar-till-mobbning/11657753",
+      "id": "https://www.svenskdam.se/noje/karl-fredriks-galna-viktresa-gatt-ner-40-kilo-pa-under-tva-ar/11658147",
       "source": "svenskdam",
-      "title": "Stjärnan svarar på kungens ilskna utspel: \"Hemskt – gränsar till mobbning\"",
-      "url": "https://www.svenskdam.se/kungligt/stjarnan-svarar-pa-kungens-ilskna-utspel-hemskt-gransar-till-mobbning/11657753",
+      "title": "Karl Fredriks galna viktresa – gått ner 40 kilo på drygt ett år",
+      "url": "https://www.svenskdam.se/noje/karl-fredriks-galna-viktresa-gatt-ner-40-kilo-pa-under-tva-ar/11658147",
       "date": "13/10/2026",
-      "publishedAt": "2026-10-13T09:23:49+02:00",
-      "type": "Kungligt",
-      "firstSeenAt": "2026-10-13T07:24:54.313Z",
-      "titleVi": "Ngôi sao đáp lại hành động tức giận của nhà vua: \"Kinh khủng – giáp với bắt nạt\""
-    },
-    {
-      "id": "https://www.svenskdam.se/noje/darfor-kanner-du-igen-nya-lakaren-i-nyhetsmorgon-ar-varldskandis/11657707",
-      "source": "svenskdam",
-      "title": "Därför känner du igen nya läkaren i Nyhetsmorgon – är världskändis!",
-      "url": "https://www.svenskdam.se/noje/darfor-kanner-du-igen-nya-lakaren-i-nyhetsmorgon-ar-varldskandis/11657707",
-      "date": "13/10/2026",
-      "publishedAt": "2026-10-13T09:19:43+02:00",
+      "publishedAt": "2026-10-13T13:39:48+02:00",
       "type": "Nöje",
-      "firstSeenAt": "2026-10-13T07:24:54.313Z",
-      "titleVi": "Đó là lý do tại sao bạn nhận ra bác sĩ mới ở Nyhetsmorgon – nổi tiếng thế giới!"
+      "firstSeenAt": "2026-10-13T15:12:34.007Z",
+      "titleVi": "Hành trình giảm cân điên rồ của Karl Fredrik – giảm 40 kg chỉ trong hơn một năm"
+    },
+    {
+      "id": "https://www.svenskdam.se/kungligt/haakons-rorande-ord-om-harald-for-att-minnas-min-far/11658672",
+      "source": "svenskdam",
+      "title": "Haakons rörande ord om Harald – det saknar han: \"Att kunna ringa\"",
+      "url": "https://www.svenskdam.se/kungligt/haakons-rorande-ord-om-harald-for-att-minnas-min-far/11658672",
+      "date": "13/10/2026",
+      "publishedAt": "2026-10-13T13:16:35+02:00",
+      "type": "Kungligt",
+      "firstSeenAt": "2026-10-13T15:12:34.007Z",
+      "titleVi": "Những lời cảm động của Haakon về Harald – anh nhớ rằng: \"Có thể gọi\""
     },
     {
       "id": "https://www.kongehuset.no/nyheter/kong-haakon-i-narvik",
