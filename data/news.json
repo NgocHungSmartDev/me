@@ -1,6 +1,6 @@
 {
   "monitoringStartedAt": "2026-09-28T00:17:35.319Z",
-  "updatedAt": "2026-10-14T22:05:39.931Z",
+  "updatedAt": "2026-10-15T00:31:20.549Z",
   "sources": {
     "kongehuset": {
       "name": "Kongehuset",
@@ -33,9 +33,9 @@
       "language": "sv",
       "monitoringStartedAt": "2026-10-01T16:20:13.213Z",
       "status": {
-        "state": "ok",
-        "message": "",
-        "changedAt": "2026-10-13T23:57:11.566Z"
+        "state": "error",
+        "message": "fetch failed",
+        "changedAt": "2026-10-15T00:31:20.549Z"
       }
     },
     "svenskdam": {
@@ -1318,26 +1318,26 @@
       "titleVi": "Manne af Klintberg về thảm kịch với con gái – cú sốc và đau buồn"
     },
     {
-      "id": "https://www.svenskdam.se/kungligt/har-firas-drottning-silvia-pa-lyxhotellet-som-att-komma-hem/11657407",
+      "id": "https://www.svenskdam.se/kungligt/nya-beskedet-om-1-ariga-prinsessan-ines-lite-langre-fram/11657666",
       "source": "svenskdam",
-      "title": "Här firas drottning Silvia på lyxhotellet: ”Som att komma hem”",
-      "url": "https://www.svenskdam.se/kungligt/har-firas-drottning-silvia-pa-lyxhotellet-som-att-komma-hem/11657407",
-      "date": "12/10/2026",
-      "publishedAt": "2026-10-12T21:15:14+02:00",
+      "title": "Nya beskedet om prinsessan Ines, 1 – hovets plan: \"Lite längre fram\"",
+      "url": "https://www.svenskdam.se/kungligt/nya-beskedet-om-1-ariga-prinsessan-ines-lite-langre-fram/11657666",
+      "date": "13/10/2026",
+      "publishedAt": "2026-10-13T12:00:00+02:00",
       "type": "Kungligt",
-      "firstSeenAt": "2026-10-13T00:48:00.668Z",
-      "titleVi": "Ở đây Nữ hoàng Silvia được tổ chức tại khách sạn sang trọng: \"Giống như về nhà\""
+      "firstSeenAt": "2026-10-15T00:31:20.549Z",
+      "titleVi": "Tin mới về Công chúa Ines 1 – kế hoạch của triều đình: “Phía trước một chút”"
     },
     {
-      "id": "https://www.svenskdam.se/noje/david-hellenius-lamnar-tv4-har-tackat-for-sig/11654470",
+      "id": "https://www.svenskdam.se/kungligt/danska-prinsessan-lamnar-landet-efter-skilsmassan-allt-tycks-handa-samtidigt/11657953",
       "source": "svenskdam",
-      "title": "David Hellenius lämnar TV4 – har tackat för sig",
-      "url": "https://www.svenskdam.se/noje/david-hellenius-lamnar-tv4-har-tackat-for-sig/11654470",
-      "date": "11/10/2026",
-      "publishedAt": "2026-10-11T18:00:00+02:00",
-      "type": "Nöje",
-      "firstSeenAt": "2026-10-11T18:54:55.744Z",
-      "titleVi": "David Hellenius sẽ rời TV4 - đã nói lời tạm biệt"
+      "title": "Danska prinsessan lämnar landet – efter skilsmässan",
+      "url": "https://www.svenskdam.se/kungligt/danska-prinsessan-lamnar-landet-efter-skilsmassan-allt-tycks-handa-samtidigt/11657953",
+      "date": "13/10/2026",
+      "publishedAt": "2026-10-13T14:00:00+02:00",
+      "type": "Kungligt",
+      "firstSeenAt": "2026-10-15T00:31:20.549Z",
+      "titleVi": "Công chúa Đan Mạch rời quê hương - sau ly hôn"
     },
     {
       "id": "https://www.svenskdam.se/noje/yvonne-vann-250-000-kronor-tararna-efter-svenska-spels-inspektion-av-lotten/11655995",
@@ -1351,15 +1351,15 @@
       "titleVi": "Nước mắt của Yvonne sau khi Svenska Spel kiểm tra trisslot: \"run rẩy\""
     },
     {
-      "id": "https://www.svenskdam.se/kungligt/kungen-och-drottningens-beslut-med-sofia-utan-carl-philip/11656437",
+      "id": "https://www.svenskdam.se/noje/kristian-luuk-om-relationen-med-carina-berg-hon-och-jag-ar/11657498",
       "source": "svenskdam",
-      "title": "Kungen och drottningens beslut med Sofia – utan Carl Philip",
-      "url": "https://www.svenskdam.se/kungligt/kungen-och-drottningens-beslut-med-sofia-utan-carl-philip/11656437",
-      "date": "12/10/2026",
-      "publishedAt": "2026-10-12T18:00:00+02:00",
-      "type": "Kungligt",
-      "firstSeenAt": "2026-10-14T04:26:10.809Z",
-      "titleVi": "Quyết định của Nhà vua và Hoàng hậu với Sofia – không có Carl Philip"
+      "title": "Kristian Luuk om relationen med Carina Berg: \"Hon och jag är...\"",
+      "url": "https://www.svenskdam.se/noje/kristian-luuk-om-relationen-med-carina-berg-hon-och-jag-ar/11657498",
+      "date": "13/10/2026",
+      "publishedAt": "2026-10-13T13:00:00+02:00",
+      "type": "Nöje",
+      "firstSeenAt": "2026-10-15T00:31:20.549Z",
+      "titleVi": "Kristian Luuk về mối quan hệ với Carina Berg: \"Tôi và cô ấy là...\""
     },
     {
       "id": "https://www.svenskdam.se/kungligt/darfor-sprids-bilderna-pa-prins-carl-philip-over-hela-varlden-viral/11658624",
