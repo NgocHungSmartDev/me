@@ -1,6 +1,6 @@
 {
   "monitoringStartedAt": "2026-09-28T00:17:35.319Z",
-  "updatedAt": "2026-10-15T22:18:17.252Z",
+  "updatedAt": "2026-10-16T00:35:12.914Z",
   "sources": {
     "kongehuset": {
       "name": "Kongehuset",
@@ -33,9 +33,9 @@
       "language": "sv",
       "monitoringStartedAt": "2026-10-01T16:20:13.213Z",
       "status": {
-        "state": "ok",
-        "message": "",
-        "changedAt": "2026-10-15T22:18:17.252Z"
+        "state": "error",
+        "message": "fetch failed",
+        "changedAt": "2026-10-16T00:35:12.914Z"
       }
     },
     "svenskdam": {
@@ -522,6 +522,16 @@
       "titleVi": "Bức chân dung mới sắp ra mắt của HM The King"
     },
     {
+      "id": "https://nyheder.tv2.dk/live/kort-nyt",
+      "source": "tv2",
+      "title": "Flere personer dræbt i et skoleskyderi ifølge flere medier",
+      "url": "https://nyheder.tv2.dk/live/kort-nyt",
+      "date": "—",
+      "type": "Live",
+      "firstSeenAt": "2026-09-28T00:30:42.330Z",
+      "titleVi": "Một số người thiệt mạng trong vụ xả súng ở trường học theo một số phương tiện truyền thông"
+    },
+    {
       "id": "https://nyheder.tv2.dk/live/udland/2026-10-15-tog-og-bus-kolliderer-i-tunnel-under-den-engelske-kanal",
       "source": "tv2",
       "title": "Tog og bus kolliderer under Den Engelske Kanal – mange kvæstet",
@@ -540,16 +550,6 @@
       "type": "Live",
       "firstSeenAt": "2026-09-28T00:30:42.330Z",
       "titleVi": "Tantholdt chỉ ra những nhu cầu quan trọng đối với Ukraine"
-    },
-    {
-      "id": "https://nyheder.tv2.dk/live/kort-nyt",
-      "source": "tv2",
-      "title": "Streamer Rasmus Søndergaard slår danmarksrekord",
-      "url": "https://nyheder.tv2.dk/live/kort-nyt",
-      "date": "—",
-      "type": "Live",
-      "firstSeenAt": "2026-09-28T00:30:42.330Z",
-      "titleVi": "Streamer Rasmus Søndergaard phá kỷ lục Đan Mạch"
     },
     {
       "id": "https://nyheder.tv2.dk/live/udland/2026-10-15-eu-topmoede-i-bruxelles",
