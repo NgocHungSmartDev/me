@@ -1,6 +1,6 @@
 {
   "monitoringStartedAt": "2026-09-28T00:17:35.319Z",
-  "updatedAt": "2026-10-16T18:23:19.531Z",
+  "updatedAt": "2026-10-16T21:32:07.430Z",
   "sources": {
     "kongehuset": {
       "name": "Kongehuset",
@@ -522,14 +522,24 @@
       "titleVi": "Bức chân dung mới sắp ra mắt của HM The King"
     },
     {
-      "id": "https://nyheder.tv2.dk/udland/2026-10-16-trump-beder-ny-pressesekretaer-om-at-traekke-sig",
+      "id": "https://nyheder.tv2.dk/live/kort-nyt",
       "source": "tv2",
-      "title": "Trump beder ny pressesekretær om at trække sig",
-      "url": "https://nyheder.tv2.dk/udland/2026-10-16-trump-beder-ny-pressesekretaer-om-at-traekke-sig",
-      "date": "16/10/2026",
-      "type": "Udland",
-      "firstSeenAt": "2026-10-16T18:23:19.531Z",
-      "titleVi": "Trump yêu cầu thư ký báo chí mới từ chức"
+      "title": "Sag om børnemisbrug mod Timothy Busfield droppet",
+      "url": "https://nyheder.tv2.dk/live/kort-nyt",
+      "date": "—",
+      "type": "Live",
+      "firstSeenAt": "2026-09-28T00:30:42.330Z",
+      "titleVi": "Vụ án lạm dụng trẻ em chống lại Timothy Busfield bị bỏ qua"
+    },
+    {
+      "id": "https://nyheder.tv2.dk/live/2025-01-06-kampen-om-groenlands-fremtid",
+      "source": "tv2",
+      "title": "Trump planlagde aldrig at angribe Grønland, siger han",
+      "url": "https://nyheder.tv2.dk/live/2025-01-06-kampen-om-groenlands-fremtid",
+      "date": "06/01/2025",
+      "type": "Live",
+      "firstSeenAt": "2026-10-16T21:32:07.430Z",
+      "titleVi": "Trump không bao giờ lên kế hoạch tấn công Greenland, ông nói"
     },
     {
       "id": "https://nyheder.tv2.dk/live/2024-09-08-seneste-nyt-om-krigen-i-ukraine-70b1d6cc-0720-404e-9878-45546e1999e7",
@@ -542,6 +552,46 @@
       "titleVi": "Zelenskyi nói rằng cuộc đàm phán hòa bình của Nga \"trông giống như một sự nhại lại\""
     },
     {
+      "id": "https://nyheder.tv2.dk/live/udland/2026-10-15-eu-topmoede-i-bruxelles",
+      "source": "tv2",
+      "title": "Zelenskyj efterlyser EU's Patriot-missiler",
+      "url": "https://nyheder.tv2.dk/live/udland/2026-10-15-eu-topmoede-i-bruxelles",
+      "date": "15/10/2026",
+      "type": "Live",
+      "firstSeenAt": "2026-10-15T10:02:41.330Z",
+      "titleVi": "Zelenskyi kêu gọi sử dụng tên lửa Patriot của EU"
+    },
+    {
+      "id": "https://nyheder.tv2.dk/samfund/2026-10-16-doedelig-sygdom-i-regionen-de-ligger-og-flyder-alle-vegne",
+      "source": "tv2",
+      "title": "Dødelig sygdom i regionen: - De ligger og flyder alle vegne",
+      "url": "https://nyheder.tv2.dk/samfund/2026-10-16-doedelig-sygdom-i-regionen-de-ligger-og-flyder-alle-vegne",
+      "date": "16/10/2026",
+      "type": "Samfund",
+      "firstSeenAt": "2026-10-16T21:32:07.430Z",
+      "titleVi": "Bệnh chết người trong khu vực: - Chúng nằm và chảy khắp nơi"
+    },
+    {
+      "id": "https://nyheder.tv2.dk/live/business/2025-03-12-seneste-nyt-fra-de-finansielle-markeder",
+      "source": "tv2",
+      "title": "Nordea-aktie falder mere end syv procent efter regnskab",
+      "url": "https://nyheder.tv2.dk/live/business/2025-03-12-seneste-nyt-fra-de-finansielle-markeder",
+      "date": "12/03/2025",
+      "type": "Live",
+      "firstSeenAt": "2026-10-16T21:32:07.430Z",
+      "titleVi": "Cổ phiếu Nordea giảm hơn 7% sau khi hạch toán"
+    },
+    {
+      "id": "https://nyheder.tv2.dk/samfund/2026-10-16-ansattes-formand-raser-over-udtalelse-om-dummere-kandidater-i-toender",
+      "source": "tv2",
+      "title": "Ansattes formand raser over udtalelse om \"dummere kandidater\" i Tønder",
+      "url": "https://nyheder.tv2.dk/samfund/2026-10-16-ansattes-formand-raser-over-udtalelse-om-dummere-kandidater-i-toender",
+      "date": "16/10/2026",
+      "type": "Samfund",
+      "firstSeenAt": "2026-10-16T21:32:07.430Z",
+      "titleVi": "Chủ tịch nhân viên nổi giận vì tuyên bố về \"ứng cử viên ngu ngốc\" ở Tønder"
+    },
+    {
       "id": "https://nyheder.tv2.dk/live/politik/2025-08-11-dansk-politik",
       "source": "tv2",
       "title": "I dag falder historisk afgørelse i injuriesag",
@@ -552,14 +602,24 @@
       "titleVi": "Hôm nay có một quyết định lịch sử trong vụ phỉ báng"
     },
     {
-      "id": "https://nyheder.tv2.dk/live/kort-nyt",
+      "id": "https://nyheder.tv2.dk/udland/2026-10-16-trump-fyrer-ny-pressesekretaer-efter-faa-dage-skriver-medier",
       "source": "tv2",
-      "title": "USA's budgetunderskud når højeste niveau i fem år",
-      "url": "https://nyheder.tv2.dk/live/kort-nyt",
-      "date": "—",
+      "title": "Trump fyrer ny pressesekretær efter få dage, skriver medier",
+      "url": "https://nyheder.tv2.dk/udland/2026-10-16-trump-fyrer-ny-pressesekretaer-efter-faa-dage-skriver-medier",
+      "date": "16/10/2026",
+      "type": "Udland",
+      "firstSeenAt": "2026-10-16T21:32:07.430Z",
+      "titleVi": "Trump sa thải thư ký báo chí mới sau vài ngày, báo cáo phương tiện truyền thông"
+    },
+    {
+      "id": "https://nyheder.tv2.dk/live/udland/2026-05-16-midtvejsvalg-i-usa",
+      "source": "tv2",
+      "title": "Omstridt MAGA-profil retter kritik mod Trump",
+      "url": "https://nyheder.tv2.dk/live/udland/2026-05-16-midtvejsvalg-i-usa",
+      "date": "16/05/2026",
       "type": "Live",
-      "firstSeenAt": "2026-09-28T00:30:42.330Z",
-      "titleVi": "Thâm hụt ngân sách Mỹ đạt mức cao nhất trong 5 năm"
+      "firstSeenAt": "2026-10-16T21:32:07.430Z",
+      "titleVi": "Hồ sơ Maga gây tranh cãi chỉ trích Trump"
     },
     {
       "id": "https://nyheder.tv2.dk/samfund/2026-10-16-situationen-for-dsb-ansatte-er-skraekkelig-bliver-skaeldt-ud-skubbet-og-spyttet-paa",
@@ -570,16 +630,6 @@
       "type": "Samfund",
       "firstSeenAt": "2026-10-16T18:23:19.531Z",
       "titleVi": "Hoàn cảnh nhân viên DSB “khủng” – bị la mắng, xô đẩy, nhổ nước bọt"
-    },
-    {
-      "id": "https://nyheder.tv2.dk/live/udland/2026-10-15-eu-topmoede-i-bruxelles",
-      "source": "tv2",
-      "title": "Zelenskyj efterlyser EU's Patriot-missiler",
-      "url": "https://nyheder.tv2.dk/live/udland/2026-10-15-eu-topmoede-i-bruxelles",
-      "date": "15/10/2026",
-      "type": "Live",
-      "firstSeenAt": "2026-10-15T10:02:41.330Z",
-      "titleVi": "Zelenskyi kêu gọi sử dụng tên lửa Patriot của EU"
     },
     {
       "id": "https://nyheder.tv2.dk/samfund/2026-10-16-lovede-stort-show-boern-gik-graedende-derfra",
@@ -760,56 +810,6 @@
       "type": "Live",
       "firstSeenAt": "2026-10-16T09:49:56.064Z",
       "titleVi": "Loài bọ ve khổng lồ được phát hiện ở Na Uy"
-    },
-    {
-      "id": "https://nyheder.tv2.dk/tech/2026-10-16-tesla-praesenterer-ny-elbil-der-kan-lave-tricks-i-luften",
-      "source": "tv2",
-      "title": "Tesla præsenterer ny elbil der kan lave tricks i luften",
-      "url": "https://nyheder.tv2.dk/tech/2026-10-16-tesla-praesenterer-ny-elbil-der-kan-lave-tricks-i-luften",
-      "date": "16/10/2026",
-      "type": "Tech",
-      "firstSeenAt": "2026-10-16T09:49:56.064Z",
-      "titleVi": "Tesla giới thiệu ô tô điện mới có thể làm trò ảo thuật trên không"
-    },
-    {
-      "id": "https://nyheder.tv2.dk/trafik/2026-10-15-efter-kaos-og-koe-flere-kunder-forlader-dsb",
-      "source": "tv2",
-      "title": "Efter kaos og kø – flere kunder forlader DSB",
-      "url": "https://nyheder.tv2.dk/trafik/2026-10-15-efter-kaos-og-koe-flere-kunder-forlader-dsb",
-      "date": "15/10/2026",
-      "type": "Trafik",
-      "firstSeenAt": "2026-10-16T09:49:56.064Z",
-      "titleVi": "Sau sự hỗn loạn và xếp hàng – ngày càng có nhiều khách hàng rời khỏi DSB"
-    },
-    {
-      "id": "https://nyheder.tv2.dk/udland/2026-10-16-trump-overvejer-at-bruge-alle-bombers-moder-i-iran",
-      "source": "tv2",
-      "title": "Trump overvejer at bruge 'alle bombers moder' i Iran",
-      "url": "https://nyheder.tv2.dk/udland/2026-10-16-trump-overvejer-at-bruge-alle-bombers-moder-i-iran",
-      "date": "16/10/2026",
-      "type": "Udland",
-      "firstSeenAt": "2026-10-16T09:49:56.064Z",
-      "titleVi": "Trump đang cân nhắc sử dụng 'mẹ của các loại bom' vào Iran"
-    },
-    {
-      "id": "https://nyheder.tv2.dk/2026-10-15-afrah-al-jabouri-foeler-sig-snydt-af-tv-2",
-      "source": "tv2",
-      "title": "Afrah al-Jabouri føler sig snydt af TV 2",
-      "url": "https://nyheder.tv2.dk/2026-10-15-afrah-al-jabouri-foeler-sig-snydt-af-tv-2",
-      "date": "15/10/2026",
-      "type": "Nyheder",
-      "firstSeenAt": "2026-10-16T09:49:56.064Z",
-      "titleVi": "Afrah al-Jabouri cảm thấy bị TV 2 lừa dối"
-    },
-    {
-      "id": "https://nyheder.tv2.dk/live/udland/2025-03-17-verden-i-forandring",
-      "source": "tv2",
-      "title": "Skyggekrig bliver mere omfattende end Den Kolde Krig, siger minister",
-      "url": "https://nyheder.tv2.dk/live/udland/2025-03-17-verden-i-forandring",
-      "date": "17/03/2025",
-      "type": "Live",
-      "firstSeenAt": "2026-10-16T05:03:06.271Z",
-      "titleVi": "Bộ trưởng: Chiến tranh bóng tối sẽ lan rộng hơn Chiến tranh Lạnh"
     },
     {
       "id": "https://www.kungahuset.se/arkiv/nyheter/2026-10-16-drottningen-pa-goteborgs-universitet",
@@ -1087,26 +1087,26 @@
       "titleVi": "Sau thất bại nặng nề của Công chúa Madeleine: Tìm thấy hạnh phúc bên Chris O'Neill"
     },
     {
-      "id": "https://www.svenskdam.se/kungligt/nya-bilden-pa-drottning-mette-marit-far-alla-att-reagera/11664216",
+      "id": "https://www.svenskdam.se/noje/kritikstorm-mot-pernilla-wahlgren-efter-orden-om-dottern-i-tv-fruktansvart-elakt/11664479",
       "source": "svenskdam",
-      "title": "Nya bilden på drottning Mette-Marit – får alla att reagera",
-      "url": "https://www.svenskdam.se/kungligt/nya-bilden-pa-drottning-mette-marit-far-alla-att-reagera/11664216",
+      "title": "Kritikstorm mot Pernilla Wahlgren efter orden om dottern i tv: \"Fruktansvärt elakt\"",
+      "url": "https://www.svenskdam.se/noje/kritikstorm-mot-pernilla-wahlgren-efter-orden-om-dottern-i-tv-fruktansvart-elakt/11664479",
       "date": "16/10/2026",
-      "publishedAt": "2026-10-16T20:00:00+02:00",
-      "type": "Kungligt",
-      "firstSeenAt": "2026-10-16T18:23:19.531Z",
-      "titleVi": "Hình ảnh mới của Nữ hoàng Mette-Marit – khiến ai cũng phản ứng"
+      "publishedAt": "2026-10-16T21:00:00+02:00",
+      "type": "Nöje",
+      "firstSeenAt": "2026-10-16T21:32:07.430Z",
+      "titleVi": "Cơn bão chỉ trích chống lại Pernilla Wahlgren sau những lời nói về con gái mình trên TV: \"Ý nghĩa khủng khiếp\""
     },
     {
-      "id": "https://www.svenskdam.se/noje/carolas-brandskrack-i-hemmet-glomde-maten-pa-spisen-utrymma-i-pyjamas/11664412",
+      "id": "https://www.svenskdam.se/noje/kristian-luuk-sager-ifran-efter-kollegans-utspel-helt-ologiskt/11665269",
       "source": "svenskdam",
-      "title": "Carolas brandskräck i hemmet – glömde maten på spisen: \"Utrymma\"",
-      "url": "https://www.svenskdam.se/noje/carolas-brandskrack-i-hemmet-glomde-maten-pa-spisen-utrymma-i-pyjamas/11664412",
+      "title": "Kristian Luuk säger ifrån efter kollegans utspel: \"Helt ologiskt\"",
+      "url": "https://www.svenskdam.se/noje/kristian-luuk-sager-ifran-efter-kollegans-utspel-helt-ologiskt/11665269",
       "date": "16/10/2026",
-      "publishedAt": "2026-10-16T19:00:00+02:00",
+      "publishedAt": "2026-10-16T20:53:27+02:00",
       "type": "Nöje",
-      "firstSeenAt": "2026-10-16T18:23:19.531Z",
-      "titleVi": "Carola sợ cháy nhà – quên đồ ăn trên bếp: “Di tản”"
+      "firstSeenAt": "2026-10-16T21:32:07.430Z",
+      "titleVi": "Kristian Luuk nói sau khi đồng nghiệp của mình chuyển đi: \"Hoàn toàn phi logic\""
     },
     {
       "id": "https://www.svenskdam.se/kungligt/chockbeskedet-han-pastar-sig-vara-charles-och-camillas-okande-son-skrammande-lik/7893722",
@@ -1129,6 +1129,28 @@
       "type": "Creative studio",
       "firstSeenAt": "2026-10-08T13:30:06.955Z",
       "titleVi": "Nó bắt đầu khi đang tắm: Đưa thói quen cơ thể của bạn lên một tầm cao mới"
+    },
+    {
+      "id": "https://www.svenskdam.se/kungligt/nya-bilden-pa-drottning-mette-marit-far-alla-att-reagera/11664216",
+      "source": "svenskdam",
+      "title": "Nya bilden på drottning Mette-Marit – får alla att reagera",
+      "url": "https://www.svenskdam.se/kungligt/nya-bilden-pa-drottning-mette-marit-far-alla-att-reagera/11664216",
+      "date": "16/10/2026",
+      "publishedAt": "2026-10-16T20:00:00+02:00",
+      "type": "Kungligt",
+      "firstSeenAt": "2026-10-16T18:23:19.531Z",
+      "titleVi": "Hình ảnh mới của Nữ hoàng Mette-Marit – khiến ai cũng phản ứng"
+    },
+    {
+      "id": "https://www.svenskdam.se/noje/carolas-brandskrack-i-hemmet-glomde-maten-pa-spisen-utrymma-i-pyjamas/11664412",
+      "source": "svenskdam",
+      "title": "Carolas brandskräck i hemmet – glömde maten på spisen: \"Utrymma\"",
+      "url": "https://www.svenskdam.se/noje/carolas-brandskrack-i-hemmet-glomde-maten-pa-spisen-utrymma-i-pyjamas/11664412",
+      "date": "16/10/2026",
+      "publishedAt": "2026-10-16T19:00:00+02:00",
+      "type": "Nöje",
+      "firstSeenAt": "2026-10-16T18:23:19.531Z",
+      "titleVi": "Carola sợ cháy nhà – quên đồ ăn trên bếp: “Di tản”"
     },
     {
       "id": "https://www.svenskdam.se/kungligt/harry-och-meghan-pahoppade-efter-flytten-anklagas-for-bluff/11664100",
@@ -1285,28 +1307,6 @@
       "titleVi": "Lâu đài trill của Krister phải được kiểm tra - điều đó xảy ra với tiền thắng cược"
     },
     {
-      "id": "https://www.svenskdam.se/kungligt/victoria-bryter-mot-silvias-forbud-uppmarksammas-av-prinsen-olampligt/11662794",
-      "source": "svenskdam",
-      "title": "Victoria bryter mot Silvias regel – uppmärksammas av prinsen",
-      "url": "https://www.svenskdam.se/kungligt/victoria-bryter-mot-silvias-forbud-uppmarksammas-av-prinsen-olampligt/11662794",
-      "date": "16/10/2026",
-      "publishedAt": "2026-10-16T06:00:00+02:00",
-      "type": "Kungligt",
-      "firstSeenAt": "2026-10-16T05:03:06.271Z",
-      "titleVi": "Victoria phá vỡ sự cai trị của Silvia - được hoàng tử để ý"
-    },
-    {
-      "id": "https://www.svenskdam.se/kungligt/anders-pihlblads-nya-besked-i-relationen-far-foljarna-att-reagera/11663042",
-      "source": "svenskdam",
-      "title": "Anders Pihlblads nya besked i relationen – får följarna att reagera",
-      "url": "https://www.svenskdam.se/kungligt/anders-pihlblads-nya-besked-i-relationen-far-foljarna-att-reagera/11663042",
-      "date": "15/10/2026",
-      "publishedAt": "2026-10-15T22:00:00+02:00",
-      "type": "Kungligt",
-      "firstSeenAt": "2026-10-15T22:18:17.252Z",
-      "titleVi": "Thông điệp mới của Anders Pihlblad trong mối quan hệ - khiến người theo dõi phản ứng"
-    },
-    {
       "id": "https://www.svenskdam.se/kungligt/prinsessan-madeleine-lamnar-hovstallet-reser-ifran-landet/11661973",
       "source": "svenskdam",
       "title": "Bekräftat: Prinsessan Madeleine lämnar Sverige igen",
@@ -1351,6 +1351,28 @@
       "titleVi": "Niềm vui của Peter Forsberg – khoe bạn đời mới: \"Một giấc mơ\""
     },
     {
+      "id": "https://www.svenskdam.se/kungligt/victoria-bryter-mot-silvias-forbud-uppmarksammas-av-prinsen-olampligt/11662794",
+      "source": "svenskdam",
+      "title": "Victoria bryter mot Silvias regel – uppmärksammas av prinsen",
+      "url": "https://www.svenskdam.se/kungligt/victoria-bryter-mot-silvias-forbud-uppmarksammas-av-prinsen-olampligt/11662794",
+      "date": "16/10/2026",
+      "publishedAt": "2026-10-16T06:00:00+02:00",
+      "type": "Kungligt",
+      "firstSeenAt": "2026-10-16T05:03:06.271Z",
+      "titleVi": "Victoria phá vỡ sự cai trị của Silvia - được hoàng tử để ý"
+    },
+    {
+      "id": "https://www.svenskdam.se/kungligt/anders-pihlblads-nya-besked-i-relationen-far-foljarna-att-reagera/11663042",
+      "source": "svenskdam",
+      "title": "Anders Pihlblads nya besked i relationen – får följarna att reagera",
+      "url": "https://www.svenskdam.se/kungligt/anders-pihlblads-nya-besked-i-relationen-far-foljarna-att-reagera/11663042",
+      "date": "15/10/2026",
+      "publishedAt": "2026-10-15T22:00:00+02:00",
+      "type": "Kungligt",
+      "firstSeenAt": "2026-10-15T22:18:17.252Z",
+      "titleVi": "Thông điệp mới của Anders Pihlblad trong mối quan hệ - khiến người theo dõi phản ứng"
+    },
+    {
       "id": "https://www.svenskdam.se/noje/pernilla-wahlgrens-skilsmassa-splittrar-familjen-bianca-i-tarar/11662481",
       "source": "svenskdam",
       "title": "Pernilla Wahlgrens skilsmässa splittrar familjen – Bianca i tårar",
@@ -1371,28 +1393,6 @@
       "type": "Kungligt",
       "firstSeenAt": "2026-10-15T19:07:52.014Z",
       "titleVi": "Những lời cảm động của Silvia về cuộc đấu tranh tiềm ẩn: \"Thiếu sự hỗ trợ\""
-    },
-    {
-      "id": "https://www.svenskdam.se/noje/anna-brolin-46-har-hittat-lyckan-med-tv4-kollegan-mitt-lyckopiller/11662582",
-      "source": "svenskdam",
-      "title": "Anna Brolin har hittat lyckan – med TV4-kollegan: \"Mitt lyckopiller\"",
-      "url": "https://www.svenskdam.se/noje/anna-brolin-46-har-hittat-lyckan-med-tv4-kollegan-mitt-lyckopiller/11662582",
-      "date": "15/10/2026",
-      "publishedAt": "2026-10-15T19:00:00+02:00",
-      "type": "Nöje",
-      "firstSeenAt": "2026-10-15T19:07:52.014Z",
-      "titleVi": "Anna Brolin đã tìm thấy hạnh phúc – với đồng nghiệp TV4 của mình: \"Viên thuốc hạnh phúc của tôi\""
-    },
-    {
-      "id": "https://www.svenskdam.se/kungligt/nu-avslojas-sanningen-om-eva-oneills-alder-som-morkats-i-alla-ar/11662352",
-      "source": "svenskdam",
-      "title": "Dokumentet avslöjar: Sanningen om Eva O'Neills ålder som dolts i alla år",
-      "url": "https://www.svenskdam.se/kungligt/nu-avslojas-sanningen-om-eva-oneills-alder-som-morkats-i-alla-ar/11662352",
-      "date": "15/10/2026",
-      "publishedAt": "2026-10-15T18:00:00+02:00",
-      "type": "Kungligt",
-      "firstSeenAt": "2026-10-15T19:07:52.014Z",
-      "titleVi": "Tài liệu tiết lộ: Sự thật về tuổi của Eva O'Neill đã bị che giấu trong suốt những năm qua"
     },
     {
       "id": "https://www.kongehuset.no/nyheter/krukker-av-dronning-sonja-ved-kunststallen",
