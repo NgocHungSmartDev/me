@@ -1,6 +1,6 @@
 {
   "monitoringStartedAt": "2026-09-28T00:17:35.319Z",
-  "updatedAt": "2026-10-16T21:32:07.430Z",
+  "updatedAt": "2026-10-16T23:53:41.262Z",
   "sources": {
     "kongehuset": {
       "name": "Kongehuset",
@@ -33,9 +33,9 @@
       "language": "sv",
       "monitoringStartedAt": "2026-10-01T16:20:13.213Z",
       "status": {
-        "state": "ok",
-        "message": "",
-        "changedAt": "2026-10-16T14:35:16.040Z"
+        "state": "error",
+        "message": "fetch failed",
+        "changedAt": "2026-10-16T23:53:41.262Z"
       }
     },
     "svenskdam": {
@@ -57,9 +57,9 @@
       "language": "no",
       "monitoringStartedAt": "2026-10-01T16:30:06.936Z",
       "status": {
-        "state": "ok",
-        "message": "",
-        "changedAt": "2026-10-14T14:40:15.831Z"
+        "state": "error",
+        "message": "The Norwegian Royal House Atom feed returned no entries",
+        "changedAt": "2026-10-16T23:53:41.262Z"
       }
     }
   },
@@ -522,14 +522,24 @@
       "titleVi": "Bức chân dung mới sắp ra mắt của HM The King"
     },
     {
+      "id": "https://nyheder.tv2.dk/samfund/2026-10-16-danmarks-aeldste-var-medlem-af-naziparti-man-skulle-overleve-siger-historiker",
+      "source": "tv2",
+      "title": "Danmarks ældste var medlem af naziparti: - Man skulle overleve, siger historiker",
+      "url": "https://nyheder.tv2.dk/samfund/2026-10-16-danmarks-aeldste-var-medlem-af-naziparti-man-skulle-overleve-siger-historiker",
+      "date": "16/10/2026",
+      "type": "Samfund",
+      "firstSeenAt": "2026-10-16T23:53:41.262Z",
+      "titleVi": "Người lớn tuổi nhất Đan Mạch là một thành viên của đảng Quốc xã: - Một người phải sống sót, nhà sử học nói"
+    },
+    {
       "id": "https://nyheder.tv2.dk/live/kort-nyt",
       "source": "tv2",
-      "title": "Sag om børnemisbrug mod Timothy Busfield droppet",
+      "title": "Brande fører til evakueringer i Californien – titusindvis uden strøm",
       "url": "https://nyheder.tv2.dk/live/kort-nyt",
       "date": "—",
       "type": "Live",
       "firstSeenAt": "2026-09-28T00:30:42.330Z",
-      "titleVi": "Vụ án lạm dụng trẻ em chống lại Timothy Busfield bị bỏ qua"
+      "titleVi": "Hỏa hoạn dẫn đến việc sơ tán ở California – hàng chục ngàn người không có điện"
     },
     {
       "id": "https://nyheder.tv2.dk/live/2025-01-06-kampen-om-groenlands-fremtid",
@@ -800,16 +810,6 @@
       "type": "Samfund",
       "firstSeenAt": "2026-10-16T09:49:56.064Z",
       "titleVi": "Một triệu người đã chứng kiến cô ấy vượt qua nhà vua trong bộ đồ tắm"
-    },
-    {
-      "id": "https://livsstil.tv2.dk/live/2025-12-01-danskernes-sundhed",
-      "source": "tv2",
-      "title": "Kæmpe flåtart opdaget i Norge",
-      "url": "https://livsstil.tv2.dk/live/2025-12-01-danskernes-sundhed",
-      "date": "01/12/2025",
-      "type": "Live",
-      "firstSeenAt": "2026-10-16T09:49:56.064Z",
-      "titleVi": "Loài bọ ve khổng lồ được phát hiện ở Na Uy"
     },
     {
       "id": "https://www.kungahuset.se/arkiv/nyheter/2026-10-16-drottningen-pa-goteborgs-universitet",
@@ -1087,26 +1087,26 @@
       "titleVi": "Sau thất bại nặng nề của Công chúa Madeleine: Tìm thấy hạnh phúc bên Chris O'Neill"
     },
     {
-      "id": "https://www.svenskdam.se/noje/kritikstorm-mot-pernilla-wahlgren-efter-orden-om-dottern-i-tv-fruktansvart-elakt/11664479",
+      "id": "https://www.svenskdam.se/kungligt/prinsessan-madeleine-avslojar-hemligheten-efter-alla-ar/11664041",
       "source": "svenskdam",
-      "title": "Kritikstorm mot Pernilla Wahlgren efter orden om dottern i tv: \"Fruktansvärt elakt\"",
-      "url": "https://www.svenskdam.se/noje/kritikstorm-mot-pernilla-wahlgren-efter-orden-om-dottern-i-tv-fruktansvart-elakt/11664479",
-      "date": "16/10/2026",
-      "publishedAt": "2026-10-16T21:00:00+02:00",
-      "type": "Nöje",
-      "firstSeenAt": "2026-10-16T21:32:07.430Z",
-      "titleVi": "Cơn bão chỉ trích chống lại Pernilla Wahlgren sau những lời nói về con gái mình trên TV: \"Ý nghĩa khủng khiếp\""
+      "title": "Madeleine avslöjar hemligheten med utseendet efter alla år: \"Som vackrast\"",
+      "url": "https://www.svenskdam.se/kungligt/prinsessan-madeleine-avslojar-hemligheten-efter-alla-ar/11664041",
+      "date": "17/10/2026",
+      "publishedAt": "2026-10-17T00:00:00+02:00",
+      "type": "Kungligt",
+      "firstSeenAt": "2026-10-16T23:53:41.262Z",
+      "titleVi": "Madeleine tiết lộ bí mật về ngoại hình sau ngần ấy năm: \"Đẹp nhất\""
     },
     {
-      "id": "https://www.svenskdam.se/noje/kristian-luuk-sager-ifran-efter-kollegans-utspel-helt-ologiskt/11665269",
+      "id": "https://www.svenskdam.se/noje/henrik-lundqvists-fru-rasande-efter-makens-overtramp/11664333",
       "source": "svenskdam",
-      "title": "Kristian Luuk säger ifrån efter kollegans utspel: \"Helt ologiskt\"",
-      "url": "https://www.svenskdam.se/noje/kristian-luuk-sager-ifran-efter-kollegans-utspel-helt-ologiskt/11665269",
-      "date": "16/10/2026",
-      "publishedAt": "2026-10-16T20:53:27+02:00",
+      "title": "Henrik Lundqvists fru rasande – efter makens övertramp",
+      "url": "https://www.svenskdam.se/noje/henrik-lundqvists-fru-rasande-efter-makens-overtramp/11664333",
+      "date": "17/10/2026",
+      "publishedAt": "2026-10-17T00:00:00+02:00",
       "type": "Nöje",
-      "firstSeenAt": "2026-10-16T21:32:07.430Z",
-      "titleVi": "Kristian Luuk nói sau khi đồng nghiệp của mình chuyển đi: \"Hoàn toàn phi logic\""
+      "firstSeenAt": "2026-10-16T23:53:41.262Z",
+      "titleVi": "Vợ của Henrik Lundqvist tức giận – sau khi chồng phạm tội"
     },
     {
       "id": "https://www.svenskdam.se/kungligt/chockbeskedet-han-pastar-sig-vara-charles-och-camillas-okande-son-skrammande-lik/7893722",
@@ -1129,6 +1129,28 @@
       "type": "Creative studio",
       "firstSeenAt": "2026-10-08T13:30:06.955Z",
       "titleVi": "Nó bắt đầu khi đang tắm: Đưa thói quen cơ thể của bạn lên một tầm cao mới"
+    },
+    {
+      "id": "https://www.svenskdam.se/noje/kritikstorm-mot-pernilla-wahlgren-efter-orden-om-dottern-i-tv-fruktansvart-elakt/11664479",
+      "source": "svenskdam",
+      "title": "Kritikstorm mot Pernilla Wahlgren efter orden om dottern i tv: \"Fruktansvärt elakt\"",
+      "url": "https://www.svenskdam.se/noje/kritikstorm-mot-pernilla-wahlgren-efter-orden-om-dottern-i-tv-fruktansvart-elakt/11664479",
+      "date": "16/10/2026",
+      "publishedAt": "2026-10-16T21:00:00+02:00",
+      "type": "Nöje",
+      "firstSeenAt": "2026-10-16T21:32:07.430Z",
+      "titleVi": "Cơn bão chỉ trích chống lại Pernilla Wahlgren sau những lời nói về con gái mình trên TV: \"Ý nghĩa khủng khiếp\""
+    },
+    {
+      "id": "https://www.svenskdam.se/noje/kristian-luuk-sager-ifran-efter-kollegans-utspel-helt-ologiskt/11665269",
+      "source": "svenskdam",
+      "title": "Kristian Luuk säger ifrån efter kollegans utspel: \"Helt ologiskt\"",
+      "url": "https://www.svenskdam.se/noje/kristian-luuk-sager-ifran-efter-kollegans-utspel-helt-ologiskt/11665269",
+      "date": "16/10/2026",
+      "publishedAt": "2026-10-16T20:53:27+02:00",
+      "type": "Nöje",
+      "firstSeenAt": "2026-10-16T21:32:07.430Z",
+      "titleVi": "Kristian Luuk nói sau khi đồng nghiệp của mình chuyển đi: \"Hoàn toàn phi logic\""
     },
     {
       "id": "https://www.svenskdam.se/kungligt/nya-bilden-pa-drottning-mette-marit-far-alla-att-reagera/11664216",
@@ -1285,28 +1307,6 @@
       "titleVi": "Peter Jihde thay thế - đối thủ thay thế anh sau những cuộc tranh cãi"
     },
     {
-      "id": "https://www.svenskdam.se/kungligt/prinsessan-sofias-plan-for-kanslosamma-dagen-stort-ansvar/11663539",
-      "source": "svenskdam",
-      "title": "Prinsessan Sofias plan för känslosamma dagen: \"Stort ansvar\"",
-      "url": "https://www.svenskdam.se/kungligt/prinsessan-sofias-plan-for-kanslosamma-dagen-stort-ansvar/11663539",
-      "date": "16/10/2026",
-      "publishedAt": "2026-10-16T08:00:00+02:00",
-      "type": "Kungligt",
-      "firstSeenAt": "2026-10-16T09:49:56.064Z",
-      "titleVi": "Kế hoạch cho ngày tình cảm của Công chúa Sofia: “Trách nhiệm lớn”"
-    },
-    {
-      "id": "https://www.svenskdam.se/noje/kristers-trisslott-maste-inspekteras-det-hander-med-vinsten-tar-pa-krafterna/11661866",
-      "source": "svenskdam",
-      "title": "Kristers trisslott måste inspekteras – det händer med vinsten",
-      "url": "https://www.svenskdam.se/noje/kristers-trisslott-maste-inspekteras-det-hander-med-vinsten-tar-pa-krafterna/11661866",
-      "date": "16/10/2026",
-      "publishedAt": "2026-10-16T07:00:00+02:00",
-      "type": "Nöje",
-      "firstSeenAt": "2026-10-16T05:03:06.271Z",
-      "titleVi": "Lâu đài trill của Krister phải được kiểm tra - điều đó xảy ra với tiền thắng cược"
-    },
-    {
       "id": "https://www.svenskdam.se/kungligt/prinsessan-madeleine-lamnar-hovstallet-reser-ifran-landet/11661973",
       "source": "svenskdam",
       "title": "Bekräftat: Prinsessan Madeleine lämnar Sverige igen",
@@ -1351,6 +1351,28 @@
       "titleVi": "Niềm vui của Peter Forsberg – khoe bạn đời mới: \"Một giấc mơ\""
     },
     {
+      "id": "https://www.svenskdam.se/kungligt/prinsessan-sofias-plan-for-kanslosamma-dagen-stort-ansvar/11663539",
+      "source": "svenskdam",
+      "title": "Prinsessan Sofias plan för känslosamma dagen: \"Stort ansvar\"",
+      "url": "https://www.svenskdam.se/kungligt/prinsessan-sofias-plan-for-kanslosamma-dagen-stort-ansvar/11663539",
+      "date": "16/10/2026",
+      "publishedAt": "2026-10-16T08:00:00+02:00",
+      "type": "Kungligt",
+      "firstSeenAt": "2026-10-16T09:49:56.064Z",
+      "titleVi": "Kế hoạch cho ngày tình cảm của Công chúa Sofia: “Trách nhiệm lớn”"
+    },
+    {
+      "id": "https://www.svenskdam.se/noje/kristers-trisslott-maste-inspekteras-det-hander-med-vinsten-tar-pa-krafterna/11661866",
+      "source": "svenskdam",
+      "title": "Kristers trisslott måste inspekteras – det händer med vinsten",
+      "url": "https://www.svenskdam.se/noje/kristers-trisslott-maste-inspekteras-det-hander-med-vinsten-tar-pa-krafterna/11661866",
+      "date": "16/10/2026",
+      "publishedAt": "2026-10-16T07:00:00+02:00",
+      "type": "Nöje",
+      "firstSeenAt": "2026-10-16T05:03:06.271Z",
+      "titleVi": "Lâu đài trill của Krister phải được kiểm tra - điều đó xảy ra với tiền thắng cược"
+    },
+    {
       "id": "https://www.svenskdam.se/kungligt/victoria-bryter-mot-silvias-forbud-uppmarksammas-av-prinsen-olampligt/11662794",
       "source": "svenskdam",
       "title": "Victoria bryter mot Silvias regel – uppmärksammas av prinsen",
@@ -1371,28 +1393,6 @@
       "type": "Kungligt",
       "firstSeenAt": "2026-10-15T22:18:17.252Z",
       "titleVi": "Thông điệp mới của Anders Pihlblad trong mối quan hệ - khiến người theo dõi phản ứng"
-    },
-    {
-      "id": "https://www.svenskdam.se/noje/pernilla-wahlgrens-skilsmassa-splittrar-familjen-bianca-i-tarar/11662481",
-      "source": "svenskdam",
-      "title": "Pernilla Wahlgrens skilsmässa splittrar familjen – Bianca i tårar",
-      "url": "https://www.svenskdam.se/noje/pernilla-wahlgrens-skilsmassa-splittrar-familjen-bianca-i-tarar/11662481",
-      "date": "15/10/2026",
-      "publishedAt": "2026-10-15T21:00:00+02:00",
-      "type": "Nöje",
-      "firstSeenAt": "2026-10-15T19:07:52.014Z",
-      "titleVi": "Vụ ly hôn của Pernilla Wahlgren chia rẽ gia đình – Bianca rơi nước mắt"
-    },
-    {
-      "id": "https://www.svenskdam.se/kungligt/silvias-rorande-ord-om-dolda-kampen-saknar-stod/11662770",
-      "source": "svenskdam",
-      "title": "Silvias rörande ord om dolda kampen: “Saknar stöd”",
-      "url": "https://www.svenskdam.se/kungligt/silvias-rorande-ord-om-dolda-kampen-saknar-stod/11662770",
-      "date": "15/10/2026",
-      "publishedAt": "2026-10-15T20:00:00+02:00",
-      "type": "Kungligt",
-      "firstSeenAt": "2026-10-15T19:07:52.014Z",
-      "titleVi": "Những lời cảm động của Silvia về cuộc đấu tranh tiềm ẩn: \"Thiếu sự hỗ trợ\""
     },
     {
       "id": "https://www.kongehuset.no/nyheter/krukker-av-dronning-sonja-ved-kunststallen",
