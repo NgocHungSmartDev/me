@@ -1,6 +1,6 @@
 {
   "monitoringStartedAt": "2026-09-28T00:17:35.319Z",
-  "updatedAt": "2026-10-16T14:35:16.040Z",
+  "updatedAt": "2026-10-16T18:23:19.531Z",
   "sources": {
     "kongehuset": {
       "name": "Kongehuset",
@@ -522,14 +522,14 @@
       "titleVi": "Bức chân dung mới sắp ra mắt của HM The King"
     },
     {
-      "id": "https://nyheder.tv2.dk/live/kort-nyt",
+      "id": "https://nyheder.tv2.dk/udland/2026-10-16-trump-beder-ny-pressesekretaer-om-at-traekke-sig",
       "source": "tv2",
-      "title": "’Kakerlak-leder’ anholdt inden nye protester",
-      "url": "https://nyheder.tv2.dk/live/kort-nyt",
-      "date": "—",
-      "type": "Live",
-      "firstSeenAt": "2026-09-28T00:30:42.330Z",
-      "titleVi": "'Thủ lĩnh gián' bị bắt trước các cuộc biểu tình mới"
+      "title": "Trump beder ny pressesekretær om at trække sig",
+      "url": "https://nyheder.tv2.dk/udland/2026-10-16-trump-beder-ny-pressesekretaer-om-at-traekke-sig",
+      "date": "16/10/2026",
+      "type": "Udland",
+      "firstSeenAt": "2026-10-16T18:23:19.531Z",
+      "titleVi": "Trump yêu cầu thư ký báo chí mới từ chức"
     },
     {
       "id": "https://nyheder.tv2.dk/live/2024-09-08-seneste-nyt-om-krigen-i-ukraine-70b1d6cc-0720-404e-9878-45546e1999e7",
@@ -540,6 +540,46 @@
       "type": "Live",
       "firstSeenAt": "2026-09-28T00:30:42.330Z",
       "titleVi": "Zelenskyi nói rằng cuộc đàm phán hòa bình của Nga \"trông giống như một sự nhại lại\""
+    },
+    {
+      "id": "https://nyheder.tv2.dk/live/politik/2025-08-11-dansk-politik",
+      "source": "tv2",
+      "title": "I dag falder historisk afgørelse i injuriesag",
+      "url": "https://nyheder.tv2.dk/live/politik/2025-08-11-dansk-politik",
+      "date": "11/08/2025",
+      "type": "Live",
+      "firstSeenAt": "2026-10-11T18:54:55.744Z",
+      "titleVi": "Hôm nay có một quyết định lịch sử trong vụ phỉ báng"
+    },
+    {
+      "id": "https://nyheder.tv2.dk/live/kort-nyt",
+      "source": "tv2",
+      "title": "USA's budgetunderskud når højeste niveau i fem år",
+      "url": "https://nyheder.tv2.dk/live/kort-nyt",
+      "date": "—",
+      "type": "Live",
+      "firstSeenAt": "2026-09-28T00:30:42.330Z",
+      "titleVi": "Thâm hụt ngân sách Mỹ đạt mức cao nhất trong 5 năm"
+    },
+    {
+      "id": "https://nyheder.tv2.dk/samfund/2026-10-16-situationen-for-dsb-ansatte-er-skraekkelig-bliver-skaeldt-ud-skubbet-og-spyttet-paa",
+      "source": "tv2",
+      "title": "Situationen for DSB-ansatte er \"skrækkelig\" – bliver skældt ud, skubbet og spyttet på",
+      "url": "https://nyheder.tv2.dk/samfund/2026-10-16-situationen-for-dsb-ansatte-er-skraekkelig-bliver-skaeldt-ud-skubbet-og-spyttet-paa",
+      "date": "16/10/2026",
+      "type": "Samfund",
+      "firstSeenAt": "2026-10-16T18:23:19.531Z",
+      "titleVi": "Hoàn cảnh nhân viên DSB “khủng” – bị la mắng, xô đẩy, nhổ nước bọt"
+    },
+    {
+      "id": "https://nyheder.tv2.dk/live/udland/2026-10-15-eu-topmoede-i-bruxelles",
+      "source": "tv2",
+      "title": "Zelenskyj efterlyser EU's Patriot-missiler",
+      "url": "https://nyheder.tv2.dk/live/udland/2026-10-15-eu-topmoede-i-bruxelles",
+      "date": "15/10/2026",
+      "type": "Live",
+      "firstSeenAt": "2026-10-15T10:02:41.330Z",
+      "titleVi": "Zelenskyi kêu gọi sử dụng tên lửa Patriot của EU"
     },
     {
       "id": "https://nyheder.tv2.dk/samfund/2026-10-16-lovede-stort-show-boern-gik-graedende-derfra",
@@ -590,26 +630,6 @@
       "type": "Samfund",
       "firstSeenAt": "2026-10-16T14:35:16.040Z",
       "titleVi": "Cô bé 11 tuổi mạnh mẽ hơn các bạn cùng lớp"
-    },
-    {
-      "id": "https://nyheder.tv2.dk/live/udland/2026-10-15-eu-topmoede-i-bruxelles",
-      "source": "tv2",
-      "title": "Zelenskyj efterlyser EU's Patriot-missiler",
-      "url": "https://nyheder.tv2.dk/live/udland/2026-10-15-eu-topmoede-i-bruxelles",
-      "date": "15/10/2026",
-      "type": "Live",
-      "firstSeenAt": "2026-10-15T10:02:41.330Z",
-      "titleVi": "Zelenskyi kêu gọi sử dụng tên lửa Patriot của EU"
-    },
-    {
-      "id": "https://nyheder.tv2.dk/live/politik/2025-08-11-dansk-politik",
-      "source": "tv2",
-      "title": "I dag falder historisk afgørelse i injuriesag",
-      "url": "https://nyheder.tv2.dk/live/politik/2025-08-11-dansk-politik",
-      "date": "11/08/2025",
-      "type": "Live",
-      "firstSeenAt": "2026-10-11T18:54:55.744Z",
-      "titleVi": "Hôm nay có một quyết định lịch sử trong vụ phỉ báng"
     },
     {
       "id": "https://nyheder.tv2.dk/tech/2026-10-16-ekspert-efter-nyt-ai-brud-jeg-frygter-at-det-kun-er-begyndelsen",
@@ -792,24 +812,15 @@
       "titleVi": "Bộ trưởng: Chiến tranh bóng tối sẽ lan rộng hơn Chiến tranh Lạnh"
     },
     {
-      "id": "https://nyheder.tv2.dk/live/udland/2026-05-16-midtvejsvalg-i-usa",
-      "source": "tv2",
-      "title": "Omstridt MAGA-profil retter kritik mod Trump",
-      "url": "https://nyheder.tv2.dk/live/udland/2026-05-16-midtvejsvalg-i-usa",
-      "date": "16/05/2026",
-      "type": "Live",
-      "firstSeenAt": "2026-10-14T14:40:15.831Z",
-      "titleVi": "Hồ sơ MAGA gây tranh cãi chỉ đạo chỉ trích Trump"
-    },
-    {
-      "id": "https://nyheder.tv2.dk/samfund/2026-10-15-kvinde-med-opraab-til-genbrugsbutikker",
-      "source": "tv2",
-      "title": "Kvinde med opråb til genbrugsbutikker",
-      "url": "https://nyheder.tv2.dk/samfund/2026-10-15-kvinde-med-opraab-til-genbrugsbutikker",
-      "date": "15/10/2026",
-      "type": "Samfund",
-      "firstSeenAt": "2026-10-16T05:03:06.271Z",
-      "titleVi": "Người phụ nữ thu hút các cửa hàng tiết kiệm"
+      "id": "https://www.kungahuset.se/arkiv/nyheter/2026-10-16-drottningen-pa-goteborgs-universitet",
+      "source": "kungahuset",
+      "title": "Drottningen på Göteborgs universitet",
+      "url": "https://www.kungahuset.se/arkiv/nyheter/2026-10-16-drottningen-pa-goteborgs-universitet",
+      "date": "16 oktober 2026",
+      "publishedAt": "2026-10-16T16:36:20+02:00",
+      "type": "Nyheter",
+      "firstSeenAt": "2026-10-16T18:23:19.531Z",
+      "titleVi": "Nữ hoàng tại Đại học Gothenburg"
     },
     {
       "id": "https://www.kungahuset.se/arkiv/nyheter/2026-10-15-kungen-gav-hogtidliga-audienser",
@@ -1021,17 +1032,6 @@
       "titleVi": "Nhà vua tại Hội thảo Lãnh đạo trẻ"
     },
     {
-      "id": "https://www.kungahuset.se/arkiv/nyheter/2026-10-02-mote-i-utrikesnamnden",
-      "source": "kungahuset",
-      "title": "Möte i Utrikesnämnden",
-      "url": "https://www.kungahuset.se/arkiv/nyheter/2026-10-02-mote-i-utrikesnamnden",
-      "date": "2 oktober 2026",
-      "publishedAt": "2026-10-02T10:30:00+02:00",
-      "type": "Nyheter",
-      "firstSeenAt": "2026-10-02T16:22:25.026Z",
-      "titleVi": "Cuộc họp của Hội đồng tư vấn đối ngoại"
-    },
-    {
       "id": "https://www.svenskdam.se/kungligt/har-ovar-victoria-pa-att-radda-liv-jag-ar-lite-tagen/11663629",
       "source": "svenskdam",
       "title": "Här övar Victoria på att rädda liv: ”Jag är lite tagen”",
@@ -1054,6 +1054,17 @@
       "titleVi": "Đêm tiệc quyến rũ của Victoria - những hình ảnh từ bên trong"
     },
     {
+      "id": "https://www.svenskdam.se/kungligt/sa-mycket-tjanar-jan-bjorklund-fatt-toppvaning-av-kungen/11662733",
+      "source": "svenskdam",
+      "title": "Så mycket tjänar Jan Björklund – fått toppvåning av kungen",
+      "url": "https://www.svenskdam.se/kungligt/sa-mycket-tjanar-jan-bjorklund-fatt-toppvaning-av-kungen/11662733",
+      "date": "16/10/2026",
+      "publishedAt": "2026-10-16T16:00:00+02:00",
+      "type": "Kungligt",
+      "firstSeenAt": "2026-10-16T14:35:16.040Z",
+      "titleVi": "Đây là số tiền Jan Björklund kiếm được – do nhà vua nhận được ở tầng trên cùng"
+    },
+    {
       "id": "https://www.svenskdam.se/kungligt/trista-beskedet-om-drottning-silvia-82-foljer-inte-med-pa-resan/11663904",
       "source": "svenskdam",
       "title": "Sorgliga beskedet om drottning Silvia, 82 – missar stora festen",
@@ -1063,17 +1074,6 @@
       "type": "Kungligt",
       "firstSeenAt": "2026-10-16T14:35:16.040Z",
       "titleVi": "Tin buồn về Nữ hoàng Silvia, 82 tuổi – bỏ lỡ bữa tiệc lớn"
-    },
-    {
-      "id": "https://www.svenskdam.se/kungligt/nu-avslojas-sanningen-om-eva-oneills-alder-som-morkats-i-alla-ar/11662352",
-      "source": "svenskdam",
-      "title": "Dokumentet avslöjar: Sanningen om Eva O'Neills ålder som dolts i alla år",
-      "url": "https://www.svenskdam.se/kungligt/nu-avslojas-sanningen-om-eva-oneills-alder-som-morkats-i-alla-ar/11662352",
-      "date": "15/10/2026",
-      "publishedAt": "2026-10-15T18:00:00+02:00",
-      "type": "Kungligt",
-      "firstSeenAt": "2026-10-15T19:07:52.014Z",
-      "titleVi": "Tài liệu tiết lộ: Sự thật về tuổi của Eva O'Neill đã bị che giấu trong suốt những năm qua"
     },
     {
       "id": "https://www.svenskdam.se/kungligt/efter-prinsessan-madeleines-tunga-motgang-hittade-lyckan-med-chris-oneill/11563998",
@@ -1087,26 +1087,26 @@
       "titleVi": "Sau thất bại nặng nề của Công chúa Madeleine: Tìm thấy hạnh phúc bên Chris O'Neill"
     },
     {
-      "id": "https://www.svenskdam.se/kungligt/sa-mycket-tjanar-jan-bjorklund-fatt-toppvaning-av-kungen/11662733",
+      "id": "https://www.svenskdam.se/kungligt/nya-bilden-pa-drottning-mette-marit-far-alla-att-reagera/11664216",
       "source": "svenskdam",
-      "title": "Så mycket tjänar Jan Björklund – fått toppvåning av kungen",
-      "url": "https://www.svenskdam.se/kungligt/sa-mycket-tjanar-jan-bjorklund-fatt-toppvaning-av-kungen/11662733",
+      "title": "Nya bilden på drottning Mette-Marit – får alla att reagera",
+      "url": "https://www.svenskdam.se/kungligt/nya-bilden-pa-drottning-mette-marit-far-alla-att-reagera/11664216",
       "date": "16/10/2026",
-      "publishedAt": "2026-10-16T16:00:00+02:00",
+      "publishedAt": "2026-10-16T20:00:00+02:00",
       "type": "Kungligt",
-      "firstSeenAt": "2026-10-16T14:35:16.040Z",
-      "titleVi": "Đây là số tiền Jan Björklund kiếm được – do nhà vua nhận được ở tầng trên cùng"
+      "firstSeenAt": "2026-10-16T18:23:19.531Z",
+      "titleVi": "Hình ảnh mới của Nữ hoàng Mette-Marit – khiến ai cũng phản ứng"
     },
     {
-      "id": "https://www.svenskdam.se/noje/tv4-stjarnan-bekraftar-relationen-visar-upp-hemliga-pojkvannen/11664892",
+      "id": "https://www.svenskdam.se/noje/carolas-brandskrack-i-hemmet-glomde-maten-pa-spisen-utrymma-i-pyjamas/11664412",
       "source": "svenskdam",
-      "title": "TV4-stjärnan bekräftar relationen – visar upp hemliga pojkvännen",
-      "url": "https://www.svenskdam.se/noje/tv4-stjarnan-bekraftar-relationen-visar-upp-hemliga-pojkvannen/11664892",
+      "title": "Carolas brandskräck i hemmet – glömde maten på spisen: \"Utrymma\"",
+      "url": "https://www.svenskdam.se/noje/carolas-brandskrack-i-hemmet-glomde-maten-pa-spisen-utrymma-i-pyjamas/11664412",
       "date": "16/10/2026",
-      "publishedAt": "2026-10-16T15:42:26+02:00",
+      "publishedAt": "2026-10-16T19:00:00+02:00",
       "type": "Nöje",
-      "firstSeenAt": "2026-10-16T14:35:16.040Z",
-      "titleVi": "Ngôi sao TV4 xác nhận mối quan hệ – khoe bạn trai bí mật"
+      "firstSeenAt": "2026-10-16T18:23:19.531Z",
+      "titleVi": "Carola sợ cháy nhà – quên đồ ăn trên bếp: “Di tản”"
     },
     {
       "id": "https://www.svenskdam.se/kungligt/chockbeskedet-han-pastar-sig-vara-charles-och-camillas-okande-son-skrammande-lik/7893722",
@@ -1129,6 +1129,50 @@
       "type": "Creative studio",
       "firstSeenAt": "2026-10-08T13:30:06.955Z",
       "titleVi": "Nó bắt đầu khi đang tắm: Đưa thói quen cơ thể của bạn lên một tầm cao mới"
+    },
+    {
+      "id": "https://www.svenskdam.se/kungligt/harry-och-meghan-pahoppade-efter-flytten-anklagas-for-bluff/11664100",
+      "source": "svenskdam",
+      "title": "Harry och Meghan påhoppade efter flytten – anklagas för bluff",
+      "url": "https://www.svenskdam.se/kungligt/harry-och-meghan-pahoppade-efter-flytten-anklagas-for-bluff/11664100",
+      "date": "16/10/2026",
+      "publishedAt": "2026-10-16T18:00:00+02:00",
+      "type": "Kungligt",
+      "firstSeenAt": "2026-10-16T18:23:19.531Z",
+      "titleVi": "Harry và Meghan vồ lấy sau khi chuyển đi - bị buộc tội lừa đảo"
+    },
+    {
+      "id": "https://www.svenskdam.se/noje/babbens-trakiga-ord-om-kollegan-har-ingen-relation/11664022",
+      "source": "svenskdam",
+      "title": "Babbens tråkiga ord om kollegan: ”Har ingen relation”",
+      "url": "https://www.svenskdam.se/noje/babbens-trakiga-ord-om-kollegan-har-ingen-relation/11664022",
+      "date": "16/10/2026",
+      "publishedAt": "2026-10-16T17:30:00+02:00",
+      "type": "Nöje",
+      "firstSeenAt": "2026-10-16T18:23:19.531Z",
+      "titleVi": "Những lời nói nhàm chán của Babben về đồng nghiệp: “Không có quan hệ gì”"
+    },
+    {
+      "id": "https://www.svenskdam.se/noje/pernilla-wahlgren-58-valjer-att-beratta-lagt-sig-pa-operationsbordet/11663883",
+      "source": "svenskdam",
+      "title": "Pernilla Wahlgren, 58, väljer att berätta – lagt sig på operationsbordet",
+      "url": "https://www.svenskdam.se/noje/pernilla-wahlgren-58-valjer-att-beratta-lagt-sig-pa-operationsbordet/11663883",
+      "date": "16/10/2026",
+      "publishedAt": "2026-10-16T17:00:00+02:00",
+      "type": "Nöje",
+      "firstSeenAt": "2026-10-16T18:23:19.531Z",
+      "titleVi": "Pernilla Wahlgren, 58 tuổi, chọn cách kể - nằm trên bàn mổ"
+    },
+    {
+      "id": "https://www.svenskdam.se/noje/tv4-stjarnan-bekraftar-relationen-visar-upp-hemliga-pojkvannen/11664892",
+      "source": "svenskdam",
+      "title": "TV4-stjärnan bekräftar relationen – visar upp hemliga pojkvännen",
+      "url": "https://www.svenskdam.se/noje/tv4-stjarnan-bekraftar-relationen-visar-upp-hemliga-pojkvannen/11664892",
+      "date": "16/10/2026",
+      "publishedAt": "2026-10-16T15:42:26+02:00",
+      "type": "Nöje",
+      "firstSeenAt": "2026-10-16T14:35:16.040Z",
+      "titleVi": "Ngôi sao TV4 xác nhận mối quan hệ – khoe bạn trai bí mật"
     },
     {
       "id": "https://www.svenskdam.se/noje/frida-karlsson-bekraftar-nyheten-kring-pojkvannen-har-tvingats-bryta/11664007",
@@ -1263,50 +1307,6 @@
       "titleVi": "Thông điệp mới của Anders Pihlblad trong mối quan hệ - khiến người theo dõi phản ứng"
     },
     {
-      "id": "https://www.svenskdam.se/noje/pernilla-wahlgrens-skilsmassa-splittrar-familjen-bianca-i-tarar/11662481",
-      "source": "svenskdam",
-      "title": "Pernilla Wahlgrens skilsmässa splittrar familjen – Bianca i tårar",
-      "url": "https://www.svenskdam.se/noje/pernilla-wahlgrens-skilsmassa-splittrar-familjen-bianca-i-tarar/11662481",
-      "date": "15/10/2026",
-      "publishedAt": "2026-10-15T21:00:00+02:00",
-      "type": "Nöje",
-      "firstSeenAt": "2026-10-15T19:07:52.014Z",
-      "titleVi": "Vụ ly hôn của Pernilla Wahlgren chia rẽ gia đình – Bianca rơi nước mắt"
-    },
-    {
-      "id": "https://www.svenskdam.se/kungligt/silvias-rorande-ord-om-dolda-kampen-saknar-stod/11662770",
-      "source": "svenskdam",
-      "title": "Silvias rörande ord om dolda kampen: “Saknar stöd”",
-      "url": "https://www.svenskdam.se/kungligt/silvias-rorande-ord-om-dolda-kampen-saknar-stod/11662770",
-      "date": "15/10/2026",
-      "publishedAt": "2026-10-15T20:00:00+02:00",
-      "type": "Kungligt",
-      "firstSeenAt": "2026-10-15T19:07:52.014Z",
-      "titleVi": "Những lời cảm động của Silvia về cuộc đấu tranh tiềm ẩn: \"Thiếu sự hỗ trợ\""
-    },
-    {
-      "id": "https://www.svenskdam.se/noje/anna-brolin-46-har-hittat-lyckan-med-tv4-kollegan-mitt-lyckopiller/11662582",
-      "source": "svenskdam",
-      "title": "Anna Brolin har hittat lyckan – med TV4-kollegan: \"Mitt lyckopiller\"",
-      "url": "https://www.svenskdam.se/noje/anna-brolin-46-har-hittat-lyckan-med-tv4-kollegan-mitt-lyckopiller/11662582",
-      "date": "15/10/2026",
-      "publishedAt": "2026-10-15T19:00:00+02:00",
-      "type": "Nöje",
-      "firstSeenAt": "2026-10-15T19:07:52.014Z",
-      "titleVi": "Anna Brolin đã tìm thấy hạnh phúc – với đồng nghiệp TV4 của mình: \"Viên thuốc hạnh phúc của tôi\""
-    },
-    {
-      "id": "https://www.svenskdam.se/noje/felix-herngren-syns-med-ny-partner-som-vi-kanner-igen/11662329",
-      "source": "svenskdam",
-      "title": "Felix Herngren syns med ny partner – som vi känner igen",
-      "url": "https://www.svenskdam.se/noje/felix-herngren-syns-med-ny-partner-som-vi-kanner-igen/11662329",
-      "date": "15/10/2026",
-      "publishedAt": "2026-10-15T17:00:00+02:00",
-      "type": "Nöje",
-      "firstSeenAt": "2026-10-15T15:01:11.930Z",
-      "titleVi": "Felix Herngren có thể nhìn thấy với một đối tác mới – người mà chúng tôi nhận ra"
-    },
-    {
       "id": "https://www.svenskdam.se/kungligt/prinsessan-madeleine-lamnar-hovstallet-reser-ifran-landet/11661973",
       "source": "svenskdam",
       "title": "Bekräftat: Prinsessan Madeleine lämnar Sverige igen",
@@ -1351,48 +1351,48 @@
       "titleVi": "Niềm vui của Peter Forsberg – khoe bạn đời mới: \"Một giấc mơ\""
     },
     {
-      "id": "https://www.svenskdam.se/kungligt/nya-bilder-pa-kronprinsen-forandringen-ar-tydlig-wow/11661747",
+      "id": "https://www.svenskdam.se/noje/pernilla-wahlgrens-skilsmassa-splittrar-familjen-bianca-i-tarar/11662481",
       "source": "svenskdam",
-      "title": "Nya bilder på kronprinsen – förändringen är tydlig: \"Wow\"",
-      "url": "https://www.svenskdam.se/kungligt/nya-bilder-pa-kronprinsen-forandringen-ar-tydlig-wow/11661747",
+      "title": "Pernilla Wahlgrens skilsmässa splittrar familjen – Bianca i tårar",
+      "url": "https://www.svenskdam.se/noje/pernilla-wahlgrens-skilsmassa-splittrar-familjen-bianca-i-tarar/11662481",
       "date": "15/10/2026",
-      "publishedAt": "2026-10-15T16:00:00+02:00",
-      "type": "Kungligt",
-      "firstSeenAt": "2026-10-15T15:01:11.930Z",
-      "titleVi": "Hình ảnh mới của Thái tử – sự thay đổi rất rõ ràng: \"Wow\""
-    },
-    {
-      "id": "https://www.svenskdam.se/noje/vader-maddes-omtalade-outfit-i-sandning-tittarna-reagerar-starkt/11662127",
-      "source": "svenskdam",
-      "title": "Väder-Maddes outfit på TV4 väcker reaktioner – måste förklara sig",
-      "url": "https://www.svenskdam.se/noje/vader-maddes-omtalade-outfit-i-sandning-tittarna-reagerar-starkt/11662127",
-      "date": "15/10/2026",
-      "publishedAt": "2026-10-15T15:00:00+02:00",
+      "publishedAt": "2026-10-15T21:00:00+02:00",
       "type": "Nöje",
-      "firstSeenAt": "2026-10-15T15:01:11.930Z",
-      "titleVi": "Trang phục của Weather-Madde trên TV4 gây ra phản ứng – phải giải thích"
+      "firstSeenAt": "2026-10-15T19:07:52.014Z",
+      "titleVi": "Vụ ly hôn của Pernilla Wahlgren chia rẽ gia đình – Bianca rơi nước mắt"
     },
     {
-      "id": "https://www.svenskdam.se/kungligt/pinsamma-missen-i-nya-tv-serien-om-silvia-och-kungen-se-bilderna/11662194",
+      "id": "https://www.svenskdam.se/kungligt/silvias-rorande-ord-om-dolda-kampen-saknar-stod/11662770",
       "source": "svenskdam",
-      "title": "Pinsamma missen i nya tv-serien om Silvia och kungen – se bilderna",
-      "url": "https://www.svenskdam.se/kungligt/pinsamma-missen-i-nya-tv-serien-om-silvia-och-kungen-se-bilderna/11662194",
+      "title": "Silvias rörande ord om dolda kampen: “Saknar stöd”",
+      "url": "https://www.svenskdam.se/kungligt/silvias-rorande-ord-om-dolda-kampen-saknar-stod/11662770",
       "date": "15/10/2026",
-      "publishedAt": "2026-10-15T14:00:00+02:00",
+      "publishedAt": "2026-10-15T20:00:00+02:00",
       "type": "Kungligt",
-      "firstSeenAt": "2026-10-15T15:01:11.930Z",
-      "titleVi": "Lúng túng trước sự bỏ lỡ trong loạt phim truyền hình mới về Silvia và Nhà vua – xem hình ảnh"
+      "firstSeenAt": "2026-10-15T19:07:52.014Z",
+      "titleVi": "Những lời cảm động của Silvia về cuộc đấu tranh tiềm ẩn: \"Thiếu sự hỗ trợ\""
     },
     {
-      "id": "https://www.svenskdam.se/noje/stefan-ekengrens-mardrom-varsta-som-kan-handa-i-ett-kok/11658914",
+      "id": "https://www.svenskdam.se/noje/anna-brolin-46-har-hittat-lyckan-med-tv4-kollegan-mitt-lyckopiller/11662582",
       "source": "svenskdam",
-      "title": "Stefan Ekengrens mardröm: ”Värsta som kan hända i ett kök”",
-      "url": "https://www.svenskdam.se/noje/stefan-ekengrens-mardrom-varsta-som-kan-handa-i-ett-kok/11658914",
+      "title": "Anna Brolin har hittat lyckan – med TV4-kollegan: \"Mitt lyckopiller\"",
+      "url": "https://www.svenskdam.se/noje/anna-brolin-46-har-hittat-lyckan-med-tv4-kollegan-mitt-lyckopiller/11662582",
       "date": "15/10/2026",
-      "publishedAt": "2026-10-15T13:00:00+02:00",
+      "publishedAt": "2026-10-15T19:00:00+02:00",
       "type": "Nöje",
-      "firstSeenAt": "2026-10-15T15:01:11.930Z",
-      "titleVi": "Ác mộng của Stefan Ekengren: \"Điều tồi tệ nhất có thể xảy ra trong nhà bếp\""
+      "firstSeenAt": "2026-10-15T19:07:52.014Z",
+      "titleVi": "Anna Brolin đã tìm thấy hạnh phúc – với đồng nghiệp TV4 của mình: \"Viên thuốc hạnh phúc của tôi\""
+    },
+    {
+      "id": "https://www.svenskdam.se/kungligt/nu-avslojas-sanningen-om-eva-oneills-alder-som-morkats-i-alla-ar/11662352",
+      "source": "svenskdam",
+      "title": "Dokumentet avslöjar: Sanningen om Eva O'Neills ålder som dolts i alla år",
+      "url": "https://www.svenskdam.se/kungligt/nu-avslojas-sanningen-om-eva-oneills-alder-som-morkats-i-alla-ar/11662352",
+      "date": "15/10/2026",
+      "publishedAt": "2026-10-15T18:00:00+02:00",
+      "type": "Kungligt",
+      "firstSeenAt": "2026-10-15T19:07:52.014Z",
+      "titleVi": "Tài liệu tiết lộ: Sự thật về tuổi của Eva O'Neill đã bị che giấu trong suốt những năm qua"
     },
     {
       "id": "https://www.kongehuset.no/nyheter/krukker-av-dronning-sonja-ved-kunststallen",
