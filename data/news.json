@@ -1,6 +1,6 @@
 {
   "monitoringStartedAt": "2026-09-28T00:17:35.319Z",
-  "updatedAt": "2026-10-17T12:06:41.731Z",
+  "updatedAt": "2026-10-17T15:35:14.449Z",
   "sources": {
     "kongehuset": {
       "name": "Kongehuset",
@@ -57,9 +57,9 @@
       "language": "no",
       "monitoringStartedAt": "2026-10-01T16:30:06.936Z",
       "status": {
-        "state": "error",
-        "message": "The Norwegian Royal House Atom feed returned no entries",
-        "changedAt": "2026-10-17T12:06:41.731Z"
+        "state": "ok",
+        "message": "",
+        "changedAt": "2026-10-17T15:35:14.449Z"
       }
     }
   },
@@ -71,6 +71,16 @@
     }
   },
   "articles": [
+    {
+      "id": "https://www.kongehuset.dk/foto-video/h-k-h-kronprinsen-deltog-i-benjamins-verden",
+      "source": "kongehuset",
+      "title": "H.K.H. Kronprinsen deltog i 'Benjamins Verden'",
+      "url": "https://www.kongehuset.dk/foto-video/h-k-h-kronprinsen-deltog-i-benjamins-verden",
+      "date": "17. oktober 2026",
+      "type": "Galleri",
+      "firstSeenAt": "2026-10-17T15:35:14.449Z",
+      "titleVi": "H.K.H. Thái tử tham gia 'Thế giới của Benjamin'"
+    },
     {
       "id": "https://www.kongehuset.dk/nyheder/kongehusets-officielle-jagter-2026",
       "source": "kongehuset",
@@ -512,14 +522,24 @@
       "titleVi": "HM Nữ hoàng đã đến thăm Bệnh viện Mary Elizabeth"
     },
     {
-      "id": "https://www.kongehuset.dk/foto-video/kommende-nyt-portraet-af-h-m-kongen",
-      "source": "kongehuset",
-      "title": "Kommende nyt portræt af H.M. Kongen",
-      "url": "https://www.kongehuset.dk/foto-video/kommende-nyt-portraet-af-h-m-kongen",
-      "date": "3. september 2026",
-      "type": "Galleri",
-      "firstSeenAt": "2026-09-28T00:17:35.319Z",
-      "titleVi": "Bức chân dung mới sắp ra mắt của HM The King"
+      "id": "https://nyheder.tv2.dk/live/2024-09-08-seneste-nyt-om-krigen-i-ukraine-70b1d6cc-0720-404e-9878-45546e1999e7",
+      "source": "tv2",
+      "title": "Starlink virker i EU-lande – men ikke i Ukraine, siger Zelenskyj",
+      "url": "https://nyheder.tv2.dk/live/2024-09-08-seneste-nyt-om-krigen-i-ukraine-70b1d6cc-0720-404e-9878-45546e1999e7",
+      "date": "08/09/2024",
+      "type": "Live",
+      "firstSeenAt": "2026-09-28T00:30:42.330Z",
+      "titleVi": "Starlink hoạt động ở các nước EU - nhưng không phải ở Ukraine, Zelensky nói"
+    },
+    {
+      "id": "https://nyheder.tv2.dk/live/udland/2025-01-13-konflikten-i-israel-gaza-og-vestbredden",
+      "source": "tv2",
+      "title": "Europæiske diplomater angrebet af maskerede bosættere",
+      "url": "https://nyheder.tv2.dk/live/udland/2025-01-13-konflikten-i-israel-gaza-og-vestbredden",
+      "date": "13/01/2025",
+      "type": "Live",
+      "firstSeenAt": "2026-10-16T14:35:16.040Z",
+      "titleVi": "Các nhà ngoại giao châu Âu bị tấn công bởi những người định cư đeo mặt nạ"
     },
     {
       "id": "https://nyheder.tv2.dk/live/samfund/2026-10-17-demonstrationer-i-koebenhavn",
@@ -532,24 +552,44 @@
       "titleVi": "Thị trưởng lo ngại về cuộc biểu tình"
     },
     {
-      "id": "https://nyheder.tv2.dk/live/2024-09-08-seneste-nyt-om-krigen-i-ukraine-70b1d6cc-0720-404e-9878-45546e1999e7",
-      "source": "tv2",
-      "title": "Trump suspenderer sanktioner mod Rusland",
-      "url": "https://nyheder.tv2.dk/live/2024-09-08-seneste-nyt-om-krigen-i-ukraine-70b1d6cc-0720-404e-9878-45546e1999e7",
-      "date": "08/09/2024",
-      "type": "Live",
-      "firstSeenAt": "2026-09-28T00:30:42.330Z",
-      "titleVi": "Trump đình chỉ trừng phạt Nga"
-    },
-    {
       "id": "https://nyheder.tv2.dk/live/kort-nyt",
       "source": "tv2",
-      "title": "Fransk politi affyrer tåregas mod demonstranter",
+      "title": "Politiet \"bekymrede\" for forsvundet 87-årig mand",
       "url": "https://nyheder.tv2.dk/live/kort-nyt",
       "date": "—",
       "type": "Live",
       "firstSeenAt": "2026-09-28T00:30:42.330Z",
-      "titleVi": "Cảnh sát Pháp bắn hơi cay vào người biểu tình"
+      "titleVi": "Cảnh sát “lo lắng” về cụ ông 87 tuổi mất tích"
+    },
+    {
+      "id": "https://nyheder.tv2.dk/live/udland/2026-10-17-demonstrationer-i-frankrig",
+      "source": "tv2",
+      "title": "Demonstrationer skaber kaotiske tilstande i Frankrig",
+      "url": "https://nyheder.tv2.dk/live/udland/2026-10-17-demonstrationer-i-frankrig",
+      "date": "17/10/2026",
+      "type": "Live",
+      "firstSeenAt": "2026-10-17T15:35:14.449Z",
+      "titleVi": "Biểu tình gây hỗn loạn ở Pháp"
+    },
+    {
+      "id": "https://nyheder.tv2.dk/samfund/2026-10-17-mand-faldt-fem-meter-ned-da-stentrappe-pludselig-gav-efter",
+      "source": "tv2",
+      "title": "Mand faldt fem meter ned, da stentrappe pludselig gav efter",
+      "url": "https://nyheder.tv2.dk/samfund/2026-10-17-mand-faldt-fem-meter-ned-da-stentrappe-pludselig-gav-efter",
+      "date": "17/10/2026",
+      "type": "Samfund",
+      "firstSeenAt": "2026-10-17T15:35:14.449Z",
+      "titleVi": "Người đàn ông ngã 5 mét vì cầu thang đá bất ngờ nhường chỗ"
+    },
+    {
+      "id": "https://nyheder.tv2.dk/live/udland/2026-05-16-midtvejsvalg-i-usa",
+      "source": "tv2",
+      "title": "Pressesekretær holdt kun fire dage",
+      "url": "https://nyheder.tv2.dk/live/udland/2026-05-16-midtvejsvalg-i-usa",
+      "date": "16/05/2026",
+      "type": "Live",
+      "firstSeenAt": "2026-10-16T21:32:07.430Z",
+      "titleVi": "Thư ký báo chí chỉ làm việc được bốn ngày"
     },
     {
       "id": "https://nyheder.tv2.dk/samfund/2026-10-17-usaedvanligt-interview-med-kronprinsen-jeg-gider-ikke-haemmes-af-at-jeg-er-mig",
@@ -590,16 +630,6 @@
       "type": "Krimi",
       "firstSeenAt": "2026-10-17T12:06:41.731Z",
       "titleVi": "Người đàn ông Đan Mạch toan tính bị bạn gái bắt cóc"
-    },
-    {
-      "id": "https://nyheder.tv2.dk/live/udland/2026-05-16-midtvejsvalg-i-usa",
-      "source": "tv2",
-      "title": "Pressesekretær holdt kun fire dage",
-      "url": "https://nyheder.tv2.dk/live/udland/2026-05-16-midtvejsvalg-i-usa",
-      "date": "16/05/2026",
-      "type": "Live",
-      "firstSeenAt": "2026-10-16T21:32:07.430Z",
-      "titleVi": "Thư ký báo chí chỉ làm việc được bốn ngày"
     },
     {
       "id": "https://nyheder.tv2.dk/samfund/2026-10-17-boern-kan-ikke-komme-til-de-voksne-tager-det-hele",
@@ -780,36 +810,6 @@
       "type": "Udland",
       "firstSeenAt": "2026-10-16T21:32:07.430Z",
       "titleVi": "Trump sa thải thư ký báo chí mới sau vài ngày, báo cáo phương tiện truyền thông"
-    },
-    {
-      "id": "https://nyheder.tv2.dk/samfund/2026-10-16-lovede-stort-show-boern-gik-graedende-derfra",
-      "source": "tv2",
-      "title": "Lovede stort show: Børn gik grædende derfra",
-      "url": "https://nyheder.tv2.dk/samfund/2026-10-16-lovede-stort-show-boern-gik-graedende-derfra",
-      "date": "16/10/2026",
-      "type": "Samfund",
-      "firstSeenAt": "2026-10-16T14:35:16.040Z",
-      "titleVi": "Chương trình lớn hứa hẹn: Trẻ em bỏ đi khóc"
-    },
-    {
-      "id": "https://nyheder.tv2.dk/live/udland/2025-01-13-konflikten-i-israel-gaza-og-vestbredden",
-      "source": "tv2",
-      "title": "Fotojournalist overfaldet af bosættere",
-      "url": "https://nyheder.tv2.dk/live/udland/2025-01-13-konflikten-i-israel-gaza-og-vestbredden",
-      "date": "13/01/2025",
-      "type": "Live",
-      "firstSeenAt": "2026-10-16T14:35:16.040Z",
-      "titleVi": "Phóng viên ảnh bị người định cư tấn công"
-    },
-    {
-      "id": "https://nyheder.tv2.dk/live/trafik/2026-10-13-togkaos-i-danmark",
-      "source": "tv2",
-      "title": "Markant færre tog kommer til tiden",
-      "url": "https://nyheder.tv2.dk/live/trafik/2026-10-13-togkaos-i-danmark",
-      "date": "13/10/2026",
-      "type": "Live",
-      "firstSeenAt": "2026-10-16T09:49:56.064Z",
-      "titleVi": "Số chuyến tàu đến đúng giờ ít hơn đáng kể"
     },
     {
       "id": "https://www.kungahuset.se/arkiv/nyheter/2026-10-17-prinsessan-sofia-vid-sophiahemmet-hogskolas-examenshogtid",
@@ -1032,6 +1032,28 @@
       "titleVi": "Nhà vua đã có buổi tiếp kiến với Diễn giả"
     },
     {
+      "id": "https://www.svenskdam.se/kungligt/lyckan-for-prinsessan-leonore-far-precis-som-hon-vill/11665393",
+      "source": "svenskdam",
+      "title": "Lyckan för prinsessan Leonore – får precis som hon vill i höst!",
+      "url": "https://www.svenskdam.se/kungligt/lyckan-for-prinsessan-leonore-far-precis-som-hon-vill/11665393",
+      "date": "17/10/2026",
+      "publishedAt": "2026-10-17T13:00:00+02:00",
+      "type": "Kungligt",
+      "firstSeenAt": "2026-10-17T12:06:41.731Z",
+      "titleVi": "Hạnh phúc dành cho Công chúa Leonore - đạt được chính xác những gì cô ấy muốn vào mùa thu này!"
+    },
+    {
+      "id": "https://www.svenskdam.se/kungligt/prinsessan-sofia-visar-upp-nya-lyxkopet-for-26-000-kronor/11665139",
+      "source": "svenskdam",
+      "title": "Prinsessan Sofia visar upp nya lyxköpet – för 26 000 kronor!",
+      "url": "https://www.svenskdam.se/kungligt/prinsessan-sofia-visar-upp-nya-lyxkopet-for-26-000-kronor/11665139",
+      "date": "17/10/2026",
+      "publishedAt": "2026-10-17T11:00:00+02:00",
+      "type": "Kungligt",
+      "firstSeenAt": "2026-10-17T12:06:41.731Z",
+      "titleVi": "Công chúa Sofia khoe món hàng xa xỉ mới mua - với giá 26.000 SEK!"
+    },
+    {
       "id": "https://www.svenskdam.se/kungligt/har-ovar-victoria-pa-att-radda-liv-jag-ar-lite-tagen/11663629",
       "source": "svenskdam",
       "title": "Här övar Victoria på att rädda liv: ”Jag är lite tagen”",
@@ -1087,26 +1109,26 @@
       "titleVi": "Sau thất bại nặng nề của Công chúa Madeleine: Tìm thấy hạnh phúc bên Chris O'Neill"
     },
     {
-      "id": "https://www.svenskdam.se/noje/trisskraparen-far-inte-behalla-vinsten-trodde-att-det-var-ett-prank/11664667",
+      "id": "https://www.svenskdam.se/noje/babben-larsson-har-nytt-jobb-efter-alla-ar-i-rutan-ar-en/11664110",
       "source": "svenskdam",
-      "title": "Trisskraparen får inte behålla vinsten: \"Trodde att det var ett prank\"",
-      "url": "https://www.svenskdam.se/noje/trisskraparen-far-inte-behalla-vinsten-trodde-att-det-var-ett-prank/11664667",
+      "title": "Babben Larsson har nytt jobb – efter alla år i rutan: ”Är en...”",
+      "url": "https://www.svenskdam.se/noje/babben-larsson-har-nytt-jobb-efter-alla-ar-i-rutan-ar-en/11664110",
       "date": "17/10/2026",
-      "publishedAt": "2026-10-17T14:00:00+02:00",
+      "publishedAt": "2026-10-17T16:00:00+02:00",
       "type": "Nöje",
-      "firstSeenAt": "2026-10-17T12:06:41.731Z",
-      "titleVi": "Người cào tris không giữ được tiền thắng: \"Tưởng là trò đùa\""
+      "firstSeenAt": "2026-10-17T15:35:14.449Z",
+      "titleVi": "Babben Larsson có một công việc mới - sau ngần ấy năm sống trong hộp: \"Là một...\""
     },
     {
-      "id": "https://www.svenskdam.se/kungligt/lyckan-for-prinsessan-leonore-far-precis-som-hon-vill/11665393",
+      "id": "https://www.svenskdam.se/kungligt/prinsessan-sofias-gripande-ord-om-svara-situationen-hur-kan-jag/11665448",
       "source": "svenskdam",
-      "title": "Lyckan för prinsessan Leonore – får precis som hon vill i höst!",
-      "url": "https://www.svenskdam.se/kungligt/lyckan-for-prinsessan-leonore-far-precis-som-hon-vill/11665393",
+      "title": "Prinsessan Sofias gripande ord om svåra situationen \"Hur kan jag...\"",
+      "url": "https://www.svenskdam.se/kungligt/prinsessan-sofias-gripande-ord-om-svara-situationen-hur-kan-jag/11665448",
       "date": "17/10/2026",
-      "publishedAt": "2026-10-17T13:00:00+02:00",
+      "publishedAt": "2026-10-17T15:00:00+02:00",
       "type": "Kungligt",
-      "firstSeenAt": "2026-10-17T12:06:41.731Z",
-      "titleVi": "Hạnh phúc dành cho Công chúa Leonore - đạt được chính xác những gì cô ấy muốn vào mùa thu này!"
+      "firstSeenAt": "2026-10-17T15:35:14.449Z",
+      "titleVi": "Những lời thấm thía của Công chúa Sofia về hoàn cảnh khó khăn \"Làm sao tôi có thể...\""
     },
     {
       "id": "https://www.svenskdam.se/kungligt/chockbeskedet-han-pastar-sig-vara-charles-och-camillas-okande-son-skrammande-lik/7893722",
@@ -1131,15 +1153,15 @@
       "titleVi": "Nó bắt đầu khi đang tắm: Đưa thói quen cơ thể của bạn lên một tầm cao mới"
     },
     {
-      "id": "https://www.svenskdam.se/kungligt/prinsessan-sofia-visar-upp-nya-lyxkopet-for-26-000-kronor/11665139",
+      "id": "https://www.svenskdam.se/noje/trisskraparen-far-inte-behalla-vinsten-trodde-att-det-var-ett-prank/11664667",
       "source": "svenskdam",
-      "title": "Prinsessan Sofia visar upp nya lyxköpet – för 26 000 kronor!",
-      "url": "https://www.svenskdam.se/kungligt/prinsessan-sofia-visar-upp-nya-lyxkopet-for-26-000-kronor/11665139",
+      "title": "Trisskraparen får inte behålla vinsten: \"Trodde att det var ett prank\"",
+      "url": "https://www.svenskdam.se/noje/trisskraparen-far-inte-behalla-vinsten-trodde-att-det-var-ett-prank/11664667",
       "date": "17/10/2026",
-      "publishedAt": "2026-10-17T11:00:00+02:00",
-      "type": "Kungligt",
+      "publishedAt": "2026-10-17T14:00:00+02:00",
+      "type": "Nöje",
       "firstSeenAt": "2026-10-17T12:06:41.731Z",
-      "titleVi": "Công chúa Sofia khoe món hàng xa xỉ mới mua - với giá 26.000 SEK!"
+      "titleVi": "Người cào tris không giữ được tiền thắng: \"Tưởng là trò đùa\""
     },
     {
       "id": "https://www.svenskdam.se/noje/carina-bergfeldts-nya-besked-med-maken-jesper-mycket-fix/11663136",
