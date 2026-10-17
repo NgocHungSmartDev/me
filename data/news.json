@@ -1,6 +1,6 @@
 {
   "monitoringStartedAt": "2026-09-28T00:17:35.319Z",
-  "updatedAt": "2026-10-17T17:56:27.143Z",
+  "updatedAt": "2026-10-17T20:20:20.087Z",
   "sources": {
     "kongehuset": {
       "name": "Kongehuset",
@@ -57,9 +57,9 @@
       "language": "no",
       "monitoringStartedAt": "2026-10-01T16:30:06.936Z",
       "status": {
-        "state": "error",
-        "message": "The Norwegian Royal House Atom feed returned no entries",
-        "changedAt": "2026-10-17T17:56:27.143Z"
+        "state": "ok",
+        "message": "",
+        "changedAt": "2026-10-17T20:20:20.087Z"
       }
     }
   },
@@ -524,12 +524,32 @@
     {
       "id": "https://nyheder.tv2.dk/live/kort-nyt",
       "source": "tv2",
-      "title": "Verdensberømt forfatter vinder litteraturpris under falsk navn",
+      "title": "Danmark udvandrede fra møde under russisk tale",
       "url": "https://nyheder.tv2.dk/live/kort-nyt",
       "date": "—",
       "type": "Live",
       "firstSeenAt": "2026-09-28T00:30:42.330Z",
-      "titleVi": "Tác giả nổi tiếng thế giới giành giải thưởng văn học dưới tên giả"
+      "titleVi": "Đan Mạch di cư khỏi cuộc họp dưới bài phát biểu của Nga"
+    },
+    {
+      "id": "https://nyheder.tv2.dk/live/2024-09-08-seneste-nyt-om-krigen-i-ukraine-70b1d6cc-0720-404e-9878-45546e1999e7",
+      "source": "tv2",
+      "title": "Starlink virker i EU-lande – men ikke i Ukraine, siger Zelenskyj",
+      "url": "https://nyheder.tv2.dk/live/2024-09-08-seneste-nyt-om-krigen-i-ukraine-70b1d6cc-0720-404e-9878-45546e1999e7",
+      "date": "08/09/2024",
+      "type": "Live",
+      "firstSeenAt": "2026-09-28T00:30:42.330Z",
+      "titleVi": "Starlink hoạt động ở các nước EU - nhưng không phải ở Ukraine, Zelensky nói"
+    },
+    {
+      "id": "https://nyheder.tv2.dk/live/samfund/2026-10-17-demonstrationer-i-koebenhavn",
+      "source": "tv2",
+      "title": "Overborgmester bekymret over demonstration",
+      "url": "https://nyheder.tv2.dk/live/samfund/2026-10-17-demonstrationer-i-koebenhavn",
+      "date": "17/10/2026",
+      "type": "Live",
+      "firstSeenAt": "2026-10-17T12:06:41.731Z",
+      "titleVi": "Thị trưởng lo ngại về cuộc biểu tình"
     },
     {
       "id": "https://nyheder.tv2.dk/live/udland/2026-10-17-demonstrationer-i-frankrig",
@@ -550,26 +570,6 @@
       "type": "Udland",
       "firstSeenAt": "2026-10-17T17:56:27.143Z",
       "titleVi": "Anh ấy được yêu thích ở quê nhà – bây giờ \"Trump yêu thích\" có được ngón tay khi anh ấy lái xe qua"
-    },
-    {
-      "id": "https://nyheder.tv2.dk/live/samfund/2026-10-17-demonstrationer-i-koebenhavn",
-      "source": "tv2",
-      "title": "Overborgmester bekymret over demonstration",
-      "url": "https://nyheder.tv2.dk/live/samfund/2026-10-17-demonstrationer-i-koebenhavn",
-      "date": "17/10/2026",
-      "type": "Live",
-      "firstSeenAt": "2026-10-17T12:06:41.731Z",
-      "titleVi": "Thị trưởng lo ngại về cuộc biểu tình"
-    },
-    {
-      "id": "https://nyheder.tv2.dk/live/2024-09-08-seneste-nyt-om-krigen-i-ukraine-70b1d6cc-0720-404e-9878-45546e1999e7",
-      "source": "tv2",
-      "title": "Starlink virker i EU-lande – men ikke i Ukraine, siger Zelenskyj",
-      "url": "https://nyheder.tv2.dk/live/2024-09-08-seneste-nyt-om-krigen-i-ukraine-70b1d6cc-0720-404e-9878-45546e1999e7",
-      "date": "08/09/2024",
-      "type": "Live",
-      "firstSeenAt": "2026-09-28T00:30:42.330Z",
-      "titleVi": "Starlink hoạt động ở các nước EU - nhưng không phải ở Ukraine, Zelensky nói"
     },
     {
       "id": "https://nyheder.tv2.dk/live/udland/2025-01-13-konflikten-i-israel-gaza-og-vestbredden",
@@ -1109,6 +1109,17 @@
       "titleVi": "Sau thất bại nặng nề của Công chúa Madeleine: Tìm thấy hạnh phúc bên Chris O'Neill"
     },
     {
+      "id": "https://www.svenskdam.se/noje/anders-pihlblads-ovantade-overraskning-till-maken-henrik-far-alla-att-reagera/11664885",
+      "source": "svenskdam",
+      "title": "Anders Pihlblads oväntade överraskning till maken Henrik – får alla att reagera",
+      "url": "https://www.svenskdam.se/noje/anders-pihlblads-ovantade-overraskning-till-maken-henrik-far-alla-att-reagera/11664885",
+      "date": "17/10/2026",
+      "publishedAt": "2026-10-17T20:00:00+02:00",
+      "type": "Nöje",
+      "firstSeenAt": "2026-10-17T20:20:20.087Z",
+      "titleVi": "Điều bất ngờ của Anders Pihlblad dành cho chồng Henrik – khiến ai cũng phản ứng"
+    },
+    {
       "id": "https://www.svenskdam.se/kungligt/leah-behns-hyllning-till-pappan-i-tv-rorande-orden-till-dig-pappa/11665680",
       "source": "svenskdam",
       "title": "Leah Behns hyllning till pappan i tv – rörande orden: \"Till dig pappa\"",
@@ -1118,17 +1129,6 @@
       "type": "Kungligt",
       "firstSeenAt": "2026-10-17T17:56:27.143Z",
       "titleVi": "Lời tri ân của Leah Behn dành cho người cha trên TV – liên quan đến những từ: \"Gửi cha\""
-    },
-    {
-      "id": "https://www.svenskdam.se/kungligt/prins-christians-hemliga-fest-som-hovet-inte-vill-uttala-sig-om/11664400",
-      "source": "svenskdam",
-      "title": "Prins Christians hemliga fest – som hovet inte vill uttala sig om",
-      "url": "https://www.svenskdam.se/kungligt/prins-christians-hemliga-fest-som-hovet-inte-vill-uttala-sig-om/11664400",
-      "date": "17/10/2026",
-      "publishedAt": "2026-10-17T19:00:00+02:00",
-      "type": "Kungligt",
-      "firstSeenAt": "2026-10-17T17:56:27.143Z",
-      "titleVi": "Bữa tiệc bí mật của Hoàng tử Christian – mà tòa án không muốn bình luận về"
     },
     {
       "id": "https://www.svenskdam.se/kungligt/chockbeskedet-han-pastar-sig-vara-charles-och-camillas-okande-son-skrammande-lik/7893722",
@@ -1151,6 +1151,17 @@
       "type": "Creative studio",
       "firstSeenAt": "2026-10-08T13:30:06.955Z",
       "titleVi": "Nó bắt đầu khi đang tắm: Đưa thói quen cơ thể của bạn lên một tầm cao mới"
+    },
+    {
+      "id": "https://www.svenskdam.se/kungligt/prins-christians-hemliga-fest-som-hovet-inte-vill-uttala-sig-om/11664400",
+      "source": "svenskdam",
+      "title": "Prins Christians hemliga fest – som hovet inte vill uttala sig om",
+      "url": "https://www.svenskdam.se/kungligt/prins-christians-hemliga-fest-som-hovet-inte-vill-uttala-sig-om/11664400",
+      "date": "17/10/2026",
+      "publishedAt": "2026-10-17T19:00:00+02:00",
+      "type": "Kungligt",
+      "firstSeenAt": "2026-10-17T17:56:27.143Z",
+      "titleVi": "Bữa tiệc bí mật của Hoàng tử Christian – mà tòa án không muốn bình luận về"
     },
     {
       "id": "https://www.svenskdam.se/noje/christina-schollin-tvingas-soka-hjalp-efter-bilderna-i-tv/11664506",
@@ -1318,15 +1329,15 @@
       "titleVi": "Đây là số tiền Jan Björklund kiếm được – do nhà vua nhận được ở tầng trên cùng"
     },
     {
-      "id": "https://www.svenskdam.se/noje/tv4-stjarnan-bekraftar-relationen-visar-upp-hemliga-pojkvannen/11664892",
+      "id": "https://www.svenskdam.se/noje/vader-ulrika-stoppas-i-nyhetsmorgon-orden-far-inte-komma-ut/11663989",
       "source": "svenskdam",
-      "title": "TV4-stjärnan bekräftar relationen – visar upp hemliga pojkvännen",
-      "url": "https://www.svenskdam.se/noje/tv4-stjarnan-bekraftar-relationen-visar-upp-hemliga-pojkvannen/11664892",
+      "title": "Väder-Ulrika stoppas i Nyhetsmorgon – orden får inte komma ut",
+      "url": "https://www.svenskdam.se/noje/vader-ulrika-stoppas-i-nyhetsmorgon-orden-far-inte-komma-ut/11663989",
       "date": "16/10/2026",
-      "publishedAt": "2026-10-16T15:42:26+02:00",
+      "publishedAt": "2026-10-16T13:00:00+02:00",
       "type": "Nöje",
       "firstSeenAt": "2026-10-16T14:35:16.040Z",
-      "titleVi": "Ngôi sao TV4 xác nhận mối quan hệ – khoe bạn trai bí mật"
+      "titleVi": "Weather-Ulrika bị dừng lại ở News Morning – những từ này không được xuất hiện"
     },
     {
       "id": "https://www.svenskdam.se/kungligt/victoria-bryter-mot-silvias-forbud-uppmarksammas-av-prinsen-olampligt/11662794",
@@ -1351,17 +1362,6 @@
       "titleVi": "Peter Jihde thay thế - đối thủ thay thế anh sau những cuộc tranh cãi"
     },
     {
-      "id": "https://www.svenskdam.se/noje/anna-brolin-46-har-hittat-lyckan-med-tv4-kollegan-mitt-lyckopiller/11662582",
-      "source": "svenskdam",
-      "title": "Anna Brolin har hittat lyckan – med TV4-kollegan: \"Mitt lyckopiller\"",
-      "url": "https://www.svenskdam.se/noje/anna-brolin-46-har-hittat-lyckan-med-tv4-kollegan-mitt-lyckopiller/11662582",
-      "date": "15/10/2026",
-      "publishedAt": "2026-10-15T19:00:00+02:00",
-      "type": "Nöje",
-      "firstSeenAt": "2026-10-17T03:16:53.960Z",
-      "titleVi": "Anna Brolin đã tìm được hạnh phúc - cùng đồng nghiệp TV4: \"Viên thuốc may mắn của tôi\""
-    },
-    {
       "id": "https://www.svenskdam.se/noje/peter-forsbergs-gladje-visar-upp-nya-partnern-en-drom/11658685",
       "source": "svenskdam",
       "title": "Peter Forsbergs glädje – visar upp nya partnern: \"En dröm\"",
@@ -1371,6 +1371,17 @@
       "type": "Nöje",
       "firstSeenAt": "2026-10-14T09:40:08.201Z",
       "titleVi": "Niềm vui của Peter Forsberg – khoe bạn đời mới: \"Một giấc mơ\""
+    },
+    {
+      "id": "https://www.svenskdam.se/noje/tv4-stjarnan-bekraftar-relationen-visar-upp-hemliga-pojkvannen/11664892",
+      "source": "svenskdam",
+      "title": "TV4-stjärnan bekräftar relationen – visar upp hemliga pojkvännen",
+      "url": "https://www.svenskdam.se/noje/tv4-stjarnan-bekraftar-relationen-visar-upp-hemliga-pojkvannen/11664892",
+      "date": "16/10/2026",
+      "publishedAt": "2026-10-16T15:42:26+02:00",
+      "type": "Nöje",
+      "firstSeenAt": "2026-10-16T14:35:16.040Z",
+      "titleVi": "Ngôi sao TV4 xác nhận mối quan hệ – khoe bạn trai bí mật"
     },
     {
       "id": "https://www.svenskdam.se/noje/frida-karlsson-bekraftar-nyheten-kring-pojkvannen-har-tvingats-bryta/11664007",
@@ -1404,17 +1415,6 @@
       "type": "Nöje",
       "firstSeenAt": "2026-10-16T14:35:16.040Z",
       "titleVi": "Nỗi đau của Sofia Wistam sau cái chết của \"Heavy\" – những lời về cuộc họp: \"Đặc biệt\""
-    },
-    {
-      "id": "https://www.svenskdam.se/noje/vader-ulrika-stoppas-i-nyhetsmorgon-orden-far-inte-komma-ut/11663989",
-      "source": "svenskdam",
-      "title": "Väder-Ulrika stoppas i Nyhetsmorgon – orden får inte komma ut",
-      "url": "https://www.svenskdam.se/noje/vader-ulrika-stoppas-i-nyhetsmorgon-orden-far-inte-komma-ut/11663989",
-      "date": "16/10/2026",
-      "publishedAt": "2026-10-16T13:00:00+02:00",
-      "type": "Nöje",
-      "firstSeenAt": "2026-10-16T14:35:16.040Z",
-      "titleVi": "Weather-Ulrika bị dừng lại ở News Morning – những từ này không được xuất hiện"
     },
     {
       "id": "https://www.kongehuset.no/nyheter/krukker-av-dronning-sonja-ved-kunststallen",
