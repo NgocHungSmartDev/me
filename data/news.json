@@ -1,6 +1,6 @@
 {
   "monitoringStartedAt": "2026-09-28T00:17:35.319Z",
-  "updatedAt": "2026-10-17T15:35:14.449Z",
+  "updatedAt": "2026-10-17T17:56:27.143Z",
   "sources": {
     "kongehuset": {
       "name": "Kongehuset",
@@ -57,9 +57,9 @@
       "language": "no",
       "monitoringStartedAt": "2026-10-01T16:30:06.936Z",
       "status": {
-        "state": "ok",
-        "message": "",
-        "changedAt": "2026-10-17T15:35:14.449Z"
+        "state": "error",
+        "message": "The Norwegian Royal House Atom feed returned no entries",
+        "changedAt": "2026-10-17T17:56:27.143Z"
       }
     }
   },
@@ -522,6 +522,46 @@
       "titleVi": "HM Nữ hoàng đã đến thăm Bệnh viện Mary Elizabeth"
     },
     {
+      "id": "https://nyheder.tv2.dk/live/kort-nyt",
+      "source": "tv2",
+      "title": "Verdensberømt forfatter vinder litteraturpris under falsk navn",
+      "url": "https://nyheder.tv2.dk/live/kort-nyt",
+      "date": "—",
+      "type": "Live",
+      "firstSeenAt": "2026-09-28T00:30:42.330Z",
+      "titleVi": "Tác giả nổi tiếng thế giới giành giải thưởng văn học dưới tên giả"
+    },
+    {
+      "id": "https://nyheder.tv2.dk/live/udland/2026-10-17-demonstrationer-i-frankrig",
+      "source": "tv2",
+      "title": "Demonstrationer skaber kaotiske tilstande i Frankrig",
+      "url": "https://nyheder.tv2.dk/live/udland/2026-10-17-demonstrationer-i-frankrig",
+      "date": "17/10/2026",
+      "type": "Live",
+      "firstSeenAt": "2026-10-17T15:35:14.449Z",
+      "titleVi": "Biểu tình gây hỗn loạn ở Pháp"
+    },
+    {
+      "id": "https://nyheder.tv2.dk/udland/2026-10-14-han-var-elsket-i-hjembyen-nu-faar-trumps-favorit-fingeren-naar-han-koerer-forbi",
+      "source": "tv2",
+      "title": "Han var elsket i hjembyen – nu får \"Trumps favorit\" fingeren, når han kører forbi",
+      "url": "https://nyheder.tv2.dk/udland/2026-10-14-han-var-elsket-i-hjembyen-nu-faar-trumps-favorit-fingeren-naar-han-koerer-forbi",
+      "date": "14/10/2026",
+      "type": "Udland",
+      "firstSeenAt": "2026-10-17T17:56:27.143Z",
+      "titleVi": "Anh ấy được yêu thích ở quê nhà – bây giờ \"Trump yêu thích\" có được ngón tay khi anh ấy lái xe qua"
+    },
+    {
+      "id": "https://nyheder.tv2.dk/live/samfund/2026-10-17-demonstrationer-i-koebenhavn",
+      "source": "tv2",
+      "title": "Overborgmester bekymret over demonstration",
+      "url": "https://nyheder.tv2.dk/live/samfund/2026-10-17-demonstrationer-i-koebenhavn",
+      "date": "17/10/2026",
+      "type": "Live",
+      "firstSeenAt": "2026-10-17T12:06:41.731Z",
+      "titleVi": "Thị trưởng lo ngại về cuộc biểu tình"
+    },
+    {
       "id": "https://nyheder.tv2.dk/live/2024-09-08-seneste-nyt-om-krigen-i-ukraine-70b1d6cc-0720-404e-9878-45546e1999e7",
       "source": "tv2",
       "title": "Starlink virker i EU-lande – men ikke i Ukraine, siger Zelenskyj",
@@ -542,34 +582,14 @@
       "titleVi": "Các nhà ngoại giao châu Âu bị tấn công bởi những người định cư đeo mặt nạ"
     },
     {
-      "id": "https://nyheder.tv2.dk/live/samfund/2026-10-17-demonstrationer-i-koebenhavn",
+      "id": "https://nyheder.tv2.dk/udland/2026-10-17-trumps-talskvinde-fodret-til-loeverne-efter-pinefuld-debut-og-loegn-om-sin-fortid",
       "source": "tv2",
-      "title": "Overborgmester bekymret over demonstration",
-      "url": "https://nyheder.tv2.dk/live/samfund/2026-10-17-demonstrationer-i-koebenhavn",
+      "title": "Trumps talskvinde fodret til løverne efter pinefuld debut og løgn om sin fortid",
+      "url": "https://nyheder.tv2.dk/udland/2026-10-17-trumps-talskvinde-fodret-til-loeverne-efter-pinefuld-debut-og-loegn-om-sin-fortid",
       "date": "17/10/2026",
-      "type": "Live",
-      "firstSeenAt": "2026-10-17T12:06:41.731Z",
-      "titleVi": "Thị trưởng lo ngại về cuộc biểu tình"
-    },
-    {
-      "id": "https://nyheder.tv2.dk/live/kort-nyt",
-      "source": "tv2",
-      "title": "Politiet \"bekymrede\" for forsvundet 87-årig mand",
-      "url": "https://nyheder.tv2.dk/live/kort-nyt",
-      "date": "—",
-      "type": "Live",
-      "firstSeenAt": "2026-09-28T00:30:42.330Z",
-      "titleVi": "Cảnh sát “lo lắng” về cụ ông 87 tuổi mất tích"
-    },
-    {
-      "id": "https://nyheder.tv2.dk/live/udland/2026-10-17-demonstrationer-i-frankrig",
-      "source": "tv2",
-      "title": "Demonstrationer skaber kaotiske tilstande i Frankrig",
-      "url": "https://nyheder.tv2.dk/live/udland/2026-10-17-demonstrationer-i-frankrig",
-      "date": "17/10/2026",
-      "type": "Live",
-      "firstSeenAt": "2026-10-17T15:35:14.449Z",
-      "titleVi": "Biểu tình gây hỗn loạn ở Pháp"
+      "type": "Udland",
+      "firstSeenAt": "2026-10-17T17:56:27.143Z",
+      "titleVi": "Người phát ngôn của Trump đã cho sư tử ăn sau khi ra mắt đau đớn và nói dối về quá khứ của mình"
     },
     {
       "id": "https://nyheder.tv2.dk/samfund/2026-10-17-mand-faldt-fem-meter-ned-da-stentrappe-pludselig-gav-efter",
@@ -790,26 +810,6 @@
       "type": "Samfund",
       "firstSeenAt": "2026-10-16T21:32:07.430Z",
       "titleVi": "Chủ tịch nhân viên nổi giận vì tuyên bố về \"ứng cử viên ngu ngốc\" ở Tønder"
-    },
-    {
-      "id": "https://nyheder.tv2.dk/live/politik/2025-08-11-dansk-politik",
-      "source": "tv2",
-      "title": "I dag falder historisk afgørelse i injuriesag",
-      "url": "https://nyheder.tv2.dk/live/politik/2025-08-11-dansk-politik",
-      "date": "11/08/2025",
-      "type": "Live",
-      "firstSeenAt": "2026-10-11T18:54:55.744Z",
-      "titleVi": "Hôm nay có một quyết định lịch sử trong vụ phỉ báng"
-    },
-    {
-      "id": "https://nyheder.tv2.dk/udland/2026-10-16-trump-fyrer-ny-pressesekretaer-efter-faa-dage-skriver-medier",
-      "source": "tv2",
-      "title": "Trump fyrer ny pressesekretær efter få dage, skriver medier",
-      "url": "https://nyheder.tv2.dk/udland/2026-10-16-trump-fyrer-ny-pressesekretaer-efter-faa-dage-skriver-medier",
-      "date": "16/10/2026",
-      "type": "Udland",
-      "firstSeenAt": "2026-10-16T21:32:07.430Z",
-      "titleVi": "Trump sa thải thư ký báo chí mới sau vài ngày, báo cáo phương tiện truyền thông"
     },
     {
       "id": "https://www.kungahuset.se/arkiv/nyheter/2026-10-17-prinsessan-sofia-vid-sophiahemmet-hogskolas-examenshogtid",
@@ -1076,26 +1076,26 @@
       "titleVi": "Đêm tiệc quyến rũ của Victoria - những hình ảnh từ bên trong"
     },
     {
-      "id": "https://www.svenskdam.se/kungligt/sa-mycket-tjanar-jan-bjorklund-fatt-toppvaning-av-kungen/11662733",
+      "id": "https://www.svenskdam.se/kungligt/prinsessan-sofias-gripande-ord-om-svara-situationen-hur-kan-jag/11665448",
       "source": "svenskdam",
-      "title": "Så mycket tjänar Jan Björklund – fått toppvåning av kungen",
-      "url": "https://www.svenskdam.se/kungligt/sa-mycket-tjanar-jan-bjorklund-fatt-toppvaning-av-kungen/11662733",
-      "date": "16/10/2026",
-      "publishedAt": "2026-10-16T16:00:00+02:00",
+      "title": "Prinsessan Sofias gripande ord om svåra situationen \"Hur kan jag...\"",
+      "url": "https://www.svenskdam.se/kungligt/prinsessan-sofias-gripande-ord-om-svara-situationen-hur-kan-jag/11665448",
+      "date": "17/10/2026",
+      "publishedAt": "2026-10-17T15:00:00+02:00",
       "type": "Kungligt",
-      "firstSeenAt": "2026-10-16T14:35:16.040Z",
-      "titleVi": "Đây là số tiền Jan Björklund kiếm được – do nhà vua nhận được ở tầng trên cùng"
+      "firstSeenAt": "2026-10-17T15:35:14.449Z",
+      "titleVi": "Những lời thấm thía của Công chúa Sofia về hoàn cảnh khó khăn \"Làm sao tôi có thể...\""
     },
     {
-      "id": "https://www.svenskdam.se/kungligt/trista-beskedet-om-drottning-silvia-82-foljer-inte-med-pa-resan/11663904",
+      "id": "https://www.svenskdam.se/kungligt/prinsessan-madeleine-avslojar-hemligheten-efter-alla-ar/11664041",
       "source": "svenskdam",
-      "title": "Sorgliga beskedet om drottning Silvia, 82 – missar stora festen",
-      "url": "https://www.svenskdam.se/kungligt/trista-beskedet-om-drottning-silvia-82-foljer-inte-med-pa-resan/11663904",
-      "date": "16/10/2026",
-      "publishedAt": "2026-10-16T12:00:00+02:00",
+      "title": "Madeleine avslöjar hemligheten med utseendet efter alla år: \"Som vackrast\"",
+      "url": "https://www.svenskdam.se/kungligt/prinsessan-madeleine-avslojar-hemligheten-efter-alla-ar/11664041",
+      "date": "17/10/2026",
+      "publishedAt": "2026-10-17T00:00:00+02:00",
       "type": "Kungligt",
-      "firstSeenAt": "2026-10-16T14:35:16.040Z",
-      "titleVi": "Tin buồn về Nữ hoàng Silvia, 82 tuổi – bỏ lỡ bữa tiệc lớn"
+      "firstSeenAt": "2026-10-16T23:53:41.262Z",
+      "titleVi": "Madeleine tiết lộ bí mật về ngoại hình sau ngần ấy năm: \"Đẹp nhất\""
     },
     {
       "id": "https://www.svenskdam.se/kungligt/efter-prinsessan-madeleines-tunga-motgang-hittade-lyckan-med-chris-oneill/11563998",
@@ -1109,26 +1109,26 @@
       "titleVi": "Sau thất bại nặng nề của Công chúa Madeleine: Tìm thấy hạnh phúc bên Chris O'Neill"
     },
     {
-      "id": "https://www.svenskdam.se/noje/babben-larsson-har-nytt-jobb-efter-alla-ar-i-rutan-ar-en/11664110",
+      "id": "https://www.svenskdam.se/kungligt/leah-behns-hyllning-till-pappan-i-tv-rorande-orden-till-dig-pappa/11665680",
       "source": "svenskdam",
-      "title": "Babben Larsson har nytt jobb – efter alla år i rutan: ”Är en...”",
-      "url": "https://www.svenskdam.se/noje/babben-larsson-har-nytt-jobb-efter-alla-ar-i-rutan-ar-en/11664110",
+      "title": "Leah Behns hyllning till pappan i tv – rörande orden: \"Till dig pappa\"",
+      "url": "https://www.svenskdam.se/kungligt/leah-behns-hyllning-till-pappan-i-tv-rorande-orden-till-dig-pappa/11665680",
       "date": "17/10/2026",
-      "publishedAt": "2026-10-17T16:00:00+02:00",
-      "type": "Nöje",
-      "firstSeenAt": "2026-10-17T15:35:14.449Z",
-      "titleVi": "Babben Larsson có một công việc mới - sau ngần ấy năm sống trong hộp: \"Là một...\""
+      "publishedAt": "2026-10-17T19:30:00+02:00",
+      "type": "Kungligt",
+      "firstSeenAt": "2026-10-17T17:56:27.143Z",
+      "titleVi": "Lời tri ân của Leah Behn dành cho người cha trên TV – liên quan đến những từ: \"Gửi cha\""
     },
     {
-      "id": "https://www.svenskdam.se/kungligt/prinsessan-sofias-gripande-ord-om-svara-situationen-hur-kan-jag/11665448",
+      "id": "https://www.svenskdam.se/kungligt/prins-christians-hemliga-fest-som-hovet-inte-vill-uttala-sig-om/11664400",
       "source": "svenskdam",
-      "title": "Prinsessan Sofias gripande ord om svåra situationen \"Hur kan jag...\"",
-      "url": "https://www.svenskdam.se/kungligt/prinsessan-sofias-gripande-ord-om-svara-situationen-hur-kan-jag/11665448",
+      "title": "Prins Christians hemliga fest – som hovet inte vill uttala sig om",
+      "url": "https://www.svenskdam.se/kungligt/prins-christians-hemliga-fest-som-hovet-inte-vill-uttala-sig-om/11664400",
       "date": "17/10/2026",
-      "publishedAt": "2026-10-17T15:00:00+02:00",
+      "publishedAt": "2026-10-17T19:00:00+02:00",
       "type": "Kungligt",
-      "firstSeenAt": "2026-10-17T15:35:14.449Z",
-      "titleVi": "Những lời thấm thía của Công chúa Sofia về hoàn cảnh khó khăn \"Làm sao tôi có thể...\""
+      "firstSeenAt": "2026-10-17T17:56:27.143Z",
+      "titleVi": "Bữa tiệc bí mật của Hoàng tử Christian – mà tòa án không muốn bình luận về"
     },
     {
       "id": "https://www.svenskdam.se/kungligt/chockbeskedet-han-pastar-sig-vara-charles-och-camillas-okande-son-skrammande-lik/7893722",
@@ -1151,6 +1151,28 @@
       "type": "Creative studio",
       "firstSeenAt": "2026-10-08T13:30:06.955Z",
       "titleVi": "Nó bắt đầu khi đang tắm: Đưa thói quen cơ thể của bạn lên một tầm cao mới"
+    },
+    {
+      "id": "https://www.svenskdam.se/noje/christina-schollin-tvingas-soka-hjalp-efter-bilderna-i-tv/11664506",
+      "source": "svenskdam",
+      "title": "Christina Schollin tvingas söka hjälp – efter bilderna i tv",
+      "url": "https://www.svenskdam.se/noje/christina-schollin-tvingas-soka-hjalp-efter-bilderna-i-tv/11664506",
+      "date": "17/10/2026",
+      "publishedAt": "2026-10-17T18:00:00+02:00",
+      "type": "Nöje",
+      "firstSeenAt": "2026-10-17T17:56:27.143Z",
+      "titleVi": "Christina Schollin buộc phải tìm kiếm sự giúp đỡ – sau những hình ảnh trên TV"
+    },
+    {
+      "id": "https://www.svenskdam.se/noje/babben-larsson-har-nytt-jobb-efter-alla-ar-i-rutan-ar-en/11664110",
+      "source": "svenskdam",
+      "title": "Babben Larsson har nytt jobb – efter alla år i rutan: ”Är en...”",
+      "url": "https://www.svenskdam.se/noje/babben-larsson-har-nytt-jobb-efter-alla-ar-i-rutan-ar-en/11664110",
+      "date": "17/10/2026",
+      "publishedAt": "2026-10-17T16:00:00+02:00",
+      "type": "Nöje",
+      "firstSeenAt": "2026-10-17T15:35:14.449Z",
+      "titleVi": "Babben Larsson có một công việc mới - sau ngần ấy năm sống trong hộp: \"Là một...\""
     },
     {
       "id": "https://www.svenskdam.se/noje/trisskraparen-far-inte-behalla-vinsten-trodde-att-det-var-ett-prank/11664667",
@@ -1195,17 +1217,6 @@
       "type": "Nöje",
       "firstSeenAt": "2026-10-17T07:58:23.555Z",
       "titleVi": "Cuộc khủng hoảng sức khỏe của Louise Edlind Friberg - cảm giác của cô hôm nay: \"Không sợ hãi\""
-    },
-    {
-      "id": "https://www.svenskdam.se/kungligt/prinsessan-madeleine-avslojar-hemligheten-efter-alla-ar/11664041",
-      "source": "svenskdam",
-      "title": "Madeleine avslöjar hemligheten med utseendet efter alla år: \"Som vackrast\"",
-      "url": "https://www.svenskdam.se/kungligt/prinsessan-madeleine-avslojar-hemligheten-efter-alla-ar/11664041",
-      "date": "17/10/2026",
-      "publishedAt": "2026-10-17T00:00:00+02:00",
-      "type": "Kungligt",
-      "firstSeenAt": "2026-10-16T23:53:41.262Z",
-      "titleVi": "Madeleine tiết lộ bí mật về ngoại hình sau ngần ấy năm: \"Đẹp nhất\""
     },
     {
       "id": "https://www.svenskdam.se/noje/henrik-lundqvists-fru-rasande-efter-makens-overtramp/11664333",
@@ -1296,6 +1307,17 @@
       "titleVi": "Pernilla Wahlgren, 58 tuổi, chọn cách kể - nằm trên bàn mổ"
     },
     {
+      "id": "https://www.svenskdam.se/kungligt/sa-mycket-tjanar-jan-bjorklund-fatt-toppvaning-av-kungen/11662733",
+      "source": "svenskdam",
+      "title": "Så mycket tjänar Jan Björklund – fått toppvåning av kungen",
+      "url": "https://www.svenskdam.se/kungligt/sa-mycket-tjanar-jan-bjorklund-fatt-toppvaning-av-kungen/11662733",
+      "date": "16/10/2026",
+      "publishedAt": "2026-10-16T16:00:00+02:00",
+      "type": "Kungligt",
+      "firstSeenAt": "2026-10-16T14:35:16.040Z",
+      "titleVi": "Đây là số tiền Jan Björklund kiếm được – do nhà vua nhận được ở tầng trên cùng"
+    },
+    {
       "id": "https://www.svenskdam.se/noje/tv4-stjarnan-bekraftar-relationen-visar-upp-hemliga-pojkvannen/11664892",
       "source": "svenskdam",
       "title": "TV4-stjärnan bekräftar relationen – visar upp hemliga pojkvännen",
@@ -1305,28 +1327,6 @@
       "type": "Nöje",
       "firstSeenAt": "2026-10-16T14:35:16.040Z",
       "titleVi": "Ngôi sao TV4 xác nhận mối quan hệ – khoe bạn trai bí mật"
-    },
-    {
-      "id": "https://www.svenskdam.se/noje/frida-karlsson-bekraftar-nyheten-kring-pojkvannen-har-tvingats-bryta/11664007",
-      "source": "svenskdam",
-      "title": "Frida Karlsson bekräftar nyheten kring pojkvännen – har tvingats bryta",
-      "url": "https://www.svenskdam.se/noje/frida-karlsson-bekraftar-nyheten-kring-pojkvannen-har-tvingats-bryta/11664007",
-      "date": "16/10/2026",
-      "publishedAt": "2026-10-16T15:00:00+02:00",
-      "type": "Nöje",
-      "firstSeenAt": "2026-10-16T14:35:16.040Z",
-      "titleVi": "Frida Karlsson xác nhận tin tức về bạn trai – đã buộc phải chia tay"
-    },
-    {
-      "id": "https://www.svenskdam.se/kungligt/kungligheten-hittad-drogpaverkad-pa-gatan-polis-tillkallad/11664248",
-      "source": "svenskdam",
-      "title": "Kungligheten hittad medvetslös på gatan – polis tillkallad",
-      "url": "https://www.svenskdam.se/kungligt/kungligheten-hittad-drogpaverkad-pa-gatan-polis-tillkallad/11664248",
-      "date": "16/10/2026",
-      "publishedAt": "2026-10-16T14:00:00+02:00",
-      "type": "Kungligt",
-      "firstSeenAt": "2026-10-16T14:35:16.040Z",
-      "titleVi": "Hoàng gia phát hiện bất tỉnh trên đường phố – cảnh sát triệu tập"
     },
     {
       "id": "https://www.svenskdam.se/kungligt/victoria-bryter-mot-silvias-forbud-uppmarksammas-av-prinsen-olampligt/11662794",
@@ -1373,6 +1373,28 @@
       "titleVi": "Niềm vui của Peter Forsberg – khoe bạn đời mới: \"Một giấc mơ\""
     },
     {
+      "id": "https://www.svenskdam.se/noje/frida-karlsson-bekraftar-nyheten-kring-pojkvannen-har-tvingats-bryta/11664007",
+      "source": "svenskdam",
+      "title": "Frida Karlsson bekräftar nyheten kring pojkvännen – har tvingats bryta",
+      "url": "https://www.svenskdam.se/noje/frida-karlsson-bekraftar-nyheten-kring-pojkvannen-har-tvingats-bryta/11664007",
+      "date": "16/10/2026",
+      "publishedAt": "2026-10-16T15:00:00+02:00",
+      "type": "Nöje",
+      "firstSeenAt": "2026-10-16T14:35:16.040Z",
+      "titleVi": "Frida Karlsson xác nhận tin tức về bạn trai – đã buộc phải chia tay"
+    },
+    {
+      "id": "https://www.svenskdam.se/kungligt/kungligheten-hittad-drogpaverkad-pa-gatan-polis-tillkallad/11664248",
+      "source": "svenskdam",
+      "title": "Kungligheten hittad medvetslös på gatan – polis tillkallad",
+      "url": "https://www.svenskdam.se/kungligt/kungligheten-hittad-drogpaverkad-pa-gatan-polis-tillkallad/11664248",
+      "date": "16/10/2026",
+      "publishedAt": "2026-10-16T14:00:00+02:00",
+      "type": "Kungligt",
+      "firstSeenAt": "2026-10-16T14:35:16.040Z",
+      "titleVi": "Hoàng gia phát hiện bất tỉnh trên đường phố – cảnh sát triệu tập"
+    },
+    {
       "id": "https://www.svenskdam.se/noje/sofia-wistams-sorg-efter-heavys-dod-orden-om-motet-speciellt/11664328",
       "source": "svenskdam",
       "title": "Sofia Wistams sorg efter ”Heavys” död – orden om mötet: ”Speciellt”",
@@ -1393,28 +1415,6 @@
       "type": "Nöje",
       "firstSeenAt": "2026-10-16T14:35:16.040Z",
       "titleVi": "Weather-Ulrika bị dừng lại ở News Morning – những từ này không được xuất hiện"
-    },
-    {
-      "id": "https://www.svenskdam.se/noje/hjalle-heavy-jonas-ar-dod-drabbad-av-lungcancer/11664338",
-      "source": "svenskdam",
-      "title": "Hjalle & Heavy-Jonas är död – blev 50 år gammal",
-      "url": "https://www.svenskdam.se/noje/hjalle-heavy-jonas-ar-dod-drabbad-av-lungcancer/11664338",
-      "date": "16/10/2026",
-      "publishedAt": "2026-10-16T12:39:33+02:00",
-      "type": "Nöje",
-      "firstSeenAt": "2026-10-16T14:35:16.040Z",
-      "titleVi": "Hjalle & Heavy-Jonas đã chết – bước sang tuổi 50"
-    },
-    {
-      "id": "https://www.svenskdam.se/noje/eva-dahlgrens-nya-besked-om-efva-efter-over-30-ar-ihop/11663605",
-      "source": "svenskdam",
-      "title": "Eva Dahlgrens nya besked om Efva – efter över 30 år ihop",
-      "url": "https://www.svenskdam.se/noje/eva-dahlgrens-nya-besked-om-efva-efter-over-30-ar-ihop/11663605",
-      "date": "16/10/2026",
-      "publishedAt": "2026-10-16T11:00:00+02:00",
-      "type": "Nöje",
-      "firstSeenAt": "2026-10-16T09:49:56.064Z",
-      "titleVi": "Thông điệp mới của Eva Dahlgren về Efva - sau hơn 30 năm bên nhau"
     },
     {
       "id": "https://www.kongehuset.no/nyheter/krukker-av-dronning-sonja-ved-kunststallen",
