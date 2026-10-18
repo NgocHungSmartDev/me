@@ -1,6 +1,6 @@
 {
   "monitoringStartedAt": "2026-09-28T00:17:35.319Z",
-  "updatedAt": "2026-10-18T18:59:20.717Z",
+  "updatedAt": "2026-10-18T21:24:25.940Z",
   "sources": {
     "kongehuset": {
       "name": "Kongehuset",
@@ -522,6 +522,16 @@
       "titleVi": "HM Nữ hoàng đã đến thăm Bệnh viện Mary Elizabeth"
     },
     {
+      "id": "https://nyheder.tv2.dk/live/2024-09-08-seneste-nyt-om-krigen-i-ukraine-70b1d6cc-0720-404e-9878-45546e1999e7",
+      "source": "tv2",
+      "title": "Trumps pause i sanktioner mod Rusland varer 60 dage, siger Rubio",
+      "url": "https://nyheder.tv2.dk/live/2024-09-08-seneste-nyt-om-krigen-i-ukraine-70b1d6cc-0720-404e-9878-45546e1999e7",
+      "date": "08/09/2024",
+      "type": "Live",
+      "firstSeenAt": "2026-09-28T00:30:42.330Z",
+      "titleVi": "Rubio nói rằng việc Trump tạm dừng các biện pháp trừng phạt chống lại Nga kéo dài 60 ngày"
+    },
+    {
       "id": "https://nyheder.tv2.dk/live/politik/2025-08-11-dansk-politik",
       "source": "tv2",
       "title": "Søren Gade stopper i Folketinget",
@@ -530,6 +540,56 @@
       "type": "Live",
       "firstSeenAt": "2026-10-18T18:59:20.717Z",
       "titleVi": "Søren Gade dừng lại ở Folketing"
+    },
+    {
+      "id": "https://nyheder.tv2.dk/samfund/2026-10-18-far-bliver-moedt-af-skaeve-blikke-naar-han-fortaeller-om-sin-nye-hobby",
+      "source": "tv2",
+      "title": "Far bliver mødt af skæve blikke, når han fortæller om sin nye hobby",
+      "url": "https://nyheder.tv2.dk/samfund/2026-10-18-far-bliver-moedt-af-skaeve-blikke-naar-han-fortaeller-om-sin-nye-hobby",
+      "date": "18/10/2026",
+      "type": "Samfund",
+      "firstSeenAt": "2026-10-18T21:24:25.940Z",
+      "titleVi": "Bố được chào đón bởi những cái nhìn quanh co khi nói về sở thích mới của mình"
+    },
+    {
+      "id": "https://nyheder.tv2.dk/live/kort-nyt",
+      "source": "tv2",
+      "title": "Fly til Tel Aviv omdirigeret efter formodet bombetrussel",
+      "url": "https://nyheder.tv2.dk/live/kort-nyt",
+      "date": "—",
+      "type": "Live",
+      "firstSeenAt": "2026-09-28T00:30:42.330Z",
+      "titleVi": "Các chuyến bay đến Tel Aviv đã chuyển hướng sau khi bị nghi ngờ đe dọa đánh bom"
+    },
+    {
+      "id": "https://nyheder.tv2.dk/politik/2026-10-18-troels-lund-poulsen-er-aergerlig-over-gades-afgang-men-hovedpinen-er-ikke-ovre",
+      "source": "tv2",
+      "title": "Troels Lund Poulsen er \"ærgerlig\" over Gades afgang – men hovedpinen er ikke ovre",
+      "url": "https://nyheder.tv2.dk/politik/2026-10-18-troels-lund-poulsen-er-aergerlig-over-gades-afgang-men-hovedpinen-er-ikke-ovre",
+      "date": "18/10/2026",
+      "type": "Politik",
+      "firstSeenAt": "2026-10-18T21:24:25.940Z",
+      "titleVi": "Troels Lund Poulsen \"khó chịu\" về sự ra đi của Gade – nhưng cơn đau đầu vẫn chưa kết thúc"
+    },
+    {
+      "id": "https://nyheder.tv2.dk/live/udland/2026-05-16-midtvejsvalg-i-usa",
+      "source": "tv2",
+      "title": "Svindeldømt kongresmedlem melder sig på banen til Trump-job",
+      "url": "https://nyheder.tv2.dk/live/udland/2026-05-16-midtvejsvalg-i-usa",
+      "date": "16/05/2026",
+      "type": "Live",
+      "firstSeenAt": "2026-10-16T21:32:07.430Z",
+      "titleVi": "Nghị sĩ gian lận đăng ký cho công việc của Trump"
+    },
+    {
+      "id": "https://nyheder.tv2.dk/business/2026-10-18-frygt-for-ai-boble-breder-sig-i-usa",
+      "source": "tv2",
+      "title": "Frygt for AI-boble breder sig i USA",
+      "url": "https://nyheder.tv2.dk/business/2026-10-18-frygt-for-ai-boble-breder-sig-i-usa",
+      "date": "18/10/2026",
+      "type": "Business",
+      "firstSeenAt": "2026-10-18T21:24:25.940Z",
+      "titleVi": "Sợ bong bóng AI lan rộng ở Mỹ"
     },
     {
       "id": "https://nyheder.tv2.dk/live/udland/2026-10-17-demonstrationer-i-frankrig",
@@ -560,26 +620,6 @@
       "type": "Samfund",
       "firstSeenAt": "2026-10-18T18:59:20.717Z",
       "titleVi": "Mùi nấm hiếm gặp của phân chó – nhưng chuyên gia đã cắn"
-    },
-    {
-      "id": "https://nyheder.tv2.dk/live/kort-nyt",
-      "source": "tv2",
-      "title": "Cirkus lukker efter 32 år",
-      "url": "https://nyheder.tv2.dk/live/kort-nyt",
-      "date": "—",
-      "type": "Live",
-      "firstSeenAt": "2026-09-28T00:30:42.330Z",
-      "titleVi": "Rạp xiếc đóng cửa sau 32 năm hoạt động"
-    },
-    {
-      "id": "https://nyheder.tv2.dk/live/2024-09-08-seneste-nyt-om-krigen-i-ukraine-70b1d6cc-0720-404e-9878-45546e1999e7",
-      "source": "tv2",
-      "title": "Trumps pause i sanktioner mod Rusland varer 60 dage, siger Rubio",
-      "url": "https://nyheder.tv2.dk/live/2024-09-08-seneste-nyt-om-krigen-i-ukraine-70b1d6cc-0720-404e-9878-45546e1999e7",
-      "date": "08/09/2024",
-      "type": "Live",
-      "firstSeenAt": "2026-09-28T00:30:42.330Z",
-      "titleVi": "Rubio nói rằng việc Trump tạm dừng các biện pháp trừng phạt chống lại Nga kéo dài 60 ngày"
     },
     {
       "id": "https://nyheder.tv2.dk/live/samfund/2026-10-17-demonstrationer-i-koebenhavn",
@@ -640,16 +680,6 @@
       "type": "Samfund",
       "firstSeenAt": "2026-10-18T09:23:45.667Z",
       "titleVi": "Chủ nhà đột nhiên nhận thêm 230.000 DKK tiền nước"
-    },
-    {
-      "id": "https://nyheder.tv2.dk/live/udland/2026-05-16-midtvejsvalg-i-usa",
-      "source": "tv2",
-      "title": "Svindeldømt kongresmedlem melder sig på banen til Trump-job",
-      "url": "https://nyheder.tv2.dk/live/udland/2026-05-16-midtvejsvalg-i-usa",
-      "date": "16/05/2026",
-      "type": "Live",
-      "firstSeenAt": "2026-10-16T21:32:07.430Z",
-      "titleVi": "Nghị sĩ gian lận đăng ký cho công việc của Trump"
     },
     {
       "id": "https://nyheder.tv2.dk/udland/2026-10-12-krigszonen-hvad-nu-hvis-putin-bruger-atomvaaben-i-ukraine",
@@ -780,36 +810,6 @@
       "type": "Samfund",
       "firstSeenAt": "2026-10-17T12:06:41.731Z",
       "titleVi": "Cuộc phỏng vấn bất thường với thái tử: - Tôi không muốn bị cản trở bởi sự thật rằng tôi là tôi"
-    },
-    {
-      "id": "https://nyheder.tv2.dk/samfund/2026-10-17-populaert-squishy-legetoej-er-ufarligt",
-      "source": "tv2",
-      "title": "Populært squishy-legetøj er ufarligt",
-      "url": "https://nyheder.tv2.dk/samfund/2026-10-17-populaert-squishy-legetoej-er-ufarligt",
-      "date": "17/10/2026",
-      "type": "Samfund",
-      "firstSeenAt": "2026-10-17T12:06:41.731Z",
-      "titleVi": "Đồ chơi squishy phổ biến là vô hại"
-    },
-    {
-      "id": "https://nyheder.tv2.dk/live/udland/2026-10-17-stil-spoergsmaal-til-tantholdt-om-trumps-forhold-til-rusland-og-ukraine",
-      "source": "tv2",
-      "title": "Stil spørgsmål til Tantholdt om Trumps forhold til Rusland og Ukraine",
-      "url": "https://nyheder.tv2.dk/live/udland/2026-10-17-stil-spoergsmaal-til-tantholdt-om-trumps-forhold-til-rusland-og-ukraine",
-      "date": "17/10/2026",
-      "type": "Live",
-      "firstSeenAt": "2026-10-17T07:58:23.555Z",
-      "titleVi": "Đặt câu hỏi cho Tantholdt về mối quan hệ của Trump với Nga và Ukraine"
-    },
-    {
-      "id": "https://nyheder.tv2.dk/krimi/2026-10-17-dansk-mand-forsoegt-bortfoert-af-sin-kaereste",
-      "source": "tv2",
-      "title": "Dansk mand forsøgt bortført af sin kæreste",
-      "url": "https://nyheder.tv2.dk/krimi/2026-10-17-dansk-mand-forsoegt-bortfoert-af-sin-kaereste",
-      "date": "17/10/2026",
-      "type": "Krimi",
-      "firstSeenAt": "2026-10-17T12:06:41.731Z",
-      "titleVi": "Người đàn ông Đan Mạch toan tính bị bạn gái bắt cóc"
     },
     {
       "id": "https://www.kungahuset.se/arkiv/nyheter/2026-10-18-drottningen-narvarade-vid-svensk-brasilianska-foreningens-galamiddag",
@@ -1109,6 +1109,17 @@
       "titleVi": "Sau thất bại nặng nề của Công chúa Madeleine: Tìm thấy hạnh phúc bên Chris O'Neill"
     },
     {
+      "id": "https://www.svenskdam.se/noje/erik-videgard-tvingas-forsvara-sig-efter-jenny-alversjos-ord-i-tv4-ta-at-dig/11666012",
+      "source": "svenskdam",
+      "title": "Erik Videgård tvingas försvara sig – efter Jenny Alversjös ord i TV4: \"Ta åt dig\"",
+      "url": "https://www.svenskdam.se/noje/erik-videgard-tvingas-forsvara-sig-efter-jenny-alversjos-ord-i-tv4-ta-at-dig/11666012",
+      "date": "18/10/2026",
+      "publishedAt": "2026-10-18T21:00:00+02:00",
+      "type": "Nöje",
+      "firstSeenAt": "2026-10-18T21:24:25.940Z",
+      "titleVi": "Erik Videgård buộc phải tự bảo vệ mình – sau những lời của Jenny Alversjö trên TV4: \"Bình tĩnh\""
+    },
+    {
       "id": "https://www.svenskdam.se/kungligt/har-brister-det-for-prinsessan-martha-louise-tararna-i-direktsand-tv/11665917",
       "source": "svenskdam",
       "title": "Här brister det för prinsessan Märtha Louise – tårarna i direktsänd tv",
@@ -1118,17 +1129,6 @@
       "type": "Kungligt",
       "firstSeenAt": "2026-10-18T18:59:20.717Z",
       "titleVi": "Ở đây nó bùng nổ cho Công chúa Märtha Louise – những giọt nước mắt trên truyền hình trực tiếp"
-    },
-    {
-      "id": "https://www.svenskdam.se/kungligt/kronprins-christians-ovantade-ord-om-uppvaxten-far-intervjuaren-att-reagera/11665604",
-      "source": "svenskdam",
-      "title": "Kronprins Christians oväntade ord om uppväxten – får intervjuaren att reagera",
-      "url": "https://www.svenskdam.se/kungligt/kronprins-christians-ovantade-ord-om-uppvaxten-far-intervjuaren-att-reagera/11665604",
-      "date": "18/10/2026",
-      "publishedAt": "2026-10-18T19:00:00+02:00",
-      "type": "Kungligt",
-      "firstSeenAt": "2026-10-18T18:59:20.717Z",
-      "titleVi": "Những lời bất ngờ của Thái tử Christian về sự trưởng thành – khiến người phỏng vấn phản ứng"
     },
     {
       "id": "https://www.svenskdam.se/kungligt/chockbeskedet-han-pastar-sig-vara-charles-och-camillas-okande-son-skrammande-lik/7893722",
@@ -1151,6 +1151,17 @@
       "type": "Creative studio",
       "firstSeenAt": "2026-10-08T13:30:06.955Z",
       "titleVi": "Nó bắt đầu khi đang tắm: Đưa thói quen cơ thể của bạn lên một tầm cao mới"
+    },
+    {
+      "id": "https://www.svenskdam.se/kungligt/kronprins-christians-ovantade-ord-om-uppvaxten-far-intervjuaren-att-reagera/11665604",
+      "source": "svenskdam",
+      "title": "Kronprins Christians oväntade ord om uppväxten – får intervjuaren att reagera",
+      "url": "https://www.svenskdam.se/kungligt/kronprins-christians-ovantade-ord-om-uppvaxten-far-intervjuaren-att-reagera/11665604",
+      "date": "18/10/2026",
+      "publishedAt": "2026-10-18T19:00:00+02:00",
+      "type": "Kungligt",
+      "firstSeenAt": "2026-10-18T18:59:20.717Z",
+      "titleVi": "Những lời bất ngờ của Thái tử Christian về sự trưởng thành – khiến người phỏng vấn phản ứng"
     },
     {
       "id": "https://www.svenskdam.se/noje/robinson-emmas-tarar-i-tv4-efter-gripande-scenerna-med-maken/11665655",
@@ -1318,17 +1329,6 @@
       "titleVi": "Bữa tiệc bí mật của Hoàng tử Christian – mà tòa án không muốn bình luận về"
     },
     {
-      "id": "https://www.svenskdam.se/noje/christina-schollin-tvingas-soka-hjalp-efter-bilderna-i-tv/11664506",
-      "source": "svenskdam",
-      "title": "Christina Schollin tvingas söka hjälp – efter bilderna i tv",
-      "url": "https://www.svenskdam.se/noje/christina-schollin-tvingas-soka-hjalp-efter-bilderna-i-tv/11664506",
-      "date": "17/10/2026",
-      "publishedAt": "2026-10-17T18:00:00+02:00",
-      "type": "Nöje",
-      "firstSeenAt": "2026-10-17T17:56:27.143Z",
-      "titleVi": "Christina Schollin buộc phải tìm kiếm sự giúp đỡ – sau những hình ảnh trên TV"
-    },
-    {
       "id": "https://www.svenskdam.se/noje/louise-edlind-fribergs-halsokris-sa-mar-hon-i-dag-inte-radd/11649966",
       "source": "svenskdam",
       "title": "Louise Edlind Fribergs hälsokris – så mår hon i dag: ”Inte rädd”",
@@ -1373,6 +1373,17 @@
       "titleVi": "Peter Jihde thay thế - đối thủ thay thế anh sau những cuộc tranh cãi"
     },
     {
+      "id": "https://www.svenskdam.se/noje/christina-schollin-tvingas-soka-hjalp-efter-bilderna-i-tv/11664506",
+      "source": "svenskdam",
+      "title": "Christina Schollin tvingas söka hjälp – efter bilderna i tv",
+      "url": "https://www.svenskdam.se/noje/christina-schollin-tvingas-soka-hjalp-efter-bilderna-i-tv/11664506",
+      "date": "17/10/2026",
+      "publishedAt": "2026-10-17T18:00:00+02:00",
+      "type": "Nöje",
+      "firstSeenAt": "2026-10-17T17:56:27.143Z",
+      "titleVi": "Christina Schollin buộc phải tìm kiếm sự giúp đỡ – sau những hình ảnh trên TV"
+    },
+    {
       "id": "https://www.svenskdam.se/noje/babben-larsson-har-nytt-jobb-efter-alla-ar-i-rutan-ar-en/11664110",
       "source": "svenskdam",
       "title": "Babben Larsson har nytt jobb – efter alla år i rutan: ”Är en...”",
@@ -1404,17 +1415,6 @@
       "type": "Kungligt",
       "firstSeenAt": "2026-10-17T12:06:41.731Z",
       "titleVi": "Công chúa Sofia khoe món hàng xa xỉ mới mua - với giá 26.000 SEK!"
-    },
-    {
-      "id": "https://www.svenskdam.se/noje/carina-bergfeldts-nya-besked-med-maken-jesper-mycket-fix/11663136",
-      "source": "svenskdam",
-      "title": "Carina Bergfeldts nya besked med maken Jesper: \"Mycket fix\"",
-      "url": "https://www.svenskdam.se/noje/carina-bergfeldts-nya-besked-med-maken-jesper-mycket-fix/11663136",
-      "date": "17/10/2026",
-      "publishedAt": "2026-10-17T10:00:00+02:00",
-      "type": "Nöje",
-      "firstSeenAt": "2026-10-17T12:06:41.731Z",
-      "titleVi": "Tin nhắn mới của Carina Bergfeldt với chồng Jesper: \"Rất cố định\""
     },
     {
       "id": "https://www.kongehuset.no/nyheter/pa-kvitsoy-for-tv-aksjonen",
