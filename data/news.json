@@ -1,6 +1,6 @@
 {
   "monitoringStartedAt": "2026-09-28T00:17:35.319Z",
-  "updatedAt": "2026-10-18T23:31:29.526Z",
+  "updatedAt": "2026-10-19T01:44:11.004Z",
   "sources": {
     "kongehuset": {
       "name": "Kongehuset",
@@ -33,9 +33,9 @@
       "language": "sv",
       "monitoringStartedAt": "2026-10-01T16:20:13.213Z",
       "status": {
-        "state": "ok",
-        "message": "",
-        "changedAt": "2026-10-17T03:16:53.960Z"
+        "state": "error",
+        "message": "fetch failed",
+        "changedAt": "2026-10-19T01:44:11.004Z"
       }
     },
     "svenskdam": {
@@ -1351,26 +1351,15 @@
       "titleVi": "Cuộc khủng hoảng sức khỏe của Louise Edlind Friberg - cảm giác của cô hôm nay: \"Không sợ hãi\""
     },
     {
-      "id": "https://www.svenskdam.se/noje/vader-ulrika-stoppas-i-nyhetsmorgon-orden-far-inte-komma-ut/11663989",
+      "id": "https://www.svenskdam.se/noje/henrik-lundqvists-fru-rasande-efter-makens-overtramp/11664333",
       "source": "svenskdam",
-      "title": "Väder-Ulrika stoppas i Nyhetsmorgon – orden får inte komma ut",
-      "url": "https://www.svenskdam.se/noje/vader-ulrika-stoppas-i-nyhetsmorgon-orden-far-inte-komma-ut/11663989",
-      "date": "16/10/2026",
-      "publishedAt": "2026-10-16T13:00:00+02:00",
+      "title": "Henrik Lundqvists fru rasande – efter makens övertramp",
+      "url": "https://www.svenskdam.se/noje/henrik-lundqvists-fru-rasande-efter-makens-overtramp/11664333",
+      "date": "17/10/2026",
+      "publishedAt": "2026-10-17T00:00:00+02:00",
       "type": "Nöje",
-      "firstSeenAt": "2026-10-16T14:35:16.040Z",
-      "titleVi": "Weather-Ulrika bị dừng lại ở News Morning – những từ này không được xuất hiện"
-    },
-    {
-      "id": "https://www.svenskdam.se/noje/peter-jihde-ersatt-konkurrenten-tar-hans-plats-efter-braken/11662573",
-      "source": "svenskdam",
-      "title": "Peter Jihde ersatt – konkurrenten tar hans plats efter bråken",
-      "url": "https://www.svenskdam.se/noje/peter-jihde-ersatt-konkurrenten-tar-hans-plats-efter-braken/11662573",
-      "date": "16/10/2026",
-      "publishedAt": "2026-10-16T09:00:00+02:00",
-      "type": "Nöje",
-      "firstSeenAt": "2026-10-16T09:49:56.064Z",
-      "titleVi": "Peter Jihde thay thế - đối thủ thay thế anh sau những cuộc tranh cãi"
+      "firstSeenAt": "2026-10-19T01:44:11.004Z",
+      "titleVi": "Vợ của Henrik Lundqvist tức giận – sau khi chồng phạm tội"
     },
     {
       "id": "https://www.svenskdam.se/kungligt/leah-behns-hyllning-till-pappan-i-tv-rorande-orden-till-dig-pappa/11665680",
