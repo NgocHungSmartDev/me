@@ -1,6 +1,6 @@
 {
   "monitoringStartedAt": "2026-09-28T00:17:35.319Z",
-  "updatedAt": "2026-10-19T23:42:43.417Z",
+  "updatedAt": "2026-10-20T02:08:25.682Z",
   "sources": {
     "kongehuset": {
       "name": "Kongehuset",
@@ -65,9 +65,9 @@
   },
   "translation": {
     "status": {
-      "state": "error",
-      "message": "3 tiêu đề chưa dịch được. Lỗi gần nhất: Google HTTP 429 Too Many Requests; MyMemory HTTP 429 Too Many Requests",
-      "changedAt": "2026-10-19T23:42:43.417Z"
+      "state": "ok",
+      "message": "",
+      "changedAt": "2026-10-20T02:08:25.682Z"
     }
   },
   "articles": [
@@ -109,8 +109,7 @@
       "date": "19. oktober 2026",
       "type": "Galleri",
       "firstSeenAt": "2026-10-19T23:42:43.417Z",
-      "titleVi": "",
-      "translationError": "Google HTTP 429 Too Many Requests; MyMemory HTTP 429 Too Many Requests"
+      "titleVi": "Gala fork tại Cung điện Christiansborg nhân chuyến thăm cấp nhà nước từ Việt Nam"
     },
     {
       "id": "https://www.kongehuset.dk/nyheder/h-m-dronningen-baerer-dronning-alexandrines-safirsmykke-i-ny-udformning-for-foerste-gang",
@@ -530,8 +529,7 @@
       "date": "—",
       "type": "Live",
       "firstSeenAt": "2026-09-28T00:30:42.330Z",
-      "titleVi": "",
-      "translationError": "Google HTTP 429 Too Many Requests; MyMemory HTTP 429 Too Many Requests"
+      "titleVi": "Những người 110 tuổi có lượng tế bào tiêu diệt đặc biệt cao hơn"
     },
     {
       "id": "https://nyheder.tv2.dk/live/udland/2026-10-17-optoejer-spreder-sig-i-europa",
@@ -561,8 +559,7 @@
       "date": "19/10/2026",
       "type": "Samfund",
       "firstSeenAt": "2026-10-19T23:42:43.417Z",
-      "titleVi": "",
-      "translationError": "Google HTTP 429 Too Many Requests; MyMemory HTTP 429 Too Many Requests"
+      "titleVi": "Khóa bơm khổng lồ để giữ cho thành phố khô ráo – nhưng sau 15 phút, cảng đã bị ngập lụt"
     },
     {
       "id": "https://nyheder.tv2.dk/live/2024-09-08-seneste-nyt-om-krigen-i-ukraine-70b1d6cc-0720-404e-9878-45546e1999e7",
@@ -1310,26 +1307,26 @@
       "titleVi": "Erik Videgård buộc phải tự bảo vệ mình – sau những lời của Jenny Alversjö trên TV4: \"Bình tĩnh\""
     },
     {
-      "id": "https://www.svenskdam.se/noje/louise-edlind-fribergs-halsokris-sa-mar-hon-i-dag-inte-radd/11649966",
+      "id": "https://www.svenskdam.se/kungligt/sorg-i-kungafamiljen-efter-pappans-dod-prinsessans-svara-stund/11665530",
       "source": "svenskdam",
-      "title": "Louise Edlind Fribergs hälsokris – så mår hon i dag: ”Inte rädd”",
-      "url": "https://www.svenskdam.se/noje/louise-edlind-fribergs-halsokris-sa-mar-hon-i-dag-inte-radd/11649966",
-      "date": "17/10/2026",
-      "publishedAt": "2026-10-17T08:00:00+02:00",
-      "type": "Nöje",
-      "firstSeenAt": "2026-10-17T07:58:23.555Z",
-      "titleVi": "Cuộc khủng hoảng sức khỏe của Louise Edlind Friberg - cảm giác của cô hôm nay: \"Không sợ hãi\""
+      "title": "Sorg i kungafamiljen efter pappans död – prinsessans tunga förlust",
+      "url": "https://www.svenskdam.se/kungligt/sorg-i-kungafamiljen-efter-pappans-dod-prinsessans-svara-stund/11665530",
+      "date": "18/10/2026",
+      "publishedAt": "2026-10-18T11:00:00+02:00",
+      "type": "Kungligt",
+      "firstSeenAt": "2026-10-20T02:08:25.682Z",
+      "titleVi": "Nỗi đau buồn trong gia đình hoàng gia sau cái chết của cha mình – mất mát nặng nề của công chúa"
     },
     {
-      "id": "https://www.svenskdam.se/kungligt/kungens-van-dod-blev-87-ar-gammal/11665852",
+      "id": "https://www.svenskdam.se/noje/filip-hammar-firar-hustrun-agnes-se-bilderna-fran-festligheterna/11665615",
       "source": "svenskdam",
-      "title": "Kungens vän död – blev 87 år gammal",
-      "url": "https://www.svenskdam.se/kungligt/kungens-van-dod-blev-87-ar-gammal/11665852",
+      "title": "Filip Hammar firar hustrun Agnes – se bilderna från festligheterna!",
+      "url": "https://www.svenskdam.se/noje/filip-hammar-firar-hustrun-agnes-se-bilderna-fran-festligheterna/11665615",
       "date": "18/10/2026",
-      "publishedAt": "2026-10-18T09:18:19+02:00",
-      "type": "Kungligt",
-      "firstSeenAt": "2026-10-18T09:23:45.667Z",
-      "titleVi": "Bạn của King đã chết – qua đời ở tuổi 87"
+      "publishedAt": "2026-10-18T16:00:00+02:00",
+      "type": "Nöje",
+      "firstSeenAt": "2026-10-20T02:08:25.682Z",
+      "titleVi": "Filip Hammar chúc mừng vợ Agnes – xem các bức ảnh từ các lễ hội!"
     },
     {
       "id": "https://www.svenskdam.se/kungligt/efter-kritiken-mot-kungen-och-silvia-forklaringen-fattade-inte/11665408",
@@ -1341,17 +1338,6 @@
       "type": "Kungligt",
       "firstSeenAt": "2026-10-18T13:26:13.452Z",
       "titleVi": "Sau những lời chỉ trích của nhà vua và Silvia – lời giải thích: “'Không hiểu'"
-    },
-    {
-      "id": "https://www.svenskdam.se/kungligt/prinsessan-sofia-visar-upp-nya-lyxkopet-for-26-000-kronor/11665139",
-      "source": "svenskdam",
-      "title": "Prinsessan Sofia visar upp nya lyxköpet – för 26 000 kronor!",
-      "url": "https://www.svenskdam.se/kungligt/prinsessan-sofia-visar-upp-nya-lyxkopet-for-26-000-kronor/11665139",
-      "date": "17/10/2026",
-      "publishedAt": "2026-10-17T11:00:00+02:00",
-      "type": "Kungligt",
-      "firstSeenAt": "2026-10-17T12:06:41.731Z",
-      "titleVi": "Công chúa Sofia khoe món hàng xa xỉ mới mua - với giá 26.000 SEK!"
     },
     {
       "id": "https://www.svenskdam.se/kungligt/har-brister-det-for-prinsessan-martha-louise-tararna-i-direktsand-tv/11665917",
