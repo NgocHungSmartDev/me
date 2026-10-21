@@ -1,6 +1,6 @@
 {
   "monitoringStartedAt": "2026-09-28T00:17:35.319Z",
-  "updatedAt": "2026-10-20T21:31:02.671Z",
+  "updatedAt": "2026-10-21T00:08:49.564Z",
   "sources": {
     "kongehuset": {
       "name": "Kongehuset",
@@ -57,9 +57,9 @@
       "language": "no",
       "monitoringStartedAt": "2026-10-01T16:30:06.936Z",
       "status": {
-        "state": "ok",
-        "message": "",
-        "changedAt": "2026-10-20T17:58:50.118Z"
+        "state": "error",
+        "message": "The Norwegian Royal House Atom feed returned no entries",
+        "changedAt": "2026-10-21T00:08:49.564Z"
       }
     }
   },
@@ -522,6 +522,16 @@
       "titleVi": "Nghi lễ và lên bờ chính thức từ Du thuyền Hoàng gia Dannebrog"
     },
     {
+      "id": "https://nyheder.tv2.dk/live/business/2025-03-12-seneste-nyt-fra-de-finansielle-markeder",
+      "source": "tv2",
+      "title": "SpaceX overgår forventninger – lufter idé om Tesla-fusion",
+      "url": "https://nyheder.tv2.dk/live/business/2025-03-12-seneste-nyt-fra-de-finansielle-markeder",
+      "date": "12/03/2025",
+      "type": "Live",
+      "firstSeenAt": "2026-10-21T00:08:49.564Z",
+      "titleVi": "SpaceX vượt quá mong đợi – ý tưởng về việc sáp nhập Tesla"
+    },
+    {
       "id": "https://nyheder.tv2.dk/live/kort-nyt",
       "source": "tv2",
       "title": "Viral dokumentar kommer til Danmark",
@@ -802,16 +812,6 @@
       "titleVi": "Người dân thắc mắc cột gỗ vỉa hè"
     },
     {
-      "id": "https://nyheder.tv2.dk/samfund/2026-10-20-hund-bed-kvinde-paa-strand-men-det-var-ejerens-reaktion-der-frustrerede-hende",
-      "source": "tv2",
-      "title": "Hund bed kvinde på strand – men det var ejerens reaktion, der frustrerede hende",
-      "url": "https://nyheder.tv2.dk/samfund/2026-10-20-hund-bed-kvinde-paa-strand-men-det-var-ejerens-reaktion-der-frustrerede-hende",
-      "date": "20/10/2026",
-      "type": "Samfund",
-      "firstSeenAt": "2026-10-20T13:01:05.643Z",
-      "titleVi": "Người phụ nữ bị chó cắn trên bãi biển - nhưng chính phản ứng của người chủ mới khiến cô thất vọng"
-    },
-    {
       "id": "https://www.kungahuset.se/arkiv/nyheter/2026-10-19-statsbesok-fran-singapore",
       "source": "kungahuset",
       "title": "Statsbesök från Singapore",
@@ -1032,15 +1032,15 @@
       "titleVi": "Giải thưởng Chứng khó đọc năm 2026 do Hoàng tử Carl Philip trao tặng"
     },
     {
-      "id": "https://www.svenskdam.se/kungligt/prinsessan-madeleine-stralar-pa-stora-festen-har-intar-hon-skansen/11670598",
+      "id": "https://www.svenskdam.se/kungligt/prinsessan-madeleines-festkvall-med-danny-saucedo/11670692",
       "source": "svenskdam",
-      "title": "Prinsessan Madeleine strålar på stora festen – här intar hon Skansen!",
-      "url": "https://www.svenskdam.se/kungligt/prinsessan-madeleine-stralar-pa-stora-festen-har-intar-hon-skansen/11670598",
-      "date": "20/10/2026",
-      "publishedAt": "2026-10-20T18:48:18+02:00",
+      "title": "Prinsessan Madeleines festkväll med Danny Saucedo",
+      "url": "https://www.svenskdam.se/kungligt/prinsessan-madeleines-festkvall-med-danny-saucedo/11670692",
+      "date": "21/10/2026",
+      "publishedAt": "2026-10-21T02:00:07+02:00",
       "type": "Kungligt",
-      "firstSeenAt": "2026-10-20T17:58:50.118Z",
-      "titleVi": "Công chúa Madeleine tỏa sáng tại bữa tiệc lớn – ở đây cô ấy lấy Skansen!"
+      "firstSeenAt": "2026-10-21T00:08:49.564Z",
+      "titleVi": "Bữa tiệc của công chúa Madeleine với Danny Saucedo"
     },
     {
       "id": "https://www.svenskdam.se/kungligt/prinsessan-sofias-glamchock-drottninglik-under-lunchen-i-stan/11669991",
@@ -1109,15 +1109,15 @@
       "titleVi": "Đáp án: Đó là lý do tại sao Công chúa Madeleine tháo vòng cổ tại buổi dạ tiệc"
     },
     {
-      "id": "https://www.svenskdam.se/noje/martin-jarborg-tappar-det-efter-handelsen-i-direktsandning/11669464",
+      "id": "https://www.svenskdam.se/noje/frida-karlssons-besked-efter-situationen-med-pojkvannen-inte-sa-bra/11670679",
       "source": "svenskdam",
-      "title": "Martin Järborg tappar det – efter händelsen i direktsändning",
-      "url": "https://www.svenskdam.se/noje/martin-jarborg-tappar-det-efter-handelsen-i-direktsandning/11669464",
-      "date": "20/10/2026",
-      "publishedAt": "2026-10-20T22:00:00+02:00",
+      "title": "Frida Karlssons besked efter situationen med pojkvännen: \"Inte så bra...\"",
+      "url": "https://www.svenskdam.se/noje/frida-karlssons-besked-efter-situationen-med-pojkvannen-inte-sa-bra/11670679",
+      "date": "21/10/2026",
+      "publishedAt": "2026-10-21T00:00:00+02:00",
       "type": "Nöje",
-      "firstSeenAt": "2026-10-20T21:31:02.671Z",
-      "titleVi": "Martin Järborg mất nó – sau sự kiện được phát sóng trực tiếp"
+      "firstSeenAt": "2026-10-21T00:08:49.564Z",
+      "titleVi": "Thông điệp của Frida Karlsson sau tình huống với bạn trai: \"Không tốt lắm...\""
     },
     {
       "id": "https://www.svenskdam.se/kungligt/norska-ingrid-alexandras-enorma-arv-formogenheten-som-vantar/10200069",
@@ -1151,6 +1151,17 @@
       "type": "Kungligt",
       "firstSeenAt": "2026-10-20T07:34:54.167Z",
       "titleVi": "Thái tử Christian, 21 tuổi, khao khát trở thành một người cha: \"Món quà đẹp nhất\""
+    },
+    {
+      "id": "https://www.svenskdam.se/noje/martin-jarborg-tappar-det-efter-handelsen-i-direktsandning/11669464",
+      "source": "svenskdam",
+      "title": "Martin Järborg tappar det – efter händelsen i direktsändning",
+      "url": "https://www.svenskdam.se/noje/martin-jarborg-tappar-det-efter-handelsen-i-direktsandning/11669464",
+      "date": "20/10/2026",
+      "publishedAt": "2026-10-20T22:00:00+02:00",
+      "type": "Nöje",
+      "firstSeenAt": "2026-10-20T21:31:02.671Z",
+      "titleVi": "Martin Järborg mất nó – sau sự kiện được phát sóng trực tiếp"
     },
     {
       "id": "https://www.svenskdam.se/kungligt/drottning-sonjas-hemliga-beslut-kung-haralds-vanner-samlade-pa-slottet/11670029",
@@ -1195,6 +1206,17 @@
       "type": "Kungligt",
       "firstSeenAt": "2026-10-20T17:58:50.118Z",
       "titleVi": "Trận đấu bí mật giữa Victoria và Madeleine – bất ngờ tại buổi dạ tiệc!"
+    },
+    {
+      "id": "https://www.svenskdam.se/kungligt/prinsessan-madeleine-stralar-pa-stora-festen-har-intar-hon-skansen/11670598",
+      "source": "svenskdam",
+      "title": "Prinsessan Madeleine strålar på stora festen – här intar hon Skansen!",
+      "url": "https://www.svenskdam.se/kungligt/prinsessan-madeleine-stralar-pa-stora-festen-har-intar-hon-skansen/11670598",
+      "date": "20/10/2026",
+      "publishedAt": "2026-10-20T18:48:18+02:00",
+      "type": "Kungligt",
+      "firstSeenAt": "2026-10-20T17:58:50.118Z",
+      "titleVi": "Công chúa Madeleine tỏa sáng tại bữa tiệc lớn – ở đây cô ấy lấy Skansen!"
     },
     {
       "id": "https://www.svenskdam.se/noje/beskedet-om-evelinas-28-trisslott-efter-vinsten-brinner-inne/11669491",
@@ -1307,6 +1329,39 @@
       "titleVi": "Jenny Alversjö khoe công việc mới của thành viên gia đình - trên TV4!"
     },
     {
+      "id": "https://www.svenskdam.se/kungligt/just-nu-stor-fest-pa-slottet-kungafamiljen-samlad-for-att-fira/11668348",
+      "source": "svenskdam",
+      "title": "JUST NU: Stor fest på slottet – kungafamiljen samlad för att fira",
+      "url": "https://www.svenskdam.se/kungligt/just-nu-stor-fest-pa-slottet-kungafamiljen-samlad-for-att-fira/11668348",
+      "date": "19/10/2026",
+      "publishedAt": "2026-10-19T21:13:42+02:00",
+      "type": "Kungligt",
+      "firstSeenAt": "2026-10-19T20:06:59.220Z",
+      "titleVi": "NGAY BÂY GIỜ: Bữa tiệc lớn tại lâu đài - hoàng gia tụ tập ăn mừng"
+    },
+    {
+      "id": "https://www.svenskdam.se/kungligt/prinsessan-madeleine-sjal-showen-pa-stor-fest-pa-slottet/11668262",
+      "source": "svenskdam",
+      "title": "Prinsessan Madeleine stjäl showen – på stor fest på slottet!",
+      "url": "https://www.svenskdam.se/kungligt/prinsessan-madeleine-sjal-showen-pa-stor-fest-pa-slottet/11668262",
+      "date": "19/10/2026",
+      "publishedAt": "2026-10-19T20:30:11+02:00",
+      "type": "Kungligt",
+      "firstSeenAt": "2026-10-21T00:08:49.564Z",
+      "titleVi": "Công chúa Madeleine đánh cắp chương trình – tại một bữa tiệc lớn tại lâu đài!"
+    },
+    {
+      "id": "https://www.svenskdam.se/kungligt/tunga-beskedet-till-kungens-syster-margaretha-91-fruktansvart/11666526",
+      "source": "svenskdam",
+      "title": "Tunga beskedet till kungens syster Margaretha, 91: \"Fruktansvärt\"",
+      "url": "https://www.svenskdam.se/kungligt/tunga-beskedet-till-kungens-syster-margaretha-91-fruktansvart/11666526",
+      "date": "19/10/2026",
+      "publishedAt": "2026-10-19T16:00:00+02:00",
+      "type": "Kungligt",
+      "firstSeenAt": "2026-10-19T14:27:07.194Z",
+      "titleVi": "Lời nhắn nặng nề gửi chị gái nhà vua Margaretha, 91 tuổi: “Kinh khủng”"
+    },
+    {
       "id": "https://www.svenskdam.se/kungligt/prinsessan-madeleines-etikettsbrott-pa-galamiddagen-mitt-framfor-kungen/11668636",
       "source": "svenskdam",
       "title": "Prinsessan Madeleines etikettsbrott på galamiddagen – mitt framför kungen",
@@ -1329,50 +1384,6 @@
       "titleVi": "Anders Pihlblad rơi nước mắt – quyết định với Henrik sau ngần ấy năm"
     },
     {
-      "id": "https://www.svenskdam.se/kungligt/tunga-beskedet-till-kungens-syster-margaretha-91-fruktansvart/11666526",
-      "source": "svenskdam",
-      "title": "Tunga beskedet till kungens syster Margaretha, 91: \"Fruktansvärt\"",
-      "url": "https://www.svenskdam.se/kungligt/tunga-beskedet-till-kungens-syster-margaretha-91-fruktansvart/11666526",
-      "date": "19/10/2026",
-      "publishedAt": "2026-10-19T16:00:00+02:00",
-      "type": "Kungligt",
-      "firstSeenAt": "2026-10-19T14:27:07.194Z",
-      "titleVi": "Lời nhắn nặng nề gửi chị gái nhà vua Margaretha, 91 tuổi: “Kinh khủng”"
-    },
-    {
-      "id": "https://www.svenskdam.se/kungligt/sofias-och-carl-philips-stora-small-blivit-hackade-vi-ar-ledsna/11666596",
-      "source": "svenskdam",
-      "title": "Sofia och Carl Philip har blivit hackade – prinsparets panik: \"Vi är ledsna\"",
-      "url": "https://www.svenskdam.se/kungligt/sofias-och-carl-philips-stora-small-blivit-hackade-vi-ar-ledsna/11666596",
-      "date": "19/10/2026",
-      "publishedAt": "2026-10-19T12:00:00+02:00",
-      "type": "Kungligt",
-      "firstSeenAt": "2026-10-19T14:27:07.194Z",
-      "titleVi": "Sofia và Carl Philip bị hack - cặp đôi hoàng tử hoảng hốt: \"Chúng tôi xin lỗi\""
-    },
-    {
-      "id": "https://www.svenskdam.se/kungligt/kungligt-hostmode-sa-klar-sig-vara-prinsessor/11665417",
-      "source": "svenskdam",
-      "title": "Kungligt höstmode – så klär sig våra prinsessor!",
-      "url": "https://www.svenskdam.se/kungligt/kungligt-hostmode-sa-klar-sig-vara-prinsessor/11665417",
-      "date": "18/10/2026",
-      "publishedAt": "2026-10-18T17:00:00+02:00",
-      "type": "Kungligt",
-      "firstSeenAt": "2026-10-18T16:44:19.421Z",
-      "titleVi": "Thời trang hoàng gia mùa thu – cách các nàng công chúa của chúng ta ăn mặc!"
-    },
-    {
-      "id": "https://www.svenskdam.se/kungligt/efter-kritiken-mot-kungen-och-silvia-forklaringen-fattade-inte/11665408",
-      "source": "svenskdam",
-      "title": "Efter kritiken mot kungen och Silvia – förklaringen: “'Fattade inte”",
-      "url": "https://www.svenskdam.se/kungligt/efter-kritiken-mot-kungen-och-silvia-forklaringen-fattade-inte/11665408",
-      "date": "18/10/2026",
-      "publishedAt": "2026-10-18T13:00:00+02:00",
-      "type": "Kungligt",
-      "firstSeenAt": "2026-10-18T13:26:13.452Z",
-      "titleVi": "Sau những lời chỉ trích của nhà vua và Silvia – lời giải thích: “'Không hiểu'"
-    },
-    {
       "id": "https://www.svenskdam.se/noje/benjamin-ingrosso-chockar-reportern-med-sexutspel-rod-i-ansiktet/11667298",
       "source": "svenskdam",
       "title": "Benjamin Ingrosso chockar reportern med sexutspel: \"Röd i ansiktet\"",
@@ -1393,28 +1404,6 @@
       "type": "Kungligt",
       "firstSeenAt": "2026-10-20T07:34:54.167Z",
       "titleVi": "Vẻ ngoài ma quái của Madeleine, Chris và những đứa trẻ trong lễ hội Halloween qua nhiều năm!"
-    },
-    {
-      "id": "https://www.svenskdam.se/noje/anders-ofvergard-far-lamna-programmet-efter-scenerna-i-svt-du-ar-sa-tappad/11667508",
-      "source": "svenskdam",
-      "title": "Anders Öfvergård får lämna programmet efter scenerna i SVT: \"Du är så tappad\"",
-      "url": "https://www.svenskdam.se/noje/anders-ofvergard-far-lamna-programmet-efter-scenerna-i-svt-du-ar-sa-tappad/11667508",
-      "date": "19/10/2026",
-      "publishedAt": "2026-10-19T22:00:00+02:00",
-      "type": "Nöje",
-      "firstSeenAt": "2026-10-19T20:06:59.220Z",
-      "titleVi": "Anders Öfvergård có thể rời khỏi chương trình sau những cảnh trong SVT: \"You are so lost\""
-    },
-    {
-      "id": "https://www.svenskdam.se/kungligt/just-nu-stor-fest-pa-slottet-kungafamiljen-samlad-for-att-fira/11668348",
-      "source": "svenskdam",
-      "title": "JUST NU: Stor fest på slottet – kungafamiljen samlad för att fira",
-      "url": "https://www.svenskdam.se/kungligt/just-nu-stor-fest-pa-slottet-kungafamiljen-samlad-for-att-fira/11668348",
-      "date": "19/10/2026",
-      "publishedAt": "2026-10-19T21:13:42+02:00",
-      "type": "Kungligt",
-      "firstSeenAt": "2026-10-19T20:06:59.220Z",
-      "titleVi": "NGAY BÂY GIỜ: Bữa tiệc lớn tại lâu đài - hoàng gia tụ tập ăn mừng"
     },
     {
       "id": "https://www.kongehuset.no/nyheter/ukrainas-president-i-audiens-hos-kong-haakon",
