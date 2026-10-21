@@ -1,6 +1,6 @@
 {
   "monitoringStartedAt": "2026-09-28T00:17:35.319Z",
-  "updatedAt": "2026-10-21T00:08:49.564Z",
+  "updatedAt": "2026-10-21T04:47:55.989Z",
   "sources": {
     "kongehuset": {
       "name": "Kongehuset",
@@ -33,9 +33,9 @@
       "language": "sv",
       "monitoringStartedAt": "2026-10-01T16:20:13.213Z",
       "status": {
-        "state": "ok",
-        "message": "",
-        "changedAt": "2026-10-19T23:42:43.417Z"
+        "state": "error",
+        "message": "fetch failed",
+        "changedAt": "2026-10-21T04:47:55.989Z"
       }
     },
     "svenskdam": {
@@ -57,9 +57,9 @@
       "language": "no",
       "monitoringStartedAt": "2026-10-01T16:30:06.936Z",
       "status": {
-        "state": "error",
-        "message": "The Norwegian Royal House Atom feed returned no entries",
-        "changedAt": "2026-10-21T00:08:49.564Z"
+        "state": "ok",
+        "message": "",
+        "changedAt": "2026-10-21T04:47:55.989Z"
       }
     }
   },
@@ -522,6 +522,76 @@
       "titleVi": "Nghi lễ và lên bờ chính thức từ Du thuyền Hoàng gia Dannebrog"
     },
     {
+      "id": "https://nyheder.tv2.dk/live/udland/2026-05-16-midtvejsvalg-i-usa",
+      "source": "tv2",
+      "title": "Disse delstater afgør kontrollen over Senatet",
+      "url": "https://nyheder.tv2.dk/live/udland/2026-05-16-midtvejsvalg-i-usa",
+      "date": "16/05/2026",
+      "type": "Live",
+      "firstSeenAt": "2026-10-16T21:32:07.430Z",
+      "titleVi": "Các bang này xác định quyền kiểm soát Thượng viện"
+    },
+    {
+      "id": "https://nyheder.tv2.dk/live/kort-nyt",
+      "source": "tv2",
+      "title": "Magasin advarer kunder efter sikkerhedsbrud",
+      "url": "https://nyheder.tv2.dk/live/kort-nyt",
+      "date": "—",
+      "type": "Live",
+      "firstSeenAt": "2026-09-28T00:30:42.330Z",
+      "titleVi": "Tạp chí cảnh báo khách hàng về vi phạm an ninh"
+    },
+    {
+      "id": "https://nyheder.tv2.dk/live/tech/2026-09-09-seneste-nyt-om-ai",
+      "source": "tv2",
+      "title": "Elon Musk overvejer gigantisk fusion",
+      "url": "https://nyheder.tv2.dk/live/tech/2026-09-09-seneste-nyt-om-ai",
+      "date": "09/09/2026",
+      "type": "Live",
+      "firstSeenAt": "2026-10-21T04:47:55.989Z",
+      "titleVi": "Elon Musk cân nhắc hợp nhất khổng lồ"
+    },
+    {
+      "id": "https://nyheder.tv2.dk/samfund/2026-10-20-far-frifundet-for-seksuelle-overgreb-paa-datter-nu-faar-hendes-skjulte-optagelser-politiet-til-at-reagere",
+      "source": "tv2",
+      "title": "Far frifundet for seksuelle overgreb på datter – nu får hendes skjulte optagelser politiet til at reagere",
+      "url": "https://nyheder.tv2.dk/samfund/2026-10-20-far-frifundet-for-seksuelle-overgreb-paa-datter-nu-faar-hendes-skjulte-optagelser-politiet-til-at-reagere",
+      "date": "20/10/2026",
+      "type": "Samfund",
+      "firstSeenAt": "2026-10-21T04:47:55.989Z",
+      "titleVi": "Người cha được tha bổng vì tấn công tình dục con gái – bây giờ cảnh quay ẩn của cô ấy khiến cảnh sát phản ứng"
+    },
+    {
+      "id": "https://nyheder.tv2.dk/live/2024-09-08-seneste-nyt-om-krigen-i-ukraine-70b1d6cc-0720-404e-9878-45546e1999e7",
+      "source": "tv2",
+      "title": "USA anerkender \"forsinket\" levering af Patriot-missiler",
+      "url": "https://nyheder.tv2.dk/live/2024-09-08-seneste-nyt-om-krigen-i-ukraine-70b1d6cc-0720-404e-9878-45546e1999e7",
+      "date": "08/09/2024",
+      "type": "Live",
+      "firstSeenAt": "2026-09-28T00:30:42.330Z",
+      "titleVi": "Mỹ thừa nhận \"chậm trễ\" giao tên lửa Patriot"
+    },
+    {
+      "id": "https://nyheder.tv2.dk/samfund/2026-10-20-gravid-og-paa-arbejde-nyt-studie-peger-paa-skjult-risiko",
+      "source": "tv2",
+      "title": "Gravid og på arbejde? Nyt studie peger på skjult risiko",
+      "url": "https://nyheder.tv2.dk/samfund/2026-10-20-gravid-og-paa-arbejde-nyt-studie-peger-paa-skjult-risiko",
+      "date": "20/10/2026",
+      "type": "Samfund",
+      "firstSeenAt": "2026-10-21T04:47:55.989Z",
+      "titleVi": "Mang thai và tại nơi làm việc? Nghiên cứu mới chỉ ra rủi ro tiềm ẩn"
+    },
+    {
+      "id": "https://nyheder.tv2.dk/samfund/2026-10-20-ung-kvinde-fik-klar-besked-til-jobsamtale-du-kan-ikke-taale-jargonen",
+      "source": "tv2",
+      "title": "Ung kvinde fik klar besked til jobsamtale: - Du kan ikke tåle jargonen",
+      "url": "https://nyheder.tv2.dk/samfund/2026-10-20-ung-kvinde-fik-klar-besked-til-jobsamtale-du-kan-ikke-taale-jargonen",
+      "date": "20/10/2026",
+      "type": "Samfund",
+      "firstSeenAt": "2026-10-21T04:47:55.989Z",
+      "titleVi": "Cô gái trẻ nhận được thông điệp rõ ràng cho cuộc phỏng vấn xin việc: - Bạn không thể chịu đựng được thuật ngữ"
+    },
+    {
       "id": "https://nyheder.tv2.dk/live/business/2025-03-12-seneste-nyt-fra-de-finansielle-markeder",
       "source": "tv2",
       "title": "SpaceX overgår forventninger – lufter idé om Tesla-fusion",
@@ -530,16 +600,6 @@
       "type": "Live",
       "firstSeenAt": "2026-10-21T00:08:49.564Z",
       "titleVi": "SpaceX vượt quá mong đợi – ý tưởng về việc sáp nhập Tesla"
-    },
-    {
-      "id": "https://nyheder.tv2.dk/live/kort-nyt",
-      "source": "tv2",
-      "title": "Viral dokumentar kommer til Danmark",
-      "url": "https://nyheder.tv2.dk/live/kort-nyt",
-      "date": "—",
-      "type": "Live",
-      "firstSeenAt": "2026-09-28T00:30:42.330Z",
-      "titleVi": "Phim tài liệu lan truyền đến Đan Mạch"
     },
     {
       "id": "https://nyheder.tv2.dk/live/udland/2026-10-17-optoejer-spreder-sig-i-europa",
@@ -560,16 +620,6 @@
       "type": "Live",
       "firstSeenAt": "2026-10-20T17:58:50.118Z",
       "titleVi": "Các cơ quan quốc phòng Đan Mạch bị gián điệp"
-    },
-    {
-      "id": "https://nyheder.tv2.dk/live/udland/2026-05-16-midtvejsvalg-i-usa",
-      "source": "tv2",
-      "title": "Disse delstater afgør kontrollen over Senatet",
-      "url": "https://nyheder.tv2.dk/live/udland/2026-05-16-midtvejsvalg-i-usa",
-      "date": "16/05/2026",
-      "type": "Live",
-      "firstSeenAt": "2026-10-16T21:32:07.430Z",
-      "titleVi": "Các bang này xác định quyền kiểm soát Thượng viện"
     },
     {
       "id": "https://nyheder.tv2.dk/samfund/2026-10-20-mobilfri-undervisning-kan-give-bedre-karakterer-viser-studie",
@@ -600,16 +650,6 @@
       "type": "Samfund",
       "firstSeenAt": "2026-10-20T21:31:02.671Z",
       "titleVi": "Người đi làm đã trả quá 21.000 kroner cho DSB – bạn cũng có thể bị ảnh hưởng"
-    },
-    {
-      "id": "https://nyheder.tv2.dk/live/2024-09-08-seneste-nyt-om-krigen-i-ukraine-70b1d6cc-0720-404e-9878-45546e1999e7",
-      "source": "tv2",
-      "title": "USA anerkender \"forsinket\" levering af Patriot-missiler",
-      "url": "https://nyheder.tv2.dk/live/2024-09-08-seneste-nyt-om-krigen-i-ukraine-70b1d6cc-0720-404e-9878-45546e1999e7",
-      "date": "08/09/2024",
-      "type": "Live",
-      "firstSeenAt": "2026-09-28T00:30:42.330Z",
-      "titleVi": "Mỹ thừa nhận \"chậm trễ\" giao tên lửa Patriot"
     },
     {
       "id": "https://nyheder.tv2.dk/live/udland/2026-01-08-krig-i-mellemoesten",
@@ -770,46 +810,6 @@
       "type": "Samfund",
       "firstSeenAt": "2026-10-20T13:01:05.643Z",
       "titleVi": "Một số người đặt mua đồ mang đi và quần áo giả nhưng không bao giờ được giao - và điều này hoàn toàn có chủ ý"
-    },
-    {
-      "id": "https://nyheder.tv2.dk/live/business/2026-10-20-folketingsmedlem-risikerer-konkurskarantaene",
-      "source": "tv2",
-      "title": "Afgørelse om konkurskarantæne til Jakob Harris udsat",
-      "url": "https://nyheder.tv2.dk/live/business/2026-10-20-folketingsmedlem-risikerer-konkurskarantaene",
-      "date": "20/10/2026",
-      "type": "Live",
-      "firstSeenAt": "2026-10-20T07:34:54.167Z",
-      "titleVi": "Quyết định cách ly phá sản đối với Jakob Harris bị hoãn lại"
-    },
-    {
-      "id": "https://nyheder.tv2.dk/business/2026-10-20-markant-lavere-vaekst-i-dansk-oekonomi-forudser-vismaend",
-      "source": "tv2",
-      "title": "Markant lavere vækst i dansk økonomi, forudser vismænd",
-      "url": "https://nyheder.tv2.dk/business/2026-10-20-markant-lavere-vaekst-i-dansk-oekonomi-forudser-vismaend",
-      "date": "20/10/2026",
-      "type": "Business",
-      "firstSeenAt": "2026-10-20T13:01:05.643Z",
-      "titleVi": "Các chuyên gia dự đoán tăng trưởng kinh tế Đan Mạch thấp hơn rõ rệt"
-    },
-    {
-      "id": "https://nyheder.tv2.dk/udland/2026-10-19-trump-floejens-hadeobjekt-kan-skrive-historie-men-en-paastand-forfoelger-ham-inden-valg",
-      "source": "tv2",
-      "title": "Trump-fløjens hadeobjekt kan skrive historie, men en påstand forfølger ham inden valg",
-      "url": "https://nyheder.tv2.dk/udland/2026-10-19-trump-floejens-hadeobjekt-kan-skrive-historie-men-en-paastand-forfoelger-ham-inden-valg",
-      "date": "19/10/2026",
-      "type": "Udland",
-      "firstSeenAt": "2026-10-20T13:01:05.643Z",
-      "titleVi": "Đối tượng bị ghét của cánh Trump có thể làm nên lịch sử nhưng một cáo buộc ám ảnh ông trước bầu cử"
-    },
-    {
-      "id": "https://nyheder.tv2.dk/trafik/2026-10-20-beboer-undrer-sig-over-traepael-i-fortov",
-      "source": "tv2",
-      "title": "Beboer undrer sig over træpæl i fortov",
-      "url": "https://nyheder.tv2.dk/trafik/2026-10-20-beboer-undrer-sig-over-traepael-i-fortov",
-      "date": "20/10/2026",
-      "type": "Trafik",
-      "firstSeenAt": "2026-10-20T13:01:05.643Z",
-      "titleVi": "Người dân thắc mắc cột gỗ vỉa hè"
     },
     {
       "id": "https://www.kungahuset.se/arkiv/nyheter/2026-10-19-statsbesok-fran-singapore",
@@ -1109,15 +1109,15 @@
       "titleVi": "Đáp án: Đó là lý do tại sao Công chúa Madeleine tháo vòng cổ tại buổi dạ tiệc"
     },
     {
-      "id": "https://www.svenskdam.se/noje/frida-karlssons-besked-efter-situationen-med-pojkvannen-inte-sa-bra/11670679",
+      "id": "https://www.svenskdam.se/kungligt/unika-bandet-mellan-eva-oneill-och-prinsessan-leonore-avslojas-pa-bilden/11668288",
       "source": "svenskdam",
-      "title": "Frida Karlssons besked efter situationen med pojkvännen: \"Inte så bra...\"",
-      "url": "https://www.svenskdam.se/noje/frida-karlssons-besked-efter-situationen-med-pojkvannen-inte-sa-bra/11670679",
+      "title": "Unika bandet mellan Eva O'Neill och prinsessan Leonore – avslöjas på bilden!",
+      "url": "https://www.svenskdam.se/kungligt/unika-bandet-mellan-eva-oneill-och-prinsessan-leonore-avslojas-pa-bilden/11668288",
       "date": "21/10/2026",
-      "publishedAt": "2026-10-21T00:00:00+02:00",
-      "type": "Nöje",
-      "firstSeenAt": "2026-10-21T00:08:49.564Z",
-      "titleVi": "Thông điệp của Frida Karlsson sau tình huống với bạn trai: \"Không tốt lắm...\""
+      "publishedAt": "2026-10-21T06:00:00+02:00",
+      "type": "Kungligt",
+      "firstSeenAt": "2026-10-21T04:47:55.989Z",
+      "titleVi": "Mối liên kết độc đáo giữa Eva O'Neill và Công chúa Leonore – được tiết lộ trong bức ảnh!"
     },
     {
       "id": "https://www.svenskdam.se/kungligt/norska-ingrid-alexandras-enorma-arv-formogenheten-som-vantar/10200069",
@@ -1151,6 +1151,17 @@
       "type": "Kungligt",
       "firstSeenAt": "2026-10-20T07:34:54.167Z",
       "titleVi": "Thái tử Christian, 21 tuổi, khao khát trở thành một người cha: \"Món quà đẹp nhất\""
+    },
+    {
+      "id": "https://www.svenskdam.se/noje/frida-karlssons-besked-efter-situationen-med-pojkvannen-inte-sa-bra/11670679",
+      "source": "svenskdam",
+      "title": "Frida Karlssons besked efter situationen med pojkvännen: \"Inte så bra...\"",
+      "url": "https://www.svenskdam.se/noje/frida-karlssons-besked-efter-situationen-med-pojkvannen-inte-sa-bra/11670679",
+      "date": "21/10/2026",
+      "publishedAt": "2026-10-21T00:00:00+02:00",
+      "type": "Nöje",
+      "firstSeenAt": "2026-10-21T00:08:49.564Z",
+      "titleVi": "Thông điệp của Frida Karlsson sau tình huống với bạn trai: \"Không tốt lắm...\""
     },
     {
       "id": "https://www.svenskdam.se/noje/martin-jarborg-tappar-det-efter-handelsen-i-direktsandning/11669464",
@@ -1318,26 +1329,15 @@
       "titleVi": "Người dẫn chương trình của Madeleine tiết lộ động thái trong bữa tối: \"Quay sang tôi ...\""
     },
     {
-      "id": "https://www.svenskdam.se/noje/jenny-alversjo-visar-upp-familjemedlemmens-nya-jobb-pa-tv4/11667904",
-      "source": "svenskdam",
-      "title": "Jenny Alversjö visar upp familjemedlemmens nya jobb – på TV4!",
-      "url": "https://www.svenskdam.se/noje/jenny-alversjo-visar-upp-familjemedlemmens-nya-jobb-pa-tv4/11667904",
-      "date": "20/10/2026",
-      "publishedAt": "2026-10-20T10:00:00+02:00",
-      "type": "Nöje",
-      "firstSeenAt": "2026-10-20T13:01:05.643Z",
-      "titleVi": "Jenny Alversjö khoe công việc mới của thành viên gia đình - trên TV4!"
-    },
-    {
       "id": "https://www.svenskdam.se/kungligt/just-nu-stor-fest-pa-slottet-kungafamiljen-samlad-for-att-fira/11668348",
       "source": "svenskdam",
-      "title": "JUST NU: Stor fest på slottet – kungafamiljen samlad för att fira",
+      "title": "Stor fest på slottet – kungafamiljen samlad för att fira",
       "url": "https://www.svenskdam.se/kungligt/just-nu-stor-fest-pa-slottet-kungafamiljen-samlad-for-att-fira/11668348",
       "date": "19/10/2026",
       "publishedAt": "2026-10-19T21:13:42+02:00",
       "type": "Kungligt",
       "firstSeenAt": "2026-10-19T20:06:59.220Z",
-      "titleVi": "NGAY BÂY GIỜ: Bữa tiệc lớn tại lâu đài - hoàng gia tụ tập ăn mừng"
+      "titleVi": "Bữa tiệc lớn tại lâu đài – gia đình hoàng gia tụ họp để ăn mừng"
     },
     {
       "id": "https://www.svenskdam.se/kungligt/prinsessan-madeleine-sjal-showen-pa-stor-fest-pa-slottet/11668262",
@@ -1360,6 +1360,17 @@
       "type": "Kungligt",
       "firstSeenAt": "2026-10-19T14:27:07.194Z",
       "titleVi": "Lời nhắn nặng nề gửi chị gái nhà vua Margaretha, 91 tuổi: “Kinh khủng”"
+    },
+    {
+      "id": "https://www.svenskdam.se/noje/jenny-alversjo-visar-upp-familjemedlemmens-nya-jobb-pa-tv4/11667904",
+      "source": "svenskdam",
+      "title": "Jenny Alversjö visar upp familjemedlemmens nya jobb – på TV4!",
+      "url": "https://www.svenskdam.se/noje/jenny-alversjo-visar-upp-familjemedlemmens-nya-jobb-pa-tv4/11667904",
+      "date": "20/10/2026",
+      "publishedAt": "2026-10-20T10:00:00+02:00",
+      "type": "Nöje",
+      "firstSeenAt": "2026-10-20T13:01:05.643Z",
+      "titleVi": "Jenny Alversjö khoe công việc mới của thành viên gia đình - trên TV4!"
     },
     {
       "id": "https://www.svenskdam.se/kungligt/prinsessan-madeleines-etikettsbrott-pa-galamiddagen-mitt-framfor-kungen/11668636",
@@ -1393,17 +1404,6 @@
       "type": "Nöje",
       "firstSeenAt": "2026-10-20T07:34:54.167Z",
       "titleVi": "Benjamin Ingrosso gây sốc cho phóng viên với trò chơi tình dục: \"Mặt đỏ\""
-    },
-    {
-      "id": "https://www.svenskdam.se/kungligt/madeleine-chris-och-barnens-kusliga-halloween-looks-genom-aren/11666052",
-      "source": "svenskdam",
-      "title": "Madeleine, Chris och barnens kusliga Halloween-looks genom åren!",
-      "url": "https://www.svenskdam.se/kungligt/madeleine-chris-och-barnens-kusliga-halloween-looks-genom-aren/11666052",
-      "date": "20/10/2026",
-      "publishedAt": "2026-10-20T06:00:00+02:00",
-      "type": "Kungligt",
-      "firstSeenAt": "2026-10-20T07:34:54.167Z",
-      "titleVi": "Vẻ ngoài ma quái của Madeleine, Chris và những đứa trẻ trong lễ hội Halloween qua nhiều năm!"
     },
     {
       "id": "https://www.kongehuset.no/nyheter/ukrainas-president-i-audiens-hos-kong-haakon",
