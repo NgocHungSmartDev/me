@@ -1,6 +1,6 @@
 {
   "monitoringStartedAt": "2026-09-28T00:17:35.319Z",
-  "updatedAt": "2026-10-21T22:22:08.367Z",
+  "updatedAt": "2026-10-22T00:48:46.577Z",
   "sources": {
     "kongehuset": {
       "name": "Kongehuset",
@@ -57,9 +57,9 @@
       "language": "no",
       "monitoringStartedAt": "2026-10-01T16:30:06.936Z",
       "status": {
-        "state": "error",
-        "message": "The Norwegian Royal House Atom feed returned no entries",
-        "changedAt": "2026-10-21T22:22:08.367Z"
+        "state": "ok",
+        "message": "",
+        "changedAt": "2026-10-22T00:48:46.577Z"
       }
     }
   },
