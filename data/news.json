@@ -1,6 +1,6 @@
 {
   "monitoringStartedAt": "2026-09-28T00:17:35.319Z",
-  "updatedAt": "2026-10-22T22:59:43.541Z",
+  "updatedAt": "2026-10-23T01:24:38.568Z",
   "sources": {
     "kongehuset": {
       "name": "Kongehuset",
@@ -672,6 +672,16 @@
       "titleVi": "Mỹ rút các nhà ngoại giao ra khỏi vùng Vịnh"
     },
     {
+      "id": "https://nyheder.tv2.dk/samfund/2026-10-22-bagom-skal-man-overskride-sine-graenser-i-jagten-paa-retfaerdighed",
+      "source": "tv2",
+      "title": "'Bagom': Skal man overskride sine grænser i jagten på retfærdighed?",
+      "url": "https://nyheder.tv2.dk/samfund/2026-10-22-bagom-skal-man-overskride-sine-graenser-i-jagten-paa-retfaerdighed",
+      "date": "22/10/2026",
+      "type": "Samfund",
+      "firstSeenAt": "2026-10-23T01:24:38.568Z",
+      "titleVi": "'Quá khứ': Bạn có nên vượt quá giới hạn của mình để theo đuổi công lý không?"
+    },
+    {
       "id": "https://nyheder.tv2.dk/samfund/2026-10-22-datter-afhoert-efter-skjulte-optagelser-med-far-han-skal-stoppes-siger-hun",
       "source": "tv2",
       "title": "Datter afhørt efter skjulte optagelser med far – han skal stoppes, siger hun",
@@ -800,16 +810,6 @@
       "type": "Samfund",
       "firstSeenAt": "2026-10-22T11:16:46.368Z",
       "titleVi": "Việc làm đường đã tiêu tốn của tiệm bánh 800.000 DKK"
-    },
-    {
-      "id": "https://nyheder.tv2.dk/samfund/2026-10-22-hun-var-kaek-i-sin-kritik-af-arla-og-thise-nu-har-tusinder-reageret",
-      "source": "tv2",
-      "title": "Hun var kæk i sin kritik af Arla og Thise – nu har tusinder reageret",
-      "url": "https://nyheder.tv2.dk/samfund/2026-10-22-hun-var-kaek-i-sin-kritik-af-arla-og-thise-nu-har-tusinder-reageret",
-      "date": "22/10/2026",
-      "type": "Samfund",
-      "firstSeenAt": "2026-10-22T11:16:46.368Z",
-      "titleVi": "Cô ấy đã mạnh dạn chỉ trích Arla và Thise - giờ hàng nghìn người đã phản ứng"
     },
     {
       "id": "https://www.kungahuset.se/arkiv/nyheter/2026-10-22-kronprinsessan-besokte-mammografiklinik",
@@ -1307,15 +1307,15 @@
       "titleVi": "Caroline Ravn đã thay đổi cuộc đời - giờ cô xuất hiện trong \"The Traitors\" của TV4"
     },
     {
-      "id": "https://www.svenskdam.se/noje/bekraftar-osakert-med-julvardens-framtid-i-svt/11669202",
+      "id": "https://www.svenskdam.se/noje/krister-henrikssons-avsked-till-hustrun-har-flyttat-ut-efter-41-ar-ihop/11671563",
       "source": "svenskdam",
-      "title": "Bekräftar: Osäkert med julvärdens framtid i SVT",
-      "url": "https://www.svenskdam.se/noje/bekraftar-osakert-med-julvardens-framtid-i-svt/11669202",
+      "title": "Krister Henrikssons avsked till hustrun – har flyttat ut efter 41 år ihop",
+      "url": "https://www.svenskdam.se/noje/krister-henrikssons-avsked-till-hustrun-har-flyttat-ut-efter-41-ar-ihop/11671563",
       "date": "21/10/2026",
-      "publishedAt": "2026-10-21T09:00:00+02:00",
+      "publishedAt": "2026-10-21T20:00:00+02:00",
       "type": "Nöje",
-      "firstSeenAt": "2026-10-21T09:51:27.659Z",
-      "titleVi": "Xác nhận: Không chắc chắn về tương lai của chủ nhà Giáng sinh trên SVT"
+      "firstSeenAt": "2026-10-23T01:24:38.568Z",
+      "titleVi": "Krister Henriksson tạm biệt vợ – đã chuyển đi sau 41 năm bên nhau"
     },
     {
       "id": "https://www.svenskdam.se/noje/arash-far-inte-behalla-trisspengarna-efter-beteendet-bakom-kulisserna/11671241",
@@ -1329,26 +1329,26 @@
       "titleVi": "Arash không được phép giữ tiền đái – sau hành vi đằng sau hậu trường"
     },
     {
-      "id": "https://www.svenskdam.se/kungligt/prinsessan-madeleines-festkvall-med-danny-saucedo/11670692",
+      "id": "https://www.svenskdam.se/noje/bathina-philipson-bekraftar-lyckan-jattefin-relation/11667819",
       "source": "svenskdam",
-      "title": "Prinsessan Madeleines festkväll med Danny Saucedo",
-      "url": "https://www.svenskdam.se/kungligt/prinsessan-madeleines-festkvall-med-danny-saucedo/11670692",
+      "title": "Bathina Philipson bekräftar lyckan: ”Jättefin relation”",
+      "url": "https://www.svenskdam.se/noje/bathina-philipson-bekraftar-lyckan-jattefin-relation/11667819",
       "date": "21/10/2026",
-      "publishedAt": "2026-10-21T02:00:07+02:00",
-      "type": "Kungligt",
-      "firstSeenAt": "2026-10-21T00:08:49.564Z",
-      "titleVi": "Bữa tiệc của công chúa Madeleine với Danny Saucedo"
+      "publishedAt": "2026-10-21T18:00:00+02:00",
+      "type": "Nöje",
+      "firstSeenAt": "2026-10-23T01:24:38.568Z",
+      "titleVi": "Bathina Philipson khẳng định niềm hạnh phúc của mình: \"Mối quan hệ tuyệt vời\""
     },
     {
-      "id": "https://www.svenskdam.se/kungligt/misstankarna-om-silvia-82-bekraftas-av-presidentens-nedskrivna-ord/11670863",
+      "id": "https://www.svenskdam.se/kungligt/uppbrottet-skakar-furstefamiljen-i-monaco-har-gatt-skilda-vagar/11669617",
       "source": "svenskdam",
-      "title": "Misstankarna om Silvia bekräftas – av presidentens antecknade ord",
-      "url": "https://www.svenskdam.se/kungligt/misstankarna-om-silvia-82-bekraftas-av-presidentens-nedskrivna-ord/11670863",
+      "title": "Uppbrottet skakar furstefamiljen i Monaco – har gått skilda vägar",
+      "url": "https://www.svenskdam.se/kungligt/uppbrottet-skakar-furstefamiljen-i-monaco-har-gatt-skilda-vagar/11669617",
       "date": "21/10/2026",
-      "publishedAt": "2026-10-21T10:00:00+02:00",
+      "publishedAt": "2026-10-21T11:00:00+02:00",
       "type": "Kungligt",
-      "firstSeenAt": "2026-10-21T09:51:27.659Z",
-      "titleVi": "Những nghi ngờ về Silvia được xác nhận – bằng những lời được ghi lại của Chủ tịch"
+      "firstSeenAt": "2026-10-23T01:24:38.568Z",
+      "titleVi": "Cuộc chia tay làm rung chuyển gia đình hoàng gia ở Monaco – đã đi theo con đường riêng của họ"
     },
     {
       "id": "https://www.svenskdam.se/kungligt/kronprinsessan-victoria-lider-av-ovanlig-diagnos-egna-orden-mycket-svart/11671805",
