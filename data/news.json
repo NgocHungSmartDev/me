@@ -1,6 +1,6 @@
 {
   "monitoringStartedAt": "2026-09-28T00:17:35.319Z",
-  "updatedAt": "2026-10-23T23:08:52.783Z",
+  "updatedAt": "2026-10-24T01:35:38.847Z",
   "sources": {
     "kongehuset": {
       "name": "Kongehuset",
@@ -33,9 +33,9 @@
       "language": "sv",
       "monitoringStartedAt": "2026-10-01T16:20:13.213Z",
       "status": {
-        "state": "error",
-        "message": "fetch failed",
-        "changedAt": "2026-10-23T23:08:52.783Z"
+        "state": "ok",
+        "message": "",
+        "changedAt": "2026-10-24T01:35:38.847Z"
       }
     },
     "svenskdam": {
@@ -1285,15 +1285,15 @@
       "titleVi": "Ingrid Alexandra rơi nước mắt trong bữa tối – thể hiện cảm xúc của mình"
     },
     {
-      "id": "https://www.svenskdam.se/kungligt/du-bara-maste-se-drottning-silvias-bakgrundsbild-pa-mobilen-smalter/11672745",
+      "id": "https://www.svenskdam.se/noje/bjorn-hellbergs-fru-drabbad-av-stroke-hoppas-pa-det-basta/11673795",
       "source": "svenskdam",
-      "title": "Du bara MÅSTE se drottning Silvias bakgrundsbild på mobilen: \"Smälter!\"",
-      "url": "https://www.svenskdam.se/kungligt/du-bara-maste-se-drottning-silvias-bakgrundsbild-pa-mobilen-smalter/11672745",
+      "title": "Björn Hellbergs fru drabbad av stroke: \"Hoppas på det bästa\"",
+      "url": "https://www.svenskdam.se/noje/bjorn-hellbergs-fru-drabbad-av-stroke-hoppas-pa-det-basta/11673795",
       "date": "22/10/2026",
-      "publishedAt": "2026-10-22T12:00:00+02:00",
-      "type": "Kungligt",
-      "firstSeenAt": "2026-10-22T11:16:46.368Z",
-      "titleVi": "Bạn chỉ cần xem hình nền của Nữ hoàng Silvia trên điện thoại di động: \"Tan chảy!\""
+      "publishedAt": "2026-10-22T14:14:29+02:00",
+      "type": "Nöje",
+      "firstSeenAt": "2026-10-24T01:35:38.847Z",
+      "titleVi": "Vợ của Björn Hellberg bị đột quỵ: \"Hy vọng điều tốt nhất\""
     },
     {
       "id": "https://www.svenskdam.se/noje/krister-henrikssons-avsked-till-hustrun-har-flyttat-ut-efter-41-ar-ihop/11671563",
@@ -1318,15 +1318,15 @@
       "titleVi": "Arash không được phép giữ tiền đái – sau hành vi đằng sau hậu trường"
     },
     {
-      "id": "https://www.svenskdam.se/noje/bathina-philipson-bekraftar-lyckan-jattefin-relation/11667819",
+      "id": "https://www.svenskdam.se/noje/anders-pihlblad-i-tarar-beslutet-med-henrik-efter-alla-ar/11666827",
       "source": "svenskdam",
-      "title": "Bathina Philipson bekräftar lyckan: ”Jättefin relation”",
-      "url": "https://www.svenskdam.se/noje/bathina-philipson-bekraftar-lyckan-jattefin-relation/11667819",
-      "date": "21/10/2026",
-      "publishedAt": "2026-10-21T18:00:00+02:00",
+      "title": "Anders Pihlblad i tårar – beslutet med Henrik efter alla år",
+      "url": "https://www.svenskdam.se/noje/anders-pihlblad-i-tarar-beslutet-med-henrik-efter-alla-ar/11666827",
+      "date": "20/10/2026",
+      "publishedAt": "2026-10-20T09:00:00+02:00",
       "type": "Nöje",
-      "firstSeenAt": "2026-10-23T01:24:38.568Z",
-      "titleVi": "Bathina Philipson khẳng định niềm hạnh phúc của mình: \"Mối quan hệ tuyệt vời\""
+      "firstSeenAt": "2026-10-24T01:35:38.847Z",
+      "titleVi": "Anders Pihlblad rơi nước mắt – quyết định với Henrik sau ngần ấy năm"
     },
     {
       "id": "https://www.svenskdam.se/noje/os-hjalten-anna-lindberg-och-maken-har-flyttat-isar-hander-saker-i-livet/11671939",
