@@ -1,6 +1,6 @@
 {
   "monitoringStartedAt": "2026-09-28T00:17:35.319Z",
-  "updatedAt": "2026-10-24T20:20:45.749Z",
+  "updatedAt": "2026-10-24T22:39:09.351Z",
   "sources": {
     "kongehuset": {
       "name": "Kongehuset",
@@ -57,9 +57,9 @@
       "language": "no",
       "monitoringStartedAt": "2026-10-01T16:30:06.936Z",
       "status": {
-        "state": "error",
-        "message": "The Norwegian Royal House Atom feed returned no entries",
-        "changedAt": "2026-10-24T20:20:45.749Z"
+        "state": "ok",
+        "message": "",
+        "changedAt": "2026-10-24T22:39:09.351Z"
       }
     }
   },
@@ -522,6 +522,36 @@
       "titleVi": "Giải thưởng Nghiên cứu của Hiệp hội Alzheimer và Quỹ Nghiên cứu Alzheimer năm 2026"
     },
     {
+      "id": "https://nyheder.tv2.dk/live/kort-nyt",
+      "source": "tv2",
+      "title": "Houthi-bevægelsen truer igen lufthavn i Riyadh",
+      "url": "https://nyheder.tv2.dk/live/kort-nyt",
+      "date": "—",
+      "type": "Live",
+      "firstSeenAt": "2026-09-28T00:30:42.330Z",
+      "titleVi": "Phong trào Houthi một lần nữa đe dọa sân bay Riyadh"
+    },
+    {
+      "id": "https://nyheder.tv2.dk/live/udland/2026-10-17-optoejer-spreder-sig-i-europa",
+      "source": "tv2",
+      "title": "Italiensk politi har udført ransagninger i flere byer",
+      "url": "https://nyheder.tv2.dk/live/udland/2026-10-17-optoejer-spreder-sig-i-europa",
+      "date": "17/10/2026",
+      "type": "Live",
+      "firstSeenAt": "2026-10-21T22:22:08.367Z",
+      "titleVi": "Cảnh sát Ý đã tiến hành khám xét ở một số thành phố"
+    },
+    {
+      "id": "https://nyheder.tv2.dk/live/udland/2026-05-16-midtvejsvalg-i-usa",
+      "source": "tv2",
+      "title": "Trump-administrationen forsøger at blokere potentielt valgresultat",
+      "url": "https://nyheder.tv2.dk/live/udland/2026-05-16-midtvejsvalg-i-usa",
+      "date": "16/05/2026",
+      "type": "Live",
+      "firstSeenAt": "2026-10-16T21:32:07.430Z",
+      "titleVi": "Chính quyền Trump đang cố gắng ngăn chặn kết quả bầu cử tiềm năng"
+    },
+    {
       "id": "https://nyheder.tv2.dk/samfund/2026-10-24-hans-oliefyr-er-tomt-nu-venter-han-paa-et-mirakel",
       "source": "tv2",
       "title": "Hans oliefyr er tomt – nu venter han på et mirakel",
@@ -552,26 +582,6 @@
       "titleVi": "Lực lượng Israel trục xuất hàng trăm gia đình sau khi nổ súng"
     },
     {
-      "id": "https://nyheder.tv2.dk/live/udland/2026-10-17-optoejer-spreder-sig-i-europa",
-      "source": "tv2",
-      "title": "Italiensk politi har udført ransagninger i flere byer",
-      "url": "https://nyheder.tv2.dk/live/udland/2026-10-17-optoejer-spreder-sig-i-europa",
-      "date": "17/10/2026",
-      "type": "Live",
-      "firstSeenAt": "2026-10-21T22:22:08.367Z",
-      "titleVi": "Cảnh sát Ý đã tiến hành khám xét ở một số thành phố"
-    },
-    {
-      "id": "https://nyheder.tv2.dk/live/kort-nyt",
-      "source": "tv2",
-      "title": "Mindst 40 dræbt i angreb i det nordøstlige Nigeria",
-      "url": "https://nyheder.tv2.dk/live/kort-nyt",
-      "date": "—",
-      "type": "Live",
-      "firstSeenAt": "2026-09-28T00:30:42.330Z",
-      "titleVi": "Ít nhất 40 người thiệt mạng trong vụ tấn công ở đông bắc Nigeria"
-    },
-    {
       "id": "https://nyheder.tv2.dk/live/udland/2026-01-08-krig-i-mellemoesten",
       "source": "tv2",
       "title": "USA trækker diplomater ud af golfen",
@@ -580,16 +590,6 @@
       "type": "Live",
       "firstSeenAt": "2026-10-24T11:30:02.206Z",
       "titleVi": "Mỹ rút các nhà ngoại giao ra khỏi vùng Vịnh"
-    },
-    {
-      "id": "https://nyheder.tv2.dk/live/udland/2026-05-16-midtvejsvalg-i-usa",
-      "source": "tv2",
-      "title": "Trump-administrationen forsøger at blokere potentielt valgresultat",
-      "url": "https://nyheder.tv2.dk/live/udland/2026-05-16-midtvejsvalg-i-usa",
-      "date": "16/05/2026",
-      "type": "Live",
-      "firstSeenAt": "2026-10-16T21:32:07.430Z",
-      "titleVi": "Chính quyền Trump đang cố gắng ngăn chặn kết quả bầu cử tiềm năng"
     },
     {
       "id": "https://nyheder.tv2.dk/live/2024-09-08-seneste-nyt-om-krigen-i-ukraine-70b1d6cc-0720-404e-9878-45546e1999e7",
