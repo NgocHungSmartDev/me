@@ -1,6 +1,6 @@
 {
   "monitoringStartedAt": "2026-09-28T00:17:35.319Z",
-  "updatedAt": "2026-10-24T22:39:09.351Z",
+  "updatedAt": "2026-10-25T05:20:33.939Z",
   "sources": {
     "kongehuset": {
       "name": "Kongehuset",
@@ -522,16 +522,6 @@
       "titleVi": "Giải thưởng Nghiên cứu của Hiệp hội Alzheimer và Quỹ Nghiên cứu Alzheimer năm 2026"
     },
     {
-      "id": "https://nyheder.tv2.dk/live/kort-nyt",
-      "source": "tv2",
-      "title": "Houthi-bevægelsen truer igen lufthavn i Riyadh",
-      "url": "https://nyheder.tv2.dk/live/kort-nyt",
-      "date": "—",
-      "type": "Live",
-      "firstSeenAt": "2026-09-28T00:30:42.330Z",
-      "titleVi": "Phong trào Houthi một lần nữa đe dọa sân bay Riyadh"
-    },
-    {
       "id": "https://nyheder.tv2.dk/live/udland/2026-10-17-optoejer-spreder-sig-i-europa",
       "source": "tv2",
       "title": "Italiensk politi har udført ransagninger i flere byer",
@@ -540,6 +530,36 @@
       "type": "Live",
       "firstSeenAt": "2026-10-21T22:22:08.367Z",
       "titleVi": "Cảnh sát Ý đã tiến hành khám xét ở một số thành phố"
+    },
+    {
+      "id": "https://nyheder.tv2.dk/live/kort-nyt",
+      "source": "tv2",
+      "title": "Politi finder store mængder overgrebsmateriale af børn hos Meghans far",
+      "url": "https://nyheder.tv2.dk/live/kort-nyt",
+      "date": "—",
+      "type": "Live",
+      "firstSeenAt": "2026-09-28T00:30:42.330Z",
+      "titleVi": "Cảnh sát tìm thấy một lượng lớn tài liệu lạm dụng trẻ em tại nhà của cha Meghan"
+    },
+    {
+      "id": "https://nyheder.tv2.dk/udland/2026-10-24-tidligere-militaergeneral-udfordrer-netanyahu",
+      "source": "tv2",
+      "title": "Tidligere militærgeneral udfordrer Netanyahu",
+      "url": "https://nyheder.tv2.dk/udland/2026-10-24-tidligere-militaergeneral-udfordrer-netanyahu",
+      "date": "24/10/2026",
+      "type": "Udland",
+      "firstSeenAt": "2026-10-25T05:20:33.939Z",
+      "titleVi": "Cựu tướng quân đội thách thức Netanyahu"
+    },
+    {
+      "id": "https://nyheder.tv2.dk/live/2025-01-06-kampen-om-groenlands-fremtid",
+      "source": "tv2",
+      "title": "Trump planlagde aldrig at angribe Grønland, siger han",
+      "url": "https://nyheder.tv2.dk/live/2025-01-06-kampen-om-groenlands-fremtid",
+      "date": "06/01/2025",
+      "type": "Live",
+      "firstSeenAt": "2026-10-25T05:20:33.939Z",
+      "titleVi": "Trump không bao giờ lên kế hoạch tấn công Greenland, ông nói"
     },
     {
       "id": "https://nyheder.tv2.dk/live/udland/2026-05-16-midtvejsvalg-i-usa",
@@ -790,26 +810,6 @@
       "type": "Live",
       "firstSeenAt": "2026-10-23T11:56:11.998Z",
       "titleVi": "Những người Ukraine bị buộc tội trong vụ án gián điệp được phát hành"
-    },
-    {
-      "id": "https://nyheder.tv2.dk/live/tech/2026-10-07-cyberangreb-rammer-danmark",
-      "source": "tv2",
-      "title": "Københavns Universitet hacket – 525.000 personer kan være berørt",
-      "url": "https://nyheder.tv2.dk/live/tech/2026-10-07-cyberangreb-rammer-danmark",
-      "date": "07/10/2026",
-      "type": "Live",
-      "firstSeenAt": "2026-10-23T20:06:53.777Z",
-      "titleVi": "Đại học Copenhagen bị tấn công – 525.000 người có thể bị ảnh hưởng"
-    },
-    {
-      "id": "https://nyheder.tv2.dk/udland/2026-10-23-macron-kalder-skyderi-i-frankrig-for-racistisk-terrorangreb",
-      "source": "tv2",
-      "title": "Macron kalder skyderi i Frankrig for racistisk terrorangreb",
-      "url": "https://nyheder.tv2.dk/udland/2026-10-23-macron-kalder-skyderi-i-frankrig-for-racistisk-terrorangreb",
-      "date": "23/10/2026",
-      "type": "Udland",
-      "firstSeenAt": "2026-10-23T20:06:53.777Z",
-      "titleVi": "Macron gọi vụ nổ súng ở Pháp là một cuộc tấn công khủng bố phân biệt chủng tộc"
     },
     {
       "id": "https://www.kungahuset.se/arkiv/nyheter/2026-10-22-kronprinsessan-besokte-mammografiklinik",
@@ -1305,28 +1305,6 @@
       "type": "Nöje",
       "firstSeenAt": "2026-10-22T19:54:22.361Z",
       "titleVi": "Let's Dance profile's child happiness with love: \"Lòng biết ơn\""
-    },
-    {
-      "id": "https://www.svenskdam.se/noje/krister-henrikssons-avsked-till-hustrun-har-flyttat-ut-efter-41-ar-ihop/11671563",
-      "source": "svenskdam",
-      "title": "Krister Henrikssons avsked till hustrun – har flyttat ut efter 41 år ihop",
-      "url": "https://www.svenskdam.se/noje/krister-henrikssons-avsked-till-hustrun-har-flyttat-ut-efter-41-ar-ihop/11671563",
-      "date": "21/10/2026",
-      "publishedAt": "2026-10-21T20:00:00+02:00",
-      "type": "Nöje",
-      "firstSeenAt": "2026-10-23T01:24:38.568Z",
-      "titleVi": "Krister Henriksson tạm biệt vợ – đã chuyển đi sau 41 năm bên nhau"
-    },
-    {
-      "id": "https://www.svenskdam.se/noje/arash-far-inte-behalla-trisspengarna-efter-beteendet-bakom-kulisserna/11671241",
-      "source": "svenskdam",
-      "title": "Arash får inte behålla trisspengarna – efter beteendet bakom kulisserna",
-      "url": "https://www.svenskdam.se/noje/arash-far-inte-behalla-trisspengarna-efter-beteendet-bakom-kulisserna/11671241",
-      "date": "21/10/2026",
-      "publishedAt": "2026-10-21T13:00:00+02:00",
-      "type": "Nöje",
-      "firstSeenAt": "2026-10-21T14:53:43.608Z",
-      "titleVi": "Arash không được phép giữ tiền đái – sau hành vi đằng sau hậu trường"
     },
     {
       "id": "https://www.svenskdam.se/noje/sanna-nielsens-besked-beslutet-med-sambon-kan-knappt-skriva-det/11673323",
