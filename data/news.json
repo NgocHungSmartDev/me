@@ -1,6 +1,6 @@
 {
   "monitoringStartedAt": "2026-09-28T00:17:35.319Z",
-  "updatedAt": "2026-10-26T23:15:03.800Z",
+  "updatedAt": "2026-10-27T02:08:59.295Z",
   "sources": {
     "kongehuset": {
       "name": "Kongehuset",
@@ -57,9 +57,9 @@
       "language": "no",
       "monitoringStartedAt": "2026-10-01T16:30:06.936Z",
       "status": {
-        "state": "error",
-        "message": "The Norwegian Royal House Atom feed returned no entries",
-        "changedAt": "2026-10-26T23:15:03.800Z"
+        "state": "ok",
+        "message": "",
+        "changedAt": "2026-10-27T02:08:59.295Z"
       }
     }
   },
@@ -524,12 +524,12 @@
     {
       "id": "https://nyheder.tv2.dk/live/udland/2026-05-16-midtvejsvalg-i-usa",
       "source": "tv2",
-      "title": "Trump vil give én million dollars til alle med tip om valgsvindel",
+      "title": "Trump reagerer på Obamas \"Cheesecake\"-hån",
       "url": "https://nyheder.tv2.dk/live/udland/2026-05-16-midtvejsvalg-i-usa",
       "date": "16/05/2026",
       "type": "Live",
       "firstSeenAt": "2026-10-16T21:32:07.430Z",
-      "titleVi": "Trump sẽ tặng 1 triệu đô la cho bất kỳ ai có tiền boa về gian lận cử tri"
+      "titleVi": "Trump phản ứng với sự nhạo báng \"Bánh phô mai\" của Obama"
     },
     {
       "id": "https://nyheder.tv2.dk/live/kort-nyt",
@@ -1285,26 +1285,26 @@
       "titleVi": "Sự mặc khải về công chúa gợi lên những phản ứng mạnh mẽ: \"Cô ấy thật...\""
     },
     {
-      "id": "https://www.svenskdam.se/kungligt/nya-bakslaget-for-mette-marit-darfor-stams-hennes-bror/11676562",
+      "id": "https://www.svenskdam.se/noje/kristin-kaspersen-visar-upp-relationen-med-tv-profilen-mitt-hem/11675371",
       "source": "svenskdam",
-      "title": "Nya bakslaget för Mette-Marit – därför stäms hennes bror",
-      "url": "https://www.svenskdam.se/kungligt/nya-bakslaget-for-mette-marit-darfor-stams-hennes-bror/11676562",
-      "date": "24/10/2026",
-      "publishedAt": "2026-10-24T21:00:00+02:00",
-      "type": "Kungligt",
-      "firstSeenAt": "2026-10-24T20:20:45.749Z",
-      "titleVi": "Thất bại mới cho Mette-Marit – tại sao anh trai cô bị kiện"
+      "title": "Kristin Kaspersen visar upp relationen med tv-profilen: “Mitt hem”",
+      "url": "https://www.svenskdam.se/noje/kristin-kaspersen-visar-upp-relationen-med-tv-profilen-mitt-hem/11675371",
+      "date": "25/10/2026",
+      "publishedAt": "2026-10-25T18:00:00+01:00",
+      "type": "Nöje",
+      "firstSeenAt": "2026-10-27T02:08:59.295Z",
+      "titleVi": "Kristin Kaspersen cho thấy mối quan hệ với hồ sơ truyền hình: “Nhà của tôi”"
     },
     {
-      "id": "https://www.svenskdam.se/noje/desires-nya-beslut-manader-efter-brollopet-med-duplantis/11674215",
+      "id": "https://www.svenskdam.se/noje/lina-hedlunds-beslut-med-nassim-efter-17-ar-ihop-vi-kommer/11675411",
       "source": "svenskdam",
-      "title": "Desirés nya beslut – månader efter bröllopet med Duplantis",
-      "url": "https://www.svenskdam.se/noje/desires-nya-beslut-manader-efter-brollopet-med-duplantis/11674215",
-      "date": "24/10/2026",
-      "publishedAt": "2026-10-24T10:00:00+02:00",
+      "title": "Lina Hedlunds beslut med Nassim – efter 17 år ihop: ”Vi kommer...”",
+      "url": "https://www.svenskdam.se/noje/lina-hedlunds-beslut-med-nassim-efter-17-ar-ihop-vi-kommer/11675411",
+      "date": "25/10/2026",
+      "publishedAt": "2026-10-25T12:00:00+01:00",
       "type": "Nöje",
-      "firstSeenAt": "2026-10-24T11:30:02.206Z",
-      "titleVi": "Quyết định mới của Desiré – vài tháng sau đám cưới của cô với Duplantis"
+      "firstSeenAt": "2026-10-27T02:08:59.295Z",
+      "titleVi": "Quyết định của Lina Hedlund với Nassim – sau 17 năm bên nhau: \"Chúng ta sẽ...\""
     },
     {
       "id": "https://www.svenskdam.se/noje/lina-hedlund-bekraftar-nya-lyckan-ar-total-alltid-alskat/11673659",
@@ -1316,17 +1316,6 @@
       "type": "Nöje",
       "firstSeenAt": "2026-10-24T11:30:02.206Z",
       "titleVi": "Lina Hedlund xác nhận mới – hạnh phúc trọn vẹn: \"Luôn được yêu thương\""
-    },
-    {
-      "id": "https://www.svenskdam.se/noje/peter-habers-ord-om-beslutet-med-karleken-efter-38-ar-ihop/11673801",
-      "source": "svenskdam",
-      "title": "Peter Habers ord om beslutet med kärleken – efter 38 år ihop",
-      "url": "https://www.svenskdam.se/noje/peter-habers-ord-om-beslutet-med-karleken-efter-38-ar-ihop/11673801",
-      "date": "24/10/2026",
-      "publishedAt": "2026-10-24T16:00:00+02:00",
-      "type": "Nöje",
-      "firstSeenAt": "2026-10-24T14:48:41.292Z",
-      "titleVi": "Những lời của Peter Haber về quyết định với tình yêu – sau 38 năm bên nhau"
     },
     {
       "id": "https://www.svenskdam.se/noje/sanna-nielsen-bekraftar-barnlyckan-vill-stanna-tiden/11676999",
