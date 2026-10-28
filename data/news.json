@@ -1,6 +1,6 @@
 {
   "monitoringStartedAt": "2026-09-28T00:17:35.319Z",
-  "updatedAt": "2026-10-28T08:52:06.949Z",
+  "updatedAt": "2026-10-28T15:45:15.380Z",
   "sources": {
     "kongehuset": {
       "name": "Kongehuset",
@@ -57,9 +57,9 @@
       "language": "no",
       "monitoringStartedAt": "2026-10-01T16:30:06.936Z",
       "status": {
-        "state": "ok",
-        "message": "",
-        "changedAt": "2026-10-28T02:15:49.240Z"
+        "state": "error",
+        "message": "The Norwegian Royal House Atom feed returned no entries",
+        "changedAt": "2026-10-28T15:45:15.380Z"
       }
     }
   },
@@ -71,6 +71,16 @@
     }
   },
   "articles": [
+    {
+      "id": "https://www.kongehuset.dk/foto-video/modtagelse-af-repraesentanter-fra-bibelselskabet-vedroerende-ny-bibeloversaettelse",
+      "source": "kongehuset",
+      "title": "Modtagelse af repræsentanter fra Bibelselskabet vedrørende ny bibeloversættelse",
+      "url": "https://www.kongehuset.dk/foto-video/modtagelse-af-repraesentanter-fra-bibelselskabet-vedroerende-ny-bibeloversaettelse",
+      "date": "28. oktober 2026",
+      "type": "Galleri",
+      "firstSeenAt": "2026-10-28T15:45:15.380Z",
+      "titleVi": "Tiếp nhận các đại diện từ Hội Kinh Thánh liên quan đến bản dịch Kinh Thánh mới"
+    },
     {
       "id": "https://www.kongehuset.dk/foto-video/h-m-dronning-margrethe-markerede-25-aars-jubilaeum-som-kostumedesigner-og-scenograf-i-tivoli",
       "source": "kongehuset",
@@ -512,44 +522,24 @@
       "titleVi": "HM Nữ hoàng đã tham gia lễ kỷ niệm 10 năm thành lập Antibulli của Quỹ Mary"
     },
     {
-      "id": "https://www.kongehuset.dk/foto-video/undervisningsprisen-2026",
-      "source": "kongehuset",
-      "title": "Undervisningsprisen 2026",
-      "url": "https://www.kongehuset.dk/foto-video/undervisningsprisen-2026",
-      "date": "22. september 2026",
-      "type": "Galleri",
-      "firstSeenAt": "2026-09-28T00:17:35.319Z",
-      "titleVi": "Giải thưởng Giảng dạy 2026"
-    },
-    {
-      "id": "https://nyheder.tv2.dk/live/2026-10-28-to-hoejhastighedstog-er-stoedt-sammen-i-spanien",
-      "source": "tv2",
-      "title": "To højhastighedstog er stødt sammen i Spanien",
-      "url": "https://nyheder.tv2.dk/live/2026-10-28-to-hoejhastighedstog-er-stoedt-sammen-i-spanien",
-      "date": "28/10/2026",
-      "type": "Live",
-      "firstSeenAt": "2026-10-28T08:52:06.949Z",
-      "titleVi": "Hai tàu cao tốc va chạm ở Tây Ban Nha"
-    },
-    {
-      "id": "https://nyheder.tv2.dk/live/krimi/2026-10-28-65-aarig-far-sigtet-for-incest-og-voldtaegt-efter-tv-2-dokumentar",
-      "source": "tv2",
-      "title": "65-årig far fra TV 2-dokumentar sigtet for incest – nægter sig skyldig",
-      "url": "https://nyheder.tv2.dk/live/krimi/2026-10-28-65-aarig-far-sigtet-for-incest-og-voldtaegt-efter-tv-2-dokumentar",
-      "date": "28/10/2026",
-      "type": "Live",
-      "firstSeenAt": "2026-10-28T08:52:06.949Z",
-      "titleVi": "Người cha 65 tuổi trong phim tài liệu TV 2 bị buộc tội loạn luân - không nhận tội"
-    },
-    {
       "id": "https://nyheder.tv2.dk/live/kort-nyt",
       "source": "tv2",
-      "title": "Freuds danske efterkommere sætter hans breve på auktion",
+      "title": "Alle produkter fra bageri med gnaverekskrementer tilbagekaldes",
       "url": "https://nyheder.tv2.dk/live/kort-nyt",
       "date": "—",
       "type": "Live",
       "firstSeenAt": "2026-09-28T00:30:42.330Z",
-      "titleVi": "Con cháu người Đan Mạch của Freud đang đem những bức thư của ông ra bán đấu giá"
+      "titleVi": "Tất cả các sản phẩm từ tiệm bánh có phân động vật gặm nhấm đều bị thu hồi"
+    },
+    {
+      "id": "https://nyheder.tv2.dk/live/udland/2026-10-28-to-hoejhastighedstog-er-stoedt-sammen-i-spanien",
+      "source": "tv2",
+      "title": "To højhastighedstog er stødt sammen i Spanien",
+      "url": "https://nyheder.tv2.dk/live/udland/2026-10-28-to-hoejhastighedstog-er-stoedt-sammen-i-spanien",
+      "date": "28/10/2026",
+      "type": "Live",
+      "firstSeenAt": "2026-10-28T15:45:15.380Z",
+      "titleVi": "Hai đoàn tàu cao tốc đã va chạm ở Tây Ban Nha"
     },
     {
       "id": "https://nyheder.tv2.dk/live/2024-09-08-seneste-nyt-om-krigen-i-ukraine-70b1d6cc-0720-404e-9878-45546e1999e7",
@@ -562,24 +552,34 @@
       "titleVi": "Phương Tây là \"trò cười cho cả thế giới\", Zakharova nói sau những lời chỉ trích của Mette Frederiksen"
     },
     {
+      "id": "https://nyheder.tv2.dk/live/tech/2026-10-07-cyberangreb-rammer-danmark",
+      "source": "tv2",
+      "title": "Københavns Universitet hacket igen",
+      "url": "https://nyheder.tv2.dk/live/tech/2026-10-07-cyberangreb-rammer-danmark",
+      "date": "07/10/2026",
+      "type": "Live",
+      "firstSeenAt": "2026-10-28T15:45:15.380Z",
+      "titleVi": "Đại học Copenhagen lại bị hack"
+    },
+    {
       "id": "https://nyheder.tv2.dk/live/udland/2026-10-26-valg-i-israel",
       "source": "tv2",
-      "title": "Valgstederne er lukket – ingen klar vinder i exitpolls",
+      "title": "Israels præsident opfordrer til at undgå nyvalg",
       "url": "https://nyheder.tv2.dk/live/udland/2026-10-26-valg-i-israel",
       "date": "26/10/2026",
       "type": "Live",
       "firstSeenAt": "2026-10-26T13:14:31.715Z",
-      "titleVi": "Trạm bỏ phiếu đã đóng cửa – không có người chiến thắng rõ ràng trong các cuộc thăm dò ý kiến"
+      "titleVi": "Tổng thống Israel kêu gọi tránh các cuộc bầu cử mới"
     },
     {
-      "id": "https://nyheder.tv2.dk/samfund/2026-10-27-hvor-mange-koen-findes-der",
+      "id": "https://nyheder.tv2.dk/live/business/2025-03-12-seneste-nyt-fra-de-finansielle-markeder",
       "source": "tv2",
-      "title": "Hvor mange køn findes der?",
-      "url": "https://nyheder.tv2.dk/samfund/2026-10-27-hvor-mange-koen-findes-der",
-      "date": "27/10/2026",
-      "type": "Samfund",
-      "firstSeenAt": "2026-10-28T08:52:06.949Z",
-      "titleVi": "Có bao nhiêu giới tính?"
+      "title": "Dansk aktie flyver op med 24 procent på kort tid",
+      "url": "https://nyheder.tv2.dk/live/business/2025-03-12-seneste-nyt-fra-de-finansielle-markeder",
+      "date": "12/03/2025",
+      "type": "Live",
+      "firstSeenAt": "2026-10-28T15:45:15.380Z",
+      "titleVi": "Cổ phiếu Đan Mạch tăng 24% trong một thời gian ngắn"
     },
     {
       "id": "https://nyheder.tv2.dk/live/politik/2025-08-11-dansk-politik",
@@ -590,6 +590,106 @@
       "type": "Live",
       "firstSeenAt": "2026-10-26T13:14:31.715Z",
       "titleVi": "- Troels Lund nói về sự bất đồng đã tàn phá phe Cánh Tả"
+    },
+    {
+      "id": "https://nyheder.tv2.dk/krimi/2026-10-28-skyggesiden-kirkerup-sagen-skal-kulegraves",
+      "source": "tv2",
+      "title": "Skyggesiden: Kirkerup-sagen skal kulegraves",
+      "url": "https://nyheder.tv2.dk/krimi/2026-10-28-skyggesiden-kirkerup-sagen-skal-kulegraves",
+      "date": "28/10/2026",
+      "type": "Krimi",
+      "firstSeenAt": "2026-10-28T15:45:15.380Z",
+      "titleVi": "Phía bóng: Trường hợp Kirkerup bị gạch đầu dòng"
+    },
+    {
+      "id": "https://nyheder.tv2.dk/politik/2026-10-26-debat-om-statsborgerskab-og-doedsstraf-til-homoseksuelle-deler-vandene-vanopslagh-i-skarpt-svar-til-kollega",
+      "source": "tv2",
+      "title": "Debat om statsborgerskab og dødsstraf til homoseksuelle deler vandene – Vanopslagh i skarpt svar til kollega",
+      "url": "https://nyheder.tv2.dk/politik/2026-10-26-debat-om-statsborgerskab-og-doedsstraf-til-homoseksuelle-deler-vandene-vanopslagh-i-skarpt-svar-til-kollega",
+      "date": "26/10/2026",
+      "type": "Politik",
+      "firstSeenAt": "2026-10-27T23:03:53.216Z",
+      "titleVi": "Tranh luận về quyền công dân và án tử hình đối với người đồng tính luyến ái chia sẻ nguồn nước – Vanopslagh phản ứng mạnh mẽ với đồng nghiệp"
+    },
+    {
+      "id": "https://nyheder.tv2.dk/live/samfund/2026-10-23-kaotiske-tilstande-i-koebenhavns-lufthavn",
+      "source": "tv2",
+      "title": "Situationen ser \"markant bedre ud\"",
+      "url": "https://nyheder.tv2.dk/live/samfund/2026-10-23-kaotiske-tilstande-i-koebenhavns-lufthavn",
+      "date": "23/10/2026",
+      "type": "Live",
+      "firstSeenAt": "2026-10-28T15:45:15.380Z",
+      "titleVi": "Tình hình có vẻ \"tốt hơn rõ rệt\""
+    },
+    {
+      "id": "https://nyheder.tv2.dk/business/2026-10-08-the-simpsons-viser-det-middelklasseliv-amerikanerne-ikke-laengere-har-raad-til",
+      "source": "tv2",
+      "title": "'The Simpsons' viser det middelklasseliv, amerikanerne ikke længere har råd til",
+      "url": "https://nyheder.tv2.dk/business/2026-10-08-the-simpsons-viser-det-middelklasseliv-amerikanerne-ikke-laengere-har-raad-til",
+      "date": "08/10/2026",
+      "type": "Business",
+      "firstSeenAt": "2026-10-28T15:45:15.380Z",
+      "titleVi": "'Gia đình Simpson' cho thấy cuộc sống trung lưu của người Mỹ không còn đủ khả năng chi trả"
+    },
+    {
+      "id": "https://nyheder.tv2.dk/live/udland/2025-01-13-konflikten-i-israel-gaza-og-vestbredden",
+      "source": "tv2",
+      "title": "Israelske styrker fordriver næsten 2700 mennesker",
+      "url": "https://nyheder.tv2.dk/live/udland/2025-01-13-konflikten-i-israel-gaza-og-vestbredden",
+      "date": "13/01/2025",
+      "type": "Live",
+      "firstSeenAt": "2026-10-28T08:52:06.949Z",
+      "titleVi": "Lực lượng Israel trục xuất gần 2.700 người"
+    },
+    {
+      "id": "https://nyheder.tv2.dk/live/krimi/2026-10-28-65-aarig-far-sigtet-for-incest-og-voldtaegt-efter-tv-2-dokumentar",
+      "source": "tv2",
+      "title": "65-årig far fra TV 2-dokumentar sigtet for incest – nægter sig skyldig",
+      "url": "https://nyheder.tv2.dk/live/krimi/2026-10-28-65-aarig-far-sigtet-for-incest-og-voldtaegt-efter-tv-2-dokumentar",
+      "date": "28/10/2026",
+      "type": "Live",
+      "firstSeenAt": "2026-10-28T08:52:06.949Z",
+      "titleVi": "Người cha 65 tuổi trong phim tài liệu TV 2 bị buộc tội loạn luân - không nhận tội"
+    },
+    {
+      "id": "https://nyheder.tv2.dk/samfund/2026-10-27-ny-analyse-saetter-kroner-paa-mere-beskyttet-natur",
+      "source": "tv2",
+      "title": "Ny analyse sætter kroner på mere beskyttet natur",
+      "url": "https://nyheder.tv2.dk/samfund/2026-10-27-ny-analyse-saetter-kroner-paa-mere-beskyttet-natur",
+      "date": "27/10/2026",
+      "type": "Samfund",
+      "firstSeenAt": "2026-10-28T15:45:15.380Z",
+      "titleVi": "Phân tích mới đặt mão vào thiên nhiên được bảo vệ nhiều hơn"
+    },
+    {
+      "id": "https://nyheder.tv2.dk/udland/2026-10-27-ny-epstein-rapport-med-alvorlige-beskyldninger-mod-trump-lander-som-en-bombe-kort-foer-valg",
+      "source": "tv2",
+      "title": "Ny Epstein-rapport med alvorlige beskyldninger mod Trump lander som en bombe kort før valg",
+      "url": "https://nyheder.tv2.dk/udland/2026-10-27-ny-epstein-rapport-med-alvorlige-beskyldninger-mod-trump-lander-som-en-bombe-kort-foer-valg",
+      "date": "27/10/2026",
+      "type": "Udland",
+      "firstSeenAt": "2026-10-28T15:45:15.380Z",
+      "titleVi": "Báo cáo mới của Epstein với những cáo buộc nghiêm trọng chống lại Trump đổ bộ như một quả bom ngay trước cuộc bầu cử"
+    },
+    {
+      "id": "https://nyheder.tv2.dk/live/udland/2026-01-08-krig-i-mellemoesten",
+      "source": "tv2",
+      "title": "Netanyahu advarer om nyt holocaust",
+      "url": "https://nyheder.tv2.dk/live/udland/2026-01-08-krig-i-mellemoesten",
+      "date": "08/01/2026",
+      "type": "Live",
+      "firstSeenAt": "2026-10-28T08:52:06.949Z",
+      "titleVi": "Netanyahu cảnh báo về nạn diệt chủng người Do Thái mới"
+    },
+    {
+      "id": "https://nyheder.tv2.dk/samfund/2026-10-27-hvor-mange-koen-findes-der",
+      "source": "tv2",
+      "title": "Hvor mange køn findes der?",
+      "url": "https://nyheder.tv2.dk/samfund/2026-10-27-hvor-mange-koen-findes-der",
+      "date": "27/10/2026",
+      "type": "Samfund",
+      "firstSeenAt": "2026-10-28T08:52:06.949Z",
+      "titleVi": "Có bao nhiêu giới tính?"
     },
     {
       "id": "https://nyheder.tv2.dk/live/samfund/2026-09-28-dansk-landbrug-i-forandring",
@@ -620,26 +720,6 @@
       "type": "Live",
       "firstSeenAt": "2026-10-16T21:32:07.430Z",
       "titleVi": "- Tôi không thể có bất kỳ cơ hội nào, Trump nói sau chuyến thăm bất ngờ ngay trước cuộc bầu cử"
-    },
-    {
-      "id": "https://nyheder.tv2.dk/live/udland/2026-01-08-krig-i-mellemoesten",
-      "source": "tv2",
-      "title": "Netanyahu advarer om nyt Holocaust",
-      "url": "https://nyheder.tv2.dk/live/udland/2026-01-08-krig-i-mellemoesten",
-      "date": "08/01/2026",
-      "type": "Live",
-      "firstSeenAt": "2026-10-28T08:52:06.949Z",
-      "titleVi": "Netanyahu cảnh báo về Holocaust mới"
-    },
-    {
-      "id": "https://nyheder.tv2.dk/live/udland/2025-01-13-konflikten-i-israel-gaza-og-vestbredden",
-      "source": "tv2",
-      "title": "Israelske styrker fordriver næsten 2700 mennesker",
-      "url": "https://nyheder.tv2.dk/live/udland/2025-01-13-konflikten-i-israel-gaza-og-vestbredden",
-      "date": "13/01/2025",
-      "type": "Live",
-      "firstSeenAt": "2026-10-28T08:52:06.949Z",
-      "titleVi": "Lực lượng Israel trục xuất gần 2.700 người"
     },
     {
       "id": "https://nyheder.tv2.dk/samfund/2026-10-27-skjult-kamera-afsloerer-dansk-kyllingeproducent-i-at-bryde-loven",
@@ -712,16 +792,6 @@
       "titleVi": "Nhu cầu mới về trợ cấp thất nghiệp sau đại học làm dấy lên sự chỉ trích trong sinh viên"
     },
     {
-      "id": "https://nyheder.tv2.dk/politik/2026-10-26-debat-om-statsborgerskab-og-doedsstraf-til-homoseksuelle-deler-vandene-vanopslagh-i-skarpt-svar-til-kollega",
-      "source": "tv2",
-      "title": "Debat om statsborgerskab og dødsstraf til homoseksuelle deler vandene – Vanopslagh i skarpt svar til kollega",
-      "url": "https://nyheder.tv2.dk/politik/2026-10-26-debat-om-statsborgerskab-og-doedsstraf-til-homoseksuelle-deler-vandene-vanopslagh-i-skarpt-svar-til-kollega",
-      "date": "26/10/2026",
-      "type": "Politik",
-      "firstSeenAt": "2026-10-27T23:03:53.216Z",
-      "titleVi": "Tranh luận về quyền công dân và án tử hình đối với người đồng tính luyến ái chia sẻ nguồn nước – Vanopslagh phản ứng mạnh mẽ với đồng nghiệp"
-    },
-    {
       "id": "https://nyheder.tv2.dk/samfund/2026-10-27-leder-af-kystredning-frygter-at-det-vaerste-kan-ske-igen",
       "source": "tv2",
       "title": "Leder af kystredning frygter, at det værste kan ske igen",
@@ -740,76 +810,6 @@
       "type": "Udland",
       "firstSeenAt": "2026-10-27T19:26:00.685Z",
       "titleVi": "Người Palestine theo dõi sát sao các cuộc bầu cử của Israel"
-    },
-    {
-      "id": "https://nyheder.tv2.dk/samfund/2026-10-27-praest-leder-efter-etaarig-dreng-der-skal-doebes-paa-loerdag",
-      "source": "tv2",
-      "title": "Præst leder efter etårig dreng, der skal døbes på lørdag",
-      "url": "https://nyheder.tv2.dk/samfund/2026-10-27-praest-leder-efter-etaarig-dreng-der-skal-doebes-paa-loerdag",
-      "date": "27/10/2026",
-      "type": "Samfund",
-      "firstSeenAt": "2026-10-27T19:26:00.685Z",
-      "titleVi": "Linh mục đang tìm kiếm cậu bé một tuổi để được rửa tội vào thứ Bảy"
-    },
-    {
-      "id": "https://nyheder.tv2.dk/politik/2026-10-27-preben-bang-henriksen-faerdig-i-venstre",
-      "source": "tv2",
-      "title": "Preben Bang Henriksen færdig i Venstre",
-      "url": "https://nyheder.tv2.dk/politik/2026-10-27-preben-bang-henriksen-faerdig-i-venstre",
-      "date": "27/10/2026",
-      "type": "Politik",
-      "firstSeenAt": "2026-10-27T19:26:00.685Z",
-      "titleVi": "Preben Bang Henriksen về đích ở bên trái"
-    },
-    {
-      "id": "https://nyheder.tv2.dk/samfund/2026-10-27-mors-gaver-til-sin-afdoede-datter-forsvinder-fra-graven",
-      "source": "tv2",
-      "title": "Mors gaver til sin afdøde datter forsvinder fra graven",
-      "url": "https://nyheder.tv2.dk/samfund/2026-10-27-mors-gaver-til-sin-afdoede-datter-forsvinder-fra-graven",
-      "date": "27/10/2026",
-      "type": "Samfund",
-      "firstSeenAt": "2026-10-27T19:26:00.685Z",
-      "titleVi": "Những món quà của mẹ dành cho con gái quá cố của mình biến mất khỏi ngôi mộ"
-    },
-    {
-      "id": "https://nyheder.tv2.dk/live/politik/2026-10-27-signe-munk-stopper-som-minister",
-      "source": "tv2",
-      "title": "Ny minister kommenterer på DSB-kritik",
-      "url": "https://nyheder.tv2.dk/live/politik/2026-10-27-signe-munk-stopper-som-minister",
-      "date": "27/10/2026",
-      "type": "Live",
-      "firstSeenAt": "2026-10-27T07:52:18.292Z",
-      "titleVi": "Bộ trưởng mới nhận xét về những lời chỉ trích của DSB"
-    },
-    {
-      "id": "https://nyheder.tv2.dk/udland/2026-10-27-halvanden-times-indholdsrig-telefonsamtale-med-putin-splitter-nordiske-ledere",
-      "source": "tv2",
-      "title": "Halvanden times \"indholdsrig\" telefonsamtale med Putin splitter nordiske ledere",
-      "url": "https://nyheder.tv2.dk/udland/2026-10-27-halvanden-times-indholdsrig-telefonsamtale-med-putin-splitter-nordiske-ledere",
-      "date": "27/10/2026",
-      "type": "Udland",
-      "firstSeenAt": "2026-10-27T19:26:00.685Z",
-      "titleVi": "Một giờ rưỡi trò chuyện qua điện thoại \"giàu nội dung\" với Putin chia rẽ các nhà lãnh đạo Bắc Âu"
-    },
-    {
-      "id": "https://nyheder.tv2.dk/live/krimi/2026-10-27-omfattende-sag-om-hvidvask-i-luksusbutikker",
-      "source": "tv2",
-      "title": "Kvinde får fængselsstraf og udvises i stor svindelsag",
-      "url": "https://nyheder.tv2.dk/live/krimi/2026-10-27-omfattende-sag-om-hvidvask-i-luksusbutikker",
-      "date": "27/10/2026",
-      "type": "Live",
-      "firstSeenAt": "2026-10-27T14:02:36.691Z",
-      "titleVi": "Người phụ nữ bị kết án tù và trục xuất trong vụ án gian lận lớn"
-    },
-    {
-      "id": "https://nyheder.tv2.dk/business/2026-10-27-danske-ramboell-fyrer-400-paa-ledelsesgangene",
-      "source": "tv2",
-      "title": "Danske Rambøll fyrer 400 på ledelsesgangene",
-      "url": "https://nyheder.tv2.dk/business/2026-10-27-danske-ramboell-fyrer-400-paa-ledelsesgangene",
-      "date": "27/10/2026",
-      "type": "Business",
-      "firstSeenAt": "2026-10-27T14:02:36.691Z",
-      "titleVi": "Ramboll Đan Mạch bắn 400 tên lửa vào hành lang quản lý"
     },
     {
       "id": "https://www.kungahuset.se/arkiv/nyheter/2026-10-22-kronprinsessan-besokte-mammografiklinik",
