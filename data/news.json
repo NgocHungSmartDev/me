@@ -1,6 +1,6 @@
 {
   "monitoringStartedAt": "2026-09-28T00:17:35.319Z",
-  "updatedAt": "2026-10-29T13:37:32.448Z",
+  "updatedAt": "2026-10-29T19:13:56.785Z",
   "sources": {
     "kongehuset": {
       "name": "Kongehuset",
@@ -57,9 +57,9 @@
       "language": "no",
       "monitoringStartedAt": "2026-10-01T16:30:06.936Z",
       "status": {
-        "state": "error",
-        "message": "The Norwegian Royal House Atom feed returned no entries",
-        "changedAt": "2026-10-29T13:37:32.448Z"
+        "state": "ok",
+        "message": "",
+        "changedAt": "2026-10-29T19:13:56.785Z"
       }
     }
   },
@@ -522,24 +522,14 @@
       "titleVi": "Chân dung mới của HM The King"
     },
     {
-      "id": "https://nyheder.tv2.dk/live/udland/2026-10-28-to-hoejhastighedstog-er-stoedt-sammen-i-spanien",
-      "source": "tv2",
-      "title": "Myndighederne efterspørger blod – dødstallet stiger",
-      "url": "https://nyheder.tv2.dk/live/udland/2026-10-28-to-hoejhastighedstog-er-stoedt-sammen-i-spanien",
-      "date": "28/10/2026",
-      "type": "Live",
-      "firstSeenAt": "2026-10-28T15:45:15.380Z",
-      "titleVi": "Chính quyền yêu cầu máu - số người chết đang tăng lên"
-    },
-    {
       "id": "https://nyheder.tv2.dk/live/kort-nyt",
       "source": "tv2",
-      "title": "Forsvarets bomberydder tilkaldt til landejendom",
+      "title": "Google-ejer taber 500 milliarder dollars på AI-frygt",
       "url": "https://nyheder.tv2.dk/live/kort-nyt",
       "date": "—",
       "type": "Live",
       "firstSeenAt": "2026-09-28T00:30:42.330Z",
-      "titleVi": "Đơn vị xử lý bom của Lực lượng Vũ trang Thụy Điển được triệu tập tới một vùng nông thôn"
+      "titleVi": "Chủ sở hữu Google mất 500 tỷ đô la vì sợ AI"
     },
     {
       "id": "https://nyheder.tv2.dk/live/business/2025-03-12-seneste-nyt-fra-de-finansielle-markeder",
@@ -550,6 +540,116 @@
       "type": "Live",
       "firstSeenAt": "2026-10-28T15:45:15.380Z",
       "titleVi": "Ngân hàng Danske đang trong quá trình phát triển vượt bậc"
+    },
+    {
+      "id": "https://nyheder.tv2.dk/samfund/2026-10-29-dansk-industris-direktoer-udsat-for-identitetstyveri",
+      "source": "tv2",
+      "title": "Dansk Industris direktør udsat for identitetstyveri",
+      "url": "https://nyheder.tv2.dk/samfund/2026-10-29-dansk-industris-direktoer-udsat-for-identitetstyveri",
+      "date": "29/10/2026",
+      "type": "Samfund",
+      "firstSeenAt": "2026-10-29T19:13:56.785Z",
+      "titleVi": "Giám đốc điều hành của Liên đoàn Công nghiệp Đan Mạch bị đánh cắp danh tính"
+    },
+    {
+      "id": "https://nyheder.tv2.dk/live/udland/2026-10-28-to-hoejhastighedstog-er-stoedt-sammen-i-spanien",
+      "source": "tv2",
+      "title": "Myndighederne efterspørger blod – dødstallet stiger",
+      "url": "https://nyheder.tv2.dk/live/udland/2026-10-28-to-hoejhastighedstog-er-stoedt-sammen-i-spanien",
+      "date": "28/10/2026",
+      "type": "Live",
+      "firstSeenAt": "2026-10-28T15:45:15.380Z",
+      "titleVi": "Chính quyền yêu cầu máu - số người chết đang tăng lên"
+    },
+    {
+      "id": "https://nyheder.tv2.dk/live/politik/2025-08-11-dansk-politik",
+      "source": "tv2",
+      "title": "Venstre-kreds nedlægger alle poster i protest",
+      "url": "https://nyheder.tv2.dk/live/politik/2025-08-11-dansk-politik",
+      "date": "11/08/2025",
+      "type": "Live",
+      "firstSeenAt": "2026-10-26T13:14:31.715Z",
+      "titleVi": "Cánh tả sẽ ngừng tất cả các bài đăng để phản đối"
+    },
+    {
+      "id": "https://nyheder.tv2.dk/live/2024-09-08-seneste-nyt-om-krigen-i-ukraine-70b1d6cc-0720-404e-9878-45546e1999e7",
+      "source": "tv2",
+      "title": "Europa skal stå sammen, skriver danske aviser efter telefonsamtale",
+      "url": "https://nyheder.tv2.dk/live/2024-09-08-seneste-nyt-om-krigen-i-ukraine-70b1d6cc-0720-404e-9878-45546e1999e7",
+      "date": "08/09/2024",
+      "type": "Live",
+      "firstSeenAt": "2026-09-28T00:30:42.330Z",
+      "titleVi": "Châu Âu phải sát cánh cùng nhau, báo Đan Mạch viết sau cuộc điện đàm"
+    },
+    {
+      "id": "https://nyheder.tv2.dk/politik/2026-10-26-debat-om-statsborgerskab-og-doedsstraf-til-homoseksuelle-deler-vandene-vanopslagh-i-skarpt-svar-til-kollega",
+      "source": "tv2",
+      "title": "Debat om statsborgerskab og dødsstraf til homoseksuelle deler vandene – Vanopslagh i skarpt svar til kollega",
+      "url": "https://nyheder.tv2.dk/politik/2026-10-26-debat-om-statsborgerskab-og-doedsstraf-til-homoseksuelle-deler-vandene-vanopslagh-i-skarpt-svar-til-kollega",
+      "date": "26/10/2026",
+      "type": "Politik",
+      "firstSeenAt": "2026-10-29T19:13:56.785Z",
+      "titleVi": "Tranh luận về quyền công dân và án tử hình đối với người đồng tính luyến ái chia sẻ nguồn nước – Vanopslagh phản ứng mạnh mẽ với đồng nghiệp"
+    },
+    {
+      "id": "https://nyheder.tv2.dk/udland/2026-10-29-selskab-ejet-af-iss-spillede-en-rolle-i-doedsbrand-i-hongkong",
+      "source": "tv2",
+      "title": "Selskab ejet af ISS spillede en rolle i dødsbrand i Hongkong",
+      "url": "https://nyheder.tv2.dk/udland/2026-10-29-selskab-ejet-af-iss-spillede-en-rolle-i-doedsbrand-i-hongkong",
+      "date": "29/10/2026",
+      "type": "Udland",
+      "firstSeenAt": "2026-10-29T19:13:56.785Z",
+      "titleVi": "Công ty thuộc sở hữu của ISS đã đóng một vai trò trong vụ cháy rừng ở Hồng Kông"
+    },
+    {
+      "id": "https://nyheder.tv2.dk/live/udland/2026-10-17-optoejer-spreder-sig-i-europa",
+      "source": "tv2",
+      "title": "Fransk regering kommer med løfter for at dæmpe protester",
+      "url": "https://nyheder.tv2.dk/live/udland/2026-10-17-optoejer-spreder-sig-i-europa",
+      "date": "17/10/2026",
+      "type": "Live",
+      "firstSeenAt": "2026-10-29T19:13:56.785Z",
+      "titleVi": "Chính phủ Pháp hứa sẽ dập tắt các cuộc biểu tình"
+    },
+    {
+      "id": "https://nyheder.tv2.dk/live/samfund/2026-10-26-krisemoede-om-laegeflugt-paa-rigshospitalet",
+      "source": "tv2",
+      "title": "Tre typer operationer bliver påvirket efter lægeflugt på Rigshospitalet",
+      "url": "https://nyheder.tv2.dk/live/samfund/2026-10-26-krisemoede-om-laegeflugt-paa-rigshospitalet",
+      "date": "26/10/2026",
+      "type": "Live",
+      "firstSeenAt": "2026-10-29T19:13:56.785Z",
+      "titleVi": "Ba loại phẫu thuật bị ảnh hưởng sau khi bác sĩ trốn thoát tại Rigshospitalet"
+    },
+    {
+      "id": "https://nyheder.tv2.dk/politik/2026-10-29-protester-over-preben-bangs-eksklusion-breder-sig-til-hele-landet",
+      "source": "tv2",
+      "title": "Protester over Preben Bangs eksklusion breder sig til hele landet",
+      "url": "https://nyheder.tv2.dk/politik/2026-10-29-protester-over-preben-bangs-eksklusion-breder-sig-til-hele-landet",
+      "date": "29/10/2026",
+      "type": "Politik",
+      "firstSeenAt": "2026-10-29T19:13:56.785Z",
+      "titleVi": "Các cuộc biểu tình phản đối việc loại trừ Preben Bang đã lan rộng khắp cả nước"
+    },
+    {
+      "id": "https://nyheder.tv2.dk/live/krimi/2026-10-19-nicolai-dyhr-fra-den-sorte-svane-i-retten",
+      "source": "tv2",
+      "title": "Eksadvokat Nicolai Dyhr anker dom i sag fra 'Den sorte svane'",
+      "url": "https://nyheder.tv2.dk/live/krimi/2026-10-19-nicolai-dyhr-fra-den-sorte-svane-i-retten",
+      "date": "19/10/2026",
+      "type": "Live",
+      "firstSeenAt": "2026-10-29T19:13:56.785Z",
+      "titleVi": "Cựu luật sư Nicolai Dyhr kháng cáo bản án trong vụ án từ 'Thiên nga đen'"
+    },
+    {
+      "id": "https://nyheder.tv2.dk/live/udland/2026-09-11-valg-i-sverige",
+      "source": "tv2",
+      "title": "Riksdagen skal stemme om svensk partleder som statsminister",
+      "url": "https://nyheder.tv2.dk/live/udland/2026-09-11-valg-i-sverige",
+      "date": "11/09/2026",
+      "type": "Live",
+      "firstSeenAt": "2026-10-29T19:13:56.785Z",
+      "titleVi": "Riksdag bỏ phiếu bầu lãnh đạo đảng Thụy Điển làm thủ tướng"
     },
     {
       "id": "https://nyheder.tv2.dk/live/udland/2026-10-26-valg-i-israel",
@@ -580,16 +680,6 @@
       "type": "Krimi",
       "firstSeenAt": "2026-10-29T13:37:32.448Z",
       "titleVi": "Bé gái 10 tuổi bị người đàn ông truy đuổi - cảnh sát bỏ trốn"
-    },
-    {
-      "id": "https://nyheder.tv2.dk/live/2024-09-08-seneste-nyt-om-krigen-i-ukraine-70b1d6cc-0720-404e-9878-45546e1999e7",
-      "source": "tv2",
-      "title": "Europa skal stå sammen, skriver danske aviser efter telefonsamtale",
-      "url": "https://nyheder.tv2.dk/live/2024-09-08-seneste-nyt-om-krigen-i-ukraine-70b1d6cc-0720-404e-9878-45546e1999e7",
-      "date": "08/09/2024",
-      "type": "Live",
-      "firstSeenAt": "2026-09-28T00:30:42.330Z",
-      "titleVi": "Châu Âu phải sát cánh cùng nhau, báo Đan Mạch viết sau cuộc điện đàm"
     },
     {
       "id": "https://nyheder.tv2.dk/samfund/2026-10-29-surfer-frygter-at-der-sker-en-ny-ulykke",
@@ -630,16 +720,6 @@
       "type": "Krimi",
       "firstSeenAt": "2026-10-29T13:37:32.448Z",
       "titleVi": "Năm người đàn ông nhận tiền bồi thường hàng triệu USD vì bị bỏ tù oan"
-    },
-    {
-      "id": "https://nyheder.tv2.dk/live/politik/2025-08-11-dansk-politik",
-      "source": "tv2",
-      "title": "Venstre-kreds nedlægger alle poster i protest",
-      "url": "https://nyheder.tv2.dk/live/politik/2025-08-11-dansk-politik",
-      "date": "11/08/2025",
-      "type": "Live",
-      "firstSeenAt": "2026-10-26T13:14:31.715Z",
-      "titleVi": "Cánh tả sẽ ngừng tất cả các bài đăng để phản đối"
     },
     {
       "id": "https://livsstil.tv2.dk/live/2025-12-01-danskernes-sundhed",
@@ -730,86 +810,6 @@
       "type": "Samfund",
       "firstSeenAt": "2026-10-29T06:29:37.374Z",
       "titleVi": "Vương quốc từ chối hiến gan cho trẻ em do thiếu năng lực"
-    },
-    {
-      "id": "https://nyheder.tv2.dk/krimi/2026-10-26-kriminel-tolk-ansat-paa-sygehus-i-aarevis-politiet-glemte-at-give-besked",
-      "source": "tv2",
-      "title": "Kriminel tolk ansat på sygehus i årevis – politiet glemte at give besked",
-      "url": "https://nyheder.tv2.dk/krimi/2026-10-26-kriminel-tolk-ansat-paa-sygehus-i-aarevis-politiet-glemte-at-give-besked",
-      "date": "26/10/2026",
-      "type": "Krimi",
-      "firstSeenAt": "2026-10-29T06:29:37.374Z",
-      "titleVi": "Thông dịch viên hình sự làm việc ở bệnh viện nhiều năm - công an quên báo"
-    },
-    {
-      "id": "https://nyheder.tv2.dk/krimi/2026-10-29-politiet-leder-efter-to-drenge-efter-knivoverfald-i-lyngby",
-      "source": "tv2",
-      "title": "Politiet leder efter to drenge efter knivoverfald i Lyngby",
-      "url": "https://nyheder.tv2.dk/krimi/2026-10-29-politiet-leder-efter-to-drenge-efter-knivoverfald-i-lyngby",
-      "date": "29/10/2026",
-      "type": "Krimi",
-      "firstSeenAt": "2026-10-29T06:29:37.374Z",
-      "titleVi": "Cảnh sát đang truy tìm hai cậu bé sau vụ tấn công bằng dao ở Lyngby"
-    },
-    {
-      "id": "https://nyheder.tv2.dk/trafik/2026-10-29-international-lufthavn-i-groenland-faar-groent-lys-til-aabning",
-      "source": "tv2",
-      "title": "International lufthavn i Grønland får grønt lys til åbning",
-      "url": "https://nyheder.tv2.dk/trafik/2026-10-29-international-lufthavn-i-groenland-faar-groent-lys-til-aabning",
-      "date": "29/10/2026",
-      "type": "Trafik",
-      "firstSeenAt": "2026-10-29T06:29:37.374Z",
-      "titleVi": "Sân bay quốc tế ở Greenland được bật đèn xanh"
-    },
-    {
-      "id": "https://nyheder.tv2.dk/udland/2026-10-28-omdiskuteret-opkald-kaldes-soed-musik-i-putins-oerer",
-      "source": "tv2",
-      "title": "Omdiskuteret opkald kaldes \"sød musik i Putins ører\"",
-      "url": "https://nyheder.tv2.dk/udland/2026-10-28-omdiskuteret-opkald-kaldes-soed-musik-i-putins-oerer",
-      "date": "28/10/2026",
-      "type": "Udland",
-      "firstSeenAt": "2026-10-29T00:37:41.775Z",
-      "titleVi": "Cuộc gọi gây tranh cãi được gọi là \"âm nhạc ngọt ngào trong tai Putin\""
-    },
-    {
-      "id": "https://nyheder.tv2.dk/udland/2026-10-28-bolsonaro-kaldte-sig-selv-brasiliens-aegte-praesident-i-nu-slettet-brev",
-      "source": "tv2",
-      "title": "Bolsonaro kaldte sig selv Brasiliens ægte præsident i nu slettet brev",
-      "url": "https://nyheder.tv2.dk/udland/2026-10-28-bolsonaro-kaldte-sig-selv-brasiliens-aegte-praesident-i-nu-slettet-brev",
-      "date": "28/10/2026",
-      "type": "Udland",
-      "firstSeenAt": "2026-10-29T00:37:41.775Z",
-      "titleVi": "Bolsonaro tự gọi mình là Tổng thống thực sự của Brazil trong bức thư đã bị xóa"
-    },
-    {
-      "id": "https://nyheder.tv2.dk/udland/2026-10-28-i-folkeskolen-opfordrede-pigerne-hinanden-til-at-holde-sig-fra-broedrene-nu-er-dommen-faldet",
-      "source": "tv2",
-      "title": "I folkeskolen opfordrede pigerne hinanden til at holde sig fra brødrene – nu er dommen faldet",
-      "url": "https://nyheder.tv2.dk/udland/2026-10-28-i-folkeskolen-opfordrede-pigerne-hinanden-til-at-holde-sig-fra-broedrene-nu-er-dommen-faldet",
-      "date": "28/10/2026",
-      "type": "Udland",
-      "firstSeenAt": "2026-10-28T20:48:39.447Z",
-      "titleVi": "Ở trường tiểu học, các cô gái kêu gọi nhau tránh xa các anh em – bây giờ phán quyết đã được thông qua"
-    },
-    {
-      "id": "https://nyheder.tv2.dk/samfund/2026-10-28-ekspert-kalder-ny-trend-paa-sociale-medier-for-et-ekstremt-paradoks",
-      "source": "tv2",
-      "title": "Ekspert kalder ny trend på sociale medier for et ”ekstremt paradoks”",
-      "url": "https://nyheder.tv2.dk/samfund/2026-10-28-ekspert-kalder-ny-trend-paa-sociale-medier-for-et-ekstremt-paradoks",
-      "date": "28/10/2026",
-      "type": "Samfund",
-      "firstSeenAt": "2026-10-28T20:48:39.447Z",
-      "titleVi": "Chuyên gia gọi xu hướng truyền thông xã hội mới là “nghịch lý cực đoan”"
-    },
-    {
-      "id": "https://nyheder.tv2.dk/politik/2026-10-28-bag-de-lukkede-doere-blev-preben-bang-stillet-et-spoergsmaal-hans-svar-beseglede-hans-skaebne",
-      "source": "tv2",
-      "title": "Bag de lukkede døre blev Preben Bang stillet ét spørgsmål. Hans svar beseglede hans skæbne",
-      "url": "https://nyheder.tv2.dk/politik/2026-10-28-bag-de-lukkede-doere-blev-preben-bang-stillet-et-spoergsmaal-hans-svar-beseglede-hans-skaebne",
-      "date": "28/10/2026",
-      "type": "Politik",
-      "firstSeenAt": "2026-10-28T20:48:39.447Z",
-      "titleVi": "Đằng sau cánh cửa đóng kín, Preben Bang được hỏi một câu hỏi. Câu trả lời của anh ấy đã định đoạt số phận của"
     },
     {
       "id": "https://www.kungahuset.se/arkiv/nyheter/2026-10-22-kronprinsessan-besokte-mammografiklinik",
@@ -1382,6 +1382,17 @@
       "type": "Nöje",
       "firstSeenAt": "2026-10-28T08:52:06.949Z",
       "titleVi": "Matilda Boza trực tiếp rời đi - sau lời nói của Soraya: \"Bạn là...\""
+    },
+    {
+      "id": "https://www.kongehuset.no/presse/pressemeldinger/haakon-deltar-pa-vigsling-av-ny-biskop-i-stavanger",
+      "source": "kongehusetNo",
+      "title": "Kong Haakon deltar på vigsling av ny biskop i Stavanger",
+      "url": "https://www.kongehuset.no/presse/pressemeldinger/haakon-deltar-pa-vigsling-av-ny-biskop-i-stavanger",
+      "date": "29/10/2026",
+      "publishedAt": "Thu, 29 Oct 2026 12:38:32 GMT",
+      "type": "Pressemelding",
+      "firstSeenAt": "2026-10-29T19:13:56.785Z",
+      "titleVi": "Vua Haakon tham dự lễ tấn phong giám mục mới tại Stavanger."
     },
     {
       "id": "https://www.kongehuset.no/nyheter/operasjon-dagsverk-i-audiens",
@@ -2097,17 +2108,6 @@
       "type": "Pressemelding",
       "firstSeenAt": "2026-10-01T16:31:22.673Z",
       "titleVi": "Thông tin riêng cho biên tập viên. Thông tin thiết thực cho giới truyền thông."
-    },
-    {
-      "id": "https://www.kongehuset.no/presse/pressemeldinger/kong-harald-v-er-dod-pm",
-      "source": "kongehusetNo",
-      "title": "Kong Harald V er død",
-      "url": "https://www.kongehuset.no/presse/pressemeldinger/kong-harald-v-er-dod-pm",
-      "date": "28/8/2026",
-      "publishedAt": "Fri, 28 Aug 2026 06:01:18 GMT",
-      "type": "Pressemelding",
-      "firstSeenAt": "2026-10-01T16:31:22.673Z",
-      "titleVi": "Vua Harald V đã băng hà."
     },
     {
       "id": "https://www.kongehuset.no/taler-og-budskap/kong-haakon-viii/kronprinsparets-fond-25-ar-velkomsttale",
