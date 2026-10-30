@@ -1,6 +1,6 @@
 {
   "monitoringStartedAt": "2026-09-28T00:17:35.319Z",
-  "updatedAt": "2026-10-30T09:40:39.026Z",
+  "updatedAt": "2026-10-30T16:15:22.370Z",
   "sources": {
     "kongehuset": {
       "name": "Kongehuset",
@@ -71,6 +71,16 @@
     }
   },
   "articles": [
+    {
+      "id": "https://www.kongehuset.dk/foto-video/dronningen-deltog-i-skolelederforeningens-aarsmoede",
+      "source": "kongehuset",
+      "title": "H.M. Dronningen deltog i Skolelederforeningens årsmøde",
+      "url": "https://www.kongehuset.dk/foto-video/dronningen-deltog-i-skolelederforeningens-aarsmoede",
+      "date": "30. oktober 2026",
+      "type": "Galleri",
+      "firstSeenAt": "2026-10-30T16:15:22.370Z",
+      "titleVi": "H.M. Nữ hoàng tham dự cuộc họp thường niên của Hiệp hội lãnh đạo trường học"
+    },
     {
       "id": "https://www.kongehuset.dk/nyheder/gaesteliste-ved-kongejagt-i-gludsted-plantage-den-29-oktober-2026",
       "source": "kongehuset",
@@ -512,74 +522,54 @@
       "titleVi": "Lễ kỷ niệm 150 năm thành lập Quỹ Carlsberg và tiết lộ chân dung tại Frederiksborg"
     },
     {
-      "id": "https://www.kongehuset.dk/nyheder/nyt-portraet-af-h-m-kongen",
-      "source": "kongehuset",
-      "title": "Nyt portræt af H.M. Kongen",
-      "url": "https://www.kongehuset.dk/nyheder/nyt-portraet-af-h-m-kongen",
-      "date": "25. september 2026",
-      "type": "Nyhed",
-      "firstSeenAt": "2026-09-28T00:17:35.319Z",
-      "titleVi": "Chân dung mới của HM The King"
-    },
-    {
-      "id": "https://nyheder.tv2.dk/live/udland/2026-10-28-to-hoejhastighedstog-er-stoedt-sammen-i-spanien",
-      "source": "tv2",
-      "title": "Myndighederne efterspørger blod – dødstallet stiger",
-      "url": "https://nyheder.tv2.dk/live/udland/2026-10-28-to-hoejhastighedstog-er-stoedt-sammen-i-spanien",
-      "date": "28/10/2026",
-      "type": "Live",
-      "firstSeenAt": "2026-10-28T15:45:15.380Z",
-      "titleVi": "Chính quyền yêu cầu máu - số người chết đang tăng lên"
-    },
-    {
-      "id": "https://nyheder.tv2.dk/live/udland/2025-06-27-marius-borg-hoeiby-i-retten",
-      "source": "tv2",
-      "title": "Marius Borg Høiby får sin sag prøvet på ny",
-      "url": "https://nyheder.tv2.dk/live/udland/2025-06-27-marius-borg-hoeiby-i-retten",
-      "date": "27/06/2025",
-      "type": "Live",
-      "firstSeenAt": "2026-10-30T09:40:39.026Z",
-      "titleVi": "Marius Borg Høiby đã xét xử lại vụ án của mình"
-    },
-    {
-      "id": "https://nyheder.tv2.dk/live/udland/2026-10-17-optoejer-spreder-sig-i-europa",
-      "source": "tv2",
-      "title": "Fransk regering kommer med løfter for at dæmpe protester",
-      "url": "https://nyheder.tv2.dk/live/udland/2026-10-17-optoejer-spreder-sig-i-europa",
-      "date": "17/10/2026",
-      "type": "Live",
-      "firstSeenAt": "2026-10-29T19:13:56.785Z",
-      "titleVi": "Chính phủ Pháp hứa sẽ dập tắt các cuộc biểu tình"
-    },
-    {
-      "id": "https://nyheder.tv2.dk/live/2024-09-08-seneste-nyt-om-krigen-i-ukraine-70b1d6cc-0720-404e-9878-45546e1999e7",
-      "source": "tv2",
-      "title": "Ingen har ringet, siger Peskov om Zelenskyj",
-      "url": "https://nyheder.tv2.dk/live/2024-09-08-seneste-nyt-om-krigen-i-ukraine-70b1d6cc-0720-404e-9878-45546e1999e7",
-      "date": "08/09/2024",
-      "type": "Live",
-      "firstSeenAt": "2026-09-28T00:30:42.330Z",
-      "titleVi": "Peskov của Zelenskyi nói rằng chưa có ai gọi đến"
-    },
-    {
       "id": "https://nyheder.tv2.dk/live/kort-nyt",
       "source": "tv2",
-      "title": "Arla tilbagekalder proteinbudding efter fund af glasfragmenter",
+      "title": "Mindst 50 uddannelsesinstitutioner ramt af mystisk aktivitet",
       "url": "https://nyheder.tv2.dk/live/kort-nyt",
       "date": "—",
       "type": "Live",
       "firstSeenAt": "2026-09-28T00:30:42.330Z",
-      "titleVi": "Arla nhớ lại bánh pudding protein sau khi tìm thấy mảnh thủy tinh"
+      "titleVi": "Ít nhất 50 cơ sở giáo dục bị ảnh hưởng bởi hoạt động bí ẩn"
     },
     {
-      "id": "https://nyheder.tv2.dk/live/business/2025-03-12-seneste-nyt-fra-de-finansielle-markeder",
+      "id": "https://nyheder.tv2.dk/politik/2026-10-30-skandalesag-om-fup-selskab-var-kendt-i-maanedsvis-men-forligskreds-fik-intet-at-vide",
       "source": "tv2",
-      "title": "Nogle af verdens største selskaber får aktietæsk",
-      "url": "https://nyheder.tv2.dk/live/business/2025-03-12-seneste-nyt-fra-de-finansielle-markeder",
-      "date": "12/03/2025",
+      "title": "Skandalesag om fup-selskab var kendt i månedsvis, men forligskreds fik intet at vide",
+      "url": "https://nyheder.tv2.dk/politik/2026-10-30-skandalesag-om-fup-selskab-var-kendt-i-maanedsvis-men-forligskreds-fik-intet-at-vide",
+      "date": "30/10/2026",
+      "type": "Politik",
+      "firstSeenAt": "2026-10-30T16:15:22.370Z",
+      "titleVi": "Vụ bê bối công ty lừa đảo nổi tiếng nhiều tháng nhưng tổ hòa giải không được nói gì"
+    },
+    {
+      "id": "https://nyheder.tv2.dk/samfund/2026-10-30-her-er-ambulancen-ude-af-drift-hver-tredje-dag",
+      "source": "tv2",
+      "title": "Her er ambulancen ude af drift hver tredje dag",
+      "url": "https://nyheder.tv2.dk/samfund/2026-10-30-her-er-ambulancen-ude-af-drift-hver-tredje-dag",
+      "date": "30/10/2026",
+      "type": "Samfund",
+      "firstSeenAt": "2026-10-30T16:15:22.370Z",
+      "titleVi": "Ở đây cứ ba ngày xe cứu thương lại ngừng hoạt động"
+    },
+    {
+      "id": "https://nyheder.tv2.dk/live/2024-09-08-seneste-nyt-om-krigen-i-ukraine-70b1d6cc-0720-404e-9878-45546e1999e7",
+      "source": "tv2",
+      "title": "Russere prøver at overtale ukrainere til \"forkert\" bus, siger kontaktperson",
+      "url": "https://nyheder.tv2.dk/live/2024-09-08-seneste-nyt-om-krigen-i-ukraine-70b1d6cc-0720-404e-9878-45546e1999e7",
+      "date": "08/09/2024",
       "type": "Live",
-      "firstSeenAt": "2026-10-28T15:45:15.380Z",
-      "titleVi": "Một số công ty lớn nhất thế giới đang nhận được một tiếng vang lớn cho đồng tiền của họ"
+      "firstSeenAt": "2026-09-28T00:30:42.330Z",
+      "titleVi": "Người Nga cố gắng thuyết phục người Ukraine \"nhầm\" xe buýt, người liên hệ cho biết"
+    },
+    {
+      "id": "https://nyheder.tv2.dk/business/2026-10-30-verdenshistoriens-dyreste-bankroeveri-skete-paa-20-minutter-og-kan-traekke-traade-til-nordkorea",
+      "source": "tv2",
+      "title": "Verdenshistoriens dyreste bankrøveri skete på 20 minutter og kan trække tråde til Nordkorea",
+      "url": "https://nyheder.tv2.dk/business/2026-10-30-verdenshistoriens-dyreste-bankroeveri-skete-paa-20-minutter-og-kan-traekke-traade-til-nordkorea",
+      "date": "30/10/2026",
+      "type": "Business",
+      "firstSeenAt": "2026-10-30T16:15:22.370Z",
+      "titleVi": "Vụ cướp ngân hàng đắt giá nhất lịch sử thế giới diễn ra trong 20 phút và có thể liên quan tới Triều Tiên"
     },
     {
       "id": "https://nyheder.tv2.dk/live/politik/2025-08-11-dansk-politik",
@@ -592,14 +582,24 @@
       "titleVi": "Troels Lund Poulsen nói về những cáo buộc về sự hoàn hảo quyền lực khiến tôi đau lòng"
     },
     {
-      "id": "https://livsstil.tv2.dk/live/2025-12-01-danskernes-sundhed",
+      "id": "https://nyheder.tv2.dk/udland/2026-10-30-doedsdoemt-efter-fejlslagen-henrettelse-jeg-har-konstante-smerter",
       "source": "tv2",
-      "title": "Kødspiseres tarmbakterier overrasker forskere i et nyt studie",
-      "url": "https://livsstil.tv2.dk/live/2025-12-01-danskernes-sundhed",
-      "date": "01/12/2025",
+      "title": "Dødsdømt efter fejlslagen henrettelse: Jeg har konstante smerter",
+      "url": "https://nyheder.tv2.dk/udland/2026-10-30-doedsdoemt-efter-fejlslagen-henrettelse-jeg-har-konstante-smerter",
+      "date": "30/10/2026",
+      "type": "Udland",
+      "firstSeenAt": "2026-10-30T16:15:22.370Z",
+      "titleVi": "Bị kết án tử hình sau vụ hành quyết bất thành: Tôi đau đớn tột cùng"
+    },
+    {
+      "id": "https://nyheder.tv2.dk/live/business/2025-03-12-seneste-nyt-fra-de-finansielle-markeder",
+      "source": "tv2",
+      "title": "Nogle af verdens største selskaber får aktietæsk",
+      "url": "https://nyheder.tv2.dk/live/business/2025-03-12-seneste-nyt-fra-de-finansielle-markeder",
+      "date": "12/03/2025",
       "type": "Live",
-      "firstSeenAt": "2026-10-29T13:37:32.448Z",
-      "titleVi": "Vi khuẩn đường ruột ăn thịt gây ngạc nhiên cho các nhà nghiên cứu trong nghiên cứu mới"
+      "firstSeenAt": "2026-10-28T15:45:15.380Z",
+      "titleVi": "Một số công ty lớn nhất thế giới đang nhận được một tiếng vang lớn cho đồng tiền của họ"
     },
     {
       "id": "https://nyheder.tv2.dk/live/udland/2026-05-16-midtvejsvalg-i-usa",
@@ -610,6 +610,86 @@
       "type": "Live",
       "firstSeenAt": "2026-10-30T09:40:39.026Z",
       "titleVi": "Đó sẽ là 'trò chơi kết thúc' đối với Hoa Kỳ, Musk viết về chiến thắng dân chủ"
+    },
+    {
+      "id": "https://nyheder.tv2.dk/live/udland/2026-10-17-optoejer-spreder-sig-i-europa",
+      "source": "tv2",
+      "title": "Fransk regering kommer med løfter for at dæmpe protester",
+      "url": "https://nyheder.tv2.dk/live/udland/2026-10-17-optoejer-spreder-sig-i-europa",
+      "date": "17/10/2026",
+      "type": "Live",
+      "firstSeenAt": "2026-10-29T19:13:56.785Z",
+      "titleVi": "Chính phủ Pháp hứa sẽ dập tắt các cuộc biểu tình"
+    },
+    {
+      "id": "https://nyheder.tv2.dk/samfund/2026-10-30-gadeskilte-udsat-for-haervaerk",
+      "source": "tv2",
+      "title": "Gadeskilte udsat for hærværk",
+      "url": "https://nyheder.tv2.dk/samfund/2026-10-30-gadeskilte-udsat-for-haervaerk",
+      "date": "30/10/2026",
+      "type": "Samfund",
+      "firstSeenAt": "2026-10-30T16:15:22.370Z",
+      "titleVi": "Biển báo đường phố dễ bị phá hoại"
+    },
+    {
+      "id": "https://nyheder.tv2.dk/udland/2026-10-26-han-kan-ikke-fordrage-trump-saa-boelgerne-gaar-hoejt-i-hans-firma",
+      "source": "tv2",
+      "title": "Han kan ikke fordrage Trump – så bølgerne går højt i hans firma",
+      "url": "https://nyheder.tv2.dk/udland/2026-10-26-han-kan-ikke-fordrage-trump-saa-boelgerne-gaar-hoejt-i-hans-firma",
+      "date": "26/10/2026",
+      "type": "Udland",
+      "firstSeenAt": "2026-10-30T16:15:22.370Z",
+      "titleVi": "Anh ấy không thể chịu đựng được Trump - vì vậy làn sóng dâng cao trong công ty của anh ấy"
+    },
+    {
+      "id": "https://nyheder.tv2.dk/live/udland/2025-07-18-storbritannien-overvejer-at-fjerne-eksprins-andrew-fra-arvefoelge",
+      "source": "tv2",
+      "title": "Politi efterforsker eksprins' møde med Epstein på kongeslot",
+      "url": "https://nyheder.tv2.dk/live/udland/2025-07-18-storbritannien-overvejer-at-fjerne-eksprins-andrew-fra-arvefoelge",
+      "date": "18/07/2025",
+      "type": "Live",
+      "firstSeenAt": "2026-10-30T16:15:22.370Z",
+      "titleVi": "Cảnh sát đang điều tra cuộc gặp của cựu hoàng tử với Epstein tại cung điện hoàng gia"
+    },
+    {
+      "id": "https://nyheder.tv2.dk/krimi/2026-10-29-mistaenkt-for-bedrageri-for-736-millioner-har-gemt-sig-for-politiet-i-ni-aar",
+      "source": "tv2",
+      "title": "Mistænkt for bedrageri for 73,6 millioner – har gemt sig for politiet i ni år",
+      "url": "https://nyheder.tv2.dk/krimi/2026-10-29-mistaenkt-for-bedrageri-for-736-millioner-har-gemt-sig-for-politiet-i-ni-aar",
+      "date": "29/10/2026",
+      "type": "Krimi",
+      "firstSeenAt": "2026-10-30T16:15:22.370Z",
+      "titleVi": "Bị nghi lừa đảo 73,6 triệu đồng - lẩn trốn công an suốt 9 năm"
+    },
+    {
+      "id": "https://nyheder.tv2.dk/live/udland/2026-10-28-to-hoejhastighedstog-er-stoedt-sammen-i-spanien",
+      "source": "tv2",
+      "title": "70 pårørende til savnede afventer svar på DNA-prøver",
+      "url": "https://nyheder.tv2.dk/live/udland/2026-10-28-to-hoejhastighedstog-er-stoedt-sammen-i-spanien",
+      "date": "28/10/2026",
+      "type": "Live",
+      "firstSeenAt": "2026-10-28T15:45:15.380Z",
+      "titleVi": "70 người thân nạn nhân mất tích chờ kết quả xét nghiệm ADN"
+    },
+    {
+      "id": "https://nyheder.tv2.dk/live/udland/2025-06-27-marius-borg-hoeiby-i-retten",
+      "source": "tv2",
+      "title": "Marius Borg Høiby får sin sag prøvet på ny",
+      "url": "https://nyheder.tv2.dk/live/udland/2025-06-27-marius-borg-hoeiby-i-retten",
+      "date": "27/06/2025",
+      "type": "Live",
+      "firstSeenAt": "2026-10-30T09:40:39.026Z",
+      "titleVi": "Marius Borg Høiby đã xét xử lại vụ án của mình"
+    },
+    {
+      "id": "https://livsstil.tv2.dk/live/2025-12-01-danskernes-sundhed",
+      "source": "tv2",
+      "title": "Kødspiseres tarmbakterier overrasker forskere i et nyt studie",
+      "url": "https://livsstil.tv2.dk/live/2025-12-01-danskernes-sundhed",
+      "date": "01/12/2025",
+      "type": "Live",
+      "firstSeenAt": "2026-10-29T13:37:32.448Z",
+      "titleVi": "Vi khuẩn đường ruột ăn thịt gây ngạc nhiên cho các nhà nghiên cứu trong nghiên cứu mới"
     },
     {
       "id": "https://nyheder.tv2.dk/tech/2026-10-29-fremtiden-kan-byde-paa-en-butler-til-alle-spoergsmaalet-er-hvem-de-vil-arbejde-for",
@@ -730,86 +810,6 @@
       "type": "Politik",
       "firstSeenAt": "2026-10-29T19:13:56.785Z",
       "titleVi": "Tranh luận về quyền công dân và án tử hình đối với người đồng tính luyến ái chia sẻ nguồn nước – Vanopslagh phản ứng mạnh mẽ với đồng nghiệp"
-    },
-    {
-      "id": "https://nyheder.tv2.dk/udland/2026-10-29-selskab-ejet-af-iss-spillede-en-rolle-i-doedsbrand-i-hongkong",
-      "source": "tv2",
-      "title": "Selskab ejet af ISS spillede en rolle i dødsbrand i Hongkong",
-      "url": "https://nyheder.tv2.dk/udland/2026-10-29-selskab-ejet-af-iss-spillede-en-rolle-i-doedsbrand-i-hongkong",
-      "date": "29/10/2026",
-      "type": "Udland",
-      "firstSeenAt": "2026-10-29T19:13:56.785Z",
-      "titleVi": "Công ty thuộc sở hữu của ISS đã đóng một vai trò trong vụ cháy rừng ở Hồng Kông"
-    },
-    {
-      "id": "https://nyheder.tv2.dk/live/samfund/2026-10-26-krisemoede-om-laegeflugt-paa-rigshospitalet",
-      "source": "tv2",
-      "title": "Tre typer operationer bliver påvirket efter lægeflugt på Rigshospitalet",
-      "url": "https://nyheder.tv2.dk/live/samfund/2026-10-26-krisemoede-om-laegeflugt-paa-rigshospitalet",
-      "date": "26/10/2026",
-      "type": "Live",
-      "firstSeenAt": "2026-10-29T19:13:56.785Z",
-      "titleVi": "Ba loại phẫu thuật bị ảnh hưởng sau khi bác sĩ trốn thoát tại Rigshospitalet"
-    },
-    {
-      "id": "https://nyheder.tv2.dk/politik/2026-10-29-protester-over-preben-bangs-eksklusion-breder-sig-til-hele-landet",
-      "source": "tv2",
-      "title": "Protester over Preben Bangs eksklusion breder sig til hele landet",
-      "url": "https://nyheder.tv2.dk/politik/2026-10-29-protester-over-preben-bangs-eksklusion-breder-sig-til-hele-landet",
-      "date": "29/10/2026",
-      "type": "Politik",
-      "firstSeenAt": "2026-10-29T19:13:56.785Z",
-      "titleVi": "Các cuộc biểu tình phản đối việc loại trừ Preben Bang đã lan rộng khắp cả nước"
-    },
-    {
-      "id": "https://nyheder.tv2.dk/live/krimi/2026-10-19-nicolai-dyhr-fra-den-sorte-svane-i-retten",
-      "source": "tv2",
-      "title": "Eksadvokat Nicolai Dyhr anker dom i sag fra 'Den sorte svane'",
-      "url": "https://nyheder.tv2.dk/live/krimi/2026-10-19-nicolai-dyhr-fra-den-sorte-svane-i-retten",
-      "date": "19/10/2026",
-      "type": "Live",
-      "firstSeenAt": "2026-10-29T19:13:56.785Z",
-      "titleVi": "Cựu luật sư Nicolai Dyhr kháng cáo bản án trong vụ án từ 'Thiên nga đen'"
-    },
-    {
-      "id": "https://nyheder.tv2.dk/live/udland/2026-09-11-valg-i-sverige",
-      "source": "tv2",
-      "title": "Riksdagen skal stemme om svensk partleder som statsminister",
-      "url": "https://nyheder.tv2.dk/live/udland/2026-09-11-valg-i-sverige",
-      "date": "11/09/2026",
-      "type": "Live",
-      "firstSeenAt": "2026-10-29T19:13:56.785Z",
-      "titleVi": "Riksdag bỏ phiếu bầu lãnh đạo đảng Thụy Điển làm thủ tướng"
-    },
-    {
-      "id": "https://nyheder.tv2.dk/udland/2026-10-29-falsk-nyhed-gaar-viralt-i-usa-pilen-peger-mod-rusland",
-      "source": "tv2",
-      "title": "Falsk nyhed går viralt i USA – pilen peger mod Rusland",
-      "url": "https://nyheder.tv2.dk/udland/2026-10-29-falsk-nyhed-gaar-viralt-i-usa-pilen-peger-mod-rusland",
-      "date": "29/10/2026",
-      "type": "Udland",
-      "firstSeenAt": "2026-10-29T13:37:32.448Z",
-      "titleVi": "Tin giả lan truyền ở Mỹ – mũi tên chỉ vào Nga"
-    },
-    {
-      "id": "https://nyheder.tv2.dk/krimi/2026-10-29-10-aarig-pige-forfulgt-af-mand-politiet-paa-bar-bund",
-      "source": "tv2",
-      "title": "10-årig pige forfulgt af mand – politiet på bar bund",
-      "url": "https://nyheder.tv2.dk/krimi/2026-10-29-10-aarig-pige-forfulgt-af-mand-politiet-paa-bar-bund",
-      "date": "29/10/2026",
-      "type": "Krimi",
-      "firstSeenAt": "2026-10-29T13:37:32.448Z",
-      "titleVi": "Bé gái 10 tuổi bị người đàn ông truy đuổi - cảnh sát bỏ trốn"
-    },
-    {
-      "id": "https://nyheder.tv2.dk/samfund/2026-10-29-surfer-frygter-at-der-sker-en-ny-ulykke",
-      "source": "tv2",
-      "title": "Surfer frygter, at der sker en ny ulykke",
-      "url": "https://nyheder.tv2.dk/samfund/2026-10-29-surfer-frygter-at-der-sker-en-ny-ulykke",
-      "date": "29/10/2026",
-      "type": "Samfund",
-      "firstSeenAt": "2026-10-29T13:37:32.448Z",
-      "titleVi": "Người lướt sóng lo sợ một tai nạn khác sẽ xảy ra"
     },
     {
       "id": "https://www.kungahuset.se/arkiv/nyheter/2026-10-22-kronprinsessan-besokte-mammografiklinik",
