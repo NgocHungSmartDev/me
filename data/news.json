@@ -1,6 +1,6 @@
 {
   "monitoringStartedAt": "2026-09-28T00:17:35.319Z",
-  "updatedAt": "2026-10-29T23:20:26.673Z",
+  "updatedAt": "2026-10-30T02:47:44.447Z",
   "sources": {
     "kongehuset": {
       "name": "Kongehuset",
@@ -33,9 +33,9 @@
       "language": "sv",
       "monitoringStartedAt": "2026-10-01T16:20:13.213Z",
       "status": {
-        "state": "ok",
-        "message": "",
-        "changedAt": "2026-10-29T00:37:41.775Z"
+        "state": "error",
+        "message": "fetch failed",
+        "changedAt": "2026-10-30T02:47:44.447Z"
       }
     },
     "svenskdam": {
