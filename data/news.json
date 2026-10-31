@@ -1,6 +1,6 @@
 {
   "monitoringStartedAt": "2026-09-28T00:17:35.319Z",
-  "updatedAt": "2026-10-31T00:38:05.413Z",
+  "updatedAt": "2026-10-31T06:19:02.818Z",
   "sources": {
     "kongehuset": {
       "name": "Kongehuset",
@@ -57,9 +57,9 @@
       "language": "no",
       "monitoringStartedAt": "2026-10-01T16:30:06.936Z",
       "status": {
-        "state": "ok",
-        "message": "",
-        "changedAt": "2026-10-31T00:38:05.413Z"
+        "state": "error",
+        "message": "The Norwegian Royal House Atom feed returned no entries",
+        "changedAt": "2026-10-31T06:19:02.818Z"
       }
     }
   },
@@ -522,24 +522,64 @@
       "titleVi": "Lễ kỷ niệm 150 năm thành lập Quỹ Carlsberg và tiết lộ chân dung tại Frederiksborg"
     },
     {
-      "id": "https://nyheder.tv2.dk/live/kort-nyt",
+      "id": "https://nyheder.tv2.dk/live/samfund/2026-10-31-halloween-2026",
       "source": "tv2",
-      "title": "Næsten 2000 husstande uden strøm",
-      "url": "https://nyheder.tv2.dk/live/kort-nyt",
-      "date": "—",
+      "title": "Danskerne fejrer halloween i stor stil",
+      "url": "https://nyheder.tv2.dk/live/samfund/2026-10-31-halloween-2026",
+      "date": "31/10/2026",
       "type": "Live",
-      "firstSeenAt": "2026-09-28T00:30:42.330Z",
-      "titleVi": "Gần 2.000 hộ không có điện"
+      "firstSeenAt": "2026-10-31T06:19:02.818Z",
+      "titleVi": "Người Đan Mạch ăn mừng Halloween theo phong cách"
     },
     {
       "id": "https://nyheder.tv2.dk/live/2024-09-08-seneste-nyt-om-krigen-i-ukraine-70b1d6cc-0720-404e-9878-45546e1999e7",
       "source": "tv2",
-      "title": "Russere prøver at overtale ukrainere til \"forkert\" bus, siger kontaktperson",
+      "title": "Dele af Kyiv uden strøm efter russisk angreb",
       "url": "https://nyheder.tv2.dk/live/2024-09-08-seneste-nyt-om-krigen-i-ukraine-70b1d6cc-0720-404e-9878-45546e1999e7",
       "date": "08/09/2024",
       "type": "Live",
       "firstSeenAt": "2026-09-28T00:30:42.330Z",
-      "titleVi": "Người Nga cố gắng thuyết phục người Ukraine \"nhầm\" xe buýt, người liên hệ cho biết"
+      "titleVi": "Các bộ phận của Kyiv không có điện sau cuộc tấn công của Nga"
+    },
+    {
+      "id": "https://nyheder.tv2.dk/live/kort-nyt",
+      "source": "tv2",
+      "title": "Temu styrtdykker i popularitet hos danskerne",
+      "url": "https://nyheder.tv2.dk/live/kort-nyt",
+      "date": "—",
+      "type": "Live",
+      "firstSeenAt": "2026-09-28T00:30:42.330Z",
+      "titleVi": "Temu trở nên phổ biến với người Đan Mạch"
+    },
+    {
+      "id": "https://nyheder.tv2.dk/udland/2026-10-26-svigersoen-tjener-milliarder-i-trumps-skygge-nu-risikerer-han-at-skulle-staa-til-ansvar",
+      "source": "tv2",
+      "title": "Svigersøn tjener milliarder i Trumps skygge – nu risikerer han at skulle stå til ansvar",
+      "url": "https://nyheder.tv2.dk/udland/2026-10-26-svigersoen-tjener-milliarder-i-trumps-skygge-nu-risikerer-han-at-skulle-staa-til-ansvar",
+      "date": "26/10/2026",
+      "type": "Udland",
+      "firstSeenAt": "2026-10-31T06:19:02.818Z",
+      "titleVi": "Con rể kiếm được hàng tỷ đô la dưới cái bóng của Trump – bây giờ anh ta có nguy cơ phải chịu trách nhiệm"
+    },
+    {
+      "id": "https://nyheder.tv2.dk/live/udland/2026-05-16-midtvejsvalg-i-usa",
+      "source": "tv2",
+      "title": "- Betalt demonstrant, lyder Trumps reaktion på vælgermøder",
+      "url": "https://nyheder.tv2.dk/live/udland/2026-05-16-midtvejsvalg-i-usa",
+      "date": "16/05/2026",
+      "type": "Live",
+      "firstSeenAt": "2026-10-30T09:40:39.026Z",
+      "titleVi": "- Người biểu tình được trả lương, phản ứng của Trump đối với các cuộc biểu tình"
+    },
+    {
+      "id": "https://nyheder.tv2.dk/live/politik/2025-08-11-dansk-politik",
+      "source": "tv2",
+      "title": "Minister tager nyt skridt efter afsløringer på skjult kamera",
+      "url": "https://nyheder.tv2.dk/live/politik/2025-08-11-dansk-politik",
+      "date": "11/08/2025",
+      "type": "Live",
+      "firstSeenAt": "2026-10-26T13:14:31.715Z",
+      "titleVi": "Bộ trưởng thực hiện bước đi mới sau những tiết lộ về camera ẩn"
     },
     {
       "id": "https://nyheder.tv2.dk/samfund/2026-10-30-fire-spaekhuggere-spottet-ved-skagen",
@@ -560,16 +600,6 @@
       "type": "Trafik",
       "firstSeenAt": "2026-10-30T20:57:59.980Z",
       "titleVi": "Thủ phạm lái xe máy gặp tai nạn – bây giờ anh ta muốn cảnh báo người khác là \"tấm gương xấu\""
-    },
-    {
-      "id": "https://nyheder.tv2.dk/live/udland/2026-05-16-midtvejsvalg-i-usa",
-      "source": "tv2",
-      "title": "Det vil være 'game over' for USA, skriver Musk om demokratisk sejr",
-      "url": "https://nyheder.tv2.dk/live/udland/2026-05-16-midtvejsvalg-i-usa",
-      "date": "16/05/2026",
-      "type": "Live",
-      "firstSeenAt": "2026-10-30T09:40:39.026Z",
-      "titleVi": "Đó sẽ là 'trò chơi kết thúc' đối với Hoa Kỳ, Musk viết về chiến thắng dân chủ"
     },
     {
       "id": "https://nyheder.tv2.dk/samfund/2026-10-30-foerst-da-7-aarig-kom-hjem-fortalte-han-om-manden-paa-stien",
@@ -752,16 +782,6 @@
       "titleVi": "Vụ cướp ngân hàng đắt giá nhất lịch sử thế giới diễn ra trong 20 phút và có thể liên quan tới Triều Tiên"
     },
     {
-      "id": "https://nyheder.tv2.dk/live/politik/2025-08-11-dansk-politik",
-      "source": "tv2",
-      "title": "Ingen når Mette Frederiksen til sokkeholderne, siger Preben Bang",
-      "url": "https://nyheder.tv2.dk/live/politik/2025-08-11-dansk-politik",
-      "date": "11/08/2025",
-      "type": "Live",
-      "firstSeenAt": "2026-10-26T13:14:31.715Z",
-      "titleVi": "Preben Bang nói rằng không ai đến được Mette Frederiksen để lấy tất"
-    },
-    {
       "id": "https://nyheder.tv2.dk/udland/2026-10-30-doedsdoemt-efter-fejlslagen-henrettelse-jeg-har-konstante-smerter",
       "source": "tv2",
       "title": "Dødsdømt efter fejlslagen henrettelse: Jeg har konstante smerter",
@@ -790,26 +810,6 @@
       "type": "Udland",
       "firstSeenAt": "2026-10-30T16:15:22.370Z",
       "titleVi": "Anh ấy không thể chịu đựng được Trump - vì vậy làn sóng dâng cao trong công ty của anh ấy"
-    },
-    {
-      "id": "https://nyheder.tv2.dk/live/udland/2025-07-18-storbritannien-overvejer-at-fjerne-eksprins-andrew-fra-arvefoelge",
-      "source": "tv2",
-      "title": "Politi efterforsker eksprins' møde med Epstein på kongeslot",
-      "url": "https://nyheder.tv2.dk/live/udland/2025-07-18-storbritannien-overvejer-at-fjerne-eksprins-andrew-fra-arvefoelge",
-      "date": "18/07/2025",
-      "type": "Live",
-      "firstSeenAt": "2026-10-30T16:15:22.370Z",
-      "titleVi": "Cảnh sát đang điều tra cuộc gặp của cựu hoàng tử với Epstein tại cung điện hoàng gia"
-    },
-    {
-      "id": "https://nyheder.tv2.dk/krimi/2026-10-29-mistaenkt-for-bedrageri-for-736-millioner-har-gemt-sig-for-politiet-i-ni-aar",
-      "source": "tv2",
-      "title": "Mistænkt for bedrageri for 73,6 millioner – har gemt sig for politiet i ni år",
-      "url": "https://nyheder.tv2.dk/krimi/2026-10-29-mistaenkt-for-bedrageri-for-736-millioner-har-gemt-sig-for-politiet-i-ni-aar",
-      "date": "29/10/2026",
-      "type": "Krimi",
-      "firstSeenAt": "2026-10-30T16:15:22.370Z",
-      "titleVi": "Bị nghi lừa đảo 73,6 triệu đồng - lẩn trốn công an suốt 9 năm"
     },
     {
       "id": "https://www.kungahuset.se/arkiv/nyheter/2026-10-22-kronprinsessan-besokte-mammografiklinik",
