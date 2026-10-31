@@ -1,6 +1,6 @@
 {
   "monitoringStartedAt": "2026-09-28T00:17:35.319Z",
-  "updatedAt": "2026-10-30T20:57:59.980Z",
+  "updatedAt": "2026-10-31T00:38:05.413Z",
   "sources": {
     "kongehuset": {
       "name": "Kongehuset",
@@ -57,9 +57,9 @@
       "language": "no",
       "monitoringStartedAt": "2026-10-01T16:30:06.936Z",
       "status": {
-        "state": "error",
-        "message": "The Norwegian Royal House Atom feed returned no entries",
-        "changedAt": "2026-10-30T20:57:59.980Z"
+        "state": "ok",
+        "message": "",
+        "changedAt": "2026-10-31T00:38:05.413Z"
       }
     }
   },
@@ -522,6 +522,36 @@
       "titleVi": "Lễ kỷ niệm 150 năm thành lập Quỹ Carlsberg và tiết lộ chân dung tại Frederiksborg"
     },
     {
+      "id": "https://nyheder.tv2.dk/live/kort-nyt",
+      "source": "tv2",
+      "title": "Næsten 2000 husstande uden strøm",
+      "url": "https://nyheder.tv2.dk/live/kort-nyt",
+      "date": "—",
+      "type": "Live",
+      "firstSeenAt": "2026-09-28T00:30:42.330Z",
+      "titleVi": "Gần 2.000 hộ không có điện"
+    },
+    {
+      "id": "https://nyheder.tv2.dk/live/2024-09-08-seneste-nyt-om-krigen-i-ukraine-70b1d6cc-0720-404e-9878-45546e1999e7",
+      "source": "tv2",
+      "title": "Russere prøver at overtale ukrainere til \"forkert\" bus, siger kontaktperson",
+      "url": "https://nyheder.tv2.dk/live/2024-09-08-seneste-nyt-om-krigen-i-ukraine-70b1d6cc-0720-404e-9878-45546e1999e7",
+      "date": "08/09/2024",
+      "type": "Live",
+      "firstSeenAt": "2026-09-28T00:30:42.330Z",
+      "titleVi": "Người Nga cố gắng thuyết phục người Ukraine \"nhầm\" xe buýt, người liên hệ cho biết"
+    },
+    {
+      "id": "https://nyheder.tv2.dk/samfund/2026-10-30-fire-spaekhuggere-spottet-ved-skagen",
+      "source": "tv2",
+      "title": "Fire spækhuggere spottet ved Skagen",
+      "url": "https://nyheder.tv2.dk/samfund/2026-10-30-fire-spaekhuggere-spottet-ved-skagen",
+      "date": "30/10/2026",
+      "type": "Samfund",
+      "firstSeenAt": "2026-10-31T00:38:05.413Z",
+      "titleVi": "Bốn con cá voi sát thủ được phát hiện tại Skagen"
+    },
+    {
       "id": "https://nyheder.tv2.dk/trafik/2026-10-30-bilist-skyld-i-ulykke-nu-vil-han-advare-andre-som-det-daarlige-eksempel",
       "source": "tv2",
       "title": "Bilist skyld i ulykke – nu vil han advare andre som \"det dårlige eksempel\"",
@@ -592,24 +622,14 @@
       "titleVi": "Houthi tấn công sân bay và dinh tổng thống ở Yemen"
     },
     {
-      "id": "https://nyheder.tv2.dk/live/kort-nyt",
+      "id": "https://nyheder.tv2.dk/samfund/2026-10-30-politiet-advarer-foraeldre-om-ulovlige-el-loebehjul",
       "source": "tv2",
-      "title": "Optagelser fra dødsulykke brugt i promovering af videospil",
-      "url": "https://nyheder.tv2.dk/live/kort-nyt",
-      "date": "—",
-      "type": "Live",
-      "firstSeenAt": "2026-09-28T00:30:42.330Z",
-      "titleVi": "Cảnh quay tai nạn chết người được sử dụng trong việc quảng bá trò chơi điện tử"
-    },
-    {
-      "id": "https://nyheder.tv2.dk/live/2024-09-08-seneste-nyt-om-krigen-i-ukraine-70b1d6cc-0720-404e-9878-45546e1999e7",
-      "source": "tv2",
-      "title": "Russere prøver at overtale ukrainere til \"forkert\" bus, siger kontaktperson",
-      "url": "https://nyheder.tv2.dk/live/2024-09-08-seneste-nyt-om-krigen-i-ukraine-70b1d6cc-0720-404e-9878-45546e1999e7",
-      "date": "08/09/2024",
-      "type": "Live",
-      "firstSeenAt": "2026-09-28T00:30:42.330Z",
-      "titleVi": "Người Nga cố gắng thuyết phục người Ukraine \"nhầm\" xe buýt, người liên hệ cho biết"
+      "title": "Politiet advarer forældre om ulovlige el-løbehjul",
+      "url": "https://nyheder.tv2.dk/samfund/2026-10-30-politiet-advarer-foraeldre-om-ulovlige-el-loebehjul",
+      "date": "30/10/2026",
+      "type": "Samfund",
+      "firstSeenAt": "2026-10-31T00:38:05.413Z",
+      "titleVi": "Cảnh sát cảnh báo phụ huynh về xe máy điện bất hợp pháp"
     },
     {
       "id": "https://nyheder.tv2.dk/udland/2026-10-30-beskyldninger-om-falsk-kandidat-kan-vaere-den-gave-trump-har-ventet-paa",
@@ -790,26 +810,6 @@
       "type": "Krimi",
       "firstSeenAt": "2026-10-30T16:15:22.370Z",
       "titleVi": "Bị nghi lừa đảo 73,6 triệu đồng - lẩn trốn công an suốt 9 năm"
-    },
-    {
-      "id": "https://nyheder.tv2.dk/live/udland/2026-10-28-to-hoejhastighedstog-er-stoedt-sammen-i-spanien",
-      "source": "tv2",
-      "title": "70 pårørende til savnede afventer svar på DNA-prøver",
-      "url": "https://nyheder.tv2.dk/live/udland/2026-10-28-to-hoejhastighedstog-er-stoedt-sammen-i-spanien",
-      "date": "28/10/2026",
-      "type": "Live",
-      "firstSeenAt": "2026-10-28T15:45:15.380Z",
-      "titleVi": "70 người thân nạn nhân mất tích chờ kết quả xét nghiệm ADN"
-    },
-    {
-      "id": "https://nyheder.tv2.dk/live/udland/2025-06-27-marius-borg-hoeiby-i-retten",
-      "source": "tv2",
-      "title": "Marius Borg Høiby får sin sag prøvet på ny",
-      "url": "https://nyheder.tv2.dk/live/udland/2025-06-27-marius-borg-hoeiby-i-retten",
-      "date": "27/06/2025",
-      "type": "Live",
-      "firstSeenAt": "2026-10-30T09:40:39.026Z",
-      "titleVi": "Marius Borg Høiby đã xét xử lại vụ án của mình"
     },
     {
       "id": "https://www.kungahuset.se/arkiv/nyheter/2026-10-22-kronprinsessan-besokte-mammografiklinik",
@@ -1362,6 +1362,17 @@
       "titleVi": "Victor cào 250.000 SEK – việc xem xét vé sẽ thay đổi mọi thứ"
     },
     {
+      "id": "https://www.kongehuset.no/nyheter/pa-skulebesok-i-spania",
+      "source": "kongehusetNo",
+      "title": "På skulebesøk i Spania",
+      "url": "https://www.kongehuset.no/nyheter/pa-skulebesok-i-spania",
+      "date": "30/10/2026",
+      "publishedAt": "Fri, 30 Oct 2026 16:03:31 GMT",
+      "type": "Nyheter",
+      "firstSeenAt": "2026-10-31T00:38:05.413Z",
+      "titleVi": "Trong chuyến tham quan trường học tại Tây Ban Nha."
+    },
+    {
       "id": "https://www.kongehuset.no/presse/pressemeldinger/haakon-deltar-pa-vigsling-av-ny-biskop-i-stavanger",
       "source": "kongehusetNo",
       "title": "Kong Haakon deltar på vigsling av ny biskop i Stavanger",
@@ -1910,17 +1921,6 @@
       "type": "Nyheter",
       "firstSeenAt": "2026-10-01T16:31:22.673Z",
       "titleVi": "Vua Harald, người đàn ông của gia đình"
-    },
-    {
-      "id": "https://www.kongehuset.no/nyheter/kong-haralds-miljoengasjement",
-      "source": "kongehusetNo",
-      "title": "Kong Haralds miljøengasjement",
-      "url": "https://www.kongehuset.no/nyheter/kong-haralds-miljoengasjement",
-      "date": "3/9/2026",
-      "publishedAt": "Thu, 03 Sep 2026 13:11:27 GMT",
-      "type": "Nyheter",
-      "firstSeenAt": "2026-10-01T16:31:22.673Z",
-      "titleVi": "Cam kết bảo vệ môi trường của Vua Harald"
     },
     {
       "id": "https://www.kongehuset.no/presse/pressemeldinger/hoffsorg-fram-til-en-maned-etter-kong-haralds-gravferd",
