@@ -1,6 +1,6 @@
 {
   "monitoringStartedAt": "2026-09-28T00:17:35.319Z",
-  "updatedAt": "2026-10-31T17:33:28.082Z",
+  "updatedAt": "2026-10-31T20:41:24.867Z",
   "sources": {
     "kongehuset": {
       "name": "Kongehuset",
@@ -522,24 +522,84 @@
       "titleVi": "Danh sách khách mời tại Bữa tối Danh dự Huy hiệu Quân đội"
     },
     {
+      "id": "https://nyheder.tv2.dk/udland/2026-10-31-norsk-mand-doed-i-formodet-fitnessulykke-med-vaegte",
+      "source": "tv2",
+      "title": "Norsk mand død i formodet fitnessulykke med vægte",
+      "url": "https://nyheder.tv2.dk/udland/2026-10-31-norsk-mand-doed-i-formodet-fitnessulykke-med-vaegte",
+      "date": "31/10/2026",
+      "type": "Udland",
+      "firstSeenAt": "2026-10-31T20:41:24.867Z",
+      "titleVi": "Một người đàn ông Na Uy đã chết vì nghi ngờ gặp tai nạn trong phòng tập thể dục với tạ"
+    },
+    {
       "id": "https://nyheder.tv2.dk/live/kort-nyt",
       "source": "tv2",
-      "title": "Bil i brand på motorvej",
+      "title": "Hest påkørt på motorvejen",
       "url": "https://nyheder.tv2.dk/live/kort-nyt",
       "date": "—",
       "type": "Live",
       "firstSeenAt": "2026-09-28T00:30:42.330Z",
-      "titleVi": "Cháy xe trên đường cao tốc"
+      "titleVi": "Trúng ngựa trên đường cao tốc"
     },
     {
-      "id": "https://nyheder.tv2.dk/udland/2026-10-31-her-kan-ingen-tro-at-republikanerne-vil-tabe-men-maga-folk-slaar-alarm",
+      "id": "https://nyheder.tv2.dk/live/2024-09-08-seneste-nyt-om-krigen-i-ukraine-70b1d6cc-0720-404e-9878-45546e1999e7",
       "source": "tv2",
-      "title": "Her kan ingen tro, at Republikanerne vil tabe – men MAGA-folk slår alarm",
-      "url": "https://nyheder.tv2.dk/udland/2026-10-31-her-kan-ingen-tro-at-republikanerne-vil-tabe-men-maga-folk-slaar-alarm",
+      "title": "Fly lander i Belarus efter storstilet evakuering i Ukraine",
+      "url": "https://nyheder.tv2.dk/live/2024-09-08-seneste-nyt-om-krigen-i-ukraine-70b1d6cc-0720-404e-9878-45546e1999e7",
+      "date": "08/09/2024",
+      "type": "Live",
+      "firstSeenAt": "2026-09-28T00:30:42.330Z",
+      "titleVi": "Máy bay hạ cánh ở Belarus sau cuộc sơ tán quy mô lớn ở Ukraine"
+    },
+    {
+      "id": "https://nyheder.tv2.dk/live/samfund/2026-10-31-halloween-2026",
+      "source": "tv2",
+      "title": "Halloween splitter familie – har fundet kompromis",
+      "url": "https://nyheder.tv2.dk/live/samfund/2026-10-31-halloween-2026",
+      "date": "31/10/2026",
+      "type": "Live",
+      "firstSeenAt": "2026-10-31T06:19:02.818Z",
+      "titleVi": "Gia đình thương hiệu Halloween – đã tìm thấy sự thỏa hiệp"
+    },
+    {
+      "id": "https://nyheder.tv2.dk/live/udland/2026-10-17-optoejer-spreder-sig-i-europa",
+      "source": "tv2",
+      "title": "TV 2-korrespondent fanget i tåregas under protester",
+      "url": "https://nyheder.tv2.dk/live/udland/2026-10-17-optoejer-spreder-sig-i-europa",
+      "date": "17/10/2026",
+      "type": "Live",
+      "firstSeenAt": "2026-10-29T19:13:56.785Z",
+      "titleVi": "Phóng viên TV 2 bị hơi cay trong các cuộc biểu tình"
+    },
+    {
+      "id": "https://nyheder.tv2.dk/live/udland/2026-05-16-midtvejsvalg-i-usa",
+      "source": "tv2",
+      "title": "Trump hånes af Norge på storskærme i New York",
+      "url": "https://nyheder.tv2.dk/live/udland/2026-05-16-midtvejsvalg-i-usa",
+      "date": "16/05/2026",
+      "type": "Live",
+      "firstSeenAt": "2026-10-30T09:40:39.026Z",
+      "titleVi": "Trump chế giễu Na Uy trên màn hình lớn ở New York"
+    },
+    {
+      "id": "https://nyheder.tv2.dk/live/2025-01-06-kampen-om-groenlands-fremtid",
+      "source": "tv2",
+      "title": "Trump deler billede af Grønland som kæmpe militærbase – helt bevidst timing, siger kommentator",
+      "url": "https://nyheder.tv2.dk/live/2025-01-06-kampen-om-groenlands-fremtid",
+      "date": "06/01/2025",
+      "type": "Live",
+      "firstSeenAt": "2026-10-31T20:41:24.867Z",
+      "titleVi": "Trump chia sẻ hình ảnh Greenland là căn cứ quân sự khổng lồ – Thời gian hoàn toàn có chủ ý, nhà bình luận nói"
+    },
+    {
+      "id": "https://nyheder.tv2.dk/udland/2026-10-31-vaelgere-kan-ikke-tro-nye-maalinger-risikerer-at-staa-i-lort-til-halsen",
+      "source": "tv2",
+      "title": "Vælgere kan ikke tro nye målinger – risikerer at \"stå i lort til halsen\"",
+      "url": "https://nyheder.tv2.dk/udland/2026-10-31-vaelgere-kan-ikke-tro-nye-maalinger-risikerer-at-staa-i-lort-til-halsen",
       "date": "31/10/2026",
       "type": "Udland",
-      "firstSeenAt": "2026-10-31T17:33:28.082Z",
-      "titleVi": "Ở đây không ai có thể tin rằng đảng Cộng hòa sẽ thua – nhưng người Maga gióng lên hồi chuông cảnh báo"
+      "firstSeenAt": "2026-10-31T20:41:24.867Z",
+      "titleVi": "Cử tri không thể tin vào các cuộc thăm dò mới – có nguy cơ \"đứng như cứt\""
     },
     {
       "id": "https://nyheder.tv2.dk/udland/2026-10-31-usa-advarer-rusland-om-muligt-angreb-i-moskva",
@@ -562,16 +622,6 @@
       "titleVi": "Houthi tấn công sân bay và dinh tổng thống ở Yemen"
     },
     {
-      "id": "https://nyheder.tv2.dk/live/samfund/2026-10-31-halloween-2026",
-      "source": "tv2",
-      "title": "Halloween splitter familie – har fundet kompromis",
-      "url": "https://nyheder.tv2.dk/live/samfund/2026-10-31-halloween-2026",
-      "date": "31/10/2026",
-      "type": "Live",
-      "firstSeenAt": "2026-10-31T06:19:02.818Z",
-      "titleVi": "Gia đình thương hiệu Halloween – đã tìm thấy sự thỏa hiệp"
-    },
-    {
       "id": "https://nyheder.tv2.dk/samfund/2026-10-31-journalist-droppede-mad-i-100-timer-saadan-gik-det",
       "source": "tv2",
       "title": "Journalist droppede mad i 100 timer – sådan gik det",
@@ -580,16 +630,6 @@
       "type": "Samfund",
       "firstSeenAt": "2026-10-31T17:33:28.082Z",
       "titleVi": "Nhà báo làm rơi thức ăn trong 100 giờ – đó là cách nó diễn ra"
-    },
-    {
-      "id": "https://nyheder.tv2.dk/live/udland/2026-10-17-optoejer-spreder-sig-i-europa",
-      "source": "tv2",
-      "title": "Demonstrationer ventes at sprede sig yderligere i Europa",
-      "url": "https://nyheder.tv2.dk/live/udland/2026-10-17-optoejer-spreder-sig-i-europa",
-      "date": "17/10/2026",
-      "type": "Live",
-      "firstSeenAt": "2026-10-29T19:13:56.785Z",
-      "titleVi": "Các cuộc biểu tình dự kiến sẽ lan rộng hơn nữa ở châu Âu"
     },
     {
       "id": "https://nyheder.tv2.dk/udland/2026-10-31-draebte-journalister-og-nobels-fredspris-nu-er-ruslands-sidste-frie-avis-kvalt",
@@ -610,16 +650,6 @@
       "type": "Samfund",
       "firstSeenAt": "2026-10-31T17:33:28.082Z",
       "titleVi": "Copenhagen ở trung tâm của bộ phim Giáng sinh mới của Mỹ"
-    },
-    {
-      "id": "https://nyheder.tv2.dk/live/2024-09-08-seneste-nyt-om-krigen-i-ukraine-70b1d6cc-0720-404e-9878-45546e1999e7",
-      "source": "tv2",
-      "title": "Fly lander i Belarus efter storstilet evakuering i Ukraine",
-      "url": "https://nyheder.tv2.dk/live/2024-09-08-seneste-nyt-om-krigen-i-ukraine-70b1d6cc-0720-404e-9878-45546e1999e7",
-      "date": "08/09/2024",
-      "type": "Live",
-      "firstSeenAt": "2026-09-28T00:30:42.330Z",
-      "titleVi": "Máy bay hạ cánh ở Belarus sau cuộc sơ tán quy mô lớn ở Ukraine"
     },
     {
       "id": "https://nyheder.tv2.dk/samfund/2026-10-31-en-fantastisk-kollega-og-ven-er-doed",
@@ -702,16 +732,6 @@
       "titleVi": "Trò chơi phổ biến bị lợi dụng để đánh cắp thông tin của trẻ em"
     },
     {
-      "id": "https://nyheder.tv2.dk/live/udland/2026-05-16-midtvejsvalg-i-usa",
-      "source": "tv2",
-      "title": "Ted Cruz sender advarsel om \"kæmpe nederlag\" til partifæller",
-      "url": "https://nyheder.tv2.dk/live/udland/2026-05-16-midtvejsvalg-i-usa",
-      "date": "16/05/2026",
-      "type": "Live",
-      "firstSeenAt": "2026-10-30T09:40:39.026Z",
-      "titleVi": "Ted Cruz gửi cảnh báo đảng viên về “thất bại nặng nề”"
-    },
-    {
       "id": "https://nyheder.tv2.dk/krimi/2026-10-31-opgang-til-lejlighed-spraengt-fuldstaendig-i-stykker-eksperter-sendt-til-stedet",
       "source": "tv2",
       "title": "Opgang til lejlighed sprængt fuldstændig i stykker – eksperter sendt til stedet",
@@ -790,26 +810,6 @@
       "type": "Samfund",
       "firstSeenAt": "2026-10-31T00:38:05.413Z",
       "titleVi": "Cảnh sát cảnh báo phụ huynh về xe máy điện bất hợp pháp"
-    },
-    {
-      "id": "https://nyheder.tv2.dk/udland/2026-10-30-beskyldninger-om-falsk-kandidat-kan-vaere-den-gave-trump-har-ventet-paa",
-      "source": "tv2",
-      "title": "Beskyldninger om \"falsk\" kandidat kan være den gave, Trump har ventet på",
-      "url": "https://nyheder.tv2.dk/udland/2026-10-30-beskyldninger-om-falsk-kandidat-kan-vaere-den-gave-trump-har-ventet-paa",
-      "date": "30/10/2026",
-      "type": "Udland",
-      "firstSeenAt": "2026-10-30T20:57:59.980Z",
-      "titleVi": "Những cáo buộc về ứng cử viên \"giả mạo\" có thể là món quà mà Trump đang chờ đợi"
-    },
-    {
-      "id": "https://nyheder.tv2.dk/samfund/2026-10-30-falsk-vaabenfirma-brugte-ai-billede-og-fik-71-millioner-det-vil-ske-igen-mener-eksperter",
-      "source": "tv2",
-      "title": "Falsk våbenfirma brugte AI-billede og fik 71 millioner – det vil ske igen, mener eksperter",
-      "url": "https://nyheder.tv2.dk/samfund/2026-10-30-falsk-vaabenfirma-brugte-ai-billede-og-fik-71-millioner-det-vil-ske-igen-mener-eksperter",
-      "date": "30/10/2026",
-      "type": "Samfund",
-      "firstSeenAt": "2026-10-30T20:57:59.980Z",
-      "titleVi": "Các chuyên gia nói rằng công ty vũ khí giả đã sử dụng hình ảnh AI và nhận được 71 triệu – điều đó sẽ xảy ra lần nữa, các chuyên gia cho biết"
     },
     {
       "id": "https://www.kungahuset.se/arkiv/nyheter/2026-10-22-kronprinsessan-besokte-mammografiklinik",
