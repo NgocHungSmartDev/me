@@ -1,6 +1,6 @@
 {
   "monitoringStartedAt": "2026-09-28T00:17:35.319Z",
-  "updatedAt": "2026-11-02T23:58:57.630Z",
+  "updatedAt": "2026-11-03T06:29:24.258Z",
   "sources": {
     "kongehuset": {
       "name": "Kongehuset",
@@ -522,26 +522,6 @@
       "titleVi": "Thông cáo báo chí: Chuyến thăm cấp nhà nước của nước Cộng hòa xã hội chủ nghĩa Việt Nam"
     },
     {
-      "id": "https://nyheder.tv2.dk/tech/2026-11-02-disse-ting-i-dit-hjem-kan-hackere-nemt-faa-adgang-til",
-      "source": "tv2",
-      "title": "Disse ting i dit hjem kan hackere nemt få adgang til",
-      "url": "https://nyheder.tv2.dk/tech/2026-11-02-disse-ting-i-dit-hjem-kan-hackere-nemt-faa-adgang-til",
-      "date": "02/11/2026",
-      "type": "Tech",
-      "firstSeenAt": "2026-11-02T23:58:57.630Z",
-      "titleVi": "Tin tặc có thể dễ dàng truy cập những thứ này trong nhà bạn"
-    },
-    {
-      "id": "https://nyheder.tv2.dk/live/kort-nyt",
-      "source": "tv2",
-      "title": "Apples omsætning rammer mere end 750 milliarder kroner i seneste kvartal",
-      "url": "https://nyheder.tv2.dk/live/kort-nyt",
-      "date": "—",
-      "type": "Live",
-      "firstSeenAt": "2026-09-28T00:30:42.330Z",
-      "titleVi": "Doanh thu của Apple đạt hơn 100 tỷ USD trong quý vừa qua"
-    },
-    {
       "id": "https://nyheder.tv2.dk/live/udland/2026-05-16-midtvejsvalg-i-usa",
       "source": "tv2",
       "title": "Topdemokrat tordner mod ”usselt forræderi”",
@@ -550,6 +530,76 @@
       "type": "Live",
       "firstSeenAt": "2026-10-30T09:40:39.026Z",
       "titleVi": "Những tiếng sấm hàng đầu của đảng Dân chủ chống lại 'sự phản bội tệ hại'"
+    },
+    {
+      "id": "https://nyheder.tv2.dk/live/2024-09-08-seneste-nyt-om-krigen-i-ukraine-70b1d6cc-0720-404e-9878-45546e1999e7",
+      "source": "tv2",
+      "title": "18 dræbt i russisk angreb, siger Zelenskyj",
+      "url": "https://nyheder.tv2.dk/live/2024-09-08-seneste-nyt-om-krigen-i-ukraine-70b1d6cc-0720-404e-9878-45546e1999e7",
+      "date": "08/09/2024",
+      "type": "Live",
+      "firstSeenAt": "2026-09-28T00:30:42.330Z",
+      "titleVi": "Zelenskyi cho biết 18 người thiệt mạng trong cuộc tấn công của Nga"
+    },
+    {
+      "id": "https://nyheder.tv2.dk/live/kort-nyt",
+      "source": "tv2",
+      "title": "Fjernelse af dansk giftdepot forsinkes markant",
+      "url": "https://nyheder.tv2.dk/live/kort-nyt",
+      "date": "—",
+      "type": "Live",
+      "firstSeenAt": "2026-09-28T00:30:42.330Z",
+      "titleVi": "Việc loại bỏ kho chứa chất độc của Đan Mạch bị trì hoãn đáng kể"
+    },
+    {
+      "id": "https://nyheder.tv2.dk/live/udland/2026-11-03-spoerg-om-midtvejsvalget-i-usa",
+      "source": "tv2",
+      "title": "Spørg om midtvejsvalget i USA",
+      "url": "https://nyheder.tv2.dk/live/udland/2026-11-03-spoerg-om-midtvejsvalget-i-usa",
+      "date": "03/11/2026",
+      "type": "Live",
+      "firstSeenAt": "2026-11-03T06:29:24.258Z",
+      "titleVi": "Hỏi về cuộc bầu cử giữa nhiệm kỳ ở Mỹ"
+    },
+    {
+      "id": "https://nyheder.tv2.dk/udland/2026-11-02-historisk-stor-aktivitet-foer-valget-er-et-varsel-om-demokraternes-plan-for-trump",
+      "source": "tv2",
+      "title": "Historisk stor aktivitet før valget er et varsel om Demokraternes plan for Trump",
+      "url": "https://nyheder.tv2.dk/udland/2026-11-02-historisk-stor-aktivitet-foer-valget-er-et-varsel-om-demokraternes-plan-for-trump",
+      "date": "02/11/2026",
+      "type": "Udland",
+      "firstSeenAt": "2026-11-03T06:29:24.258Z",
+      "titleVi": "Hoạt động trước bầu cử cao trong lịch sử là một điềm báo cho kế hoạch của đảng Dân chủ đối với Trump"
+    },
+    {
+      "id": "https://nyheder.tv2.dk/live/udland/2026-01-08-krig-i-mellemoesten",
+      "source": "tv2",
+      "title": "USA mangler at håndtere et eller to mål i Iran, siger Trump",
+      "url": "https://nyheder.tv2.dk/live/udland/2026-01-08-krig-i-mellemoesten",
+      "date": "08/01/2026",
+      "type": "Live",
+      "firstSeenAt": "2026-11-03T06:29:24.258Z",
+      "titleVi": "Trump nói rằng Mỹ vẫn cần phải đối phó với một hoặc hai mục tiêu ở Iran"
+    },
+    {
+      "id": "https://nyheder.tv2.dk/samfund/2026-11-02-14-dage-uden-morgenmad-fik-john-andersen-til-at-undre-sig",
+      "source": "tv2",
+      "title": "14 dage uden morgenmad fik John Andersen til at undre sig",
+      "url": "https://nyheder.tv2.dk/samfund/2026-11-02-14-dage-uden-morgenmad-fik-john-andersen-til-at-undre-sig",
+      "date": "02/11/2026",
+      "type": "Samfund",
+      "firstSeenAt": "2026-11-03T06:29:24.258Z",
+      "titleVi": "14 ngày không ăn sáng khiến John Andersen tự hỏi"
+    },
+    {
+      "id": "https://nyheder.tv2.dk/tech/2026-11-02-disse-ting-i-dit-hjem-kan-hackere-nemt-faa-adgang-til",
+      "source": "tv2",
+      "title": "Disse ting i dit hjem kan hackere nemt få adgang til",
+      "url": "https://nyheder.tv2.dk/tech/2026-11-02-disse-ting-i-dit-hjem-kan-hackere-nemt-faa-adgang-til",
+      "date": "02/11/2026",
+      "type": "Tech",
+      "firstSeenAt": "2026-11-02T23:58:57.630Z",
+      "titleVi": "Tin tặc có thể dễ dàng truy cập những thứ này trong nhà bạn"
     },
     {
       "id": "https://nyheder.tv2.dk/2026-11-02-en-gruppe-staar-bag-hele-vaeksten-i-aeldreplejen",
@@ -590,16 +640,6 @@
       "type": "Udland",
       "firstSeenAt": "2026-11-02T23:58:57.630Z",
       "titleVi": "Nhà thám hiểm người Anh trở về nhà sau 28 năm đi bộ"
-    },
-    {
-      "id": "https://nyheder.tv2.dk/live/2024-09-08-seneste-nyt-om-krigen-i-ukraine-70b1d6cc-0720-404e-9878-45546e1999e7",
-      "source": "tv2",
-      "title": "18 dræbt i russisk angreb, siger Zelenskyj",
-      "url": "https://nyheder.tv2.dk/live/2024-09-08-seneste-nyt-om-krigen-i-ukraine-70b1d6cc-0720-404e-9878-45546e1999e7",
-      "date": "08/09/2024",
-      "type": "Live",
-      "firstSeenAt": "2026-09-28T00:30:42.330Z",
-      "titleVi": "Zelenskyi cho biết 18 người thiệt mạng trong cuộc tấn công của Nga"
     },
     {
       "id": "https://nyheder.tv2.dk/2026-10-31-for-to-aar-siden-fik-hun-en-ny-lever-nu-ryster-situationen-paa-rigshospitalet-familien",
@@ -770,46 +810,6 @@
       "type": "Samfund",
       "firstSeenAt": "2026-11-01T21:14:33.017Z",
       "titleVi": "Việc hủy khách sạn bí ẩn làm dấy lên nghi vấn 'mua visa'"
-    },
-    {
-      "id": "https://nyheder.tv2.dk/udland/2026-11-01-dramatisk-magtkrig-brudt-ud-i-polen-tusk-anklages-for-at-kuppe-domstol",
-      "source": "tv2",
-      "title": "Dramatisk magtkrig brudt ud i Polen – Tusk anklages for at kuppe domstol",
-      "url": "https://nyheder.tv2.dk/udland/2026-11-01-dramatisk-magtkrig-brudt-ud-i-polen-tusk-anklages-for-at-kuppe-domstol",
-      "date": "01/11/2026",
-      "type": "Udland",
-      "firstSeenAt": "2026-11-01T21:14:33.017Z",
-      "titleVi": "Cuộc chiến tranh giành quyền lực kịch tính nổ ra ở Ba Lan - Tusk bị cáo buộc đảo chính"
-    },
-    {
-      "id": "https://nyheder.tv2.dk/live/tech/2026-09-09-seneste-nyt-om-ai",
-      "source": "tv2",
-      "title": "OpenAI vil give datacentre nyt navn",
-      "url": "https://nyheder.tv2.dk/live/tech/2026-09-09-seneste-nyt-om-ai",
-      "date": "09/09/2026",
-      "type": "Live",
-      "firstSeenAt": "2026-11-01T11:31:37.097Z",
-      "titleVi": "OpenAI sẽ đặt tên mới cho trung tâm dữ liệu"
-    },
-    {
-      "id": "https://nyheder.tv2.dk/samfund/2026-11-01-daekcentre-har-rygende-travlt-se-at-faa-booket",
-      "source": "tv2",
-      "title": "Dækcentre har rygende travlt: - Se at få booket",
-      "url": "https://nyheder.tv2.dk/samfund/2026-11-01-daekcentre-har-rygende-travlt-se-at-faa-booket",
-      "date": "01/11/2026",
-      "type": "Samfund",
-      "firstSeenAt": "2026-11-01T17:14:42.124Z",
-      "titleVi": "Các trung tâm lốp xe cực kỳ bận rộn: - Hãy nhớ đặt lịch"
-    },
-    {
-      "id": "https://nyheder.tv2.dk/live/samfund/2026-10-31-halloween-2026",
-      "source": "tv2",
-      "title": "Halloween splitter familie – har fundet kompromis",
-      "url": "https://nyheder.tv2.dk/live/samfund/2026-10-31-halloween-2026",
-      "date": "31/10/2026",
-      "type": "Live",
-      "firstSeenAt": "2026-10-31T06:19:02.818Z",
-      "titleVi": "Gia đình thương hiệu Halloween – đã tìm thấy sự thỏa hiệp"
     },
     {
       "id": "https://www.kungahuset.se/arkiv/nyheter/2026-10-22-kronprinsessan-besokte-mammografiklinik",
