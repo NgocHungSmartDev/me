@@ -1,6 +1,6 @@
 {
   "monitoringStartedAt": "2026-09-28T00:17:35.319Z",
-  "updatedAt": "2026-11-04T07:16:40.592Z",
+  "updatedAt": "2026-11-04T15:39:53.440Z",
   "sources": {
     "kongehuset": {
       "name": "Kongehuset",
@@ -33,9 +33,9 @@
       "language": "sv",
       "monitoringStartedAt": "2026-10-01T16:20:13.213Z",
       "status": {
-        "state": "error",
-        "message": "fetch failed",
-        "changedAt": "2026-11-04T07:16:40.592Z"
+        "state": "ok",
+        "message": "",
+        "changedAt": "2026-11-04T15:39:53.440Z"
       }
     },
     "svenskdam": {
@@ -71,6 +71,16 @@
     }
   },
   "articles": [
+    {
+      "id": "https://www.kongehuset.dk/foto-video/laugenes-opvisning-2026",
+      "source": "kongehuset",
+      "title": "Laugenes Opvisning 2026",
+      "url": "https://www.kongehuset.dk/foto-video/laugenes-opvisning-2026",
+      "date": "3. november 2026",
+      "type": "Galleri",
+      "firstSeenAt": "2026-11-04T15:39:53.440Z",
+      "titleVi": "Laugenes Show 2026"
+    },
     {
       "id": "https://www.kongehuset.dk/foto-video/ebbe-munck-prisen-2026",
       "source": "kongehuset",
@@ -512,34 +522,174 @@
       "titleVi": "HM Nhà vua tiếp ông luật sư người Faroe"
     },
     {
-      "id": "https://www.kongehuset.dk/foto-video/offentlig-audiens-den-5-oktober-2026",
-      "source": "kongehuset",
-      "title": "Offentlig audiens den. 5. oktober 2026",
-      "url": "https://www.kongehuset.dk/foto-video/offentlig-audiens-den-5-oktober-2026",
-      "date": "5. oktober 2026",
-      "type": "Galleri",
-      "firstSeenAt": "2026-10-06T09:26:46.923Z",
-      "titleVi": "Tiếp kiến công chúng vào ngày 5 tháng 10 năm 2026"
+      "id": "https://nyheder.tv2.dk/live/2024-09-08-seneste-nyt-om-krigen-i-ukraine-70b1d6cc-0720-404e-9878-45546e1999e7",
+      "source": "tv2",
+      "title": "Kreml reagerer på valgresultat i USA",
+      "url": "https://nyheder.tv2.dk/live/2024-09-08-seneste-nyt-om-krigen-i-ukraine-70b1d6cc-0720-404e-9878-45546e1999e7",
+      "date": "08/09/2024",
+      "type": "Live",
+      "firstSeenAt": "2026-09-28T00:30:42.330Z",
+      "titleVi": "Kremlin phản ứng với kết quả bầu cử Mỹ"
     },
     {
-      "id": "https://nyheder.tv2.dk/live/business/2025-08-20-turbulente-tider-i-novo-nordisk",
+      "id": "https://nyheder.tv2.dk/live/business/2025-03-12-seneste-nyt-fra-de-finansielle-markeder",
       "source": "tv2",
-      "title": "Novo opjusterer forventninger",
-      "url": "https://nyheder.tv2.dk/live/business/2025-08-20-turbulente-tider-i-novo-nordisk",
-      "date": "20/08/2025",
+      "title": "Elon Musks Tesla og SpaceX får aktie-tæsk",
+      "url": "https://nyheder.tv2.dk/live/business/2025-03-12-seneste-nyt-fra-de-finansielle-markeder",
+      "date": "12/03/2025",
       "type": "Live",
-      "firstSeenAt": "2026-11-04T07:16:40.592Z",
-      "titleVi": "Kỳ vọng nâng cấp của Novo"
+      "firstSeenAt": "2026-11-03T20:39:01.010Z",
+      "titleVi": "Tesla và SpaceX của Elon Musk có được cổ phiếu"
+    },
+    {
+      "id": "https://nyheder.tv2.dk/live/samfund/2026-09-28-dansk-landbrug-i-forandring",
+      "source": "tv2",
+      "title": "Landbrugets formand beskylder politikerne for usandheder",
+      "url": "https://nyheder.tv2.dk/live/samfund/2026-09-28-dansk-landbrug-i-forandring",
+      "date": "28/09/2026",
+      "type": "Live",
+      "firstSeenAt": "2026-11-04T15:39:53.440Z",
+      "titleVi": "Chủ tịch Nông nghiệp cáo buộc các chính trị gia nói dối"
+    },
+    {
+      "id": "https://nyheder.tv2.dk/live/kort-nyt",
+      "source": "tv2",
+      "title": "Tivolis store juletræ er på plads",
+      "url": "https://nyheder.tv2.dk/live/kort-nyt",
+      "date": "—",
+      "type": "Live",
+      "firstSeenAt": "2026-09-28T00:30:42.330Z",
+      "titleVi": "Cây thông Noel lớn của Tivoli đã sẵn sàng"
+    },
+    {
+      "id": "https://nyheder.tv2.dk/live/udland/2026-05-16-midtvejsvalg-i-usa",
+      "source": "tv2",
+      "title": "Demokraterne i spil til højst overraskende sejr",
+      "url": "https://nyheder.tv2.dk/live/udland/2026-05-16-midtvejsvalg-i-usa",
+      "date": "16/05/2026",
+      "type": "Live",
+      "firstSeenAt": "2026-10-30T09:40:39.026Z",
+      "titleVi": "Đảng Dân chủ bị đe dọa vì chiến thắng bất ngờ nhất"
+    },
+    {
+      "id": "https://nyheder.tv2.dk/udland/2026-11-04-trump-er-svaekket-efter-vaelgerlussing-men-hvor-stiller-det-ukraine",
+      "source": "tv2",
+      "title": "Trump er svækket efter vælgerlussing, men hvor stiller det Ukraine?",
+      "url": "https://nyheder.tv2.dk/udland/2026-11-04-trump-er-svaekket-efter-vaelgerlussing-men-hvor-stiller-det-ukraine",
+      "date": "04/11/2026",
+      "type": "Udland",
+      "firstSeenAt": "2026-11-04T15:39:53.440Z",
+      "titleVi": "Trump bị suy yếu bởi sự chểnh mảng của cử tri, nhưng điều đó đặt Ukraine vào đâu?"
     },
     {
       "id": "https://nyheder.tv2.dk/live/samfund/2026-11-04-30000-danske-gymnasieelever-nedlaegger-undervisningen",
       "source": "tv2",
-      "title": "30.000 danske gymnasieelever nedlægger undervisningen",
+      "title": "Tusindvis af elever demonstrerer – blokerer lærere foran indgang",
       "url": "https://nyheder.tv2.dk/live/samfund/2026-11-04-30000-danske-gymnasieelever-nedlaegger-undervisningen",
       "date": "04/11/2026",
       "type": "Live",
       "firstSeenAt": "2026-11-04T07:16:40.592Z",
-      "titleVi": "30.000 học sinh trung học Đan Mạch bỏ học"
+      "titleVi": "Hàng ngàn học sinh biểu tình – chặn giáo viên trước cửa vào"
+    },
+    {
+      "id": "https://nyheder.tv2.dk/live/udland/2025-06-27-marius-borg-hoeiby-i-retten",
+      "source": "tv2",
+      "title": "Marius Borg Høiby skal løslades",
+      "url": "https://nyheder.tv2.dk/live/udland/2025-06-27-marius-borg-hoeiby-i-retten",
+      "date": "27/06/2025",
+      "type": "Live",
+      "firstSeenAt": "2026-11-04T15:39:53.440Z",
+      "titleVi": "Marius Borg Høiby sẽ được thả"
+    },
+    {
+      "id": "https://nyheder.tv2.dk/live/udland/2026-11-03-spoerg-om-midtvejsvalget-i-usa",
+      "source": "tv2",
+      "title": "Hvad betyder æslet og elefanten?",
+      "url": "https://nyheder.tv2.dk/live/udland/2026-11-03-spoerg-om-midtvejsvalget-i-usa",
+      "date": "03/11/2026",
+      "type": "Live",
+      "firstSeenAt": "2026-11-03T06:29:24.258Z",
+      "titleVi": "Lừa và voi có nghĩa là gì?"
+    },
+    {
+      "id": "https://nyheder.tv2.dk/live/politik/2025-08-11-dansk-politik",
+      "source": "tv2",
+      "title": "Troels Lund undviger spørgsmål om blå bloks ledelse",
+      "url": "https://nyheder.tv2.dk/live/politik/2025-08-11-dansk-politik",
+      "date": "11/08/2025",
+      "type": "Live",
+      "firstSeenAt": "2026-11-04T15:39:53.440Z",
+      "titleVi": "Troels Lund né tránh các câu hỏi về quản lý khối màu xanh"
+    },
+    {
+      "id": "https://nyheder.tv2.dk/live/business/2025-08-20-turbulente-tider-i-novo",
+      "source": "tv2",
+      "title": "Novo opjusterer forventninger",
+      "url": "https://nyheder.tv2.dk/live/business/2025-08-20-turbulente-tider-i-novo",
+      "date": "20/08/2025",
+      "type": "Live",
+      "firstSeenAt": "2026-11-04T15:39:53.440Z",
+      "titleVi": "Kỳ vọng nâng cấp của Novo"
+    },
+    {
+      "id": "https://nyheder.tv2.dk/udland/2026-11-04-trump-giver-alle-andre-skylden-for-nederlag-men-fire-detaljer-fortaeller-noget-andet",
+      "source": "tv2",
+      "title": "Trump giver alle andre skylden for nederlag – men fire detaljer fortæller noget andet",
+      "url": "https://nyheder.tv2.dk/udland/2026-11-04-trump-giver-alle-andre-skylden-for-nederlag-men-fire-detaljer-fortaeller-noget-andet",
+      "date": "04/11/2026",
+      "type": "Udland",
+      "firstSeenAt": "2026-11-04T15:39:53.440Z",
+      "titleVi": "Trump đổ lỗi cho mọi người khác về thất bại – nhưng bốn chi tiết cho thấy điều ngược lại"
+    },
+    {
+      "id": "https://nyheder.tv2.dk/krimi/2026-11-04-hoejesteret-frifinder-kvinder-for-at-snage",
+      "source": "tv2",
+      "title": "Højesteret frifinder kvinder for at snage",
+      "url": "https://nyheder.tv2.dk/krimi/2026-11-04-hoejesteret-frifinder-kvinder-for-at-snage",
+      "date": "04/11/2026",
+      "type": "Krimi",
+      "firstSeenAt": "2026-11-04T15:39:53.440Z",
+      "titleVi": "Tòa án Tối cao tha bổng cho phụ nữ vì tội rình mò"
+    },
+    {
+      "id": "https://nyheder.tv2.dk/samfund/2026-11-03-derfor-kan-hackere-skrue-op-for-varmen-i-supermarkedets-koelediske",
+      "source": "tv2",
+      "title": "Derfor kan hackere skrue op for varmen i supermarkedets kølediske",
+      "url": "https://nyheder.tv2.dk/samfund/2026-11-03-derfor-kan-hackere-skrue-op-for-varmen-i-supermarkedets-koelediske",
+      "date": "03/11/2026",
+      "type": "Samfund",
+      "firstSeenAt": "2026-11-04T15:39:53.440Z",
+      "titleVi": "Do đó, tin tặc có thể tăng nhiệt trong các quầy làm lạnh của siêu thị"
+    },
+    {
+      "id": "https://nyheder.tv2.dk/samfund/2026-11-04-ulvealarmer-revet-vaek",
+      "source": "tv2",
+      "title": "Ulvealarmer revet væk",
+      "url": "https://nyheder.tv2.dk/samfund/2026-11-04-ulvealarmer-revet-vaek",
+      "date": "04/11/2026",
+      "type": "Samfund",
+      "firstSeenAt": "2026-11-04T15:39:53.440Z",
+      "titleVi": "Báo động sói bị xé toạc"
+    },
+    {
+      "id": "https://nyheder.tv2.dk/udland/2026-11-04-fem-valgte-kandidater-overrasker-usa-og-gaar-imod-central-kamp-for-trump",
+      "source": "tv2",
+      "title": "Fem valgte kandidater overrasker USA – og går imod central kamp for Trump",
+      "url": "https://nyheder.tv2.dk/udland/2026-11-04-fem-valgte-kandidater-overrasker-usa-og-gaar-imod-central-kamp-for-trump",
+      "date": "04/11/2026",
+      "type": "Udland",
+      "firstSeenAt": "2026-11-04T15:39:53.440Z",
+      "titleVi": "Năm ứng cử viên được bầu làm ngạc nhiên Hoa Kỳ – và phản đối cuộc chiến trung tâm cho Trump"
+    },
+    {
+      "id": "https://nyheder.tv2.dk/trafik/2026-11-04-storebaeltsbroen-skal-loeftes-84-gange-under-kaempe-renovering",
+      "source": "tv2",
+      "title": "Storebæltsbroen skal løftes 84 gange under kæmpe renovering",
+      "url": "https://nyheder.tv2.dk/trafik/2026-11-04-storebaeltsbroen-skal-loeftes-84-gange-under-kaempe-renovering",
+      "date": "04/11/2026",
+      "type": "Trafik",
+      "firstSeenAt": "2026-11-04T15:39:53.440Z",
+      "titleVi": "Cầu Great Belt phải được nâng lên 84 lần trong quá trình cải tạo lớn"
     },
     {
       "id": "https://nyheder.tv2.dk/udland/2026-10-14-foelg-alle-resultaterne-fra-valget-i-usa",
@@ -552,14 +702,34 @@
       "titleVi": "Theo dõi tất cả kết quả bầu cử ở Hoa Kỳ"
     },
     {
-      "id": "https://nyheder.tv2.dk/live/udland/2026-05-16-midtvejsvalg-i-usa",
+      "id": "https://nyheder.tv2.dk/samfund/2026-11-04-elever-nominerer-aarets-boerneord",
       "source": "tv2",
-      "title": "Demokrat erklærer sejr i Michigan",
-      "url": "https://nyheder.tv2.dk/live/udland/2026-05-16-midtvejsvalg-i-usa",
-      "date": "16/05/2026",
-      "type": "Live",
-      "firstSeenAt": "2026-10-30T09:40:39.026Z",
-      "titleVi": "Đảng Dân chủ tuyên bố chiến thắng ở Michigan"
+      "title": "Elever nominerer Årets Børneord",
+      "url": "https://nyheder.tv2.dk/samfund/2026-11-04-elever-nominerer-aarets-boerneord",
+      "date": "04/11/2026",
+      "type": "Samfund",
+      "firstSeenAt": "2026-11-04T15:39:53.440Z",
+      "titleVi": "Học sinh đề cử Từ của năm dành cho trẻ em"
+    },
+    {
+      "id": "https://nyheder.tv2.dk/udland/2026-11-04-demokraterne-sikrer-dobbeltflertal-nu-slutter-trumps-trifecta",
+      "source": "tv2",
+      "title": "Demokraterne sikrer dobbeltflertal – nu slutter Trumps \"trifecta\"",
+      "url": "https://nyheder.tv2.dk/udland/2026-11-04-demokraterne-sikrer-dobbeltflertal-nu-slutter-trumps-trifecta",
+      "date": "04/11/2026",
+      "type": "Udland",
+      "firstSeenAt": "2026-11-04T15:39:53.440Z",
+      "titleVi": "Đảng Dân chủ bảo đảm đa số kép – bây giờ \"trifecta\" của Trump kết thúc"
+    },
+    {
+      "id": "https://nyheder.tv2.dk/udland/2026-11-04-usa-kortet-er-forandret-efter-blaa-tsunami-her-er-de-roede-hoejborge-faldet",
+      "source": "tv2",
+      "title": "USA-kortet er forandret efter blå tsunami – her er de røde højborge faldet",
+      "url": "https://nyheder.tv2.dk/udland/2026-11-04-usa-kortet-er-forandret-efter-blaa-tsunami-her-er-de-roede-hoejborge-faldet",
+      "date": "04/11/2026",
+      "type": "Udland",
+      "firstSeenAt": "2026-11-04T07:16:40.592Z",
+      "titleVi": "Bản đồ Hoa Kỳ đã thay đổi sau trận sóng thần xanh – ở đây các thành trì màu đỏ đã sụp đổ"
     },
     {
       "id": "https://nyheder.tv2.dk/udland/2026-11-04-amerikanske-medier-udraaber-demokraternes-storsejr-som-en-sensationel-overraskelse",
@@ -570,36 +740,6 @@
       "type": "Udland",
       "firstSeenAt": "2026-11-04T07:16:40.592Z",
       "titleVi": "Truyền thông Mỹ ca ngợi chiến thắng của đảng Dân chủ là \"một bất ngờ giật gân\""
-    },
-    {
-      "id": "https://nyheder.tv2.dk/live/kort-nyt",
-      "source": "tv2",
-      "title": "Tre mænd i grundlovsforhør efter bombesprængning",
-      "url": "https://nyheder.tv2.dk/live/kort-nyt",
-      "date": "—",
-      "type": "Live",
-      "firstSeenAt": "2026-09-28T00:30:42.330Z",
-      "titleVi": "Ba người đàn ông bị thẩm vấn theo hiến pháp sau vụ đánh bom"
-    },
-    {
-      "id": "https://nyheder.tv2.dk/live/udland/2026-11-03-spoerg-om-midtvejsvalget-i-usa",
-      "source": "tv2",
-      "title": "Spørg TV 2s korrespondent om midtvejsvalget",
-      "url": "https://nyheder.tv2.dk/live/udland/2026-11-03-spoerg-om-midtvejsvalget-i-usa",
-      "date": "03/11/2026",
-      "type": "Live",
-      "firstSeenAt": "2026-11-03T06:29:24.258Z",
-      "titleVi": "Hỏi phóng viên của TV 2 về cuộc bầu cử giữa nhiệm kỳ"
-    },
-    {
-      "id": "https://nyheder.tv2.dk/live/2024-09-08-seneste-nyt-om-krigen-i-ukraine-70b1d6cc-0720-404e-9878-45546e1999e7",
-      "source": "tv2",
-      "title": "Webshop-gigant i brand i Rusland",
-      "url": "https://nyheder.tv2.dk/live/2024-09-08-seneste-nyt-om-krigen-i-ukraine-70b1d6cc-0720-404e-9878-45546e1999e7",
-      "date": "08/09/2024",
-      "type": "Live",
-      "firstSeenAt": "2026-09-28T00:30:42.330Z",
-      "titleVi": "Cửa hàng trực tuyến khổng lồ đang bốc cháy ở Nga"
     },
     {
       "id": "https://nyheder.tv2.dk/udland/2026-11-04-trumps-parti-i-historisk-daarligt-valg-her-er-hvad-der-skete-mens-du-sov",
@@ -620,16 +760,6 @@
       "type": "Live",
       "firstSeenAt": "2026-11-04T07:16:40.592Z",
       "titleVi": "Ba loại phẫu thuật bị ảnh hưởng sau khi bác sĩ trốn thoát tại Rigshospitalet"
-    },
-    {
-      "id": "https://nyheder.tv2.dk/udland/2026-11-04-usa-kortet-er-forandret-efter-blaa-tsunami-her-er-de-roede-hoejborge-faldet",
-      "source": "tv2",
-      "title": "USA-kortet er forandret efter blå tsunami – her er de røde højborge faldet",
-      "url": "https://nyheder.tv2.dk/udland/2026-11-04-usa-kortet-er-forandret-efter-blaa-tsunami-her-er-de-roede-hoejborge-faldet",
-      "date": "04/11/2026",
-      "type": "Udland",
-      "firstSeenAt": "2026-11-04T07:16:40.592Z",
-      "titleVi": "Bản đồ Hoa Kỳ đã thay đổi sau trận sóng thần xanh – ở đây các thành trì màu đỏ đã sụp đổ"
     },
     {
       "id": "https://nyheder.tv2.dk/live/2025-01-06-kampen-om-groenlands-fremtid",
@@ -682,134 +812,15 @@
       "titleVi": "Trump thề sẽ chấp nhận kết quả bầu cử"
     },
     {
-      "id": "https://nyheder.tv2.dk/udland/2026-11-04-demokrat-tager-spektakulaer-sejr-i-blodroed-sydstat",
-      "source": "tv2",
-      "title": "Demokrat tager spektakulær sejr i blodrød sydstat",
-      "url": "https://nyheder.tv2.dk/udland/2026-11-04-demokrat-tager-spektakulaer-sejr-i-blodroed-sydstat",
-      "date": "04/11/2026",
-      "type": "Udland",
-      "firstSeenAt": "2026-11-04T07:16:40.592Z",
-      "titleVi": "Đảng Dân chủ giành chiến thắng ngoạn mục ở bang miền Nam đẫm máu đỏ"
-    },
-    {
-      "id": "https://nyheder.tv2.dk/udland/2026-11-04-demokraterne-laegger-staerkt-fra-land-i-kampen-om-kongressen",
-      "source": "tv2",
-      "title": "Demokraterne lægger stærkt fra land i kampen om Kongressen",
-      "url": "https://nyheder.tv2.dk/udland/2026-11-04-demokraterne-laegger-staerkt-fra-land-i-kampen-om-kongressen",
-      "date": "04/11/2026",
-      "type": "Udland",
-      "firstSeenAt": "2026-11-04T07:16:40.592Z",
-      "titleVi": "Đảng Dân chủ đang tập trung mạnh mẽ từ đất liền trong cuộc chiến giành Quốc hội"
-    },
-    {
-      "id": "https://nyheder.tv2.dk/udland/2026-11-03-demokraterne-vinder-senatsplads-i-afgoerende-svingstat",
-      "source": "tv2",
-      "title": "Demokraterne vinder senatsplads i afgørende svingstat",
-      "url": "https://nyheder.tv2.dk/udland/2026-11-03-demokraterne-vinder-senatsplads-i-afgoerende-svingstat",
-      "date": "03/11/2026",
-      "type": "Udland",
-      "firstSeenAt": "2026-11-04T07:16:40.592Z",
-      "titleVi": "Đảng Dân chủ giành được ghế Thượng viện ở bang dao động quan trọng"
-    },
-    {
-      "id": "https://nyheder.tv2.dk/udland/2026-11-03-hvornaar-ventes-valget-afgjort-faa-overblikket-her",
-      "source": "tv2",
-      "title": "Hvornår ventes valget afgjort? Få overblikket her",
-      "url": "https://nyheder.tv2.dk/udland/2026-11-03-hvornaar-ventes-valget-afgjort-faa-overblikket-her",
-      "date": "03/11/2026",
-      "type": "Udland",
-      "firstSeenAt": "2026-11-03T14:35:49.374Z",
-      "titleVi": "Khi nào cuộc bầu cử dự kiến sẽ được quyết định? Xem tổng quan tại đây"
-    },
-    {
-      "id": "https://nyheder.tv2.dk/udland/2026-11-03-ny-stor-vaelgermaaling-viser-vaelgernes-dom-over-trump",
-      "source": "tv2",
-      "title": "Ny stor vælgermåling viser vælgernes dom over Trump",
-      "url": "https://nyheder.tv2.dk/udland/2026-11-03-ny-stor-vaelgermaaling-viser-vaelgernes-dom-over-trump",
-      "date": "03/11/2026",
-      "type": "Udland",
-      "firstSeenAt": "2026-11-04T00:54:42.831Z",
-      "titleVi": "Cuộc thăm dò ý kiến cử tri lớn mới cho thấy phán quyết của cử tri về Trump"
-    },
-    {
-      "id": "https://nyheder.tv2.dk/live/tech/2026-10-07-cyberangreb-rammer-danmark",
-      "source": "tv2",
-      "title": "Magasin melder ud efter sikkerhedsbrud",
-      "url": "https://nyheder.tv2.dk/live/tech/2026-10-07-cyberangreb-rammer-danmark",
-      "date": "07/10/2026",
-      "type": "Live",
-      "firstSeenAt": "2026-11-04T00:54:42.831Z",
-      "titleVi": "Tạp chí thông báo sau khi vi phạm an ninh"
-    },
-    {
-      "id": "https://nyheder.tv2.dk/krimi/2026-11-03-litauer-staar-frem-og-naegter-bortfoerelse-af-baby",
-      "source": "tv2",
-      "title": "Litauer står frem og nægter bortførelse af baby",
-      "url": "https://nyheder.tv2.dk/krimi/2026-11-03-litauer-staar-frem-og-naegter-bortfoerelse-af-baby",
-      "date": "03/11/2026",
-      "type": "Krimi",
-      "firstSeenAt": "2026-11-03T20:39:01.010Z",
-      "titleVi": "Người Litva đứng lên và từ chối bắt cóc trẻ em"
-    },
-    {
-      "id": "https://nyheder.tv2.dk/udland/2026-11-03-gennem-hele-verden-blev-eventyrer-moedt-af-den-samme-overvaeldende-oplevelse",
-      "source": "tv2",
-      "title": "Gennem hele verden blev eventyrer mødt af den samme overvældende oplevelse",
-      "url": "https://nyheder.tv2.dk/udland/2026-11-03-gennem-hele-verden-blev-eventyrer-moedt-af-den-samme-overvaeldende-oplevelse",
-      "date": "03/11/2026",
-      "type": "Udland",
-      "firstSeenAt": "2026-11-03T20:39:01.010Z",
-      "titleVi": "Trên khắp thế giới, các nhà thám hiểm được chào đón bởi cùng một trải nghiệm choáng ngợp"
-    },
-    {
-      "id": "https://nyheder.tv2.dk/samfund/2026-11-03-hun-raser-over-smukfest-sad-i-koe-i-timevis-og-blev-smidt-ud",
-      "source": "tv2",
-      "title": "Hun raser over Smukfest – sad i kø i timevis og blev smidt ud",
-      "url": "https://nyheder.tv2.dk/samfund/2026-11-03-hun-raser-over-smukfest-sad-i-koe-i-timevis-og-blev-smidt-ud",
-      "date": "03/11/2026",
-      "type": "Samfund",
-      "firstSeenAt": "2026-11-03T20:39:01.010Z",
-      "titleVi": "Cô ấy nổi cơn thịnh nộ với Beautiful Party – xếp hàng hàng giờ liền và bị đuổi ra ngoài"
-    },
-    {
-      "id": "https://nyheder.tv2.dk/udland/2026-11-03-polen-opruster-ved-kaliningrad-efter-putin-melding",
-      "source": "tv2",
-      "title": "Polen opruster ved Kaliningrad efter Putin-melding",
-      "url": "https://nyheder.tv2.dk/udland/2026-11-03-polen-opruster-ved-kaliningrad-efter-putin-melding",
-      "date": "03/11/2026",
-      "type": "Udland",
-      "firstSeenAt": "2026-11-03T20:39:01.010Z",
-      "titleVi": "Ba Lan nâng cấp tại Kaliningrad sau thông báo của Putin"
-    },
-    {
-      "id": "https://nyheder.tv2.dk/live/udland/2026-10-28-to-hoejhastighedstog-er-stoedt-sammen-i-spanien",
-      "source": "tv2",
-      "title": "Togulykke koster spansk transportminister posten",
-      "url": "https://nyheder.tv2.dk/live/udland/2026-10-28-to-hoejhastighedstog-er-stoedt-sammen-i-spanien",
-      "date": "28/10/2026",
-      "type": "Live",
-      "firstSeenAt": "2026-11-03T20:39:01.010Z",
-      "titleVi": "Tai nạn tàu hỏa khiến Bộ trưởng Giao thông Tây Ban Nha mất chức"
-    },
-    {
-      "id": "https://nyheder.tv2.dk/live/business/2025-03-12-seneste-nyt-fra-de-finansielle-markeder",
-      "source": "tv2",
-      "title": "FBI udpeger hovedmistænkt bag verdens dyreste bankrøveri",
-      "url": "https://nyheder.tv2.dk/live/business/2025-03-12-seneste-nyt-fra-de-finansielle-markeder",
-      "date": "12/03/2025",
-      "type": "Live",
-      "firstSeenAt": "2026-11-03T20:39:01.010Z",
-      "titleVi": "FBI xác định nghi phạm chính trong vụ cướp ngân hàng tốn kém nhất thế giới"
-    },
-    {
-      "id": "https://nyheder.tv2.dk/udland/2026-11-03-her-er-hjaelp-til-at-navigere-i-falske-paastande-under-valget-i-usa",
-      "source": "tv2",
-      "title": "Her er hjælp til at navigere i falske påstande under valget i USA",
-      "url": "https://nyheder.tv2.dk/udland/2026-11-03-her-er-hjaelp-til-at-navigere-i-falske-paastande-under-valget-i-usa",
-      "date": "03/11/2026",
-      "type": "Udland",
-      "firstSeenAt": "2026-11-03T20:39:01.010Z",
-      "titleVi": "Dưới đây là trợ giúp điều hướng các tuyên bố sai lệch trong cuộc bầu cử Hoa Kỳ"
+      "id": "https://www.kungahuset.se/arkiv/nyheter/2026-11-04-kronprinsessan-gav-audiens-for-ungerns-talman",
+      "source": "kungahuset",
+      "title": "Kronprinsessan gav audiens för Ungerns talman",
+      "url": "https://www.kungahuset.se/arkiv/nyheter/2026-11-04-kronprinsessan-gav-audiens-for-ungerns-talman",
+      "date": "4 november 2026",
+      "publishedAt": "2026-11-04T16:10:11+01:00",
+      "type": "Nyheter",
+      "firstSeenAt": "2026-11-04T15:39:53.440Z",
+      "titleVi": "Công chúa đã có buổi tiếp kiến với Tổng thống Hungary"
     },
     {
       "id": "https://www.kungahuset.se/arkiv/nyheter/2026-11-03-prins-daniel-besokte-njurfonden",
@@ -1019,17 +1030,6 @@
       "type": "Nyheter",
       "firstSeenAt": "2026-10-12T18:14:11.430Z",
       "titleVi": "Nhà vua trong chuyến du lịch công nghệ ở Đức và Thụy Sĩ"
-    },
-    {
-      "id": "https://www.kungahuset.se/arkiv/nyheter/2026-10-12-drottningen-firade-tyska-mentors-10-arsjubileum",
-      "source": "kungahuset",
-      "title": "Drottningen firade tyska Mentors 10-årsjubileum",
-      "url": "https://www.kungahuset.se/arkiv/nyheter/2026-10-12-drottningen-firade-tyska-mentors-10-arsjubileum",
-      "date": "12 oktober 2026",
-      "publishedAt": "2026-10-12T09:51:57+02:00",
-      "type": "Nyheter",
-      "firstSeenAt": "2026-10-12T08:43:23.716Z",
-      "titleVi": "Nữ hoàng kỷ niệm 10 năm cố vấn người Đức"
     },
     {
       "id": "https://www.svenskdam.se/kungligt/kungen-och-silvia-pa-privat-resa-kronprinsessan-victoria-tar-over/11691148",
