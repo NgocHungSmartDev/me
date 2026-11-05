@@ -1,6 +1,6 @@
 {
   "monitoringStartedAt": "2026-09-28T00:17:35.319Z",
-  "updatedAt": "2026-11-04T21:30:29.202Z",
+  "updatedAt": "2026-11-05T01:48:30.636Z",
   "sources": {
     "kongehuset": {
       "name": "Kongehuset",
@@ -57,9 +57,9 @@
       "language": "no",
       "monitoringStartedAt": "2026-10-01T16:30:06.936Z",
       "status": {
-        "state": "error",
-        "message": "The Norwegian Royal House Atom feed returned no entries",
-        "changedAt": "2026-11-04T21:30:29.202Z"
+        "state": "ok",
+        "message": "",
+        "changedAt": "2026-11-05T01:48:30.636Z"
       }
     }
   },
@@ -522,14 +522,34 @@
       "titleVi": "HM Nhà vua tiếp ông luật sư người Faroe"
     },
     {
-      "id": "https://nyheder.tv2.dk/udland/2026-11-04-elon-musk-har-brugt-milliarder-paa-valgnederlag",
+      "id": "https://nyheder.tv2.dk/live/2024-09-08-seneste-nyt-om-krigen-i-ukraine-70b1d6cc-0720-404e-9878-45546e1999e7",
       "source": "tv2",
-      "title": "Elon Musk har brugt milliarder på valgnederlag",
-      "url": "https://nyheder.tv2.dk/udland/2026-11-04-elon-musk-har-brugt-milliarder-paa-valgnederlag",
-      "date": "04/11/2026",
+      "title": "Dødstal stiger til 40 efter russisk angreb på landsby",
+      "url": "https://nyheder.tv2.dk/live/2024-09-08-seneste-nyt-om-krigen-i-ukraine-70b1d6cc-0720-404e-9878-45546e1999e7",
+      "date": "08/09/2024",
+      "type": "Live",
+      "firstSeenAt": "2026-09-28T00:30:42.330Z",
+      "titleVi": "Số người chết tăng lên 40 sau cuộc tấn công của Nga vào làng"
+    },
+    {
+      "id": "https://nyheder.tv2.dk/live/kort-nyt",
+      "source": "tv2",
+      "title": "Nordkorea affyrer flere missiler ved østkysten",
+      "url": "https://nyheder.tv2.dk/live/kort-nyt",
+      "date": "—",
+      "type": "Live",
+      "firstSeenAt": "2026-09-28T00:30:42.330Z",
+      "titleVi": "Triều Tiên phóng thêm tên lửa ở Bờ Đông"
+    },
+    {
+      "id": "https://nyheder.tv2.dk/udland/2026-10-14-foelg-alle-resultaterne-fra-valget-i-usa",
+      "source": "tv2",
+      "title": "Følg alle resultaterne fra valget i USA",
+      "url": "https://nyheder.tv2.dk/udland/2026-10-14-foelg-alle-resultaterne-fra-valget-i-usa",
+      "date": "14/10/2026",
       "type": "Udland",
-      "firstSeenAt": "2026-11-04T21:30:29.202Z",
-      "titleVi": "Elon Musk đã chi hàng tỷ đô la cho thất bại bầu cử"
+      "firstSeenAt": "2026-11-04T00:54:42.831Z",
+      "titleVi": "Theo dõi tất cả kết quả bầu cử ở Hoa Kỳ"
     },
     {
       "id": "https://nyheder.tv2.dk/live/udland/2026-05-16-midtvejsvalg-i-usa",
@@ -542,14 +562,24 @@
       "titleVi": "Đảng Dân chủ bị đe dọa vì chiến thắng bất ngờ nhất"
     },
     {
-      "id": "https://nyheder.tv2.dk/live/2024-09-08-seneste-nyt-om-krigen-i-ukraine-70b1d6cc-0720-404e-9878-45546e1999e7",
+      "id": "https://nyheder.tv2.dk/live/business/2025-03-12-seneste-nyt-fra-de-finansielle-markeder",
       "source": "tv2",
-      "title": "Dødstal stiger til 40 efter russisk angreb på landsby",
-      "url": "https://nyheder.tv2.dk/live/2024-09-08-seneste-nyt-om-krigen-i-ukraine-70b1d6cc-0720-404e-9878-45546e1999e7",
-      "date": "08/09/2024",
+      "title": "Elon Musks Tesla og SpaceX får aktie-tæsk",
+      "url": "https://nyheder.tv2.dk/live/business/2025-03-12-seneste-nyt-fra-de-finansielle-markeder",
+      "date": "12/03/2025",
       "type": "Live",
-      "firstSeenAt": "2026-09-28T00:30:42.330Z",
-      "titleVi": "Số người chết tăng lên 40 sau cuộc tấn công của Nga vào làng"
+      "firstSeenAt": "2026-11-03T20:39:01.010Z",
+      "titleVi": "Tesla và SpaceX của Elon Musk có được cổ phiếu"
+    },
+    {
+      "id": "https://nyheder.tv2.dk/udland/2026-11-04-elon-musk-har-brugt-milliarder-paa-valgnederlag",
+      "source": "tv2",
+      "title": "Elon Musk har brugt milliarder på valgnederlag",
+      "url": "https://nyheder.tv2.dk/udland/2026-11-04-elon-musk-har-brugt-milliarder-paa-valgnederlag",
+      "date": "04/11/2026",
+      "type": "Udland",
+      "firstSeenAt": "2026-11-04T21:30:29.202Z",
+      "titleVi": "Elon Musk đã chi hàng tỷ đô la cho thất bại bầu cử"
     },
     {
       "id": "https://nyheder.tv2.dk/udland/2026-11-04-stort-varmelaek-i-oslo-sten-paa-flere-kilo-slynget-ud-af-hul",
@@ -572,16 +602,6 @@
       "titleVi": "Nếu bạn phải chỉ ra một lý do cho sự thất bại của đảng Cộng hòa, thì đó là gì?"
     },
     {
-      "id": "https://nyheder.tv2.dk/live/kort-nyt",
-      "source": "tv2",
-      "title": "Stor Kierkegaard-samling reddet fra salg til udlandet",
-      "url": "https://nyheder.tv2.dk/live/kort-nyt",
-      "date": "—",
-      "type": "Live",
-      "firstSeenAt": "2026-09-28T00:30:42.330Z",
-      "titleVi": "Bộ sưu tập lớn của Kierkegaard được tiết kiệm từ việc bán hàng ở nước ngoài"
-    },
-    {
       "id": "https://nyheder.tv2.dk/live/tech/2026-09-09-seneste-nyt-om-ai",
       "source": "tv2",
       "title": "Demokratiske sejre truer USA's enorme sats på datacentre",
@@ -590,16 +610,6 @@
       "type": "Live",
       "firstSeenAt": "2026-11-04T21:30:29.202Z",
       "titleVi": "Chiến thắng của đảng Dân chủ đe dọa tỷ lệ trung tâm dữ liệu khổng lồ của Mỹ"
-    },
-    {
-      "id": "https://nyheder.tv2.dk/udland/2026-10-14-foelg-alle-resultaterne-fra-valget-i-usa",
-      "source": "tv2",
-      "title": "Følg alle resultaterne fra valget i USA",
-      "url": "https://nyheder.tv2.dk/udland/2026-10-14-foelg-alle-resultaterne-fra-valget-i-usa",
-      "date": "14/10/2026",
-      "type": "Udland",
-      "firstSeenAt": "2026-11-04T00:54:42.831Z",
-      "titleVi": "Theo dõi tất cả kết quả bầu cử ở Hoa Kỳ"
     },
     {
       "id": "https://nyheder.tv2.dk/live/samfund/2026-09-28-dansk-landbrug-i-forandring",
@@ -640,16 +650,6 @@
       "type": "Samfund",
       "firstSeenAt": "2026-11-04T21:30:29.202Z",
       "titleVi": "\"Stingy\", \"junkie\" và \"poor ass\": Mẹ có lối sống khác tràn ngập những bình luận bẩn thỉu"
-    },
-    {
-      "id": "https://nyheder.tv2.dk/live/business/2025-03-12-seneste-nyt-fra-de-finansielle-markeder",
-      "source": "tv2",
-      "title": "Elon Musks Tesla og SpaceX får aktie-tæsk",
-      "url": "https://nyheder.tv2.dk/live/business/2025-03-12-seneste-nyt-fra-de-finansielle-markeder",
-      "date": "12/03/2025",
-      "type": "Live",
-      "firstSeenAt": "2026-11-03T20:39:01.010Z",
-      "titleVi": "Tesla và SpaceX của Elon Musk có được cổ phiếu"
     },
     {
       "id": "https://nyheder.tv2.dk/udland/2026-11-04-trump-er-svaekket-efter-vaelgerlussing-men-hvor-stiller-det-ukraine",
