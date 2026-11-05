@@ -1,6 +1,6 @@
 {
   "monitoringStartedAt": "2026-09-28T00:17:35.319Z",
-  "updatedAt": "2026-11-05T09:02:18.460Z",
+  "updatedAt": "2026-11-05T17:24:52.725Z",
   "sources": {
     "kongehuset": {
       "name": "Kongehuset",
@@ -57,17 +57,17 @@
       "language": "no",
       "monitoringStartedAt": "2026-10-01T16:30:06.936Z",
       "status": {
-        "state": "error",
-        "message": "The Norwegian Royal House Atom feed returned no entries",
-        "changedAt": "2026-11-05T09:02:18.460Z"
+        "state": "ok",
+        "message": "",
+        "changedAt": "2026-11-05T17:24:52.725Z"
       }
     }
   },
   "translation": {
     "status": {
-      "state": "error",
-      "message": "10 tiêu đề chưa dịch được. Lỗi gần nhất: Translation service returned an empty result",
-      "changedAt": "2026-11-05T09:02:18.460Z"
+      "state": "ok",
+      "message": "",
+      "changedAt": "2026-11-05T17:24:52.725Z"
     }
   },
   "articles": [
@@ -522,54 +522,14 @@
       "titleVi": "HM Nhà vua tiếp ông luật sư người Faroe"
     },
     {
-      "id": "https://nyheder.tv2.dk/business/2026-11-05-bestseller-ejer-koeber-aarhus-lufthavn",
-      "source": "tv2",
-      "title": "Bestseller-ejer køber Aarhus Lufthavn",
-      "url": "https://nyheder.tv2.dk/business/2026-11-05-bestseller-ejer-koeber-aarhus-lufthavn",
-      "date": "05/11/2026",
-      "type": "Business",
-      "firstSeenAt": "2026-11-05T09:02:18.460Z",
-      "titleVi": "Chủ sở hữu bán chạy nhất mua Sân bay Aarhus"
-    },
-    {
-      "id": "https://nyheder.tv2.dk/live/kort-nyt",
-      "source": "tv2",
-      "title": "Fire mænd kendt skyldige i drab på 19-årig mand",
-      "url": "https://nyheder.tv2.dk/live/kort-nyt",
-      "date": "—",
-      "type": "Live",
-      "firstSeenAt": "2026-09-28T00:30:42.330Z",
-      "titleVi": "Bốn người đàn ông bị kết tội giết người đàn ông 19 tuổi"
-    },
-    {
-      "id": "https://nyheder.tv2.dk/live/udland/2026-11-03-spoerg-om-midtvejsvalget-i-usa",
-      "source": "tv2",
-      "title": "Stil spørgsmål om midtvejsvalget her",
-      "url": "https://nyheder.tv2.dk/live/udland/2026-11-03-spoerg-om-midtvejsvalget-i-usa",
-      "date": "03/11/2026",
-      "type": "Live",
-      "firstSeenAt": "2026-11-03T06:29:24.258Z",
-      "titleVi": "Đặt câu hỏi về cuộc bầu cử giữa kỳ tại đây"
-    },
-    {
       "id": "https://nyheder.tv2.dk/live/business/2025-03-12-seneste-nyt-fra-de-finansielle-markeder",
       "source": "tv2",
-      "title": "Kæmpe kurshug til Mærsk trods overskud",
+      "title": "Aktier styrtdykker efter midtvejsvalg",
       "url": "https://nyheder.tv2.dk/live/business/2025-03-12-seneste-nyt-fra-de-finansielle-markeder",
       "date": "12/03/2025",
       "type": "Live",
       "firstSeenAt": "2026-11-03T20:39:01.010Z",
-      "titleVi": "Giảm giá lớn cho Maersk bất chấp lợi nhuận"
-    },
-    {
-      "id": "https://nyheder.tv2.dk/live/samfund/2026-11-02-frysere-og-koeleskabe-hacket-i-flere-europaeiske-supermarkeder",
-      "source": "tv2",
-      "title": "Russiske grupper tager ansvar for angreb på kølediske",
-      "url": "https://nyheder.tv2.dk/live/samfund/2026-11-02-frysere-og-koeleskabe-hacket-i-flere-europaeiske-supermarkeder",
-      "date": "02/11/2026",
-      "type": "Live",
-      "firstSeenAt": "2026-11-05T09:02:18.460Z",
-      "titleVi": "Các nhóm Nga chịu trách nhiệm về các cuộc tấn công vào các quầy lạnh"
+      "titleVi": "Cổ phiếu lao dốc sau cuộc bầu cử giữa nhiệm kỳ"
     },
     {
       "id": "https://nyheder.tv2.dk/live/udland/2026-05-16-midtvejsvalg-i-usa",
@@ -582,6 +542,56 @@
       "titleVi": "Bầu cử kết thúc ở miền Nam là \"Biểu tượng của sự không hài lòng của cử tri\""
     },
     {
+      "id": "https://nyheder.tv2.dk/live/trafik/2026-10-13-togkaos-i-danmark",
+      "source": "tv2",
+      "title": "Længere rejsetid mange steder på Sjælland",
+      "url": "https://nyheder.tv2.dk/live/trafik/2026-10-13-togkaos-i-danmark",
+      "date": "13/10/2026",
+      "type": "Live",
+      "firstSeenAt": "2026-11-05T17:24:52.725Z",
+      "titleVi": "Thời gian di chuyển lâu hơn ở nhiều nơi trên Zealand"
+    },
+    {
+      "id": "https://nyheder.tv2.dk/live/politik/2025-08-11-dansk-politik",
+      "source": "tv2",
+      "title": "Ny fejl opdaget i Kriminalregisteret – sager om \"særlig grov\" kriminalitet slettet",
+      "url": "https://nyheder.tv2.dk/live/politik/2025-08-11-dansk-politik",
+      "date": "11/08/2025",
+      "type": "Live",
+      "firstSeenAt": "2026-11-04T15:39:53.440Z",
+      "titleVi": "Lỗi mới được phát hiện trong Sổ Đăng ký Hình sự – các trường hợp tội phạm \"đặc biệt nghiêm trọng\" đã bị xóa"
+    },
+    {
+      "id": "https://nyheder.tv2.dk/live/kort-nyt",
+      "source": "tv2",
+      "title": "Politi gennemfører sprængning – kunne høres \"i det meste af Randers\"",
+      "url": "https://nyheder.tv2.dk/live/kort-nyt",
+      "date": "—",
+      "type": "Live",
+      "firstSeenAt": "2026-09-28T00:30:42.330Z",
+      "titleVi": "Cảnh sát tiến hành nổ mìn – có thể nghe thấy \"ở hầu hết các Randers\""
+    },
+    {
+      "id": "https://nyheder.tv2.dk/samfund/2026-11-04-meget-atypisk-arvestrid-har-trukket-overskrifter-nu-falder-der-snart-dom",
+      "source": "tv2",
+      "title": "”Meget atypisk” arvestrid har trukket overskrifter – nu falder der snart dom",
+      "url": "https://nyheder.tv2.dk/samfund/2026-11-04-meget-atypisk-arvestrid-har-trukket-overskrifter-nu-falder-der-snart-dom",
+      "date": "04/11/2026",
+      "type": "Samfund",
+      "firstSeenAt": "2026-11-05T17:24:52.725Z",
+      "titleVi": "”Tranh chấp thừa kế rất không điển hình đã trở thành tiêu đề – bây giờ phán quyết sẽ sớm được đưa ra"
+    },
+    {
+      "id": "https://nyheder.tv2.dk/udland/2026-11-05-kendt-britisk-komiker-og-skuespiller-er-skyldig-i-voldtaegt",
+      "source": "tv2",
+      "title": "Kendt britisk komiker og skuespiller er skyldig i voldtægt",
+      "url": "https://nyheder.tv2.dk/udland/2026-11-05-kendt-britisk-komiker-og-skuespiller-er-skyldig-i-voldtaegt",
+      "date": "05/11/2026",
+      "type": "Udland",
+      "firstSeenAt": "2026-11-05T17:24:52.725Z",
+      "titleVi": "Diễn viên hài và diễn viên nổi tiếng người Anh phạm tội hiếp dâm"
+    },
+    {
       "id": "https://nyheder.tv2.dk/live/udland/2026-10-17-optoejer-spreder-sig-i-europa",
       "source": "tv2",
       "title": "Flere demonstrationer i Frankrig i dag – 700.000 ventes at deltage",
@@ -590,6 +600,96 @@
       "type": "Live",
       "firstSeenAt": "2026-11-05T09:02:18.460Z",
       "titleVi": "Nhiều cuộc biểu tình ở Pháp ngày hôm nay – 700.000 người dự kiến sẽ tham dự"
+    },
+    {
+      "id": "https://nyheder.tv2.dk/live/udland/2026-11-03-flere-fly-ramt-af-trusler",
+      "source": "tv2",
+      "title": "Adskillige fly i Europa ramt af trusler",
+      "url": "https://nyheder.tv2.dk/live/udland/2026-11-03-flere-fly-ramt-af-trusler",
+      "date": "03/11/2026",
+      "type": "Live",
+      "firstSeenAt": "2026-11-05T17:24:52.725Z",
+      "titleVi": "Một số máy bay ở châu Âu bị tấn công bởi các mối đe dọa"
+    },
+    {
+      "id": "https://nyheder.tv2.dk/live/2024-09-08-seneste-nyt-om-krigen-i-ukraine-70b1d6cc-0720-404e-9878-45546e1999e7",
+      "source": "tv2",
+      "title": "Ukrainske militære mål angrebet, siger Rusland",
+      "url": "https://nyheder.tv2.dk/live/2024-09-08-seneste-nyt-om-krigen-i-ukraine-70b1d6cc-0720-404e-9878-45546e1999e7",
+      "date": "08/09/2024",
+      "type": "Live",
+      "firstSeenAt": "2026-09-28T00:30:42.330Z",
+      "titleVi": "Nga cho biết các mục tiêu quân sự của Ukraine bị tấn công"
+    },
+    {
+      "id": "https://nyheder.tv2.dk/live/tech/2026-09-09-seneste-nyt-om-ai",
+      "source": "tv2",
+      "title": "Datacenter-demoer planlagt ved Køge og på tværs af Europa",
+      "url": "https://nyheder.tv2.dk/live/tech/2026-09-09-seneste-nyt-om-ai",
+      "date": "09/09/2026",
+      "type": "Live",
+      "firstSeenAt": "2026-11-04T21:30:29.202Z",
+      "titleVi": "Các bản demo trung tâm dữ liệu được lên kế hoạch tại Køge và trên khắp châu Âu"
+    },
+    {
+      "id": "https://nyheder.tv2.dk/udland/2026-11-05-sverige-genindfoerer-midlertidig-graensekontrol",
+      "source": "tv2",
+      "title": "Sverige genindfører midlertidig grænsekontrol",
+      "url": "https://nyheder.tv2.dk/udland/2026-11-05-sverige-genindfoerer-midlertidig-graensekontrol",
+      "date": "05/11/2026",
+      "type": "Udland",
+      "firstSeenAt": "2026-11-05T17:24:52.725Z",
+      "titleVi": "Thụy Điển tái áp dụng kiểm soát biên giới tạm thời"
+    },
+    {
+      "id": "https://nyheder.tv2.dk/live/samfund/2026-11-02-frysere-og-koeleskabe-hacket-i-flere-europaeiske-supermarkeder",
+      "source": "tv2",
+      "title": "Russiske grupper tager skylden for angreb på kølediske",
+      "url": "https://nyheder.tv2.dk/live/samfund/2026-11-02-frysere-og-koeleskabe-hacket-i-flere-europaeiske-supermarkeder",
+      "date": "02/11/2026",
+      "type": "Live",
+      "firstSeenAt": "2026-11-05T09:02:18.460Z",
+      "titleVi": "Các nhóm Nga đổ lỗi cho các cuộc tấn công vào các quầy lạnh"
+    },
+    {
+      "id": "https://nyheder.tv2.dk/live/politik/2026-11-05-ministre-grilles-om-dronesagen",
+      "source": "tv2",
+      "title": "Ministre grillet om dronesagen – to partier på \"krigsstien\"",
+      "url": "https://nyheder.tv2.dk/live/politik/2026-11-05-ministre-grilles-om-dronesagen",
+      "date": "05/11/2026",
+      "type": "Live",
+      "firstSeenAt": "2026-11-05T17:24:52.725Z",
+      "titleVi": "Các bộ trưởng đã nướng về vụ án máy bay không người lái – hai bên trên \"con đường chiến tranh\""
+    },
+    {
+      "id": "https://nyheder.tv2.dk/live/udland/2026-11-03-spoerg-om-midtvejsvalget-i-usa",
+      "source": "tv2",
+      "title": "Stil spørgsmål om midtvejsvalget",
+      "url": "https://nyheder.tv2.dk/live/udland/2026-11-03-spoerg-om-midtvejsvalget-i-usa",
+      "date": "03/11/2026",
+      "type": "Live",
+      "firstSeenAt": "2026-11-03T06:29:24.258Z",
+      "titleVi": "Đặt câu hỏi về cuộc bầu cử giữa nhiệm kỳ"
+    },
+    {
+      "id": "https://nyheder.tv2.dk/business/2026-11-05-tupperware-er-tilbage-i-danmark",
+      "source": "tv2",
+      "title": "Tupperware er tilbage i Danmark",
+      "url": "https://nyheder.tv2.dk/business/2026-11-05-tupperware-er-tilbage-i-danmark",
+      "date": "05/11/2026",
+      "type": "Business",
+      "firstSeenAt": "2026-11-05T17:24:52.725Z",
+      "titleVi": "Tupperware đã trở lại Đan Mạch"
+    },
+    {
+      "id": "https://nyheder.tv2.dk/business/2026-11-05-bestseller-ejer-koeber-aarhus-lufthavn",
+      "source": "tv2",
+      "title": "Bestseller-ejer køber Aarhus Lufthavn",
+      "url": "https://nyheder.tv2.dk/business/2026-11-05-bestseller-ejer-koeber-aarhus-lufthavn",
+      "date": "05/11/2026",
+      "type": "Business",
+      "firstSeenAt": "2026-11-05T09:02:18.460Z",
+      "titleVi": "Chủ sở hữu bán chạy nhất mua Sân bay Aarhus"
     },
     {
       "id": "https://nyheder.tv2.dk/udland/2026-11-04-eksperter-bemaerker-vance-opslag-det-er-en-kaempe-hovedpine",
@@ -610,16 +710,6 @@
       "type": "Trafik",
       "firstSeenAt": "2026-11-05T09:02:18.460Z",
       "titleVi": "Người đàn ông chết sau vụ va chạm trên đường cao tốc"
-    },
-    {
-      "id": "https://nyheder.tv2.dk/live/2024-09-08-seneste-nyt-om-krigen-i-ukraine-70b1d6cc-0720-404e-9878-45546e1999e7",
-      "source": "tv2",
-      "title": "Ukrainske militære mål angrebet, siger Rusland",
-      "url": "https://nyheder.tv2.dk/live/2024-09-08-seneste-nyt-om-krigen-i-ukraine-70b1d6cc-0720-404e-9878-45546e1999e7",
-      "date": "08/09/2024",
-      "type": "Live",
-      "firstSeenAt": "2026-09-28T00:30:42.330Z",
-      "titleVi": "Nga cho biết các mục tiêu quân sự của Ukraine bị tấn công"
     },
     {
       "id": "https://nyheder.tv2.dk/samfund/2026-11-05-ansatte-paa-skole-registrerede-kraenkelser-1919-gange-paa-to-uger",
@@ -692,16 +782,6 @@
       "titleVi": "Rò rỉ nhiệt lớn ở Oslo: Những viên đá nặng vài kg được ném ra khỏi lỗ"
     },
     {
-      "id": "https://nyheder.tv2.dk/live/tech/2026-09-09-seneste-nyt-om-ai",
-      "source": "tv2",
-      "title": "Demokratiske sejre truer USA's enorme sats på datacentre",
-      "url": "https://nyheder.tv2.dk/live/tech/2026-09-09-seneste-nyt-om-ai",
-      "date": "09/09/2026",
-      "type": "Live",
-      "firstSeenAt": "2026-11-04T21:30:29.202Z",
-      "titleVi": "Chiến thắng của đảng Dân chủ đe dọa tỷ lệ trung tâm dữ liệu khổng lồ của Mỹ"
-    },
-    {
       "id": "https://nyheder.tv2.dk/live/samfund/2026-09-28-dansk-landbrug-i-forandring",
       "source": "tv2",
       "title": "Landbrugets formand beskylder politikerne for usandheder",
@@ -732,84 +812,15 @@
       "titleVi": "Thủ tướng yêu cầu người Đan Mạch chuẩn bị cho các cuộc tấn công mạng – đây là những việc cần làm"
     },
     {
-      "id": "https://nyheder.tv2.dk/samfund/2026-11-04-naerig-junkie-og-fattigroev-mor-med-anderledes-livsstil-overdaenget-med-svinske-kommentarer",
-      "source": "tv2",
-      "title": "\"Nærig\", \"junkie\" og \"fattigrøv\": Mor med anderledes livsstil overdænget med svinske kommentarer",
-      "url": "https://nyheder.tv2.dk/samfund/2026-11-04-naerig-junkie-og-fattigroev-mor-med-anderledes-livsstil-overdaenget-med-svinske-kommentarer",
-      "date": "04/11/2026",
-      "type": "Samfund",
-      "firstSeenAt": "2026-11-04T21:30:29.202Z",
-      "titleVi": "\"Stingy\", \"junkie\" và \"poor ass\": Mẹ có lối sống khác tràn ngập những bình luận bẩn thỉu"
-    },
-    {
-      "id": "https://nyheder.tv2.dk/udland/2026-11-04-trump-er-svaekket-efter-vaelgerlussing-men-hvor-stiller-det-ukraine",
-      "source": "tv2",
-      "title": "Trump er svækket efter vælgerlussing, men hvor stiller det Ukraine?",
-      "url": "https://nyheder.tv2.dk/udland/2026-11-04-trump-er-svaekket-efter-vaelgerlussing-men-hvor-stiller-det-ukraine",
-      "date": "04/11/2026",
-      "type": "Udland",
-      "firstSeenAt": "2026-11-04T15:39:53.440Z",
-      "titleVi": "Trump bị suy yếu bởi sự chểnh mảng của cử tri, nhưng điều đó đặt Ukraine vào đâu?"
-    },
-    {
-      "id": "https://nyheder.tv2.dk/live/udland/2025-06-27-marius-borg-hoeiby-i-retten",
-      "source": "tv2",
-      "title": "Marius Borg Høiby skal løslades",
-      "url": "https://nyheder.tv2.dk/live/udland/2025-06-27-marius-borg-hoeiby-i-retten",
-      "date": "27/06/2025",
-      "type": "Live",
-      "firstSeenAt": "2026-11-04T15:39:53.440Z",
-      "titleVi": "Marius Borg Høiby sẽ được thả"
-    },
-    {
-      "id": "https://nyheder.tv2.dk/live/politik/2025-08-11-dansk-politik",
-      "source": "tv2",
-      "title": "Troels Lund undviger spørgsmål om blå bloks ledelse",
-      "url": "https://nyheder.tv2.dk/live/politik/2025-08-11-dansk-politik",
-      "date": "11/08/2025",
-      "type": "Live",
-      "firstSeenAt": "2026-11-04T15:39:53.440Z",
-      "titleVi": "Troels Lund né tránh các câu hỏi về quản lý khối màu xanh"
-    },
-    {
-      "id": "https://nyheder.tv2.dk/live/business/2025-08-20-turbulente-tider-i-novo",
-      "source": "tv2",
-      "title": "Novo opjusterer forventninger",
-      "url": "https://nyheder.tv2.dk/live/business/2025-08-20-turbulente-tider-i-novo",
-      "date": "20/08/2025",
-      "type": "Live",
-      "firstSeenAt": "2026-11-04T15:39:53.440Z",
-      "titleVi": "Kỳ vọng nâng cấp của Novo"
-    },
-    {
-      "id": "https://nyheder.tv2.dk/udland/2026-11-04-trump-giver-alle-andre-skylden-for-nederlag-men-fire-detaljer-fortaeller-noget-andet",
-      "source": "tv2",
-      "title": "Trump giver alle andre skylden for nederlag – men fire detaljer fortæller noget andet",
-      "url": "https://nyheder.tv2.dk/udland/2026-11-04-trump-giver-alle-andre-skylden-for-nederlag-men-fire-detaljer-fortaeller-noget-andet",
-      "date": "04/11/2026",
-      "type": "Udland",
-      "firstSeenAt": "2026-11-04T15:39:53.440Z",
-      "titleVi": "Trump đổ lỗi cho mọi người khác về thất bại – nhưng bốn chi tiết cho thấy điều ngược lại"
-    },
-    {
-      "id": "https://nyheder.tv2.dk/krimi/2026-11-04-hoejesteret-frifinder-kvinder-for-at-snage",
-      "source": "tv2",
-      "title": "Højesteret frifinder kvinder for at snage",
-      "url": "https://nyheder.tv2.dk/krimi/2026-11-04-hoejesteret-frifinder-kvinder-for-at-snage",
-      "date": "04/11/2026",
-      "type": "Krimi",
-      "firstSeenAt": "2026-11-04T15:39:53.440Z",
-      "titleVi": "Tòa án Tối cao tha bổng cho phụ nữ vì tội rình mò"
-    },
-    {
-      "id": "https://nyheder.tv2.dk/samfund/2026-11-03-derfor-kan-hackere-skrue-op-for-varmen-i-supermarkedets-koelediske",
-      "source": "tv2",
-      "title": "Derfor kan hackere skrue op for varmen i supermarkedets kølediske",
-      "url": "https://nyheder.tv2.dk/samfund/2026-11-03-derfor-kan-hackere-skrue-op-for-varmen-i-supermarkedets-koelediske",
-      "date": "03/11/2026",
-      "type": "Samfund",
-      "firstSeenAt": "2026-11-04T15:39:53.440Z",
-      "titleVi": "Do đó, tin tặc có thể tăng nhiệt trong các quầy làm lạnh của siêu thị"
+      "id": "https://www.kungahuset.se/arkiv/nyheter/2026-11-05-prins-daniel-besokte-gavleborg-med-prins-daniels-fellowship",
+      "source": "kungahuset",
+      "title": "Prins Daniel besökte Gävleborg med Prins Daniels Fellowship",
+      "url": "https://www.kungahuset.se/arkiv/nyheter/2026-11-05-prins-daniel-besokte-gavleborg-med-prins-daniels-fellowship",
+      "date": "5 november 2026",
+      "publishedAt": "2026-11-05T14:35:05+01:00",
+      "type": "Nyheter",
+      "firstSeenAt": "2026-11-05T17:24:52.725Z",
+      "titleVi": "Hoàng tử Daniel đã đến thăm Gävleborg với Học bổng của Hoàng tử Daniel"
     },
     {
       "id": "https://www.kungahuset.se/arkiv/nyheter/2026-11-04-kronprinsessan-gav-audiens-for-ungerns-talman",
@@ -1021,17 +1032,6 @@
       "titleVi": "Công chúa vương miện đã đến thăm Cơ quan Cảnh sát"
     },
     {
-      "id": "https://www.kungahuset.se/arkiv/nyheter/2026-10-12-kungen-pa-teknikresa-i-tyskland-och-schweiz",
-      "source": "kungahuset",
-      "title": "Kungen på teknikresa i Tyskland och Schweiz",
-      "url": "https://www.kungahuset.se/arkiv/nyheter/2026-10-12-kungen-pa-teknikresa-i-tyskland-och-schweiz",
-      "date": "12 oktober 2026",
-      "publishedAt": "2026-10-12T12:26:13+02:00",
-      "type": "Nyheter",
-      "firstSeenAt": "2026-10-12T18:14:11.430Z",
-      "titleVi": "Nhà vua trong chuyến du lịch công nghệ ở Đức và Thụy Sĩ"
-    },
-    {
       "id": "https://www.svenskdam.se/kungligt/privata-planerna-under-silvias-langresa-med-kungen-mycket-kanslor/11692651",
       "source": "svenskdam",
       "title": "Privata planerna under Silvias långresa med kungen: \"Njuter!\"",
@@ -1051,8 +1051,7 @@
       "publishedAt": "2026-11-04T22:45:00+01:00",
       "type": "Kungligt",
       "firstSeenAt": "2026-11-05T09:02:18.460Z",
-      "titleVi": "",
-      "translationError": "Translation service returned an empty result"
+      "titleVi": "Đêm tiệc của Nữ hoàng Sonja tại lâu đài – trong vương miện Chiến tranh giữa các vì sao"
     },
     {
       "id": "https://www.svenskdam.se/kungligt/nytt-bakslag-for-drottning-silvia-mardromsbesked-fran-tyskland/11692646",
@@ -1063,8 +1062,7 @@
       "publishedAt": "2026-11-05T00:00:00+01:00",
       "type": "Kungligt",
       "firstSeenAt": "2026-11-05T09:02:18.460Z",
-      "titleVi": "",
-      "translationError": "Translation service returned an empty result"
+      "titleVi": "Thất bại mới cho Nữ hoàng Silvia – thông điệp ác mộng từ Đức"
     },
     {
       "id": "https://www.svenskdam.se/kungligt/prins-daniel-oppnar-upp-om-okanda-kampen-skamfullt/11693107",
@@ -1075,8 +1073,7 @@
       "publishedAt": "2026-11-04T20:00:00+01:00",
       "type": "Kungligt",
       "firstSeenAt": "2026-11-05T09:02:18.460Z",
-      "titleVi": "",
-      "translationError": "Translation service returned an empty result"
+      "titleVi": "Hoàng tử Daniel cởi mở về cuộc chiến không xác định: \"Xấu hổ\""
     },
     {
       "id": "https://www.svenskdam.se/kungligt/nya-bilder-pa-drottning-margrethe-forsta-pa-fyra-veckor/11692684",
@@ -1087,8 +1084,7 @@
       "publishedAt": "2026-11-04T16:16:00+01:00",
       "type": "Kungligt",
       "firstSeenAt": "2026-11-04T21:30:29.202Z",
-      "titleVi": "",
-      "translationError": "Translation service returned an empty result"
+      "titleVi": "Hình ảnh mới của Nữ hoàng Margrethe – lần đầu tiên sau bốn tuần"
     },
     {
       "id": "https://www.svenskdam.se/kungligt/jubel-pa-haga-prins-daniel-har-berattat-lyckliga-nyheten-for-estelle/11693033",
@@ -1143,8 +1139,7 @@
       "publishedAt": "2026-11-05T09:00:00+01:00",
       "type": "Nöje",
       "firstSeenAt": "2026-11-05T09:02:18.460Z",
-      "titleVi": "",
-      "translationError": "Translation service returned an empty result"
+      "titleVi": "Mikael mạnh mẽ lên tiếng - sau câu hỏi của đồng nghiệp: \"Không nên!\""
     },
     {
       "id": "https://www.svenskdam.se/noje/benny-andersson-79-ar-kar-i-sin-kollega-jobbat-ihop-i-flera-ar/11693041",
@@ -1155,8 +1150,7 @@
       "publishedAt": "2026-11-05T07:00:00+01:00",
       "type": "Nöje",
       "firstSeenAt": "2026-11-05T09:02:18.460Z",
-      "titleVi": "",
-      "translationError": "Translation service returned an empty result"
+      "titleVi": "Bạn tình vô danh của Abba-Benny – người mà anh ta làm việc cùng"
     },
     {
       "id": "https://www.svenskdam.se/kungligt/durek-verrett-kommenterar-utseendeforandringen-efter-ingreppet/11693844",
@@ -1167,8 +1161,7 @@
       "publishedAt": "2026-11-05T00:00:00+01:00",
       "type": "Kungligt",
       "firstSeenAt": "2026-11-05T09:02:18.460Z",
-      "titleVi": "",
-      "translationError": "Translation service returned an empty result"
+      "titleVi": "Durek Verrett nhận xét về sự thay đổi ngoại hình – sau khi làm thủ thuật"
     },
     {
       "id": "https://www.svenskdam.se/kungligt/prins-harrys-beslut-med-meghan-efter-situationen-flyttat-ut/11693298",
@@ -1179,8 +1172,7 @@
       "publishedAt": "2026-11-04T22:00:00+01:00",
       "type": "Kungligt",
       "firstSeenAt": "2026-11-05T09:02:18.460Z",
-      "titleVi": "",
-      "translationError": "Translation service returned an empty result"
+      "titleVi": "Quyết định của Hoàng tử Harry với Meghan sau vụ việc – chuyển đi"
     },
     {
       "id": "https://www.svenskdam.se/kungligt/kungens-sorg-varldskanda-profilen-dod/11694059",
@@ -1191,8 +1183,7 @@
       "publishedAt": "2026-11-04T19:39:28+01:00",
       "type": "Kungligt",
       "firstSeenAt": "2026-11-05T09:02:18.460Z",
-      "titleVi": "",
-      "translationError": "Translation service returned an empty result"
+      "titleVi": "King's Mourning – HỒ SƠ nổi tiếng thế giới ĐÃ chết"
     },
     {
       "id": "https://www.svenskdam.se/noje/lasse-kroners-kanga-efter-kollegans-ord-i-tv4-han-har/11693211",
@@ -1203,8 +1194,7 @@
       "publishedAt": "2026-11-04T19:00:00+01:00",
       "type": "Nöje",
       "firstSeenAt": "2026-11-05T09:02:18.460Z",
-      "titleVi": "",
-      "translationError": "Translation service returned an empty result"
+      "titleVi": "Sự tức giận của Lasse Kronér – sau những lời của đồng nghiệp trên TV4: \"Anh ấy đã...\""
     },
     {
       "id": "https://www.svenskdam.se/noje/trisskraparens-obehagliga-upplevelse-med-programledarna-skallde-ut-mig/11692830",
