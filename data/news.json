@@ -1,6 +1,6 @@
 {
   "monitoringStartedAt": "2026-09-28T00:17:35.319Z",
-  "updatedAt": "2026-11-06T22:57:02.014Z",
+  "updatedAt": "2026-11-07T02:38:23.865Z",
   "sources": {
     "kongehuset": {
       "name": "Kongehuset",
@@ -33,9 +33,9 @@
       "language": "sv",
       "monitoringStartedAt": "2026-10-01T16:20:13.213Z",
       "status": {
-        "state": "error",
-        "message": "fetch failed",
-        "changedAt": "2026-11-06T22:57:02.014Z"
+        "state": "ok",
+        "message": "",
+        "changedAt": "2026-11-07T02:38:23.865Z"
       }
     },
     "svenskdam": {
@@ -57,9 +57,9 @@
       "language": "no",
       "monitoringStartedAt": "2026-10-01T16:30:06.936Z",
       "status": {
-        "state": "error",
-        "message": "The Norwegian Royal House Atom feed returned no entries",
-        "changedAt": "2026-11-06T22:57:02.014Z"
+        "state": "ok",
+        "message": "",
+        "changedAt": "2026-11-07T02:38:23.865Z"
       }
     }
   },
@@ -522,6 +522,16 @@
       "titleVi": "Cặp đôi hoàng gia H.M. Nữ hoàng Margrethe và H.K.H. Công chúa Benedikte tham dự buổi hòa nhạc nhân kỷ niệm 300 năm thành lập Nhà thờ Lâu đài Fredensborg"
     },
     {
+      "id": "https://nyheder.tv2.dk/live/udland/2026-05-16-midtvejsvalg-i-usa",
+      "source": "tv2",
+      "title": "Trumps stabschef stopper efter valgnederlag",
+      "url": "https://nyheder.tv2.dk/live/udland/2026-05-16-midtvejsvalg-i-usa",
+      "date": "16/05/2026",
+      "type": "Live",
+      "firstSeenAt": "2026-10-30T09:40:39.026Z",
+      "titleVi": "Chánh văn phòng của Trump từ chức sau thất bại bầu cử"
+    },
+    {
       "id": "https://nyheder.tv2.dk/samfund/2026-11-06-par-tiltalt-for-ulovlig-hvalpefabrik-solgte-designerhunde-for-millioner",
       "source": "tv2",
       "title": "Par tiltalt for ulovlig hvalpefabrik – solgte 'designerhunde' for millioner",
@@ -540,16 +550,6 @@
       "type": "Live",
       "firstSeenAt": "2026-09-28T00:30:42.330Z",
       "titleVi": "Bảo vệ sói mới trên đường đến bờ biển phía tây"
-    },
-    {
-      "id": "https://nyheder.tv2.dk/live/udland/2026-05-16-midtvejsvalg-i-usa",
-      "source": "tv2",
-      "title": "Trumps stabschef stopper efter valgnederlag",
-      "url": "https://nyheder.tv2.dk/live/udland/2026-05-16-midtvejsvalg-i-usa",
-      "date": "16/05/2026",
-      "type": "Live",
-      "firstSeenAt": "2026-10-30T09:40:39.026Z",
-      "titleVi": "Chánh văn phòng của Trump từ chức sau thất bại bầu cử"
     },
     {
       "id": "https://nyheder.tv2.dk/live/business/2025-03-12-seneste-nyt-fra-de-finansielle-markeder",
@@ -812,6 +812,17 @@
       "titleVi": "Thẩm phán chặn vòm chiến thắng của Trump ngay sau khi phê duyệt"
     },
     {
+      "id": "https://www.kungahuset.se/arkiv/nyheter/2026-11-06-kronprinsessparet-tog-emot-ungdomsrad",
+      "source": "kungahuset",
+      "title": "Kronprinsessparet tog emot ungdomsråd",
+      "url": "https://www.kungahuset.se/arkiv/nyheter/2026-11-06-kronprinsessparet-tog-emot-ungdomsrad",
+      "date": "6 november 2026",
+      "publishedAt": "2026-11-06T19:55:54+01:00",
+      "type": "Nyheter",
+      "firstSeenAt": "2026-11-07T02:38:23.865Z",
+      "titleVi": "Cặp đôi công chúa vương miện nhận được lời khuyên của giới trẻ"
+    },
+    {
       "id": "https://www.kungahuset.se/arkiv/nyheter/2026-11-06-prins-carl-philip-i-mote-med-ukrainska-formgivare",
       "source": "kungahuset",
       "title": "Prins Carl Philip i möte med ukrainska formgivare",
@@ -1019,17 +1030,6 @@
       "type": "Nyheter",
       "firstSeenAt": "2026-10-14T09:40:08.201Z",
       "titleVi": "Nhà vua, hoàng hậu và công chúa Sofia tại Diễn đàn trẻ em toàn cầu 2026"
-    },
-    {
-      "id": "https://www.kungahuset.se/arkiv/nyheter/2026-10-13-kungen-vid-stipendieutdelning-i--den-tankande-handen",
-      "source": "kungahuset",
-      "title": "Kungen vid stipendieutdelning i Den tänkande handen",
-      "url": "https://www.kungahuset.se/arkiv/nyheter/2026-10-13-kungen-vid-stipendieutdelning-i--den-tankande-handen",
-      "date": "13 oktober 2026",
-      "publishedAt": "2026-10-13T17:01:17+02:00",
-      "type": "Nyheter",
-      "firstSeenAt": "2026-10-13T15:12:34.007Z",
-      "titleVi": "Nhà vua tham dự lễ trao học bổng The Thinking Hand"
     },
     {
       "id": "https://www.svenskdam.se/kungligt/silvia-och-madeleines-fina-stund-tillsammans-dyker-upp-sida-vid-sida/11698190",
