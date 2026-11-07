@@ -1,6 +1,6 @@
 {
   "monitoringStartedAt": "2026-09-28T00:17:35.319Z",
-  "updatedAt": "2026-11-07T09:16:33.324Z",
+  "updatedAt": "2026-11-07T15:49:51.486Z",
   "sources": {
     "kongehuset": {
       "name": "Kongehuset",
@@ -524,42 +524,42 @@
     {
       "id": "https://nyheder.tv2.dk/live/kort-nyt",
       "source": "tv2",
-      "title": "Politi søger vidner efter slagsmål på togstation",
+      "title": "DGI vælger ny landsformand",
       "url": "https://nyheder.tv2.dk/live/kort-nyt",
       "date": "—",
       "type": "Live",
       "firstSeenAt": "2026-09-28T00:30:42.330Z",
-      "titleVi": "Cảnh sát tìm kiếm nhân chứng sau khi đánh nhau tại nhà ga xe lửa"
+      "titleVi": "DGI bầu chủ tịch quốc gia mới"
     },
     {
-      "id": "https://nyheder.tv2.dk/live/udland/2026-10-17-optoejer-spreder-sig-i-europa",
+      "id": "https://nyheder.tv2.dk/udland/2026-11-07-fem-draebt-i-skyderi-i-centrum-af-krakow",
       "source": "tv2",
-      "title": "70.000 betjente sendes på gaden i Frankrig",
-      "url": "https://nyheder.tv2.dk/live/udland/2026-10-17-optoejer-spreder-sig-i-europa",
-      "date": "17/10/2026",
+      "title": "Fem dræbt i skyderi i centrum af Krakow",
+      "url": "https://nyheder.tv2.dk/udland/2026-11-07-fem-draebt-i-skyderi-i-centrum-af-krakow",
+      "date": "07/11/2026",
+      "type": "Udland",
+      "firstSeenAt": "2026-11-07T15:49:51.486Z",
+      "titleVi": "Năm người thiệt mạng trong vụ xả súng ở trung tâm Krakow"
+    },
+    {
+      "id": "https://nyheder.tv2.dk/live/udland/2025-06-27-marius-borg-hoeiby-i-retten",
+      "source": "tv2",
+      "title": "Marius Borg Høiby overfaldet i sit hjem",
+      "url": "https://nyheder.tv2.dk/live/udland/2025-06-27-marius-borg-hoeiby-i-retten",
+      "date": "27/06/2025",
       "type": "Live",
-      "firstSeenAt": "2026-11-07T09:16:33.324Z",
-      "titleVi": "70.000 sĩ quan được triển khai tại Pháp"
+      "firstSeenAt": "2026-11-07T15:49:51.486Z",
+      "titleVi": "Marius Borg Høiby bị hành hung tại nhà"
     },
     {
-      "id": "https://nyheder.tv2.dk/2026-11-06-historisk-pressede-faengsler-hyrer-nu-betjente-fra-kosovo",
+      "id": "https://nyheder.tv2.dk/krimi/2026-11-07-borgere-advares-om-udslip-af-ukendt-stof-i-nyborg",
       "source": "tv2",
-      "title": "Historisk pressede fængsler hyrer nu betjente fra Kosovo",
-      "url": "https://nyheder.tv2.dk/2026-11-06-historisk-pressede-faengsler-hyrer-nu-betjente-fra-kosovo",
-      "date": "06/11/2026",
-      "type": "Nyheder",
-      "firstSeenAt": "2026-11-07T09:16:33.324Z",
-      "titleVi": "Các nhà tù bị áp lực trong lịch sử hiện đang thuê nhân viên cảnh sát Kosovo"
-    },
-    {
-      "id": "https://nyheder.tv2.dk/live/udland/2026-05-16-midtvejsvalg-i-usa",
-      "source": "tv2",
-      "title": "Trumps stabschef stopper efter valgnederlag",
-      "url": "https://nyheder.tv2.dk/live/udland/2026-05-16-midtvejsvalg-i-usa",
-      "date": "16/05/2026",
-      "type": "Live",
-      "firstSeenAt": "2026-10-30T09:40:39.026Z",
-      "titleVi": "Chánh văn phòng của Trump từ chức sau thất bại bầu cử"
+      "title": "Borgere advares om udslip af ukendt stof i Nyborg",
+      "url": "https://nyheder.tv2.dk/krimi/2026-11-07-borgere-advares-om-udslip-af-ukendt-stof-i-nyborg",
+      "date": "07/11/2026",
+      "type": "Krimi",
+      "firstSeenAt": "2026-11-07T15:49:51.486Z",
+      "titleVi": "Công dân được cảnh báo về việc giải phóng chất không xác định ở Nyborg"
     },
     {
       "id": "https://nyheder.tv2.dk/live/2024-09-08-seneste-nyt-om-krigen-i-ukraine-70b1d6cc-0720-404e-9878-45546e1999e7",
@@ -572,34 +572,44 @@
       "titleVi": "Kiev bị tấn công bởi làn sóng tên lửa"
     },
     {
-      "id": "https://nyheder.tv2.dk/samfund/2026-11-05-foraeldrepar-raser-over-megainstitution-ekspert-faar-ondt-i-maven",
+      "id": "https://nyheder.tv2.dk/live/tech/2026-09-09-seneste-nyt-om-ai",
       "source": "tv2",
-      "title": "Forældrepar raser over megainstitution – ekspert får ondt i maven",
-      "url": "https://nyheder.tv2.dk/samfund/2026-11-05-foraeldrepar-raser-over-megainstitution-ekspert-faar-ondt-i-maven",
+      "title": "Demonstranter samlet ved Microsoft Datacenter ved Køge",
+      "url": "https://nyheder.tv2.dk/live/tech/2026-09-09-seneste-nyt-om-ai",
+      "date": "09/09/2026",
+      "type": "Live",
+      "firstSeenAt": "2026-11-04T21:30:29.202Z",
+      "titleVi": "Người biểu tình tập trung tại Trung tâm dữ liệu Microsoft tại Køge"
+    },
+    {
+      "id": "https://nyheder.tv2.dk/samfund/2026-11-07-batterier-foerte-til-127-brande-sidste-aar-opladning-er-en-stor-synder",
+      "source": "tv2",
+      "title": "Batterier førte til 127 brande sidste år – opladning er en stor synder",
+      "url": "https://nyheder.tv2.dk/samfund/2026-11-07-batterier-foerte-til-127-brande-sidste-aar-opladning-er-en-stor-synder",
+      "date": "07/11/2026",
+      "type": "Samfund",
+      "firstSeenAt": "2026-11-07T15:49:51.486Z",
+      "titleVi": "Pin đã dẫn đến 127 vụ cháy vào năm ngoái – sạc là một thủ phạm lớn"
+    },
+    {
+      "id": "https://nyheder.tv2.dk/live/udland/2026-10-17-optoejer-spreder-sig-i-europa",
+      "source": "tv2",
+      "title": "70.000 betjente sendes på gaden i Frankrig",
+      "url": "https://nyheder.tv2.dk/live/udland/2026-10-17-optoejer-spreder-sig-i-europa",
+      "date": "17/10/2026",
+      "type": "Live",
+      "firstSeenAt": "2026-11-07T09:16:33.324Z",
+      "titleVi": "70.000 sĩ quan được triển khai tại Pháp"
+    },
+    {
+      "id": "https://nyheder.tv2.dk/samfund/2026-11-05-medlemmer-sender-fagforeninger-og-a-kasse-i-bund-igen-igen",
+      "source": "tv2",
+      "title": "Medlemmer sender fagforeninger og a-kasse i bund igen igen",
+      "url": "https://nyheder.tv2.dk/samfund/2026-11-05-medlemmer-sender-fagforeninger-og-a-kasse-i-bund-igen-igen",
       "date": "05/11/2026",
       "type": "Samfund",
       "firstSeenAt": "2026-11-07T09:16:33.324Z",
-      "titleVi": "Cha mẹ tức giận về tổ chức lớn – chuyên gia bị đau dạ dày"
-    },
-    {
-      "id": "https://nyheder.tv2.dk/udland/2026-10-28-berygtet-militaerleder-styrtede-i-doeden-nu-tjener-soennen-millarder-paa-guld-og-narko",
-      "source": "tv2",
-      "title": "Berygtet militærleder styrtede i døden – nu tjener sønnen millarder på guld og narko",
-      "url": "https://nyheder.tv2.dk/udland/2026-10-28-berygtet-militaerleder-styrtede-i-doeden-nu-tjener-soennen-millarder-paa-guld-og-narko",
-      "date": "28/10/2026",
-      "type": "Udland",
-      "firstSeenAt": "2026-11-07T09:16:33.324Z",
-      "titleVi": "Nhà lãnh đạo quân sự khét tiếng lao vào cái chết – bây giờ con trai kiếm được hàng tỷ vàng và ma túy"
-    },
-    {
-      "id": "https://nyheder.tv2.dk/samfund/2026-11-07-hjemmelavet-fyrvaerkeri-fundet-i-container-paa-privatadresse-politiet-bevogter-fortsat-hus",
-      "source": "tv2",
-      "title": "Hjemmelavet fyrværkeri fundet i container på privatadresse – politiet bevogter fortsat hus",
-      "url": "https://nyheder.tv2.dk/samfund/2026-11-07-hjemmelavet-fyrvaerkeri-fundet-i-container-paa-privatadresse-politiet-bevogter-fortsat-hus",
-      "date": "07/11/2026",
-      "type": "Samfund",
-      "firstSeenAt": "2026-11-07T09:16:33.324Z",
-      "titleVi": "Pháo hoa tự chế được tìm thấy trong thùng chứa tại địa chỉ riêng – cảnh sát vẫn bảo vệ nhà"
+      "titleVi": "Các thành viên gửi tiền công đoàn và bảo hiểm thất nghiệp trở lại đáy"
     },
     {
       "id": "https://nyheder.tv2.dk/samfund/2026-11-07-etaarigt-barn-faldt-ud-ad-vindue-fra-anden-sal-i-valby",
@@ -610,6 +620,96 @@
       "type": "Samfund",
       "firstSeenAt": "2026-11-07T09:16:33.324Z",
       "titleVi": "Một đứa trẻ một tuổi rơi ra khỏi cửa sổ từ tầng hai ở Valby"
+    },
+    {
+      "id": "https://nyheder.tv2.dk/udland/2026-11-07-cyberkriminelle-deler-oplysninger-om-italiensk-minister",
+      "source": "tv2",
+      "title": "Cyberkriminelle deler oplysninger om italiensk minister",
+      "url": "https://nyheder.tv2.dk/udland/2026-11-07-cyberkriminelle-deler-oplysninger-om-italiensk-minister",
+      "date": "07/11/2026",
+      "type": "Udland",
+      "firstSeenAt": "2026-11-07T15:49:51.486Z",
+      "titleVi": "Tội phạm mạng chia sẻ thông tin về bộ trưởng Ý"
+    },
+    {
+      "id": "https://nyheder.tv2.dk/live/politik/2025-08-11-dansk-politik",
+      "source": "tv2",
+      "title": "Ny fejl opdaget i Kriminalregisteret – sager om \"særlig grov\" kriminalitet slettet",
+      "url": "https://nyheder.tv2.dk/live/politik/2025-08-11-dansk-politik",
+      "date": "11/08/2025",
+      "type": "Live",
+      "firstSeenAt": "2026-11-07T15:49:51.486Z",
+      "titleVi": "Lỗi mới được phát hiện trong Sổ Đăng ký Hình sự – các trường hợp tội phạm \"đặc biệt nghiêm trọng\" đã bị xóa"
+    },
+    {
+      "id": "https://nyheder.tv2.dk/samfund/2026-11-07-hans-mor-mistede-smykker-for-250000-kroner-paa-plejehjem",
+      "source": "tv2",
+      "title": "Hans mor mistede smykker for 250.000 kroner på plejehjem",
+      "url": "https://nyheder.tv2.dk/samfund/2026-11-07-hans-mor-mistede-smykker-for-250000-kroner-paa-plejehjem",
+      "date": "07/11/2026",
+      "type": "Samfund",
+      "firstSeenAt": "2026-11-07T15:49:51.486Z",
+      "titleVi": "Mẹ anh đã mất 250.000 kroner đồ trang sức trong một viện dưỡng lão"
+    },
+    {
+      "id": "https://nyheder.tv2.dk/samfund/2026-10-26-46-aarig-homoseksuel-fortaeller-om-trusler-efter-tv-2-program-om-danskhed",
+      "source": "tv2",
+      "title": "46-årig homoseksuel fortæller om trusler efter TV 2-program om danskhed",
+      "url": "https://nyheder.tv2.dk/samfund/2026-10-26-46-aarig-homoseksuel-fortaeller-om-trusler-efter-tv-2-program-om-danskhed",
+      "date": "26/10/2026",
+      "type": "Samfund",
+      "firstSeenAt": "2026-11-07T15:49:51.486Z",
+      "titleVi": "Đồng tính luyến ái 46 tuổi nói về các mối đe dọa sau chương trình TV 2 về Đan Mạch"
+    },
+    {
+      "id": "https://nyheder.tv2.dk/2026-11-06-faengsler-hyrer-udenlandske-betjente-danske-ansatte-er-bekymret",
+      "source": "tv2",
+      "title": "Fængsler hyrer udenlandske betjente – danske ansatte er bekymret",
+      "url": "https://nyheder.tv2.dk/2026-11-06-faengsler-hyrer-udenlandske-betjente-danske-ansatte-er-bekymret",
+      "date": "06/11/2026",
+      "type": "Nyheder",
+      "firstSeenAt": "2026-11-07T15:49:51.486Z",
+      "titleVi": "Nhà tù thuê cán bộ nước ngoài – nhân viên Đan Mạch lo ngại"
+    },
+    {
+      "id": "https://nyheder.tv2.dk/live/udland/2026-05-16-midtvejsvalg-i-usa",
+      "source": "tv2",
+      "title": "Trumps stabschef stopper efter valgnederlag",
+      "url": "https://nyheder.tv2.dk/live/udland/2026-05-16-midtvejsvalg-i-usa",
+      "date": "16/05/2026",
+      "type": "Live",
+      "firstSeenAt": "2026-10-30T09:40:39.026Z",
+      "titleVi": "Chánh văn phòng của Trump từ chức sau thất bại bầu cử"
+    },
+    {
+      "id": "https://nyheder.tv2.dk/samfund/2026-11-05-foraeldrepar-raser-over-megainstitution-ekspert-faar-ondt-i-maven",
+      "source": "tv2",
+      "title": "Forældrepar raser over megainstitution – ekspert får ondt i maven",
+      "url": "https://nyheder.tv2.dk/samfund/2026-11-05-foraeldrepar-raser-over-megainstitution-ekspert-faar-ondt-i-maven",
+      "date": "05/11/2026",
+      "type": "Samfund",
+      "firstSeenAt": "2026-11-07T09:16:33.324Z",
+      "titleVi": "Cha mẹ tức giận về tổ chức lớn – chuyên gia bị đau dạ dày"
+    },
+    {
+      "id": "https://nyheder.tv2.dk/udland/2026-10-28-berygtet-militaerleder-styrtede-i-doeden-nu-tjener-soennen-milliarder-paa-guld-og-narko",
+      "source": "tv2",
+      "title": "Berygtet militærleder styrtede i døden – nu tjener sønnen milliarder på guld og narko",
+      "url": "https://nyheder.tv2.dk/udland/2026-10-28-berygtet-militaerleder-styrtede-i-doeden-nu-tjener-soennen-milliarder-paa-guld-og-narko",
+      "date": "28/10/2026",
+      "type": "Udland",
+      "firstSeenAt": "2026-11-07T15:49:51.486Z",
+      "titleVi": "Nhà lãnh đạo quân sự khét tiếng lao vào cái chết – bây giờ con trai kiếm được hàng tỷ vàng và ma túy"
+    },
+    {
+      "id": "https://nyheder.tv2.dk/samfund/2026-11-07-hjemmelavet-fyrvaerkeri-fundet-i-container-paa-privatadresse",
+      "source": "tv2",
+      "title": "Hjemmelavet fyrværkeri fundet i container på privatadresse",
+      "url": "https://nyheder.tv2.dk/samfund/2026-11-07-hjemmelavet-fyrvaerkeri-fundet-i-container-paa-privatadresse",
+      "date": "07/11/2026",
+      "type": "Samfund",
+      "firstSeenAt": "2026-11-07T15:49:51.486Z",
+      "titleVi": "Pháo hoa tự chế được tìm thấy trong thùng chứa tại địa chỉ riêng"
     },
     {
       "id": "https://nyheder.tv2.dk/samfund/2026-11-06-par-tiltalt-for-ulovlig-hvalpefabrik-solgte-designerhunde-for-millioner",
@@ -630,16 +730,6 @@
       "type": "Live",
       "firstSeenAt": "2026-11-03T20:39:01.010Z",
       "titleVi": "Chỉ số Sợ hãi đã tăng mạnh"
-    },
-    {
-      "id": "https://nyheder.tv2.dk/samfund/2026-11-05-medlemmer-sender-fagforeninger-og-a-kasse-i-bund-igen-igen",
-      "source": "tv2",
-      "title": "Medlemmer sender fagforeninger og a-kasse i bund igen igen",
-      "url": "https://nyheder.tv2.dk/samfund/2026-11-05-medlemmer-sender-fagforeninger-og-a-kasse-i-bund-igen-igen",
-      "date": "05/11/2026",
-      "type": "Samfund",
-      "firstSeenAt": "2026-11-07T09:16:33.324Z",
-      "titleVi": "Các thành viên gửi tiền công đoàn và bảo hiểm thất nghiệp trở lại đáy"
     },
     {
       "id": "https://nyheder.tv2.dk/udland/2026-11-06-rigsretssag-kan-blive-forvarsel-om-et-kongemord-paa-trump-mener-professor",
@@ -694,12 +784,12 @@
     {
       "id": "https://nyheder.tv2.dk/politik/2026-11-06-det-naeste-traek-har-vi-faaet-vores-gamle-venner-i-usa-tilbage",
       "source": "tv2",
-      "title": "'Det næste træk' - Har vi fået vores gamle venner i USA tilbage?",
+      "title": "'Det næste træk' – har vi fået vores gamle venner i USA tilbage?",
       "url": "https://nyheder.tv2.dk/politik/2026-11-06-det-naeste-traek-har-vi-faaet-vores-gamle-venner-i-usa-tilbage",
       "date": "06/11/2026",
       "type": "Politik",
       "firstSeenAt": "2026-11-06T22:57:02.014Z",
-      "titleVi": "'Bước tiếp theo' - Chúng ta đã có những người bạn cũ ở Mỹ trở lại chưa?"
+      "titleVi": "'Bước tiếp theo' – chúng ta đã có những người bạn cũ ở Mỹ trở lại chưa?"
     },
     {
       "id": "https://nyheder.tv2.dk/udland/2026-11-06-europaeisk-flytrafik-ramt-af-flere-bombetrusler-men-hvem-staar-bag",
@@ -720,96 +810,6 @@
       "type": "Krimi",
       "firstSeenAt": "2026-11-06T17:57:30.903Z",
       "titleVi": "Công tố viên Đan Mạch đang xem xét nối lại vụ án tử hình Triệu cánh Anh"
-    },
-    {
-      "id": "https://nyheder.tv2.dk/samfund/2026-11-06-29-aarig-tager-fri-for-at-spille-hypet-videospil-chefen-ryster-paa-hovedet",
-      "source": "tv2",
-      "title": "29-årig tager fri for at spille hypet videospil – chefen ryster på hovedet",
-      "url": "https://nyheder.tv2.dk/samfund/2026-11-06-29-aarig-tager-fri-for-at-spille-hypet-videospil-chefen-ryster-paa-hovedet",
-      "date": "06/11/2026",
-      "type": "Samfund",
-      "firstSeenAt": "2026-11-06T17:57:30.903Z",
-      "titleVi": "Chàng trai 29 tuổi dành thời gian nghỉ ngơi để chơi các trò chơi điện tử bị thổi phồng – ông chủ lắc đầu"
-    },
-    {
-      "id": "https://nyheder.tv2.dk/live/business/2026-11-06-spoerg-om-dine-aktier-og-pension",
-      "source": "tv2",
-      "title": "Spørg om dine aktier og pension",
-      "url": "https://nyheder.tv2.dk/live/business/2026-11-06-spoerg-om-dine-aktier-og-pension",
-      "date": "06/11/2026",
-      "type": "Live",
-      "firstSeenAt": "2026-11-06T11:04:40.037Z",
-      "titleVi": "Hỏi về cổ phần và lương hưu của bạn"
-    },
-    {
-      "id": "https://nyheder.tv2.dk/udland/2026-11-06-meghan-markles-far-anholdt-i-sag-om-overgrebsmateriale-med-boern",
-      "source": "tv2",
-      "title": "Meghan Markles far anholdt i sag om overgrebsmateriale med børn",
-      "url": "https://nyheder.tv2.dk/udland/2026-11-06-meghan-markles-far-anholdt-i-sag-om-overgrebsmateriale-med-boern",
-      "date": "06/11/2026",
-      "type": "Udland",
-      "firstSeenAt": "2026-11-06T17:57:30.903Z",
-      "titleVi": "Cha của Meghan Markle bị bắt trong vụ án lạm dụng trẻ em"
-    },
-    {
-      "id": "https://nyheder.tv2.dk/udland/2026-11-05-demokraterne-har-nu-magten-til-at-aendre-maaden-at-vaelge-usas-naeste-praesident",
-      "source": "tv2",
-      "title": "Demokraterne har nu magten til at ændre måden at vælge USA's næste præsident",
-      "url": "https://nyheder.tv2.dk/udland/2026-11-05-demokraterne-har-nu-magten-til-at-aendre-maaden-at-vaelge-usas-naeste-praesident",
-      "date": "05/11/2026",
-      "type": "Udland",
-      "firstSeenAt": "2026-11-06T17:57:30.903Z",
-      "titleVi": "Đảng Dân chủ giờ đây có quyền thay đổi cách họ bầu tổng thống tiếp theo của Hoa Kỳ"
-    },
-    {
-      "id": "https://nyheder.tv2.dk/live/tech/2026-09-09-seneste-nyt-om-ai",
-      "source": "tv2",
-      "title": "Demonstrationer mod datacentre på tværs af Europa",
-      "url": "https://nyheder.tv2.dk/live/tech/2026-09-09-seneste-nyt-om-ai",
-      "date": "09/09/2026",
-      "type": "Live",
-      "firstSeenAt": "2026-11-04T21:30:29.202Z",
-      "titleVi": "Các cuộc biểu tình chống lại các trung tâm dữ liệu trên khắp châu Âu"
-    },
-    {
-      "id": "https://nyheder.tv2.dk/live/udland/2026-09-11-valg-i-sverige",
-      "source": "tv2",
-      "title": "Riksdagen skal stemme om svensk partleder som statsminister",
-      "url": "https://nyheder.tv2.dk/live/udland/2026-09-11-valg-i-sverige",
-      "date": "11/09/2026",
-      "type": "Live",
-      "firstSeenAt": "2026-11-06T17:57:30.903Z",
-      "titleVi": "Riksdag bỏ phiếu bầu lãnh đạo đảng Thụy Điển làm thủ tướng"
-    },
-    {
-      "id": "https://nyheder.tv2.dk/udland/2026-11-06-kenyansk-sektleder-faar-200-aars-faengsel-i-sag-om-masseselvmord",
-      "source": "tv2",
-      "title": "Kenyansk sektleder får 200 års fængsel i sag om masseselvmord",
-      "url": "https://nyheder.tv2.dk/udland/2026-11-06-kenyansk-sektleder-faar-200-aars-faengsel-i-sag-om-masseselvmord",
-      "date": "06/11/2026",
-      "type": "Udland",
-      "firstSeenAt": "2026-11-06T17:57:30.903Z",
-      "titleVi": "Lãnh đạo giáo phái Kenya bị kết án 200 năm tù trong vụ tự sát hàng loạt"
-    },
-    {
-      "id": "https://nyheder.tv2.dk/krimi/2026-11-05-stjernekok-ramt-af-millionkup-fuldstaendig-paa-olsen-banden-niveau",
-      "source": "tv2",
-      "title": "Stjernekok ramt af millionkup: - Fuldstændig på 'Olsen-banden'-niveau",
-      "url": "https://nyheder.tv2.dk/krimi/2026-11-05-stjernekok-ramt-af-millionkup-fuldstaendig-paa-olsen-banden-niveau",
-      "date": "05/11/2026",
-      "type": "Krimi",
-      "firstSeenAt": "2026-11-06T17:57:30.903Z",
-      "titleVi": "Đầu bếp ngôi sao bị tấn công bởi cuộc đảo chính triệu đô la: - Hoàn toàn ở cấp độ 'Olsen-banden'"
-    },
-    {
-      "id": "https://nyheder.tv2.dk/tech/2026-11-06-tiktok-bryder-loven-med-kaninhul-vurderer-eu-kommission",
-      "source": "tv2",
-      "title": "Tiktok bryder loven med \"kaninhul\", vurderer EU-Kommission",
-      "url": "https://nyheder.tv2.dk/tech/2026-11-06-tiktok-bryder-loven-med-kaninhul-vurderer-eu-kommission",
-      "date": "06/11/2026",
-      "type": "Tech",
-      "firstSeenAt": "2026-11-06T17:57:30.903Z",
-      "titleVi": "Tiktok vi phạm pháp luật với \"hố thỏ\", đánh giá Ủy ban EU"
     },
     {
       "id": "https://www.kungahuset.se/arkiv/nyheter/2026-11-06-kronprinsessparet-tog-emot-ungdomsrad",
