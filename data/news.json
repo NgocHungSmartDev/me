@@ -1,6 +1,6 @@
 {
   "monitoringStartedAt": "2026-09-28T00:17:35.319Z",
-  "updatedAt": "2026-11-07T23:28:54.134Z",
+  "updatedAt": "2026-11-08T02:39:25.487Z",
   "sources": {
     "kongehuset": {
       "name": "Kongehuset",
@@ -57,9 +57,9 @@
       "language": "no",
       "monitoringStartedAt": "2026-10-01T16:30:06.936Z",
       "status": {
-        "state": "ok",
-        "message": "",
-        "changedAt": "2026-11-07T02:38:23.865Z"
+        "state": "error",
+        "message": "The Norwegian Royal House Atom feed returned no entries",
+        "changedAt": "2026-11-08T02:39:25.487Z"
       }
     }
   },
@@ -522,6 +522,16 @@
       "titleVi": "Cặp đôi hoàng gia H.M. Nữ hoàng Margrethe và H.K.H. Công chúa Benedikte tham dự buổi hòa nhạc nhân kỷ niệm 300 năm thành lập Nhà thờ Lâu đài Fredensborg"
     },
     {
+      "id": "https://nyheder.tv2.dk/live/udland/2026-05-16-midtvejsvalg-i-usa",
+      "source": "tv2",
+      "title": "Trumps stabschef stopper efter valgnederlag",
+      "url": "https://nyheder.tv2.dk/live/udland/2026-05-16-midtvejsvalg-i-usa",
+      "date": "16/05/2026",
+      "type": "Live",
+      "firstSeenAt": "2026-10-30T09:40:39.026Z",
+      "titleVi": "Chánh văn phòng của Trump từ chức sau thất bại bầu cử"
+    },
+    {
       "id": "https://nyheder.tv2.dk/live/kort-nyt",
       "source": "tv2",
       "title": "70.000 telte oversvømmet i Gaza efter kraftig regn",
@@ -570,16 +580,6 @@
       "type": "Live",
       "firstSeenAt": "2026-11-07T23:28:54.134Z",
       "titleVi": "Lần đầu tiên trong 30 năm, một đứa trẻ đã chết vì bệnh sởi ở New York"
-    },
-    {
-      "id": "https://nyheder.tv2.dk/live/udland/2026-05-16-midtvejsvalg-i-usa",
-      "source": "tv2",
-      "title": "Trumps stabschef stopper efter valgnederlag",
-      "url": "https://nyheder.tv2.dk/live/udland/2026-05-16-midtvejsvalg-i-usa",
-      "date": "16/05/2026",
-      "type": "Live",
-      "firstSeenAt": "2026-10-30T09:40:39.026Z",
-      "titleVi": "Chánh văn phòng của Trump từ chức sau thất bại bầu cử"
     },
     {
       "id": "https://nyheder.tv2.dk/live/udland/2026-10-26-valg-i-israel",
