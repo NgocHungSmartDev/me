@@ -1,6 +1,6 @@
 {
   "monitoringStartedAt": "2026-09-28T00:17:35.319Z",
-  "updatedAt": "2026-11-08T09:29:42.410Z",
+  "updatedAt": "2026-11-08T16:14:52.405Z",
   "sources": {
     "kongehuset": {
       "name": "Kongehuset",
@@ -33,9 +33,9 @@
       "language": "sv",
       "monitoringStartedAt": "2026-10-01T16:20:13.213Z",
       "status": {
-        "state": "ok",
-        "message": "",
-        "changedAt": "2026-11-07T02:38:23.865Z"
+        "state": "error",
+        "message": "fetch failed",
+        "changedAt": "2026-11-08T16:14:52.405Z"
       }
     },
     "svenskdam": {
@@ -71,6 +71,16 @@
     }
   },
   "articles": [
+    {
+      "id": "https://www.kongehuset.dk/nyheder/h-m-kongen-sender-kondolence-til-h-e-polens-praesident",
+      "source": "kongehuset",
+      "title": "H.M. Kongen sender kondolence til H.E. Polens Præsident Karol Nawrocki",
+      "url": "https://www.kongehuset.dk/nyheder/h-m-kongen-sender-kondolence-til-h-e-polens-praesident",
+      "date": "8. november 2026",
+      "type": "Nyhed",
+      "firstSeenAt": "2026-11-08T16:14:52.405Z",
+      "titleVi": "HM Nhà vua gửi lời chia buồn đến Tổng thống Ba Lan Karol Nawrocki"
+    },
     {
       "id": "https://www.kongehuset.dk/foto-video/h-m-dronningen-modtog-generaldirektoer-for-fn%E2%80%99s-miljoeprogram-unep-inger-andersen",
       "source": "kongehuset",
@@ -512,36 +522,6 @@
       "titleVi": "Tiếp đón Đại sứ ngày 8 tháng 10 năm 2026"
     },
     {
-      "id": "https://www.kongehuset.dk/foto-video/kongeparret-h-m-dronning-margrethe-og-h-k-h-prinsesse-benedikte-overvaerede-koncert-i-anledning-af-fredensborg-slotskirkes-300-aars-jubilaeum",
-      "source": "kongehuset",
-      "title": "Kongeparret, H.M. Dronning Margrethe og H.K.H. Prinsesse Benedikte overværede koncert i anledning af Fredensborg Slotskirkes 300-års jubilæum",
-      "url": "https://www.kongehuset.dk/foto-video/kongeparret-h-m-dronning-margrethe-og-h-k-h-prinsesse-benedikte-overvaerede-koncert-i-anledning-af-fredensborg-slotskirkes-300-aars-jubilaeum",
-      "date": "7. oktober 2026",
-      "type": "Galleri",
-      "firstSeenAt": "2026-10-08T13:30:06.955Z",
-      "titleVi": "Cặp đôi hoàng gia H.M. Nữ hoàng Margrethe và H.K.H. Công chúa Benedikte tham dự buổi hòa nhạc nhân kỷ niệm 300 năm thành lập Nhà thờ Lâu đài Fredensborg"
-    },
-    {
-      "id": "https://nyheder.tv2.dk/live/klima/2026-11-08-spoerg-om-cop31",
-      "source": "tv2",
-      "title": "Stil spørgsmål til Tanev om COP31",
-      "url": "https://nyheder.tv2.dk/live/klima/2026-11-08-spoerg-om-cop31",
-      "date": "08/11/2026",
-      "type": "Live",
-      "firstSeenAt": "2026-11-08T09:29:42.410Z",
-      "titleVi": "Đặt câu hỏi cho Tanev về COP31"
-    },
-    {
-      "id": "https://nyheder.tv2.dk/samfund/2026-11-08-internat-blaest-bagover-efter-efterlysning-til-borgere",
-      "source": "tv2",
-      "title": "Internat blæst bagover efter efterlysning til borgere",
-      "url": "https://nyheder.tv2.dk/samfund/2026-11-08-internat-blaest-bagover-efter-efterlysning-til-borgere",
-      "date": "08/11/2026",
-      "type": "Samfund",
-      "firstSeenAt": "2026-11-08T09:29:42.410Z",
-      "titleVi": "Ký túc xá bị thổi ngược sau khi kêu gọi công dân"
-    },
-    {
       "id": "https://nyheder.tv2.dk/live/udland/2026-11-07-terrorangreb-i-krakow",
       "source": "tv2",
       "title": "Flere dræbte i terrorangreb i Krakow",
@@ -554,22 +534,32 @@
     {
       "id": "https://nyheder.tv2.dk/live/kort-nyt",
       "source": "tv2",
-      "title": "Gavevirksomhed udsat for cyberangreb",
+      "title": "Uheld på Fynske Motorvej spærrer spor",
       "url": "https://nyheder.tv2.dk/live/kort-nyt",
       "date": "—",
       "type": "Live",
       "firstSeenAt": "2026-09-28T00:30:42.330Z",
-      "titleVi": "Quà tặng tiếp xúc với các cuộc tấn công mạng"
+      "titleVi": "Tai nạn trên đường ray chặn đường cao tốc Funen"
     },
     {
-      "id": "https://nyheder.tv2.dk/klima/2026-11-03-nu-begynder-nyt-klimatopmoede-men-virker-de-overhovedet",
+      "id": "https://nyheder.tv2.dk/udland/2026-11-08-flere-draebt-efter-togkollision-i-kairo",
       "source": "tv2",
-      "title": "Nu begynder nyt klimatopmøde – men virker de overhovedet?",
-      "url": "https://nyheder.tv2.dk/klima/2026-11-03-nu-begynder-nyt-klimatopmoede-men-virker-de-overhovedet",
-      "date": "03/11/2026",
-      "type": "Klima",
-      "firstSeenAt": "2026-11-08T09:29:42.410Z",
-      "titleVi": "Bây giờ bắt đầu hội nghị thượng đỉnh khí hậu mới – nhưng chúng có hiệu quả không?"
+      "title": "Flere dræbt efter togkollision i Kairo",
+      "url": "https://nyheder.tv2.dk/udland/2026-11-08-flere-draebt-efter-togkollision-i-kairo",
+      "date": "08/11/2026",
+      "type": "Udland",
+      "firstSeenAt": "2026-11-08T16:14:52.405Z",
+      "titleVi": "Một số người thiệt mạng sau vụ va chạm tàu hỏa ở Cairo"
+    },
+    {
+      "id": "https://nyheder.tv2.dk/live/2024-09-08-seneste-nyt-om-krigen-i-ukraine-70b1d6cc-0720-404e-9878-45546e1999e7",
+      "source": "tv2",
+      "title": "Europa deltager i forhandlinger, siger fransk udenrigsminister",
+      "url": "https://nyheder.tv2.dk/live/2024-09-08-seneste-nyt-om-krigen-i-ukraine-70b1d6cc-0720-404e-9878-45546e1999e7",
+      "date": "08/09/2024",
+      "type": "Live",
+      "firstSeenAt": "2026-09-28T00:30:42.330Z",
+      "titleVi": "Bộ trưởng Ngoại giao Pháp cho biết Châu Âu tham gia vào các cuộc đàm phán"
     },
     {
       "id": "https://nyheder.tv2.dk/live/udland/2026-05-16-midtvejsvalg-i-usa",
@@ -580,6 +570,56 @@
       "type": "Live",
       "firstSeenAt": "2026-10-30T09:40:39.026Z",
       "titleVi": "Trump đã nhầm lẫn các ứng cử viên cho công việc trong Nhà Trắng, xem xét một số"
+    },
+    {
+      "id": "https://nyheder.tv2.dk/samfund/2026-11-08-hoteller-og-turistattraktion-ramt-af-datalaek-tager-haendelse-meget-alvorligt",
+      "source": "tv2",
+      "title": "Hoteller og turistattraktion ramt af datalæk – tager hændelse \"meget alvorligt\"",
+      "url": "https://nyheder.tv2.dk/samfund/2026-11-08-hoteller-og-turistattraktion-ramt-af-datalaek-tager-haendelse-meget-alvorligt",
+      "date": "08/11/2026",
+      "type": "Samfund",
+      "firstSeenAt": "2026-11-08T16:14:52.405Z",
+      "titleVi": "Khách sạn và điểm thu hút khách du lịch bị rò rỉ dữ liệu – xử lý sự cố \"rất nghiêm túc\""
+    },
+    {
+      "id": "https://nyheder.tv2.dk/live/klima/2026-11-08-spoerg-om-cop31",
+      "source": "tv2",
+      "title": "Stil spørgsmål til Tanev om COP31",
+      "url": "https://nyheder.tv2.dk/live/klima/2026-11-08-spoerg-om-cop31",
+      "date": "08/11/2026",
+      "type": "Live",
+      "firstSeenAt": "2026-11-08T09:29:42.410Z",
+      "titleVi": "Đặt câu hỏi cho Tanev về COP31"
+    },
+    {
+      "id": "https://nyheder.tv2.dk/business/2026-11-08-cafeejers-livsvaerk-endt-som-byggeplads-det-er-voldsomt",
+      "source": "tv2",
+      "title": "Caféejers livsværk endt som byggeplads: - Det er voldsomt",
+      "url": "https://nyheder.tv2.dk/business/2026-11-08-cafeejers-livsvaerk-endt-som-byggeplads-det-er-voldsomt",
+      "date": "08/11/2026",
+      "type": "Business",
+      "firstSeenAt": "2026-11-08T16:14:52.405Z",
+      "titleVi": "Công việc cả đời của chủ quán cà phê đã kết thúc như một công trường xây dựng: - Đó là bạo lực"
+    },
+    {
+      "id": "https://nyheder.tv2.dk/samfund/2026-11-08-internat-blaest-bagover-efter-efterlysning-til-borgere",
+      "source": "tv2",
+      "title": "Internat blæst bagover efter efterlysning til borgere",
+      "url": "https://nyheder.tv2.dk/samfund/2026-11-08-internat-blaest-bagover-efter-efterlysning-til-borgere",
+      "date": "08/11/2026",
+      "type": "Samfund",
+      "firstSeenAt": "2026-11-08T09:29:42.410Z",
+      "titleVi": "Ký túc xá bị thổi ngược sau khi kêu gọi công dân"
+    },
+    {
+      "id": "https://nyheder.tv2.dk/klima/2026-11-03-nu-begynder-nyt-klimatopmoede-men-virker-de-overhovedet",
+      "source": "tv2",
+      "title": "Nu begynder nyt klimatopmøde – men virker de overhovedet?",
+      "url": "https://nyheder.tv2.dk/klima/2026-11-03-nu-begynder-nyt-klimatopmoede-men-virker-de-overhovedet",
+      "date": "03/11/2026",
+      "type": "Klima",
+      "firstSeenAt": "2026-11-08T09:29:42.410Z",
+      "titleVi": "Bây giờ bắt đầu hội nghị thượng đỉnh khí hậu mới – nhưng chúng có hiệu quả không?"
     },
     {
       "id": "https://nyheder.tv2.dk/samfund/2026-11-08-dunkelflaute-giver-de-hoejeste-elpriser-i-aarevis",
@@ -610,16 +650,6 @@
       "type": "Samfund",
       "firstSeenAt": "2026-11-08T09:29:42.410Z",
       "titleVi": "Virus từ đại dịch năm 2009 đã trở lại và có thể lây nhiễm cho những người trẻ tuổi nói riêng"
-    },
-    {
-      "id": "https://nyheder.tv2.dk/live/2024-09-08-seneste-nyt-om-krigen-i-ukraine-70b1d6cc-0720-404e-9878-45546e1999e7",
-      "source": "tv2",
-      "title": "Norsk statsminister i lang samtale med Mette F. efter Putin-strid: - Der er vi ikke enige",
-      "url": "https://nyheder.tv2.dk/live/2024-09-08-seneste-nyt-om-krigen-i-ukraine-70b1d6cc-0720-404e-9878-45546e1999e7",
-      "date": "08/09/2024",
-      "type": "Live",
-      "firstSeenAt": "2026-09-28T00:30:42.330Z",
-      "titleVi": "Thủ tướng Na Uy trong cuộc trò chuyện dài với Mette F. sau trận chiến Putin: - Ở đó chúng tôi không đồng ý"
     },
     {
       "id": "https://nyheder.tv2.dk/udland/2026-11-05-krigszonen-er-krig-kun-for-machomaend",
@@ -780,36 +810,6 @@
       "type": "Samfund",
       "firstSeenAt": "2026-11-07T15:49:51.486Z",
       "titleVi": "Mẹ anh đã mất 250.000 kroner đồ trang sức trong một viện dưỡng lão"
-    },
-    {
-      "id": "https://nyheder.tv2.dk/samfund/2026-10-26-46-aarig-homoseksuel-fortaeller-om-trusler-efter-tv-2-program-om-danskhed",
-      "source": "tv2",
-      "title": "46-årig homoseksuel fortæller om trusler efter TV 2-program om danskhed",
-      "url": "https://nyheder.tv2.dk/samfund/2026-10-26-46-aarig-homoseksuel-fortaeller-om-trusler-efter-tv-2-program-om-danskhed",
-      "date": "26/10/2026",
-      "type": "Samfund",
-      "firstSeenAt": "2026-11-07T15:49:51.486Z",
-      "titleVi": "Đồng tính luyến ái 46 tuổi nói về các mối đe dọa sau chương trình TV 2 về Đan Mạch"
-    },
-    {
-      "id": "https://nyheder.tv2.dk/2026-11-06-faengsler-hyrer-udenlandske-betjente-danske-ansatte-er-bekymret",
-      "source": "tv2",
-      "title": "Fængsler hyrer udenlandske betjente – danske ansatte er bekymret",
-      "url": "https://nyheder.tv2.dk/2026-11-06-faengsler-hyrer-udenlandske-betjente-danske-ansatte-er-bekymret",
-      "date": "06/11/2026",
-      "type": "Nyheder",
-      "firstSeenAt": "2026-11-07T15:49:51.486Z",
-      "titleVi": "Nhà tù thuê cán bộ nước ngoài – nhân viên Đan Mạch lo ngại"
-    },
-    {
-      "id": "https://nyheder.tv2.dk/samfund/2026-11-05-foraeldrepar-raser-over-megainstitution-ekspert-faar-ondt-i-maven",
-      "source": "tv2",
-      "title": "Forældrepar raser over megainstitution – ekspert får ondt i maven",
-      "url": "https://nyheder.tv2.dk/samfund/2026-11-05-foraeldrepar-raser-over-megainstitution-ekspert-faar-ondt-i-maven",
-      "date": "05/11/2026",
-      "type": "Samfund",
-      "firstSeenAt": "2026-11-07T09:16:33.324Z",
-      "titleVi": "Cha mẹ tức giận về tổ chức lớn – chuyên gia bị đau dạ dày"
     },
     {
       "id": "https://www.kungahuset.se/arkiv/nyheter/2026-11-08-kungaparet-och-prinsessan-madeleine-uppmarksammade-200-ar-av-diplomatiska-relationer",
