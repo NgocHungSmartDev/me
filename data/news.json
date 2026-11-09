@@ -1,6 +1,6 @@
 {
   "monitoringStartedAt": "2026-09-28T00:17:35.319Z",
-  "updatedAt": "2026-11-09T00:03:26.937Z",
+  "updatedAt": "2026-11-09T06:29:25.569Z",
   "sources": {
     "kongehuset": {
       "name": "Kongehuset",
@@ -524,12 +524,102 @@
     {
       "id": "https://nyheder.tv2.dk/live/kort-nyt",
       "source": "tv2",
-      "title": "Politi efterlyser 77-årig mand med billede",
+      "title": "Elpriserne er på himmelflugt mandag",
       "url": "https://nyheder.tv2.dk/live/kort-nyt",
       "date": "—",
       "type": "Live",
       "firstSeenAt": "2026-09-28T00:30:42.330Z",
-      "titleVi": "Cảnh sát đang tìm kiếm một người đàn ông 77 tuổi có ảnh"
+      "titleVi": "Giá điện đang tăng vọt vào thứ Hai"
+    },
+    {
+      "id": "https://nyheder.tv2.dk/live/udland/2026-05-16-midtvejsvalg-i-usa",
+      "source": "tv2",
+      "title": "Trump forsvarer Hegseth inden afgørende uge",
+      "url": "https://nyheder.tv2.dk/live/udland/2026-05-16-midtvejsvalg-i-usa",
+      "date": "16/05/2026",
+      "type": "Live",
+      "firstSeenAt": "2026-10-30T09:40:39.026Z",
+      "titleVi": "Trump bảo vệ Hegseth trước tuần quan trọng"
+    },
+    {
+      "id": "https://nyheder.tv2.dk/live/udland/2026-11-07-terrorangreb-i-krakow",
+      "source": "tv2",
+      "title": "Gerningsmand er afgået ved døden",
+      "url": "https://nyheder.tv2.dk/live/udland/2026-11-07-terrorangreb-i-krakow",
+      "date": "07/11/2026",
+      "type": "Live",
+      "firstSeenAt": "2026-11-07T23:28:54.134Z",
+      "titleVi": "Thủ phạm đã qua đời"
+    },
+    {
+      "id": "https://nyheder.tv2.dk/live/klima/2026-11-09-cop31-er-i-gang",
+      "source": "tv2",
+      "title": "Nu skydes vigtigt klimatopmøde i gang",
+      "url": "https://nyheder.tv2.dk/live/klima/2026-11-09-cop31-er-i-gang",
+      "date": "09/11/2026",
+      "type": "Live",
+      "firstSeenAt": "2026-11-09T06:29:25.569Z",
+      "titleVi": "Hội nghị thượng đỉnh quan trọng về khí hậu bắt đầu"
+    },
+    {
+      "id": "https://nyheder.tv2.dk/2026-11-08-dansk-kvinde-saelger-dating-i-new-york-jeg-arbejder-kun-med-succesfulde-maend",
+      "source": "tv2",
+      "title": "Dansk kvinde sælger dating i New York: - Jeg arbejder kun med succesfulde mænd",
+      "url": "https://nyheder.tv2.dk/2026-11-08-dansk-kvinde-saelger-dating-i-new-york-jeg-arbejder-kun-med-succesfulde-maend",
+      "date": "08/11/2026",
+      "type": "Nyheder",
+      "firstSeenAt": "2026-11-09T06:29:25.569Z",
+      "titleVi": "Phụ nữ Đan Mạch bán dịch vụ hẹn hò ở New York: - Tôi chỉ làm việc với những người đàn ông thành đạt"
+    },
+    {
+      "id": "https://nyheder.tv2.dk/business/2026-10-05-direktoer-arbejder-fra-tog-cafeer-og-et-oede-hus-i-italien",
+      "source": "tv2",
+      "title": "Direktør arbejder fra tog, caféer og et øde hus i Italien",
+      "url": "https://nyheder.tv2.dk/business/2026-10-05-direktoer-arbejder-fra-tog-cafeer-og-et-oede-hus-i-italien",
+      "date": "05/10/2026",
+      "type": "Business",
+      "firstSeenAt": "2026-11-09T06:29:25.569Z",
+      "titleVi": "Giám đốc làm việc từ các chuyến tàu, quán cà phê và một ngôi nhà bỏ hoang ở Ý"
+    },
+    {
+      "id": "https://nyheder.tv2.dk/udland/2026-11-09-trump-varsler-rejse-til-kina-for-at-moedes-med-putin-og-xi",
+      "source": "tv2",
+      "title": "Trump varsler rejse til Kina for at mødes med Putin og Xi",
+      "url": "https://nyheder.tv2.dk/udland/2026-11-09-trump-varsler-rejse-til-kina-for-at-moedes-med-putin-og-xi",
+      "date": "09/11/2026",
+      "type": "Udland",
+      "firstSeenAt": "2026-11-09T06:29:25.569Z",
+      "titleVi": "Trump tuyên bố chuyến đi đến Trung Quốc để gặp Putin và Tập Cận Bình"
+    },
+    {
+      "id": "https://nyheder.tv2.dk/live/2024-09-08-seneste-nyt-om-krigen-i-ukraine-70b1d6cc-0720-404e-9878-45546e1999e7",
+      "source": "tv2",
+      "title": "\"Had\" mellem Putin og Zelenskyj står i vejen for fred, siger Trump",
+      "url": "https://nyheder.tv2.dk/live/2024-09-08-seneste-nyt-om-krigen-i-ukraine-70b1d6cc-0720-404e-9878-45546e1999e7",
+      "date": "08/09/2024",
+      "type": "Live",
+      "firstSeenAt": "2026-09-28T00:30:42.330Z",
+      "titleVi": "\"Sự thù ghét\" giữa Putin và Zelensky cản trở con đường hòa bình, Trump nói"
+    },
+    {
+      "id": "https://nyheder.tv2.dk/business/2026-11-05-nu-falder-dommen-over-nordea-i-historisk-sag",
+      "source": "tv2",
+      "title": "Nu falder dommen over Nordea i historisk sag",
+      "url": "https://nyheder.tv2.dk/business/2026-11-05-nu-falder-dommen-over-nordea-i-historisk-sag",
+      "date": "05/11/2026",
+      "type": "Business",
+      "firstSeenAt": "2026-11-09T06:29:25.569Z",
+      "titleVi": "Bây giờ là phán quyết về Nordea trong vụ án lịch sử"
+    },
+    {
+      "id": "https://nyheder.tv2.dk/live/udland/2026-01-08-krig-i-mellemoesten",
+      "source": "tv2",
+      "title": "Trump forventer at mødes med Putin og Xi i næste uge",
+      "url": "https://nyheder.tv2.dk/live/udland/2026-01-08-krig-i-mellemoesten",
+      "date": "08/01/2026",
+      "type": "Live",
+      "firstSeenAt": "2026-11-08T20:34:56.096Z",
+      "titleVi": "Trump dự kiến sẽ gặp Putin và Tập Cận Bình vào tuần tới"
     },
     {
       "id": "https://nyheder.tv2.dk/live/politik/2025-08-11-dansk-politik",
@@ -560,36 +650,6 @@
       "type": "Klima",
       "firstSeenAt": "2026-11-09T00:03:26.937Z",
       "titleVi": "Một giải pháp khả thi cho vấn đề rác thải nhựa đang ẩn náu trên đất Đan Mạch"
-    },
-    {
-      "id": "https://nyheder.tv2.dk/live/2024-09-08-seneste-nyt-om-krigen-i-ukraine-70b1d6cc-0720-404e-9878-45546e1999e7",
-      "source": "tv2",
-      "title": "Europa deltager i forhandlinger, siger fransk udenrigsminister",
-      "url": "https://nyheder.tv2.dk/live/2024-09-08-seneste-nyt-om-krigen-i-ukraine-70b1d6cc-0720-404e-9878-45546e1999e7",
-      "date": "08/09/2024",
-      "type": "Live",
-      "firstSeenAt": "2026-09-28T00:30:42.330Z",
-      "titleVi": "Bộ trưởng Ngoại giao Pháp cho biết Châu Âu tham gia vào các cuộc đàm phán"
-    },
-    {
-      "id": "https://nyheder.tv2.dk/live/udland/2026-01-08-krig-i-mellemoesten",
-      "source": "tv2",
-      "title": "USA er i dialog med repræsentanter fra Iran, siger Trump",
-      "url": "https://nyheder.tv2.dk/live/udland/2026-01-08-krig-i-mellemoesten",
-      "date": "08/01/2026",
-      "type": "Live",
-      "firstSeenAt": "2026-11-08T20:34:56.096Z",
-      "titleVi": "Trump nói rằng Hoa Kỳ đang đối thoại với các đại diện của Iran"
-    },
-    {
-      "id": "https://nyheder.tv2.dk/live/udland/2026-11-07-terrorangreb-i-krakow",
-      "source": "tv2",
-      "title": "Flere dræbte i terrorangreb i Krakow",
-      "url": "https://nyheder.tv2.dk/live/udland/2026-11-07-terrorangreb-i-krakow",
-      "date": "07/11/2026",
-      "type": "Live",
-      "firstSeenAt": "2026-11-07T23:28:54.134Z",
-      "titleVi": "Một số người thiệt mạng trong các cuộc tấn công khủng bố ở Krakow"
     },
     {
       "id": "https://nyheder.tv2.dk/live/tech/2026-09-09-seneste-nyt-om-ai",
@@ -630,16 +690,6 @@
       "type": "Udland",
       "firstSeenAt": "2026-11-08T16:14:52.405Z",
       "titleVi": "Một số người thiệt mạng sau vụ va chạm tàu hỏa ở Cairo"
-    },
-    {
-      "id": "https://nyheder.tv2.dk/live/udland/2026-05-16-midtvejsvalg-i-usa",
-      "source": "tv2",
-      "title": "Trump har forvekslet kandidater til job i Det Hvide Hus, vurderer flere",
-      "url": "https://nyheder.tv2.dk/live/udland/2026-05-16-midtvejsvalg-i-usa",
-      "date": "16/05/2026",
-      "type": "Live",
-      "firstSeenAt": "2026-10-30T09:40:39.026Z",
-      "titleVi": "Trump đã nhầm lẫn các ứng cử viên cho công việc trong Nhà Trắng, xem xét một số"
     },
     {
       "id": "https://nyheder.tv2.dk/samfund/2026-11-08-himlen-kan-blive-fyldt-med-stjerneskud-men-et-raad-er-vigtigere-end-alle-andre",
@@ -760,56 +810,6 @@
       "type": "Udland",
       "firstSeenAt": "2026-11-08T09:29:42.410Z",
       "titleVi": "'Vùng chiến sự': Có phải chiến tranh chỉ dành cho những người đàn ông nam tính?"
-    },
-    {
-      "id": "https://nyheder.tv2.dk/udland/2026-10-14-foelg-alle-resultaterne-fra-valget-i-usa",
-      "source": "tv2",
-      "title": "Følg alle resultaterne fra valget i USA",
-      "url": "https://nyheder.tv2.dk/udland/2026-10-14-foelg-alle-resultaterne-fra-valget-i-usa",
-      "date": "14/10/2026",
-      "type": "Udland",
-      "firstSeenAt": "2026-11-07T23:28:54.134Z",
-      "titleVi": "Theo dõi tất cả kết quả bầu cử ở Hoa Kỳ"
-    },
-    {
-      "id": "https://nyheder.tv2.dk/udland/2026-11-07-seks-draebt-i-terrorangreb-i-centrum-af-krakow",
-      "source": "tv2",
-      "title": "Seks dræbt i terrorangreb i centrum af Krakow",
-      "url": "https://nyheder.tv2.dk/udland/2026-11-07-seks-draebt-i-terrorangreb-i-centrum-af-krakow",
-      "date": "07/11/2026",
-      "type": "Udland",
-      "firstSeenAt": "2026-11-07T23:28:54.134Z",
-      "titleVi": "Sáu người thiệt mạng trong vụ tấn công khủng bố ở trung tâm Krakow"
-    },
-    {
-      "id": "https://livsstil.tv2.dk/live/2025-12-01-danskernes-sundhed",
-      "source": "tv2",
-      "title": "For første gang i 30 år er barn død af mæslinger i New York",
-      "url": "https://livsstil.tv2.dk/live/2025-12-01-danskernes-sundhed",
-      "date": "01/12/2025",
-      "type": "Live",
-      "firstSeenAt": "2026-11-07T23:28:54.134Z",
-      "titleVi": "Lần đầu tiên trong 30 năm, một đứa trẻ đã chết vì bệnh sởi ở New York"
-    },
-    {
-      "id": "https://nyheder.tv2.dk/live/udland/2026-10-26-valg-i-israel",
-      "source": "tv2",
-      "title": "Israels præsident opfordrer til at undgå nyvalg",
-      "url": "https://nyheder.tv2.dk/live/udland/2026-10-26-valg-i-israel",
-      "date": "26/10/2026",
-      "type": "Live",
-      "firstSeenAt": "2026-11-07T19:55:38.713Z",
-      "titleVi": "Tổng thống Israel kêu gọi tránh các cuộc bầu cử mới"
-    },
-    {
-      "id": "https://nyheder.tv2.dk/krimi/2026-11-07-borgere-blev-advaret-om-udslip-i-nyborg-situation-under-kontrol",
-      "source": "tv2",
-      "title": "Borgere blev advaret om udslip i Nyborg – situation under kontrol",
-      "url": "https://nyheder.tv2.dk/krimi/2026-11-07-borgere-blev-advaret-om-udslip-i-nyborg-situation-under-kontrol",
-      "date": "07/11/2026",
-      "type": "Krimi",
-      "firstSeenAt": "2026-11-07T19:55:38.713Z",
-      "titleVi": "Người dân đã được cảnh báo về sự cố tràn dầu ở Nyborg – tình hình được kiểm soát"
     },
     {
       "id": "https://www.kungahuset.se/arkiv/nyheter/2026-11-08-kungaparet-och-prinsessan-madeleine-uppmarksammade-200-ar-av-diplomatiska-relationer",
