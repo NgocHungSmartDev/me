@@ -1,6 +1,6 @@
 {
   "monitoringStartedAt": "2026-09-28T00:17:35.319Z",
-  "updatedAt": "2026-11-08T20:34:56.096Z",
+  "updatedAt": "2026-11-09T00:03:26.937Z",
   "sources": {
     "kongehuset": {
       "name": "Kongehuset",
@@ -57,9 +57,9 @@
       "language": "no",
       "monitoringStartedAt": "2026-10-01T16:30:06.936Z",
       "status": {
-        "state": "error",
-        "message": "The Norwegian Royal House Atom feed returned no entries",
-        "changedAt": "2026-11-08T20:34:56.096Z"
+        "state": "ok",
+        "message": "",
+        "changedAt": "2026-11-09T00:03:26.937Z"
       }
     }
   },
@@ -522,14 +522,24 @@
       "titleVi": "Giải thưởng nghiên cứu của Nữ hoàng Ingrid 2026"
     },
     {
-      "id": "https://nyheder.tv2.dk/samfund/2026-11-08-temu-mad-risikerer-at-goere-dig-syg-lyder-varsel",
+      "id": "https://nyheder.tv2.dk/live/kort-nyt",
       "source": "tv2",
-      "title": "Temu-mad risikerer at gøre dig syg, lyder varsel",
-      "url": "https://nyheder.tv2.dk/samfund/2026-11-08-temu-mad-risikerer-at-goere-dig-syg-lyder-varsel",
-      "date": "08/11/2026",
-      "type": "Samfund",
-      "firstSeenAt": "2026-11-08T20:34:56.096Z",
-      "titleVi": "Thực phẩm Temu có nguy cơ khiến bạn bị bệnh, âm thanh cảnh báo"
+      "title": "Politi efterlyser 77-årig mand med billede",
+      "url": "https://nyheder.tv2.dk/live/kort-nyt",
+      "date": "—",
+      "type": "Live",
+      "firstSeenAt": "2026-09-28T00:30:42.330Z",
+      "titleVi": "Cảnh sát đang tìm kiếm một người đàn ông 77 tuổi có ảnh"
+    },
+    {
+      "id": "https://nyheder.tv2.dk/live/politik/2025-08-11-dansk-politik",
+      "source": "tv2",
+      "title": "Ny fejl opdaget i Kriminalregisteret – sager om \"særlig grov\" kriminalitet slettet",
+      "url": "https://nyheder.tv2.dk/live/politik/2025-08-11-dansk-politik",
+      "date": "11/08/2025",
+      "type": "Live",
+      "firstSeenAt": "2026-11-07T15:49:51.486Z",
+      "titleVi": "Lỗi mới được phát hiện trong Sổ Đăng ký Hình sự – các trường hợp tội phạm \"đặc biệt nghiêm trọng\" đã bị xóa"
     },
     {
       "id": "https://nyheder.tv2.dk/samfund/2026-11-08-musiker-klaus-kjellerup-er-doed",
@@ -542,6 +552,26 @@
       "titleVi": "Nhạc sĩ Klaus Kjellerup đã qua đời"
     },
     {
+      "id": "https://nyheder.tv2.dk/klima/2026-11-05-en-mulig-loesning-paa-plastikproblemet-gemmer-sig-paa-dansk-grund",
+      "source": "tv2",
+      "title": "En mulig løsning på plastikproblemet gemmer sig på dansk grund",
+      "url": "https://nyheder.tv2.dk/klima/2026-11-05-en-mulig-loesning-paa-plastikproblemet-gemmer-sig-paa-dansk-grund",
+      "date": "05/11/2026",
+      "type": "Klima",
+      "firstSeenAt": "2026-11-09T00:03:26.937Z",
+      "titleVi": "Một giải pháp khả thi cho vấn đề rác thải nhựa đang ẩn náu trên đất Đan Mạch"
+    },
+    {
+      "id": "https://nyheder.tv2.dk/live/2024-09-08-seneste-nyt-om-krigen-i-ukraine-70b1d6cc-0720-404e-9878-45546e1999e7",
+      "source": "tv2",
+      "title": "Europa deltager i forhandlinger, siger fransk udenrigsminister",
+      "url": "https://nyheder.tv2.dk/live/2024-09-08-seneste-nyt-om-krigen-i-ukraine-70b1d6cc-0720-404e-9878-45546e1999e7",
+      "date": "08/09/2024",
+      "type": "Live",
+      "firstSeenAt": "2026-09-28T00:30:42.330Z",
+      "titleVi": "Bộ trưởng Ngoại giao Pháp cho biết Châu Âu tham gia vào các cuộc đàm phán"
+    },
+    {
       "id": "https://nyheder.tv2.dk/live/udland/2026-01-08-krig-i-mellemoesten",
       "source": "tv2",
       "title": "USA er i dialog med repræsentanter fra Iran, siger Trump",
@@ -552,14 +582,34 @@
       "titleVi": "Trump nói rằng Hoa Kỳ đang đối thoại với các đại diện của Iran"
     },
     {
-      "id": "https://nyheder.tv2.dk/live/kort-nyt",
+      "id": "https://nyheder.tv2.dk/live/udland/2026-11-07-terrorangreb-i-krakow",
       "source": "tv2",
-      "title": "Elprisen bliver rekorddyr mandag",
-      "url": "https://nyheder.tv2.dk/live/kort-nyt",
-      "date": "—",
+      "title": "Flere dræbte i terrorangreb i Krakow",
+      "url": "https://nyheder.tv2.dk/live/udland/2026-11-07-terrorangreb-i-krakow",
+      "date": "07/11/2026",
       "type": "Live",
-      "firstSeenAt": "2026-09-28T00:30:42.330Z",
-      "titleVi": "Giá điện sẽ cao kỷ lục vào thứ Hai"
+      "firstSeenAt": "2026-11-07T23:28:54.134Z",
+      "titleVi": "Một số người thiệt mạng trong các cuộc tấn công khủng bố ở Krakow"
+    },
+    {
+      "id": "https://nyheder.tv2.dk/live/tech/2026-09-09-seneste-nyt-om-ai",
+      "source": "tv2",
+      "title": "Nvidia undersøger topchef – erkender affære med mistænkt spion, skriver medier",
+      "url": "https://nyheder.tv2.dk/live/tech/2026-09-09-seneste-nyt-om-ai",
+      "date": "09/09/2026",
+      "type": "Live",
+      "firstSeenAt": "2026-11-04T21:30:29.202Z",
+      "titleVi": "Nvidia điều tra giám đốc điều hành – thừa nhận mối quan hệ với gián điệp bị nghi ngờ, phương tiện truyền thông viết"
+    },
+    {
+      "id": "https://nyheder.tv2.dk/samfund/2026-11-08-temu-mad-risikerer-at-goere-dig-syg-lyder-varsel",
+      "source": "tv2",
+      "title": "Temu-mad risikerer at gøre dig syg, lyder varsel",
+      "url": "https://nyheder.tv2.dk/samfund/2026-11-08-temu-mad-risikerer-at-goere-dig-syg-lyder-varsel",
+      "date": "08/11/2026",
+      "type": "Samfund",
+      "firstSeenAt": "2026-11-08T20:34:56.096Z",
+      "titleVi": "Thực phẩm Temu có nguy cơ khiến bạn bị bệnh, âm thanh cảnh báo"
     },
     {
       "id": "https://nyheder.tv2.dk/samfund/2026-11-08-simba-prisen-moeder-kritik-efter-prisuddeling-uden-kvindelige-vindere",
@@ -582,16 +632,6 @@
       "titleVi": "Một số người thiệt mạng sau vụ va chạm tàu hỏa ở Cairo"
     },
     {
-      "id": "https://nyheder.tv2.dk/live/politik/2025-08-11-dansk-politik",
-      "source": "tv2",
-      "title": "Ny fejl opdaget i Kriminalregisteret – sager om \"særlig grov\" kriminalitet slettet",
-      "url": "https://nyheder.tv2.dk/live/politik/2025-08-11-dansk-politik",
-      "date": "11/08/2025",
-      "type": "Live",
-      "firstSeenAt": "2026-11-07T15:49:51.486Z",
-      "titleVi": "Lỗi mới được phát hiện trong Sổ Đăng ký Hình sự – các trường hợp tội phạm \"đặc biệt nghiêm trọng\" đã bị xóa"
-    },
-    {
       "id": "https://nyheder.tv2.dk/live/udland/2026-05-16-midtvejsvalg-i-usa",
       "source": "tv2",
       "title": "Trump har forvekslet kandidater til job i Det Hvide Hus, vurderer flere",
@@ -612,16 +652,6 @@
       "titleVi": "Bầu trời có thể đầy sao băng – nhưng một lời khuyên quan trọng hơn bất kỳ lời khuyên nào khác"
     },
     {
-      "id": "https://nyheder.tv2.dk/live/udland/2026-11-07-terrorangreb-i-krakow",
-      "source": "tv2",
-      "title": "Flere dræbte i terrorangreb i Krakow",
-      "url": "https://nyheder.tv2.dk/live/udland/2026-11-07-terrorangreb-i-krakow",
-      "date": "07/11/2026",
-      "type": "Live",
-      "firstSeenAt": "2026-11-07T23:28:54.134Z",
-      "titleVi": "Một số người thiệt mạng trong các cuộc tấn công khủng bố ở Krakow"
-    },
-    {
       "id": "https://nyheder.tv2.dk/live/2025-01-06-kampen-om-groenlands-fremtid",
       "source": "tv2",
       "title": "USA vil udvide konsulat i Grønland, viser dokument",
@@ -640,16 +670,6 @@
       "type": "Live",
       "firstSeenAt": "2026-11-07T15:49:51.486Z",
       "titleVi": "Cảnh sát bắt đầu tố tụng hình sự đối với kẻ tấn công Marius Borg Høiby"
-    },
-    {
-      "id": "https://nyheder.tv2.dk/live/2024-09-08-seneste-nyt-om-krigen-i-ukraine-70b1d6cc-0720-404e-9878-45546e1999e7",
-      "source": "tv2",
-      "title": "Europa deltager i forhandlinger, siger fransk udenrigsminister",
-      "url": "https://nyheder.tv2.dk/live/2024-09-08-seneste-nyt-om-krigen-i-ukraine-70b1d6cc-0720-404e-9878-45546e1999e7",
-      "date": "08/09/2024",
-      "type": "Live",
-      "firstSeenAt": "2026-09-28T00:30:42.330Z",
-      "titleVi": "Bộ trưởng Ngoại giao Pháp cho biết Châu Âu tham gia vào các cuộc đàm phán"
     },
     {
       "id": "https://nyheder.tv2.dk/samfund/2026-11-08-hoteller-og-turistattraktion-ramt-af-datalaek-tager-haendelse-meget-alvorligt",
@@ -790,26 +810,6 @@
       "type": "Krimi",
       "firstSeenAt": "2026-11-07T19:55:38.713Z",
       "titleVi": "Người dân đã được cảnh báo về sự cố tràn dầu ở Nyborg – tình hình được kiểm soát"
-    },
-    {
-      "id": "https://nyheder.tv2.dk/udland/2026-11-07-trump-aftale-vaekker-opsigt-i-europa-men-svigersoen-bruger-putins-ord-siger-analytiker",
-      "source": "tv2",
-      "title": "Trump-aftale vækker opsigt i Europa – men svigersøn bruger \"Putins ord\", siger analytiker",
-      "url": "https://nyheder.tv2.dk/udland/2026-11-07-trump-aftale-vaekker-opsigt-i-europa-men-svigersoen-bruger-putins-ord-siger-analytiker",
-      "date": "07/11/2026",
-      "type": "Udland",
-      "firstSeenAt": "2026-11-07T19:55:38.713Z",
-      "titleVi": "Nhà phân tích nói rằng thỏa thuận của Trump thu hút sự chú ý ở châu Âu – nhưng con rể sử dụng 'lời nói của Putin',"
-    },
-    {
-      "id": "https://nyheder.tv2.dk/live/tech/2026-09-09-seneste-nyt-om-ai",
-      "source": "tv2",
-      "title": "Demonstranter samlet ved Microsoft Datacenter ved Køge",
-      "url": "https://nyheder.tv2.dk/live/tech/2026-09-09-seneste-nyt-om-ai",
-      "date": "09/09/2026",
-      "type": "Live",
-      "firstSeenAt": "2026-11-04T21:30:29.202Z",
-      "titleVi": "Người biểu tình tập trung tại Trung tâm dữ liệu Microsoft tại Køge"
     },
     {
       "id": "https://www.kungahuset.se/arkiv/nyheter/2026-11-08-kungaparet-och-prinsessan-madeleine-uppmarksammade-200-ar-av-diplomatiska-relationer",
