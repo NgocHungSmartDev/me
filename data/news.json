@@ -1,6 +1,6 @@
 {
   "monitoringStartedAt": "2026-09-28T00:17:35.319Z",
-  "updatedAt": "2026-11-11T01:43:40.702Z",
+  "updatedAt": "2026-11-11T08:26:20.549Z",
   "sources": {
     "kongehuset": {
       "name": "Kongehuset",
@@ -33,9 +33,9 @@
       "language": "sv",
       "monitoringStartedAt": "2026-10-01T16:20:13.213Z",
       "status": {
-        "state": "ok",
-        "message": "",
-        "changedAt": "2026-11-08T20:34:56.096Z"
+        "state": "error",
+        "message": "fetch failed",
+        "changedAt": "2026-11-11T08:26:20.549Z"
       }
     },
     "svenskdam": {
@@ -522,14 +522,154 @@
       "titleVi": "HRH Sinh nhật lần thứ 21 của Thái tử"
     },
     {
+      "id": "https://nyheder.tv2.dk/samfund/2026-11-10-saadan-undgaar-du-at-din-elregning-stikker-af",
+      "source": "tv2",
+      "title": "Sådan undgår du, at din elregning stikker af",
+      "url": "https://nyheder.tv2.dk/samfund/2026-11-10-saadan-undgaar-du-at-din-elregning-stikker-af",
+      "date": "10/11/2026",
+      "type": "Samfund",
+      "firstSeenAt": "2026-11-11T08:26:20.549Z",
+      "titleVi": "Làm thế nào để ngăn chặn hóa đơn tiền điện của bạn chạy trốn"
+    },
+    {
+      "id": "https://nyheder.tv2.dk/live/samfund/2026-11-09-zelenskyj-i-danmark",
+      "source": "tv2",
+      "title": "Zelenskyj fortsætter sit besøg i Danmark i dag",
+      "url": "https://nyheder.tv2.dk/live/samfund/2026-11-09-zelenskyj-i-danmark",
+      "date": "09/11/2026",
+      "type": "Live",
+      "firstSeenAt": "2026-11-10T16:09:29.171Z",
+      "titleVi": "Zelensky tiếp tục chuyến thăm Đan Mạch hôm nay"
+    },
+    {
+      "id": "https://nyheder.tv2.dk/live/business/2025-11-05-store-danske-virksomheder-kommer-med-regnskaber",
+      "source": "tv2",
+      "title": "Dansk regnskabsaktie er Europas bedste",
+      "url": "https://nyheder.tv2.dk/live/business/2025-11-05-store-danske-virksomheder-kommer-med-regnskaber",
+      "date": "05/11/2025",
+      "type": "Live",
+      "firstSeenAt": "2026-11-11T08:26:20.549Z",
+      "titleVi": "Cổ phiếu kế toán Đan Mạch là cổ phiếu tốt nhất châu Âu"
+    },
+    {
+      "id": "https://nyheder.tv2.dk/live/2024-09-08-seneste-nyt-om-krigen-i-ukraine-70b1d6cc-0720-404e-9878-45546e1999e7",
+      "source": "tv2",
+      "title": "Fredsforhandlinger fortsætter i Abu Dhabi",
+      "url": "https://nyheder.tv2.dk/live/2024-09-08-seneste-nyt-om-krigen-i-ukraine-70b1d6cc-0720-404e-9878-45546e1999e7",
+      "date": "08/09/2024",
+      "type": "Live",
+      "firstSeenAt": "2026-09-28T00:30:42.330Z",
+      "titleVi": "Các cuộc đàm phán hòa bình tiếp tục ở Abu Dhabi"
+    },
+    {
+      "id": "https://nyheder.tv2.dk/live/kort-nyt",
+      "source": "tv2",
+      "title": "Dropper at anke frifindelse af udskældt muslimsk debattør",
+      "url": "https://nyheder.tv2.dk/live/kort-nyt",
+      "date": "—",
+      "type": "Live",
+      "firstSeenAt": "2026-09-28T00:30:42.330Z",
+      "titleVi": "Bỏ qua để kháng cáo sự tha bổng của nhà tranh luận Hồi giáo bị chửi rủa"
+    },
+    {
+      "id": "https://livsstil.tv2.dk/live/2025-12-01-danskernes-sundhed",
+      "source": "tv2",
+      "title": "Flere danskere end tidligere har mindst 20 tænder tilbage",
+      "url": "https://livsstil.tv2.dk/live/2025-12-01-danskernes-sundhed",
+      "date": "01/12/2025",
+      "type": "Live",
+      "firstSeenAt": "2026-11-11T08:26:20.549Z",
+      "titleVi": "Nhiều người Đan Mạch hơn trước còn ít nhất 20 răng"
+    },
+    {
+      "id": "https://nyheder.tv2.dk/politik/2026-11-10-wenneberg-likede-opfordring-til-chikane-nu-har-endnu-en-boligejer-politianmeldt",
+      "source": "tv2",
+      "title": "Wenneberg likede opfordring til chikane – nu har endnu en boligejer politianmeldt",
+      "url": "https://nyheder.tv2.dk/politik/2026-11-10-wenneberg-likede-opfordring-til-chikane-nu-har-endnu-en-boligejer-politianmeldt",
+      "date": "10/11/2026",
+      "type": "Politik",
+      "firstSeenAt": "2026-11-11T08:26:20.549Z",
+      "titleVi": "Wenneberg thích kích động quấy rối – bây giờ một chủ nhà khác đã nộp báo cáo cho cảnh sát"
+    },
+    {
+      "id": "https://nyheder.tv2.dk/live/klima/2026-11-09-cop31-er-i-gang",
+      "source": "tv2",
+      "title": "Vigtigt klimatopmøde er i gang",
+      "url": "https://nyheder.tv2.dk/live/klima/2026-11-09-cop31-er-i-gang",
+      "date": "09/11/2026",
+      "type": "Live",
+      "firstSeenAt": "2026-11-09T06:29:25.569Z",
+      "titleVi": "Hội nghị thượng đỉnh quan trọng về khí hậu đang"
+    },
+    {
       "id": "https://nyheder.tv2.dk/live/udland/2026-05-16-midtvejsvalg-i-usa",
       "source": "tv2",
-      "title": "J.D. Vance kalder rigsretssager \"et latterligt show\"",
+      "title": "Hegseth undgår rigsretssag – udeblevne demokrater blev afgørende",
       "url": "https://nyheder.tv2.dk/live/udland/2026-05-16-midtvejsvalg-i-usa",
       "date": "16/05/2026",
       "type": "Live",
       "firstSeenAt": "2026-10-30T09:40:39.026Z",
-      "titleVi": "J.D. Vance gọi luận tội là \"một chương trình lố bịch\""
+      "titleVi": "Hegseth tránh bị luận tội – những đảng viên Dân chủ mất tích trở nên quan trọng"
+    },
+    {
+      "id": "https://nyheder.tv2.dk/udland/2026-11-11-demokrater-raser-over-partifaeller-efter-mislykket-rigsretssag",
+      "source": "tv2",
+      "title": "Demokrater raser over partifæller efter mislykket rigsretssag",
+      "url": "https://nyheder.tv2.dk/udland/2026-11-11-demokrater-raser-over-partifaeller-efter-mislykket-rigsretssag",
+      "date": "11/11/2026",
+      "type": "Udland",
+      "firstSeenAt": "2026-11-11T08:26:20.549Z",
+      "titleVi": "Đảng Dân chủ nổi giận với các thành viên trong đảng sau khi luận tội không thành công"
+    },
+    {
+      "id": "https://nyheder.tv2.dk/udland/2026-11-10-hun-er-i-hele-verdens-soegelys-men-hvem-er-alice-huang",
+      "source": "tv2",
+      "title": "Hun er i hele verdens søgelys, men hvem er Alice Huang?",
+      "url": "https://nyheder.tv2.dk/udland/2026-11-10-hun-er-i-hele-verdens-soegelys-men-hvem-er-alice-huang",
+      "date": "10/11/2026",
+      "type": "Udland",
+      "firstSeenAt": "2026-11-11T08:26:20.549Z",
+      "titleVi": "Cô ấy đang được chú ý trên toàn thế giới, nhưng Alice Huang là ai?"
+    },
+    {
+      "id": "https://nyheder.tv2.dk/samfund/2026-11-06-naesten-to-ud-af-tre-har-soevnbesvaer-her-er-de-vaerste-syndere",
+      "source": "tv2",
+      "title": "Næsten to ud af tre har søvnbesvær – her er de værste syndere",
+      "url": "https://nyheder.tv2.dk/samfund/2026-11-06-naesten-to-ud-af-tre-har-soevnbesvaer-her-er-de-vaerste-syndere",
+      "date": "06/11/2026",
+      "type": "Samfund",
+      "firstSeenAt": "2026-11-11T08:26:20.549Z",
+      "titleVi": "Gần hai trong số ba người gặp khó khăn khi ngủ – đây là những thủ phạm tồi tệ nhất"
+    },
+    {
+      "id": "https://nyheder.tv2.dk/2026-11-02-her-er-syv-dilemmaer-de-fleste-foraeldre-kender-hvad-ville-du-goere",
+      "source": "tv2",
+      "title": "Her er syv dilemmaer, de fleste forældre kender – hvad ville du gøre?",
+      "url": "https://nyheder.tv2.dk/2026-11-02-her-er-syv-dilemmaer-de-fleste-foraeldre-kender-hvad-ville-du-goere",
+      "date": "02/11/2026",
+      "type": "Nyheder",
+      "firstSeenAt": "2026-11-11T08:26:20.549Z",
+      "titleVi": "Dưới đây là bảy tình huống khó xử mà hầu hết các bậc cha mẹ đều biết – bạn sẽ làm gì?"
+    },
+    {
+      "id": "https://nyheder.tv2.dk/samfund/2026-11-07-nissehue-fra-tv-2-julekalender-forarger-folketingspolitiker",
+      "source": "tv2",
+      "title": "Nissehue fra TV 2-julekalender forarger folketingspolitiker",
+      "url": "https://nyheder.tv2.dk/samfund/2026-11-07-nissehue-fra-tv-2-julekalender-forarger-folketingspolitiker",
+      "date": "07/11/2026",
+      "type": "Samfund",
+      "firstSeenAt": "2026-11-11T08:26:20.549Z",
+      "titleVi": "Ông già Noel từ TV 2 lịch Giáng sinh xúc phạm chính trị gia quốc hội"
+    },
+    {
+      "id": "https://nyheder.tv2.dk/udland/2026-11-11-bjoerne-er-aflivet-efter-doedeligt-angreb-paa-mor-og-datter",
+      "source": "tv2",
+      "title": "Bjørne er aflivet efter dødeligt angreb på mor og datter",
+      "url": "https://nyheder.tv2.dk/udland/2026-11-11-bjoerne-er-aflivet-efter-doedeligt-angreb-paa-mor-og-datter",
+      "date": "11/11/2026",
+      "type": "Udland",
+      "firstSeenAt": "2026-11-11T08:26:20.549Z",
+      "titleVi": "Gấu bị giết sau vụ tấn công chết người vào mẹ và con gái"
     },
     {
       "id": "https://nyheder.tv2.dk/live/udland/2025-03-17-verden-i-forandring",
@@ -540,26 +680,6 @@
       "type": "Live",
       "firstSeenAt": "2026-11-11T01:43:40.702Z",
       "titleVi": "Mối đe dọa trong không phận Latvia – người dân địa phương phải vào trong nhà"
-    },
-    {
-      "id": "https://nyheder.tv2.dk/live/kort-nyt",
-      "source": "tv2",
-      "title": "Fransk højrefløjspolitiker stiller op til præsidentvalg igen",
-      "url": "https://nyheder.tv2.dk/live/kort-nyt",
-      "date": "—",
-      "type": "Live",
-      "firstSeenAt": "2026-09-28T00:30:42.330Z",
-      "titleVi": "Chính trị gia cánh hữu người Pháp sẽ tranh cử tổng thống một lần nữa"
-    },
-    {
-      "id": "https://nyheder.tv2.dk/live/2024-09-08-seneste-nyt-om-krigen-i-ukraine-70b1d6cc-0720-404e-9878-45546e1999e7",
-      "source": "tv2",
-      "title": "Zelenskyj kommer med opråb før forhandlinger",
-      "url": "https://nyheder.tv2.dk/live/2024-09-08-seneste-nyt-om-krigen-i-ukraine-70b1d6cc-0720-404e-9878-45546e1999e7",
-      "date": "08/09/2024",
-      "type": "Live",
-      "firstSeenAt": "2026-09-28T00:30:42.330Z",
-      "titleVi": "Zelenskyi gọi điện trước khi đàm phán"
     },
     {
       "id": "https://nyheder.tv2.dk/samfund/2026-11-10-han-er-professionel-smoersmager-paa-syvogtyvende-aar",
@@ -600,16 +720,6 @@
       "type": "Udland",
       "firstSeenAt": "2026-11-10T21:48:14.788Z",
       "titleVi": "- Zelensky nói với Tantholdt: - Tôi không được đặt vào thế giới để làm cho Trump hạnh phúc"
-    },
-    {
-      "id": "https://nyheder.tv2.dk/live/samfund/2026-11-09-zelenskyj-i-danmark",
-      "source": "tv2",
-      "title": "Zelenskyj afviser at opgive land for at slutte krigen",
-      "url": "https://nyheder.tv2.dk/live/samfund/2026-11-09-zelenskyj-i-danmark",
-      "date": "09/11/2026",
-      "type": "Live",
-      "firstSeenAt": "2026-11-10T16:09:29.171Z",
-      "titleVi": "Zelensky từ chối từ bỏ đất đai để chấm dứt chiến tranh"
     },
     {
       "id": "https://nyheder.tv2.dk/live/trafik/2026-10-13-togkaos-i-danmark",
@@ -700,116 +810,6 @@
       "type": "Penge",
       "firstSeenAt": "2026-11-10T16:09:29.171Z",
       "titleVi": "Sạc xe điện của bạn tốn kém như thế nào nếu bạn sạc không đúng lúc"
-    },
-    {
-      "id": "https://nyheder.tv2.dk/live/udland/2025-01-13-konflikten-i-israel-gaza-og-vestbredden",
-      "source": "tv2",
-      "title": "Ødelagt regnvandsbassin i risiko for at oversvømme og sprede sygdom",
-      "url": "https://nyheder.tv2.dk/live/udland/2025-01-13-konflikten-i-israel-gaza-og-vestbredden",
-      "date": "13/01/2025",
-      "type": "Live",
-      "firstSeenAt": "2026-11-10T16:09:29.171Z",
-      "titleVi": "Lưu vực nước mưa bị hư hại có nguy cơ ngập lụt và lây lan dịch bệnh"
-    },
-    {
-      "id": "https://nyheder.tv2.dk/politik/2026-11-10-nedrivningsfirma-gaar-i-rette-med-signe-wenneberg-det-stod-paa-soejler-der-var-pilraadne",
-      "source": "tv2",
-      "title": "Nedrivningsfirma går i rette med Signe Wenneberg: - Det stod på søjler, der var pilrådne",
-      "url": "https://nyheder.tv2.dk/politik/2026-11-10-nedrivningsfirma-gaar-i-rette-med-signe-wenneberg-det-stod-paa-soejler-der-var-pilraadne",
-      "date": "10/11/2026",
-      "type": "Politik",
-      "firstSeenAt": "2026-11-10T16:09:29.171Z",
-      "titleVi": "Công ty phá dỡ có vấn đề với Signe Wenneberg: - Đó là trên các cột trụ là mũi tên thối"
-    },
-    {
-      "id": "https://nyheder.tv2.dk/live/samfund/2026-11-02-frysere-og-koeleskabe-hacket-i-flere-europaeiske-supermarkeder",
-      "source": "tv2",
-      "title": "Frankrig anklager Iran for at stå bag store cyberangreb",
-      "url": "https://nyheder.tv2.dk/live/samfund/2026-11-02-frysere-og-koeleskabe-hacket-i-flere-europaeiske-supermarkeder",
-      "date": "02/11/2026",
-      "type": "Live",
-      "firstSeenAt": "2026-11-09T16:47:08.669Z",
-      "titleVi": "Pháp cáo buộc Iran đứng sau các cuộc tấn công mạng lớn"
-    },
-    {
-      "id": "https://nyheder.tv2.dk/live/klima/2026-11-09-cop31-er-i-gang",
-      "source": "tv2",
-      "title": "Vigtigt klimatopmøde er i gang",
-      "url": "https://nyheder.tv2.dk/live/klima/2026-11-09-cop31-er-i-gang",
-      "date": "09/11/2026",
-      "type": "Live",
-      "firstSeenAt": "2026-11-09T06:29:25.569Z",
-      "titleVi": "Hội nghị thượng đỉnh quan trọng về khí hậu đang"
-    },
-    {
-      "id": "https://nyheder.tv2.dk/2026-09-30-for-begyndere-soevn-handlingsplan",
-      "source": "tv2",
-      "title": "Handlingsplan til søvn for begyndere",
-      "url": "https://nyheder.tv2.dk/2026-09-30-for-begyndere-soevn-handlingsplan",
-      "date": "30/09/2026",
-      "type": "Nyheder",
-      "firstSeenAt": "2026-11-10T21:48:14.788Z",
-      "titleVi": "Kế hoạch hành động về giấc ngủ cho người mới bắt đầu"
-    },
-    {
-      "id": "https://nyheder.tv2.dk/udland/2026-11-10-voldsom-ulykke-paa-motorvej-i-bulgarien-mange-draebte-og-kvaestede",
-      "source": "tv2",
-      "title": "Voldsom ulykke på motorvej i Bulgarien – mange dræbte og kvæstede",
-      "url": "https://nyheder.tv2.dk/udland/2026-11-10-voldsom-ulykke-paa-motorvej-i-bulgarien-mange-draebte-og-kvaestede",
-      "date": "10/11/2026",
-      "type": "Udland",
-      "firstSeenAt": "2026-11-10T16:09:29.171Z",
-      "titleVi": "Tai nạn nghiêm trọng trên đường cao tốc ở Bulgaria – nhiều người chết và bị thương"
-    },
-    {
-      "id": "https://nyheder.tv2.dk/live/2025-01-06-kampen-om-groenlands-fremtid",
-      "source": "tv2",
-      "title": "USA vil udvide konsulat i Grønland, viser dokument",
-      "url": "https://nyheder.tv2.dk/live/2025-01-06-kampen-om-groenlands-fremtid",
-      "date": "06/01/2025",
-      "type": "Live",
-      "firstSeenAt": "2026-11-10T16:09:29.171Z",
-      "titleVi": "Tài liệu cho thấy Hoa Kỳ sẽ mở rộng lãnh sự quán ở Greenland"
-    },
-    {
-      "id": "https://nyheder.tv2.dk/samfund/2026-11-10-her-er-det-nye-fadervor",
-      "source": "tv2",
-      "title": "Her er det nye Fadervor",
-      "url": "https://nyheder.tv2.dk/samfund/2026-11-10-her-er-det-nye-fadervor",
-      "date": "10/11/2026",
-      "type": "Samfund",
-      "firstSeenAt": "2026-11-10T16:09:29.171Z",
-      "titleVi": "Đây là Kinh Lạy Cha mới"
-    },
-    {
-      "id": "https://nyheder.tv2.dk/samfund/2026-11-10-31-aarig-mor-fik-at-vide-at-hendes-modermaelk-kunne-lukke-svoemmehal",
-      "source": "tv2",
-      "title": "31-årig mor fik at vide, at hendes modermælk kunne lukke svømmehal",
-      "url": "https://nyheder.tv2.dk/samfund/2026-11-10-31-aarig-mor-fik-at-vide-at-hendes-modermaelk-kunne-lukke-svoemmehal",
-      "date": "10/11/2026",
-      "type": "Samfund",
-      "firstSeenAt": "2026-11-10T16:09:29.171Z",
-      "titleVi": "Người mẹ 31 tuổi được thông báo rằng sữa mẹ của cô có thể đóng cửa bể bơi"
-    },
-    {
-      "id": "https://nyheder.tv2.dk/samfund/2026-11-10-signe-wenneberg-gendeler-slettet-opslag-har-jeg-gjort-noget-strafbart-nej",
-      "source": "tv2",
-      "title": "Signe Wenneberg gendeler slettet opslag: - Har jeg gjort noget strafbart? Nej",
-      "url": "https://nyheder.tv2.dk/samfund/2026-11-10-signe-wenneberg-gendeler-slettet-opslag-har-jeg-gjort-noget-strafbart-nej",
-      "date": "10/11/2026",
-      "type": "Samfund",
-      "firstSeenAt": "2026-11-10T16:09:29.171Z",
-      "titleVi": "Signe Wenneberg tiếp tục xóa nhà/phòng cho thuê: - Tôi có làm điều gì phạm tội không? Không"
-    },
-    {
-      "id": "https://nyheder.tv2.dk/udland/2026-11-09-sag-om-pornoinstruktoers-raedselshus-tager-ny-drejning",
-      "source": "tv2",
-      "title": "Sag om pornoinstruktørs \"rædselshus\" tager ny drejning",
-      "url": "https://nyheder.tv2.dk/udland/2026-11-09-sag-om-pornoinstruktoers-raedselshus-tager-ny-drejning",
-      "date": "09/11/2026",
-      "type": "Udland",
-      "firstSeenAt": "2026-11-10T07:45:36.151Z",
-      "titleVi": "Trường hợp \"ngôi nhà kinh dị\" của người hướng dẫn khiêu dâm có một bước ngoặt mới"
     },
     {
       "id": "https://www.kungahuset.se/arkiv/nyheter/2026-11-10-mote-i-utrikesnamnden",
