@@ -1,6 +1,6 @@
 {
   "monitoringStartedAt": "2026-09-28T00:17:35.319Z",
-  "updatedAt": "2026-11-11T22:57:42.885Z",
+  "updatedAt": "2026-11-12T03:43:15.040Z",
   "sources": {
     "kongehuset": {
       "name": "Kongehuset",
@@ -522,6 +522,16 @@
       "titleVi": "H.K.H. Công chúa Benedikte tham dự \"FEI World Cup Herning 2026\""
     },
     {
+      "id": "https://nyheder.tv2.dk/live/udland/2026-05-16-midtvejsvalg-i-usa",
+      "source": "tv2",
+      "title": "Demokraterne vinder Mississippi",
+      "url": "https://nyheder.tv2.dk/live/udland/2026-05-16-midtvejsvalg-i-usa",
+      "date": "16/05/2026",
+      "type": "Live",
+      "firstSeenAt": "2026-10-30T09:40:39.026Z",
+      "titleVi": "Đảng Dân chủ thắng ở Mississippi"
+    },
+    {
       "id": "https://nyheder.tv2.dk/samfund/2026-11-11-han-saa-sin-familie-koere-ud-over-skraenten-jeg-kunne-hoere-min-soester-der-skreg-efter-hjaelp",
       "source": "tv2",
       "title": "Han så sin familie køre ud over skrænten: - Jeg kunne høre min søster, der skreg efter hjælp",
@@ -540,16 +550,6 @@
       "type": "Udland",
       "firstSeenAt": "2026-11-11T22:57:42.885Z",
       "titleVi": "Em bé bị mất tích được tìm thấy bị chôn sống ở Hoa Kỳ"
-    },
-    {
-      "id": "https://nyheder.tv2.dk/live/udland/2026-05-16-midtvejsvalg-i-usa",
-      "source": "tv2",
-      "title": "Hegseth undgår rigsretssag – udeblevne demokrater blev afgørende",
-      "url": "https://nyheder.tv2.dk/live/udland/2026-05-16-midtvejsvalg-i-usa",
-      "date": "16/05/2026",
-      "type": "Live",
-      "firstSeenAt": "2026-10-30T09:40:39.026Z",
-      "titleVi": "Hegseth tránh bị luận tội – những đảng viên Dân chủ mất tích trở nên quan trọng"
     },
     {
       "id": "https://nyheder.tv2.dk/live/kort-nyt",
