@@ -1,6 +1,6 @@
 {
   "monitoringStartedAt": "2026-09-28T00:17:35.319Z",
-  "updatedAt": "2026-11-13T15:36:05.122Z",
+  "updatedAt": "2026-11-13T21:39:06.668Z",
   "sources": {
     "kongehuset": {
       "name": "Kongehuset",
@@ -522,14 +522,34 @@
       "titleVi": "thăm cấp nhà nước Việt Nam - ngày 1"
     },
     {
+      "id": "https://nyheder.tv2.dk/live/udland/2026-11-13-landsdaekkende-flyveforbud-i-usa",
+      "source": "tv2",
+      "title": "De amerikanske luftfartsmyndigheder udsteder landsdækkende flyveforbud",
+      "url": "https://nyheder.tv2.dk/live/udland/2026-11-13-landsdaekkende-flyveforbud-i-usa",
+      "date": "13/11/2026",
+      "type": "Live",
+      "firstSeenAt": "2026-11-13T21:39:06.668Z",
+      "titleVi": "Cơ quan hàng không Hoa Kỳ ban hành lệnh cấm bay trên toàn quốc"
+    },
+    {
+      "id": "https://nyheder.tv2.dk/live/udland/2026-11-13-tankskib-paasejler-krydstogtskib",
+      "source": "tv2",
+      "title": "Tankskib påsejler krydstogtskib – redningsaktion i gang",
+      "url": "https://nyheder.tv2.dk/live/udland/2026-11-13-tankskib-paasejler-krydstogtskib",
+      "date": "13/11/2026",
+      "type": "Live",
+      "firstSeenAt": "2026-11-13T21:39:06.668Z",
+      "titleVi": "Tàu chở dầu va chạm với tàu du lịch – chiến dịch cứu hộ đang được tiến hành"
+    },
+    {
       "id": "https://nyheder.tv2.dk/live/kort-nyt",
       "source": "tv2",
-      "title": "Kvælningsrisiko i tablet til børn – brug skal stoppes straks",
+      "title": "21-årig alvorligt tilskadekommen efter uheld",
       "url": "https://nyheder.tv2.dk/live/kort-nyt",
       "date": "—",
       "type": "Live",
       "firstSeenAt": "2026-09-28T00:30:42.330Z",
-      "titleVi": "Nguy cơ nghẹt thở do viên nén đối với trẻ em – cần ngừng sử dụng ngay lập tức"
+      "titleVi": "Chàng trai 21 tuổi bị thương nặng sau vụ tai nạn"
     },
     {
       "id": "https://nyheder.tv2.dk/live/udland/2026-05-16-midtvejsvalg-i-usa",
@@ -542,6 +562,56 @@
       "titleVi": "Thượng nghị sĩ thách thức lãnh đạo Đảng Dân chủ"
     },
     {
+      "id": "https://nyheder.tv2.dk/samfund/2026-11-13-skosaal-fra-dansk-slaveskib-vaekker-opsigt",
+      "source": "tv2",
+      "title": "Skosål fra dansk slaveskib vækker opsigt",
+      "url": "https://nyheder.tv2.dk/samfund/2026-11-13-skosaal-fra-dansk-slaveskib-vaekker-opsigt",
+      "date": "13/11/2026",
+      "type": "Samfund",
+      "firstSeenAt": "2026-11-13T21:39:06.668Z",
+      "titleVi": "Đế giày từ một con tàu chở nô lệ của Đan Mạch gây xôn xao"
+    },
+    {
+      "id": "https://nyheder.tv2.dk/live/trafik/2026-10-13-togkaos-i-danmark",
+      "source": "tv2",
+      "title": "Færre tog og længere rejsetid fra på mandag",
+      "url": "https://nyheder.tv2.dk/live/trafik/2026-10-13-togkaos-i-danmark",
+      "date": "13/10/2026",
+      "type": "Live",
+      "firstSeenAt": "2026-11-13T21:39:06.668Z",
+      "titleVi": "Từ thứ Hai, số lượng chuyến tàu sẽ giảm và thời gian di chuyển sẽ kéo dài hơn"
+    },
+    {
+      "id": "https://nyheder.tv2.dk/business/2026-11-13-bilister-risikerer-at-blive-snydt-for-billigere-braendstof-trods-ny-aftale",
+      "source": "tv2",
+      "title": "Bilister risikerer at blive snydt for billigere brændstof trods ny aftale",
+      "url": "https://nyheder.tv2.dk/business/2026-11-13-bilister-risikerer-at-blive-snydt-for-billigere-braendstof-trods-ny-aftale",
+      "date": "13/11/2026",
+      "type": "Business",
+      "firstSeenAt": "2026-11-13T21:39:06.668Z",
+      "titleVi": "Mặc dù có thỏa thuận mới, người lái xe vẫn có nguy cơ bị lừa mua nhiên liệu rẻ hơn"
+    },
+    {
+      "id": "https://nyheder.tv2.dk/business/2026-11-13-mens-topchefens-liv-stod-i-flammer-blev-der-koebt-nvidia-aktier-som-aldrig-foer",
+      "source": "tv2",
+      "title": "Mens topchefens liv stod i flammer blev der købt Nvidia-aktier som aldrig før",
+      "url": "https://nyheder.tv2.dk/business/2026-11-13-mens-topchefens-liv-stod-i-flammer-blev-der-koebt-nvidia-aktier-som-aldrig-foer",
+      "date": "13/11/2026",
+      "type": "Business",
+      "firstSeenAt": "2026-11-13T21:39:06.668Z",
+      "titleVi": "Trong khi cuộc sống của vị CEO đang gặp rắc rối, cổ phiếu Nvidia vẫn được mua nhiều hơn bao giờ hết"
+    },
+    {
+      "id": "https://nyheder.tv2.dk/live/business/2025-03-12-seneste-nyt-fra-de-finansielle-markeder",
+      "source": "tv2",
+      "title": "Nvidia fortsætter nedturen og trækker chipmarkedet med",
+      "url": "https://nyheder.tv2.dk/live/business/2025-03-12-seneste-nyt-fra-de-finansielle-markeder",
+      "date": "12/03/2025",
+      "type": "Live",
+      "firstSeenAt": "2026-11-12T11:54:27.308Z",
+      "titleVi": "Nvidia tiếp tục lao dốc và kéo theo thị trường chip"
+    },
+    {
       "id": "https://nyheder.tv2.dk/live/2024-09-08-seneste-nyt-om-krigen-i-ukraine-70b1d6cc-0720-404e-9878-45546e1999e7",
       "source": "tv2",
       "title": "Putin er villig til at forsøge, siger amerikansk udsending",
@@ -550,6 +620,16 @@
       "type": "Live",
       "firstSeenAt": "2026-09-28T00:30:42.330Z",
       "titleVi": "Ông Putin sẵn sàng thử, theo lời phái viên Mỹ"
+    },
+    {
+      "id": "https://nyheder.tv2.dk/politik/2026-11-13-det-naeste-traek-troels-faar-udloebsdato-foer-livsvigtig-weekend",
+      "source": "tv2",
+      "title": "'Det næste træk': Troels får udløbsdato før livsvigtig weekend",
+      "url": "https://nyheder.tv2.dk/politik/2026-11-13-det-naeste-traek-troels-faar-udloebsdato-foer-livsvigtig-weekend",
+      "date": "13/11/2026",
+      "type": "Politik",
+      "firstSeenAt": "2026-11-13T21:39:06.668Z",
+      "titleVi": "'Bước đi tiếp theo': Troels được ấn định thời hạn trước một cuối tuần quan trọng"
     },
     {
       "id": "https://nyheder.tv2.dk/live/politik/2025-08-11-dansk-politik",
@@ -562,6 +642,26 @@
       "titleVi": "Chính phủ sẽ cho phép người lái xe được hưởng thêm một tháng xăng giá rẻ"
     },
     {
+      "id": "https://nyheder.tv2.dk/samfund/2026-11-13-kan-fronterne-brydes-i-debatten-om-dansk-svineproduktion",
+      "source": "tv2",
+      "title": "Kan fronterne brydes i debatten om dansk svineproduktion?",
+      "url": "https://nyheder.tv2.dk/samfund/2026-11-13-kan-fronterne-brydes-i-debatten-om-dansk-svineproduktion",
+      "date": "13/11/2026",
+      "type": "Samfund",
+      "firstSeenAt": "2026-11-13T21:39:06.668Z",
+      "titleVi": "Liệu có thể phá vỡ các rào cản trong cuộc tranh luận về ngành chăn nuôi lợn Đan Mạch?"
+    },
+    {
+      "id": "https://nyheder.tv2.dk/live/business/2026-10-20-folketingsmedlem-idoemmes-konkurskarantaene",
+      "source": "tv2",
+      "title": "Jacob Harris politianmeldt for skyldnersvig og falsk forklaring",
+      "url": "https://nyheder.tv2.dk/live/business/2026-10-20-folketingsmedlem-idoemmes-konkurskarantaene",
+      "date": "20/10/2026",
+      "type": "Live",
+      "firstSeenAt": "2026-11-13T21:39:06.668Z",
+      "titleVi": "Jacob Harris bị tố cáo ra cảnh sát vì tội gian lận của bên nợ và khai man"
+    },
+    {
       "id": "https://nyheder.tv2.dk/live/samfund/2026-11-13-microsoft-nede-i-store-dele-af-verden",
       "source": "tv2",
       "title": "Microsoft-tjenester er nede i store dele af verden – 74 lande ramt",
@@ -570,16 +670,6 @@
       "type": "Live",
       "firstSeenAt": "2026-11-13T07:21:28.018Z",
       "titleVi": "Các dịch vụ của Microsoft bị gián đoạn ở nhiều nơi trên thế giới – 74 quốc gia bị ảnh hưởng"
-    },
-    {
-      "id": "https://nyheder.tv2.dk/live/business/2025-03-12-seneste-nyt-fra-de-finansielle-markeder",
-      "source": "tv2",
-      "title": "Nvidia-topchef trækker sig – aktien præget af usikkerhed, siger analytiker",
-      "url": "https://nyheder.tv2.dk/live/business/2025-03-12-seneste-nyt-fra-de-finansielle-markeder",
-      "date": "12/03/2025",
-      "type": "Live",
-      "firstSeenAt": "2026-11-12T11:54:27.308Z",
-      "titleVi": "Giám đốc điều hành của Nvidia từ chức – cổ phiếu bị ảnh hưởng bởi sự không chắc chắn, theo một nhà phân tích"
     },
     {
       "id": "https://nyheder.tv2.dk/live/tech/2026-09-09-seneste-nyt-om-ai",
@@ -720,96 +810,6 @@
       "type": "Live",
       "firstSeenAt": "2026-11-12T19:36:41.918Z",
       "titleVi": "Những người bị trúng đạn gần Nhà Trắng"
-    },
-    {
-      "id": "https://nyheder.tv2.dk/udland/2026-11-12-mississippi-har-valgt-sin-foerste-sorte-senator-i-over-150-aar",
-      "source": "tv2",
-      "title": "Mississippi har valgt sin første sorte senator i over 150 år",
-      "url": "https://nyheder.tv2.dk/udland/2026-11-12-mississippi-har-valgt-sin-foerste-sorte-senator-i-over-150-aar",
-      "date": "12/11/2026",
-      "type": "Udland",
-      "firstSeenAt": "2026-11-13T00:41:56.691Z",
-      "titleVi": "Mississippi đã bầu ra thượng nghị sĩ da đen đầu tiên sau hơn 150 năm"
-    },
-    {
-      "id": "https://nyheder.tv2.dk/business/2026-11-12-meny-ejers-koeb-af-dansk-kaede-godkendt-skal-bredes-ud-til-hele-landet",
-      "source": "tv2",
-      "title": "Meny-ejers køb af dansk kæde godkendt – skal bredes ud til hele landet",
-      "url": "https://nyheder.tv2.dk/business/2026-11-12-meny-ejers-koeb-af-dansk-kaede-godkendt-skal-bredes-ud-til-hele-landet",
-      "date": "12/11/2026",
-      "type": "Business",
-      "firstSeenAt": "2026-11-12T19:36:41.918Z",
-      "titleVi": "Việc chủ sở hữu Meny mua lại chuỗi cửa hàng Đan Mạch đã được chấp thuận – sẽ được mở rộng ra toàn quốc"
-    },
-    {
-      "id": "https://nyheder.tv2.dk/samfund/2026-11-12-kommune-betalte-ikke-nu-har-mand-fra-dubai-betalt-hendes-taender",
-      "source": "tv2",
-      "title": "Kommune betalte ikke – nu har mand fra Dubai betalt hendes tænder",
-      "url": "https://nyheder.tv2.dk/samfund/2026-11-12-kommune-betalte-ikke-nu-har-mand-fra-dubai-betalt-hendes-taender",
-      "date": "12/11/2026",
-      "type": "Samfund",
-      "firstSeenAt": "2026-11-12T19:36:41.918Z",
-      "titleVi": "Chính quyền thành phố không thanh toán – giờ đây một người đàn ông đến từ Dubai đã trả tiền cho việc làm răng của bà"
-    },
-    {
-      "id": "https://nyheder.tv2.dk/live/politik/2026-11-12-ny-skatteaftale-paa-plads",
-      "source": "tv2",
-      "title": "Skatteminister svarer på kritik af ”urimelig” aftale",
-      "url": "https://nyheder.tv2.dk/live/politik/2026-11-12-ny-skatteaftale-paa-plads",
-      "date": "12/11/2026",
-      "type": "Live",
-      "firstSeenAt": "2026-11-12T11:54:27.308Z",
-      "titleVi": "Bộ trưởng Tài chính phản hồi những lời chỉ trích về thỏa thuận \"không công bằng\""
-    },
-    {
-      "id": "https://nyheder.tv2.dk/udland/2026-11-12-en-mand-afsloerede-skandale-affaere-foer-alle-andre-men-i-et-halvt-aar-lyttede-ingen-til-hans-advarsel",
-      "source": "tv2",
-      "title": "Én mand afslørede skandale-affære før alle andre, men i et halvt år lyttede ingen til hans advarsel",
-      "url": "https://nyheder.tv2.dk/udland/2026-11-12-en-mand-afsloerede-skandale-affaere-foer-alle-andre-men-i-et-halvt-aar-lyttede-ingen-til-hans-advarsel",
-      "date": "12/11/2026",
-      "type": "Udland",
-      "firstSeenAt": "2026-11-12T19:36:41.918Z",
-      "titleVi": "Một người đàn ông đã vạch trần vụ bê bối trước tất cả mọi người, nhưng trong nửa năm, không ai lắng nghe lời cảnh báo của ông"
-    },
-    {
-      "id": "https://nyheder.tv2.dk/business/2026-11-12-det-bliver-dyrere-ikke-billigere-at-vaere-pendler-i-2027",
-      "source": "tv2",
-      "title": "Det bliver dyrere – ikke billigere – at være pendler i 2027",
-      "url": "https://nyheder.tv2.dk/business/2026-11-12-det-bliver-dyrere-ikke-billigere-at-vaere-pendler-i-2027",
-      "date": "12/11/2026",
-      "type": "Business",
-      "firstSeenAt": "2026-11-12T19:36:41.918Z",
-      "titleVi": "Việc đi lại sẽ trở nên đắt đỏ hơn – chứ không phải rẻ hơn – vào năm 2027"
-    },
-    {
-      "id": "https://nyheder.tv2.dk/live/udland/2026-11-12-bygning-kollapser-i-brooklyn",
-      "source": "tv2",
-      "title": "Seks voksne og to børn blandt de døde efter bygning kollapser i Brooklyn",
-      "url": "https://nyheder.tv2.dk/live/udland/2026-11-12-bygning-kollapser-i-brooklyn",
-      "date": "12/11/2026",
-      "type": "Live",
-      "firstSeenAt": "2026-11-12T11:54:27.308Z",
-      "titleVi": "Sáu người lớn và hai trẻ em nằm trong số những người thiệt mạng sau vụ sập tòa nhà ở Brooklyn"
-    },
-    {
-      "id": "https://nyheder.tv2.dk/live/samfund/2026-11-12-spoerg-om-ny-skatteaftale",
-      "source": "tv2",
-      "title": "Hvad betyder skatteaftalen for dig? Stil dit spørgsmål her",
-      "url": "https://nyheder.tv2.dk/live/samfund/2026-11-12-spoerg-om-ny-skatteaftale",
-      "date": "12/11/2026",
-      "type": "Live",
-      "firstSeenAt": "2026-11-12T19:36:41.918Z",
-      "titleVi": "Thỏa thuận thuế có ý nghĩa gì đối với bạn? Hãy đặt câu hỏi của bạn tại đây"
-    },
-    {
-      "id": "https://nyheder.tv2.dk/udland/2026-11-12-topdemokrater-i-opraab-trump-witkoff-og-kushner-arbejder-for-putin",
-      "source": "tv2",
-      "title": "Topdemokrater i opråb – Trump, Witkoff og Kushner arbejder for Putin",
-      "url": "https://nyheder.tv2.dk/udland/2026-11-12-topdemokrater-i-opraab-trump-witkoff-og-kushner-arbejder-for-putin",
-      "date": "12/11/2026",
-      "type": "Udland",
-      "firstSeenAt": "2026-11-12T19:36:41.918Z",
-      "titleVi": "Các lãnh đạo đảng Dân chủ lên tiếng – Trump, Witkoff và Kushner đang làm việc cho Putin"
     },
     {
       "id": "https://www.kungahuset.se/arkiv/nyheter/2026-11-13-drottningen-uppmarksammar-mentor-sveriges-30-arsjubileum",
