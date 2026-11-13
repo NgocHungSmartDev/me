@@ -1,6 +1,6 @@
 {
   "monitoringStartedAt": "2026-09-28T00:17:35.319Z",
-  "updatedAt": "2026-11-12T19:36:41.918Z",
+  "updatedAt": "2026-11-13T00:41:56.691Z",
   "sources": {
     "kongehuset": {
       "name": "Kongehuset",
@@ -33,9 +33,9 @@
       "language": "sv",
       "monitoringStartedAt": "2026-10-01T16:20:13.213Z",
       "status": {
-        "state": "ok",
-        "message": "",
-        "changedAt": "2026-11-11T16:29:19.547Z"
+        "state": "error",
+        "message": "fetch failed",
+        "changedAt": "2026-11-13T00:41:56.691Z"
       }
     },
     "svenskdam": {
@@ -522,26 +522,6 @@
       "titleVi": "thăm cấp nhà nước Việt Nam - ngày 1"
     },
     {
-      "id": "https://nyheder.tv2.dk/live/business/2025-03-12-seneste-nyt-fra-de-finansielle-markeder",
-      "source": "tv2",
-      "title": "Nvidia-topchef trækker sig",
-      "url": "https://nyheder.tv2.dk/live/business/2025-03-12-seneste-nyt-fra-de-finansielle-markeder",
-      "date": "12/03/2025",
-      "type": "Live",
-      "firstSeenAt": "2026-11-12T11:54:27.308Z",
-      "titleVi": "Giám đốc điều hành của Nvidia từ chức"
-    },
-    {
-      "id": "https://nyheder.tv2.dk/live/kort-nyt",
-      "source": "tv2",
-      "title": "Beredskab rykket ud til Rolls-Royce-fabrik",
-      "url": "https://nyheder.tv2.dk/live/kort-nyt",
-      "date": "—",
-      "type": "Live",
-      "firstSeenAt": "2026-09-28T00:30:42.330Z",
-      "titleVi": "Lực lượng khẩn cấp được điều động đến nhà máy Rolls-Royce"
-    },
-    {
       "id": "https://nyheder.tv2.dk/live/2024-09-08-seneste-nyt-om-krigen-i-ukraine-70b1d6cc-0720-404e-9878-45546e1999e7",
       "source": "tv2",
       "title": "Mødet har været \"gavnligt\", siger Kreml",
@@ -550,6 +530,56 @@
       "type": "Live",
       "firstSeenAt": "2026-09-28T00:30:42.330Z",
       "titleVi": "Điện Kremlin cho biết cuộc họp đã \"có lợi\""
+    },
+    {
+      "id": "https://nyheder.tv2.dk/live/kort-nyt",
+      "source": "tv2",
+      "title": "Anders Matthesen hædret",
+      "url": "https://nyheder.tv2.dk/live/kort-nyt",
+      "date": "—",
+      "type": "Live",
+      "firstSeenAt": "2026-09-28T00:30:42.330Z",
+      "titleVi": "Anders Matthesen được vinh danh"
+    },
+    {
+      "id": "https://nyheder.tv2.dk/live/business/2025-03-12-seneste-nyt-fra-de-finansielle-markeder",
+      "source": "tv2",
+      "title": "Nvidia-topchef trækker sig – aktien præget af usikkerhed, siger analytiker",
+      "url": "https://nyheder.tv2.dk/live/business/2025-03-12-seneste-nyt-fra-de-finansielle-markeder",
+      "date": "12/03/2025",
+      "type": "Live",
+      "firstSeenAt": "2026-11-12T11:54:27.308Z",
+      "titleVi": "Giám đốc điều hành của Nvidia từ chức – cổ phiếu bị ảnh hưởng bởi sự không chắc chắn, theo một nhà phân tích"
+    },
+    {
+      "id": "https://nyheder.tv2.dk/samfund/2026-11-12-29-aarig-maerker-det-naar-moerket-kommer-i-aar-vil-han-goere-noget-nyt",
+      "source": "tv2",
+      "title": "29-årig mærker det, når mørket kommer – i år vil han gøre noget nyt",
+      "url": "https://nyheder.tv2.dk/samfund/2026-11-12-29-aarig-maerker-det-naar-moerket-kommer-i-aar-vil-han-goere-noget-nyt",
+      "date": "12/11/2026",
+      "type": "Samfund",
+      "firstSeenAt": "2026-11-13T00:41:56.691Z",
+      "titleVi": "Người đàn ông 29 tuổi cảm nhận được khi bóng tối ập đến – năm nay anh sẽ làm một điều gì đó mới mẻ"
+    },
+    {
+      "id": "https://nyheder.tv2.dk/live/udland/2026-11-12-personer-ramt-af-skud-taet-ved-det-hvide-hus",
+      "source": "tv2",
+      "title": "Personer ramt af skud tæt ved Det Hvide Hus",
+      "url": "https://nyheder.tv2.dk/live/udland/2026-11-12-personer-ramt-af-skud-taet-ved-det-hvide-hus",
+      "date": "12/11/2026",
+      "type": "Live",
+      "firstSeenAt": "2026-11-12T19:36:41.918Z",
+      "titleVi": "Những người bị trúng đạn gần Nhà Trắng"
+    },
+    {
+      "id": "https://nyheder.tv2.dk/udland/2026-11-12-mississippi-har-valgt-sin-foerste-sorte-senator-i-over-150-aar",
+      "source": "tv2",
+      "title": "Mississippi har valgt sin første sorte senator i over 150 år",
+      "url": "https://nyheder.tv2.dk/udland/2026-11-12-mississippi-har-valgt-sin-foerste-sorte-senator-i-over-150-aar",
+      "date": "12/11/2026",
+      "type": "Udland",
+      "firstSeenAt": "2026-11-13T00:41:56.691Z",
+      "titleVi": "Mississippi đã bầu ra thượng nghị sĩ da đen đầu tiên sau hơn 150 năm"
     },
     {
       "id": "https://nyheder.tv2.dk/business/2026-11-12-meny-ejers-koeb-af-dansk-kaede-godkendt-skal-bredes-ud-til-hele-landet",
@@ -610,16 +640,6 @@
       "type": "Live",
       "firstSeenAt": "2026-11-12T11:54:27.308Z",
       "titleVi": "Sáu người lớn và hai trẻ em nằm trong số những người thiệt mạng sau vụ sập tòa nhà ở Brooklyn"
-    },
-    {
-      "id": "https://nyheder.tv2.dk/live/udland/2026-11-12-personer-ramt-af-skud-taet-ved-det-hvide-hus",
-      "source": "tv2",
-      "title": "Personer ramt af skud tæt ved Det Hvide Hus",
-      "url": "https://nyheder.tv2.dk/live/udland/2026-11-12-personer-ramt-af-skud-taet-ved-det-hvide-hus",
-      "date": "12/11/2026",
-      "type": "Live",
-      "firstSeenAt": "2026-11-12T19:36:41.918Z",
-      "titleVi": "Những người bị trúng đạn gần Nhà Trắng"
     },
     {
       "id": "https://nyheder.tv2.dk/live/samfund/2026-11-12-spoerg-om-ny-skatteaftale",
@@ -790,26 +810,6 @@
       "type": "Politik",
       "firstSeenAt": "2026-11-12T11:54:27.308Z",
       "titleVi": "Tầm quan trọng của hiệp định thuế có thể rất lớn – và gây tổn hại cho tất cả các bên liên quan"
-    },
-    {
-      "id": "https://livsstil.tv2.dk/live/2025-12-01-danskernes-sundhed",
-      "source": "tv2",
-      "title": "Første mæslingetilfælde konstateret i Danmark i år",
-      "url": "https://livsstil.tv2.dk/live/2025-12-01-danskernes-sundhed",
-      "date": "01/12/2025",
-      "type": "Live",
-      "firstSeenAt": "2026-11-12T11:54:27.308Z",
-      "titleVi": "Trường hợp mắc bệnh sởi đầu tiên được phát hiện ở Đan Mạch trong năm nay"
-    },
-    {
-      "id": "https://nyheder.tv2.dk/live/udland/2026-05-16-midtvejsvalg-i-usa",
-      "source": "tv2",
-      "title": "Demokraterne vinder Mississippi",
-      "url": "https://nyheder.tv2.dk/live/udland/2026-05-16-midtvejsvalg-i-usa",
-      "date": "16/05/2026",
-      "type": "Live",
-      "firstSeenAt": "2026-10-30T09:40:39.026Z",
-      "titleVi": "Đảng Dân chủ thắng ở Mississippi"
     },
     {
       "id": "https://www.kungahuset.se/arkiv/nyheter/2026-11-12-prins-carl-philip-invigde-nya-grisstallar",
@@ -1032,15 +1032,37 @@
       "titleVi": "Cặp đôi Hoàng tử tại lễ trao giải Marcus Wallenberg"
     },
     {
-      "id": "https://www.svenskdam.se/kungligt/regeringens-beslut-nytt-miljonregn-over-kungafamiljen-okas/11705308",
+      "id": "https://www.svenskdam.se/kungligt/har-gor-drottning-silvia-glammig-entre-redo-for-30-arsjubileet/11706751",
       "source": "svenskdam",
-      "title": "Regeringens beslut – nytt miljonregn över kungafamiljen: \"Ökas\"",
-      "url": "https://www.svenskdam.se/kungligt/regeringens-beslut-nytt-miljonregn-over-kungafamiljen-okas/11705308",
+      "title": "Här gör drottning Silvia glammig entré – redo för 30-årsjubileet!",
+      "url": "https://www.svenskdam.se/kungligt/har-gor-drottning-silvia-glammig-entre-redo-for-30-arsjubileet/11706751",
       "date": "12/11/2026",
-      "publishedAt": "2026-11-12T09:19:50+01:00",
+      "publishedAt": "2026-11-12T19:16:59+01:00",
       "type": "Kungligt",
-      "firstSeenAt": "2026-11-12T11:54:27.308Z",
-      "titleVi": "Quyết định của Chính phủ – Lại một khoản tiền triệu đổ vào gia đình hoàng gia: \"Tăng\""
+      "firstSeenAt": "2026-11-13T00:41:56.691Z",
+      "titleVi": "Tại đây, Hoàng hậu Silvia xuất hiện lộng lẫy – sẵn sàng cho lễ kỷ niệm 30 năm!"
+    },
+    {
+      "id": "https://www.svenskdam.se/kungligt/johan-t-lindwall-om-anklagelserna-mot-thomas-markle-ruttna-i-fangelset/11706759",
+      "source": "svenskdam",
+      "title": "Johan T Lindwall om anklagelserna mot Thomas Markle: \"Ruttna i fängelset\"",
+      "url": "https://www.svenskdam.se/kungligt/johan-t-lindwall-om-anklagelserna-mot-thomas-markle-ruttna-i-fangelset/11706759",
+      "date": "12/11/2026",
+      "publishedAt": "2026-11-12T20:00:00+01:00",
+      "type": "Kungligt",
+      "firstSeenAt": "2026-11-13T00:41:56.691Z",
+      "titleVi": "Johan T Lindwall về những cáo buộc chống lại Thomas Markle: \"Hãy thối rữa trong tù\""
+    },
+    {
+      "id": "https://www.svenskdam.se/kungligt/carl-philip-ater-pa-gamla-skolan-bilderna-far-alla-att-smalta/11707185",
+      "source": "svenskdam",
+      "title": "Carl Philip åter på gamla skolan – bilderna får alla att smälta!",
+      "url": "https://www.svenskdam.se/kungligt/carl-philip-ater-pa-gamla-skolan-bilderna-far-alla-att-smalta/11707185",
+      "date": "12/11/2026",
+      "publishedAt": "2026-11-12T22:01:36+01:00",
+      "type": "Kungligt",
+      "firstSeenAt": "2026-11-13T00:41:56.691Z",
+      "titleVi": "Carl Philip trở lại ngôi trường cũ – những bức ảnh khiến ai cũng phải xúc động!"
     },
     {
       "id": "https://www.svenskdam.se/kungligt/svensk-damtidning-avslojar-han-kopte-kungens-mammas-smycke/11705032",
@@ -1065,15 +1087,15 @@
       "titleVi": "Trang sức của Birgitta được bán với giá hơn 19 triệu – đây là tổng số tiền cuối cùng!"
     },
     {
-      "id": "https://www.svenskdam.se/kungligt/hovets-besked-drottning-silvia-ar-sjuk-staller-in-uppdrag/11704390",
+      "id": "https://www.svenskdam.se/kungligt/victoria-och-daniel-syns-ihop-mitt-under-krisen-det-marks/11705492",
       "source": "svenskdam",
-      "title": "Hovets besked: Drottning Silvia är sjuk – ställer in uppdrag",
-      "url": "https://www.svenskdam.se/kungligt/hovets-besked-drottning-silvia-ar-sjuk-staller-in-uppdrag/11704390",
-      "date": "11/11/2026",
-      "publishedAt": "2026-11-11T15:04:25+01:00",
+      "title": "Victoria och Daniel syns ihop – mitt under krisen: \"Det märks\"",
+      "url": "https://www.svenskdam.se/kungligt/victoria-och-daniel-syns-ihop-mitt-under-krisen-det-marks/11705492",
+      "date": "12/11/2026",
+      "publishedAt": "2026-11-12T11:30:00+01:00",
       "type": "Kungligt",
-      "firstSeenAt": "2026-11-11T22:57:42.885Z",
-      "titleVi": "Thông báo của Hoàng gia: Hoàng hậu Silvia bị ốm – hủy bỏ các nhiệm vụ"
+      "firstSeenAt": "2026-11-12T11:54:27.308Z",
+      "titleVi": "Victoria và Daniel xuất hiện cùng nhau – ngay giữa cuộc khủng hoảng: \"Điều đó thật dễ nhận thấy\""
     },
     {
       "id": "https://www.svenskdam.se/kungligt/nya-uppgifterna-om-diadem-gate-elizabeths-skarpa-ord-till-harry-det-ar-ingen-leksak/11433412",
@@ -1109,15 +1131,125 @@
       "titleVi": "Luật sư: 4 lý do để viết di chúc – điều mà nhiều người bỏ lỡ"
     },
     {
-      "id": "https://www.svenskdam.se/kungligt/victoria-och-daniel-syns-ihop-mitt-under-krisen-det-marks/11705492",
+      "id": "https://www.svenskdam.se/noje/jenny-alversjo-visar-upp-stora-lyckan-kan-inte-dolja-kanslorna/11703397",
       "source": "svenskdam",
-      "title": "Victoria och Daniel syns ihop – mitt under krisen: \"Det märks\"",
-      "url": "https://www.svenskdam.se/kungligt/victoria-och-daniel-syns-ihop-mitt-under-krisen-det-marks/11705492",
+      "title": "Jenny Alversjö visar upp stora lyckan – kan inte dölja känslorna!",
+      "url": "https://www.svenskdam.se/noje/jenny-alversjo-visar-upp-stora-lyckan-kan-inte-dolja-kanslorna/11703397",
       "date": "12/11/2026",
-      "publishedAt": "2026-11-12T11:30:00+01:00",
+      "publishedAt": "2026-11-12T21:00:00+01:00",
+      "type": "Nöje",
+      "firstSeenAt": "2026-11-13T00:41:56.691Z",
+      "titleVi": "Jenny Alversjö thể hiện niềm hạnh phúc lớn lao – không thể che giấu cảm xúc!"
+    },
+    {
+      "id": "https://www.svenskdam.se/noje/pernilla-wahlgren-tvingad-till-akut-ingrepp-det-kommer-inte-funka/11705808",
+      "source": "svenskdam",
+      "title": "Pernilla Wahlgren tvingad till akut ingrepp: \"Det kommer inte funka\"",
+      "url": "https://www.svenskdam.se/noje/pernilla-wahlgren-tvingad-till-akut-ingrepp-det-kommer-inte-funka/11705808",
+      "date": "12/11/2026",
+      "publishedAt": "2026-11-12T21:00:00+01:00",
+      "type": "Nöje",
+      "firstSeenAt": "2026-11-13T00:41:56.691Z",
+      "titleVi": "Pernilla Wahlgren buộc phải phẫu thuật cấp cứu: \"Sẽ không có tác dụng\""
+    },
+    {
+      "id": "https://www.svenskdam.se/noje/julvarden-carina-bergfeldts-besked-sex-veckor-innan-julafton-ar-mycket/11706233",
+      "source": "svenskdam",
+      "title": "Julvärden Carina Bergfeldts besked – sex veckor innan julafton: \"Är mycket\"",
+      "url": "https://www.svenskdam.se/noje/julvarden-carina-bergfeldts-besked-sex-veckor-innan-julafton-ar-mycket/11706233",
+      "date": "12/11/2026",
+      "publishedAt": "2026-11-12T19:00:00+01:00",
+      "type": "Nöje",
+      "firstSeenAt": "2026-11-13T00:41:56.691Z",
+      "titleVi": "Thông báo của người dẫn chương trình Giáng sinh Carina Bergfeldt – sáu tuần trước đêm Giáng sinh: \"Rất nhiều việc\""
+    },
+    {
+      "id": "https://www.svenskdam.se/kungligt/prinsessan-madeleines-relation-till-ica-stjarnan-har-hemligt-projekt-ihop/11706005",
+      "source": "svenskdam",
+      "title": "Prinsessan Madeleines och ICA-stjärnans hemliga projekt avslöjat: \"Sticker ut\"",
+      "url": "https://www.svenskdam.se/kungligt/prinsessan-madeleines-relation-till-ica-stjarnan-har-hemligt-projekt-ihop/11706005",
+      "date": "12/11/2026",
+      "publishedAt": "2026-11-12T18:00:00+01:00",
       "type": "Kungligt",
-      "firstSeenAt": "2026-11-12T11:54:27.308Z",
-      "titleVi": "Victoria và Daniel xuất hiện cùng nhau – ngay giữa cuộc khủng hoảng: \"Điều đó thật dễ nhận thấy\""
+      "firstSeenAt": "2026-11-13T00:41:56.691Z",
+      "titleVi": "Dự án bí mật của Công chúa Madeleine và ngôi sao ICA được tiết lộ: \"Nổi bật\""
+    },
+    {
+      "id": "https://www.svenskdam.se/noje/lalehs-gladjebesked-vid-44-ars-alder-det-blir-en-till-valdigt-glada/11703955",
+      "source": "svenskdam",
+      "title": "Lalehs glädjebesked vid 44 års ålder – det blir en till: \"Väldigt glada\"",
+      "url": "https://www.svenskdam.se/noje/lalehs-gladjebesked-vid-44-ars-alder-det-blir-en-till-valdigt-glada/11703955",
+      "date": "12/11/2026",
+      "publishedAt": "2026-11-12T17:00:00+01:00",
+      "type": "Nöje",
+      "firstSeenAt": "2026-11-13T00:41:56.691Z",
+      "titleVi": "Tin vui của Laleh ở tuổi 44 – sẽ có thêm một em bé nữa: \"Rất hạnh phúc\""
+    },
+    {
+      "id": "https://www.svenskdam.se/kungligt/kronprinsessan-victoria-pa-uppdrag-prins-daniel-saknas/11706687",
+      "source": "svenskdam",
+      "title": "Kronprinsessan Victoria på uppdrag – prins Daniel saknas",
+      "url": "https://www.svenskdam.se/kungligt/kronprinsessan-victoria-pa-uppdrag-prins-daniel-saknas/11706687",
+      "date": "12/11/2026",
+      "publishedAt": "2026-11-12T16:00:00+01:00",
+      "type": "Kungligt",
+      "firstSeenAt": "2026-11-13T00:41:56.691Z",
+      "titleVi": "Công chúa kế vị Victoria thực hiện nhiệm vụ – Hoàng tử Daniel vắng mặt"
+    },
+    {
+      "id": "https://www.svenskdam.se/noje/vader-madde-ger-sorgliga-beskedet-i-sandning-kollegerna-i-chock-oj/11705232",
+      "source": "svenskdam",
+      "title": "Väder-Madde ger trista beskedet i sändning – kollegerna i chock",
+      "url": "https://www.svenskdam.se/noje/vader-madde-ger-sorgliga-beskedet-i-sandning-kollegerna-i-chock-oj/11705232",
+      "date": "12/11/2026",
+      "publishedAt": "2026-11-12T15:00:00+01:00",
+      "type": "Nöje",
+      "firstSeenAt": "2026-11-13T00:41:56.691Z",
+      "titleVi": "Madde, người dẫn chương trình thời tiết, đưa ra tin buồn trong chương trình phát sóng – các đồng nghiệp bị sốc"
+    },
+    {
+      "id": "https://www.svenskdam.se/kungligt/prins-william-erkanner-efter-alla-ar-sanningen-har-plagat-honom/11703703",
+      "source": "svenskdam",
+      "title": "Prins William erkänner efter alla år – sanningen har plågat honom",
+      "url": "https://www.svenskdam.se/kungligt/prins-william-erkanner-efter-alla-ar-sanningen-har-plagat-honom/11703703",
+      "date": "12/11/2026",
+      "publishedAt": "2026-11-12T14:00:00+01:00",
+      "type": "Kungligt",
+      "firstSeenAt": "2026-11-13T00:41:56.691Z",
+      "titleVi": "Sau nhiều năm, Hoàng tử William thừa nhận – sự thật đã dày vò ông"
+    },
+    {
+      "id": "https://www.svenskdam.se/kungligt/gladjebeskedet-till-drottning-silvia-hovet-bekraftar/11705869",
+      "source": "svenskdam",
+      "title": "Glädjebeskedet om drottning Silvia – hovet bekräftar",
+      "url": "https://www.svenskdam.se/kungligt/gladjebeskedet-till-drottning-silvia-hovet-bekraftar/11705869",
+      "date": "12/11/2026",
+      "publishedAt": "2026-11-12T13:39:10+01:00",
+      "type": "Kungligt",
+      "firstSeenAt": "2026-11-13T00:41:56.691Z",
+      "titleVi": "Tin vui về Hoàng hậu Silvia – Hoàng gia xác nhận"
+    },
+    {
+      "id": "https://www.svenskdam.se/noje/forsvann-helt-fran-tv-rutan-har-ar-peter-jihdes-nya-jobb/11704904",
+      "source": "svenskdam",
+      "title": "Försvann helt från tv-rutan – här är Peter Jihdes nya jobb",
+      "url": "https://www.svenskdam.se/noje/forsvann-helt-fran-tv-rutan-har-ar-peter-jihdes-nya-jobb/11704904",
+      "date": "12/11/2026",
+      "publishedAt": "2026-11-12T13:00:00+01:00",
+      "type": "Nöje",
+      "firstSeenAt": "2026-11-13T00:41:56.691Z",
+      "titleVi": "Hoàn toàn biến mất khỏi màn ảnh truyền hình – đây là công việc mới của Peter Jihde"
+    },
+    {
+      "id": "https://www.svenskdam.se/kungligt/beskedet-till-drottning-silvia-om-alskade-solliden-kommer-kosta-5-miljoner/11705511",
+      "source": "svenskdam",
+      "title": "Beskedet till drottning Silvia om älskade Solliden – kommer kosta 5 miljoner",
+      "url": "https://www.svenskdam.se/kungligt/beskedet-till-drottning-silvia-om-alskade-solliden-kommer-kosta-5-miljoner/11705511",
+      "date": "12/11/2026",
+      "publishedAt": "2026-11-12T12:00:00+01:00",
+      "type": "Kungligt",
+      "firstSeenAt": "2026-11-13T00:41:56.691Z",
+      "titleVi": "Thông báo cho Nữ hoàng Silvia về cung điện Solliden yêu quý – sẽ tốn 5 triệu SEK"
     },
     {
       "id": "https://www.svenskdam.se/noje/gunde-svans-haveri-dromkopet-gick-sonder-tankte-bara-inte-nu/11703731",
@@ -1142,6 +1274,17 @@
       "titleVi": "Quyết định mới của Vua Haakon được hoan nghênh: \"Thật vui khi biết rằng ông ấy...\""
     },
     {
+      "id": "https://www.svenskdam.se/kungligt/regeringens-beslut-nytt-miljonregn-over-kungafamiljen-okas/11705308",
+      "source": "svenskdam",
+      "title": "Regeringens beslut – nytt miljonregn över kungafamiljen: \"Ökas\"",
+      "url": "https://www.svenskdam.se/kungligt/regeringens-beslut-nytt-miljonregn-over-kungafamiljen-okas/11705308",
+      "date": "12/11/2026",
+      "publishedAt": "2026-11-12T09:19:50+01:00",
+      "type": "Kungligt",
+      "firstSeenAt": "2026-11-12T11:54:27.308Z",
+      "titleVi": "Quyết định của Chính phủ – Lại một khoản tiền triệu đổ vào gia đình hoàng gia: \"Tăng\""
+    },
+    {
       "id": "https://www.svenskdam.se/noje/tina-thorners-problem-med-pa-sparet-kollegan-ingen-ursakt/11702344",
       "source": "svenskdam",
       "title": "Tina Thörners problem med På spåret-kollegan: ”Ingen ursäkt”",
@@ -1151,6 +1294,50 @@
       "type": "Nöje",
       "firstSeenAt": "2026-11-12T11:54:27.308Z",
       "titleVi": "Vấn đề của Tina Thörner với người đồng nghiệp trong chương trình \"På spåret\": \"Không có lời xin lỗi\""
+    },
+    {
+      "id": "https://www.svenskdam.se/kungligt/hovets-besked-drottning-silvia-ar-sjuk-staller-in-uppdrag/11704390",
+      "source": "svenskdam",
+      "title": "Hovets besked: Drottning Silvia är sjuk – ställer in uppdrag",
+      "url": "https://www.svenskdam.se/kungligt/hovets-besked-drottning-silvia-ar-sjuk-staller-in-uppdrag/11704390",
+      "date": "11/11/2026",
+      "publishedAt": "2026-11-11T15:04:25+01:00",
+      "type": "Kungligt",
+      "firstSeenAt": "2026-11-11T22:57:42.885Z",
+      "titleVi": "Thông báo của Hoàng gia: Hoàng hậu Silvia bị ốm – hủy bỏ các nhiệm vụ"
+    },
+    {
+      "id": "https://www.svenskdam.se/noje/thomas-wassberg-om-gundes-sorgliga-besked-det-ar-svart/11701992",
+      "source": "svenskdam",
+      "title": "Thomas Wassberg om Gundes sorgliga besked: ”Det är svårt”",
+      "url": "https://www.svenskdam.se/noje/thomas-wassberg-om-gundes-sorgliga-besked-det-ar-svart/11701992",
+      "date": "11/11/2026",
+      "publishedAt": "2026-11-11T06:00:00+01:00",
+      "type": "Nöje",
+      "firstSeenAt": "2026-11-12T11:54:27.308Z",
+      "titleVi": "Thomas Wassberg về tin buồn của Gunde: \"Thật khó khăn\""
+    },
+    {
+      "id": "https://www.svenskdam.se/noje/carina-bergfeldts-ovissa-tid-med-maken-jesper-zolck-inte-bestamt/11702332",
+      "source": "svenskdam",
+      "title": "Carina Bergfeldts svåra beslut med maken Jesper Zølck: \"Inte bestämt\"",
+      "url": "https://www.svenskdam.se/noje/carina-bergfeldts-ovissa-tid-med-maken-jesper-zolck-inte-bestamt/11702332",
+      "date": "10/11/2026",
+      "publishedAt": "2026-11-10T20:00:00+01:00",
+      "type": "Nöje",
+      "firstSeenAt": "2026-11-12T11:54:27.308Z",
+      "titleVi": "Quyết định khó khăn của Carina Bergfeldt với chồng Jesper Zølck: \"Chưa quyết định\""
+    },
+    {
+      "id": "https://www.svenskdam.se/noje/tv4-profilen-erik-videgard-tackar-for-sig-ar-klar-med-jobbet-slut/11701889",
+      "source": "svenskdam",
+      "title": "TV4-profilen Erik Videgård tackar för sig – är klar med jobbet: \"Slut\"",
+      "url": "https://www.svenskdam.se/noje/tv4-profilen-erik-videgard-tackar-for-sig-ar-klar-med-jobbet-slut/11701889",
+      "date": "11/11/2026",
+      "publishedAt": "2026-11-11T00:00:00+01:00",
+      "type": "Nöje",
+      "firstSeenAt": "2026-11-12T11:54:27.308Z",
+      "titleVi": "Nhân vật nổi tiếng của kênh TV4, Erik Videgård, nói lời cảm ơn và rời khỏi công việc: \"Kết thúc\""
     },
     {
       "id": "https://www.svenskdam.se/kungligt/prinsessan-martha-louises-small-durek-kraver-785-miljoner-i-uppgorelsen/11704029",
@@ -1195,171 +1382,6 @@
       "type": "Nöje",
       "firstSeenAt": "2026-11-11T22:57:42.885Z",
       "titleVi": "Bình luận gay gắt của Pernilla Wahlgren về hành động của nghệ sĩ nổi tiếng: “Thật kinh tởm…”"
-    },
-    {
-      "id": "https://www.svenskdam.se/kungligt/nu-gar-birgittas-smycken-under-klubban-se-de-svindlande-summorna/11704406",
-      "source": "svenskdam",
-      "title": "Nu går Birgittas smycken under klubban – se de svindlande summorna!",
-      "url": "https://www.svenskdam.se/kungligt/nu-gar-birgittas-smycken-under-klubban-se-de-svindlande-summorna/11704406",
-      "date": "11/11/2026",
-      "publishedAt": "2026-11-11T18:28:31+01:00",
-      "type": "Kungligt",
-      "firstSeenAt": "2026-11-11T22:57:42.885Z",
-      "titleVi": "Bây giờ, trang sức của Birgitta được đem ra đấu giá – hãy xem những con số chóng mặt!"
-    },
-    {
-      "id": "https://www.svenskdam.se/kungligt/klippte-av-fotbojan-nu-ar-meghan-markles-pappa-fangslad/11704101",
-      "source": "svenskdam",
-      "title": "Klippte av fotbojan – nu är Meghan Markles pappa fängslad",
-      "url": "https://www.svenskdam.se/kungligt/klippte-av-fotbojan-nu-ar-meghan-markles-pappa-fangslad/11704101",
-      "date": "11/11/2026",
-      "publishedAt": "2026-11-11T18:00:00+01:00",
-      "type": "Kungligt",
-      "firstSeenAt": "2026-11-11T22:57:42.885Z",
-      "titleVi": "Cắt vòng đeo mắt cá chân – giờ đây cha của Meghan Markle đang bị giam giữ"
-    },
-    {
-      "id": "https://www.svenskdam.se/noje/hemska-scener-efter-benjamin-ingrossos-konsert-folk-skrek-och-grat/11702412",
-      "source": "svenskdam",
-      "title": "Hemska scener efter Benjamin Ingrossos konsert: \"Folk skrek och grät\"",
-      "url": "https://www.svenskdam.se/noje/hemska-scener-efter-benjamin-ingrossos-konsert-folk-skrek-och-grat/11702412",
-      "date": "11/11/2026",
-      "publishedAt": "2026-11-11T17:00:00+01:00",
-      "type": "Nöje",
-      "firstSeenAt": "2026-11-11T22:57:42.885Z",
-      "titleVi": "Những cảnh tượng kinh hoàng sau buổi hòa nhạc của Benjamin Ingrosso: \"Mọi người la hét và khóc lóc\""
-    },
-    {
-      "id": "https://www.svenskdam.se/kungligt/hon-pekas-ut-som-skandalprinsens-nya-flickvan-vi-umgas/11701878",
-      "source": "svenskdam",
-      "title": "Hon pekas ut som skandalprinsens nya flickvän: \"Vi umgås\"",
-      "url": "https://www.svenskdam.se/kungligt/hon-pekas-ut-som-skandalprinsens-nya-flickvan-vi-umgas/11701878",
-      "date": "11/11/2026",
-      "publishedAt": "2026-11-11T16:00:00+01:00",
-      "type": "Kungligt",
-      "firstSeenAt": "2026-11-11T22:57:42.885Z",
-      "titleVi": "Cô được cho là bạn gái mới của hoàng tử tai tiếng: \"Chúng tôi đang hẹn hò\""
-    },
-    {
-      "id": "https://www.svenskdam.se/kungligt/prinsessan-christina-pa-uppdrag-med-kungaparet-nya-beslutet/11704248",
-      "source": "svenskdam",
-      "title": "Prinsessan Christina på uppdrag med kungaparet – nya beslutet",
-      "url": "https://www.svenskdam.se/kungligt/prinsessan-christina-pa-uppdrag-med-kungaparet-nya-beslutet/11704248",
-      "date": "11/11/2026",
-      "publishedAt": "2026-11-11T15:30:00+01:00",
-      "type": "Kungligt",
-      "firstSeenAt": "2026-11-11T22:57:42.885Z",
-      "titleVi": "Công chúa Christina thực hiện nhiệm vụ cùng vợ chồng nhà vua – quyết định mới"
-    },
-    {
-      "id": "https://www.svenskdam.se/noje/carina-bergfeldts-ord-i-intervjun-vacker-ilska-opassande-och-otajmat/11702325",
-      "source": "svenskdam",
-      "title": "Carina Bergfeldts ord i intervjun väcker ilska: \"Opassande och otajmat\"",
-      "url": "https://www.svenskdam.se/noje/carina-bergfeldts-ord-i-intervjun-vacker-ilska-opassande-och-otajmat/11702325",
-      "date": "11/11/2026",
-      "publishedAt": "2026-11-11T15:00:00+01:00",
-      "type": "Nöje",
-      "firstSeenAt": "2026-11-11T22:57:42.885Z",
-      "titleVi": "Những lời của Carina Bergfeldt trong cuộc phỏng vấn gây ra sự phẫn nộ: \"Không phù hợp và không đúng lúc\""
-    },
-    {
-      "id": "https://www.svenskdam.se/kungligt/hovet-bekraftar-kungen-blixtinkallad-till-mote-pa-slottet-med-victoria/11704238",
-      "source": "svenskdam",
-      "title": "Hovet bekräftar: Kungen blixtinkallad till möte på slottet med Victoria",
-      "url": "https://www.svenskdam.se/kungligt/hovet-bekraftar-kungen-blixtinkallad-till-mote-pa-slottet-med-victoria/11704238",
-      "date": "11/11/2026",
-      "publishedAt": "2026-11-11T14:35:53+01:00",
-      "type": "Kungligt",
-      "firstSeenAt": "2026-11-11T22:57:42.885Z",
-      "titleVi": "Cung điện Hoàng gia xác nhận: Nhà vua được triệu tập khẩn cấp đến cuộc họp tại cung điện với Công chúa Victoria"
-    },
-    {
-      "id": "https://www.svenskdam.se/noje/casper-janebrink-har-gjort-sig-av-med-hunden-rambo-funkade-inte/11702356",
-      "source": "svenskdam",
-      "title": "Casper Janebrink har gjort sig av med hunden Rambo: \"Funkade inte\"",
-      "url": "https://www.svenskdam.se/noje/casper-janebrink-har-gjort-sig-av-med-hunden-rambo-funkade-inte/11702356",
-      "date": "11/11/2026",
-      "publishedAt": "2026-11-11T08:00:00+01:00",
-      "type": "Nöje",
-      "firstSeenAt": "2026-11-11T16:29:19.547Z",
-      "titleVi": "Casper Janebrink đã bỏ con chó Rambo: \"Không hợp\""
-    },
-    {
-      "id": "https://www.svenskdam.se/noje/thomas-wassberg-om-gundes-sorgliga-besked-det-ar-svart/11701992",
-      "source": "svenskdam",
-      "title": "Thomas Wassberg om Gundes sorgliga besked: ”Det är svårt”",
-      "url": "https://www.svenskdam.se/noje/thomas-wassberg-om-gundes-sorgliga-besked-det-ar-svart/11701992",
-      "date": "11/11/2026",
-      "publishedAt": "2026-11-11T06:00:00+01:00",
-      "type": "Nöje",
-      "firstSeenAt": "2026-11-12T11:54:27.308Z",
-      "titleVi": "Thomas Wassberg về tin buồn của Gunde: \"Thật khó khăn\""
-    },
-    {
-      "id": "https://www.svenskdam.se/noje/carina-bergfeldts-ovissa-tid-med-maken-jesper-zolck-inte-bestamt/11702332",
-      "source": "svenskdam",
-      "title": "Carina Bergfeldts svåra beslut med maken Jesper Zølck: \"Inte bestämt\"",
-      "url": "https://www.svenskdam.se/noje/carina-bergfeldts-ovissa-tid-med-maken-jesper-zolck-inte-bestamt/11702332",
-      "date": "10/11/2026",
-      "publishedAt": "2026-11-10T20:00:00+01:00",
-      "type": "Nöje",
-      "firstSeenAt": "2026-11-12T11:54:27.308Z",
-      "titleVi": "Quyết định khó khăn của Carina Bergfeldt với chồng Jesper Zølck: \"Chưa quyết định\""
-    },
-    {
-      "id": "https://www.svenskdam.se/noje/tv4-profilen-erik-videgard-tackar-for-sig-ar-klar-med-jobbet-slut/11701889",
-      "source": "svenskdam",
-      "title": "TV4-profilen Erik Videgård tackar för sig – är klar med jobbet: \"Slut\"",
-      "url": "https://www.svenskdam.se/noje/tv4-profilen-erik-videgard-tackar-for-sig-ar-klar-med-jobbet-slut/11701889",
-      "date": "11/11/2026",
-      "publishedAt": "2026-11-11T00:00:00+01:00",
-      "type": "Nöje",
-      "firstSeenAt": "2026-11-12T11:54:27.308Z",
-      "titleVi": "Nhân vật nổi tiếng của kênh TV4, Erik Videgård, nói lời cảm ơn và rời khỏi công việc: \"Kết thúc\""
-    },
-    {
-      "id": "https://www.svenskdam.se/noje/avslojar-tv4s-beslut-for-renee-nyberg-efter-alla-ar-i-rutan/11703997",
-      "source": "svenskdam",
-      "title": "TV4:s plötsliga beslut för Renée Nyberg efter alla år i rutan",
-      "url": "https://www.svenskdam.se/noje/avslojar-tv4s-beslut-for-renee-nyberg-efter-alla-ar-i-rutan/11703997",
-      "date": "11/11/2026",
-      "publishedAt": "2026-11-11T14:00:00+01:00",
-      "type": "Nöje",
-      "firstSeenAt": "2026-11-11T22:57:42.885Z",
-      "titleVi": "Quyết định đột ngột của đài TV4 đối với Renée Nyberg sau nhiều năm xuất hiện trên sóng truyền hình"
-    },
-    {
-      "id": "https://www.svenskdam.se/kungligt/nya-avslojandet-haakon-visste-om-att-marius-skulle-gripas-vadjan-till-polisen/11703990",
-      "source": "svenskdam",
-      "title": "Nya avslöjandet: Haakon visste om att Marius skulle gripas – vädjan till polisen",
-      "url": "https://www.svenskdam.se/kungligt/nya-avslojandet-haakon-visste-om-att-marius-skulle-gripas-vadjan-till-polisen/11703990",
-      "date": "11/11/2026",
-      "publishedAt": "2026-11-11T13:21:13+01:00",
-      "type": "Kungligt",
-      "firstSeenAt": "2026-11-11T22:57:42.885Z",
-      "titleVi": "Tiết lộ mới: Haakon biết Marius sẽ bị bắt – lời kêu gọi gửi đến cảnh sát"
-    },
-    {
-      "id": "https://www.svenskdam.se/noje/malin-berghagen-i-chock-efter-ai-botens-ord-till-henne-skrammande/11703694",
-      "source": "svenskdam",
-      "title": "Malin Berghagen i chock efter AI-botens ord till henne: \"Skrämmande\"",
-      "url": "https://www.svenskdam.se/noje/malin-berghagen-i-chock-efter-ai-botens-ord-till-henne-skrammande/11703694",
-      "date": "11/11/2026",
-      "publishedAt": "2026-11-11T13:00:00+01:00",
-      "type": "Nöje",
-      "firstSeenAt": "2026-11-11T22:57:42.885Z",
-      "titleVi": "Malin Berghagen sốc sau những lời mà bot AI nói với cô: \"Thật đáng sợ\""
-    },
-    {
-      "id": "https://www.svenskdam.se/noje/tilde-de-paulas-nya-besked-om-maken-efter-alla-ar-ihop-tack-for/11701517",
-      "source": "svenskdam",
-      "title": "Tilde de Paulas nya besked om maken – efter alla år ihop: \"Tack för...\"",
-      "url": "https://www.svenskdam.se/noje/tilde-de-paulas-nya-besked-om-maken-efter-alla-ar-ihop-tack-for/11701517",
-      "date": "11/11/2026",
-      "publishedAt": "2026-11-11T13:00:00+01:00",
-      "type": "Nöje",
-      "firstSeenAt": "2026-11-11T22:57:42.885Z",
-      "titleVi": "Thông báo mới của Tilde de Paula về người chồng – sau bao nhiêu năm bên nhau: \"Cảm ơn vì...\""
     },
     {
       "id": "https://www.kongehuset.no/nyheter/forfremmet-til-kommandor",
