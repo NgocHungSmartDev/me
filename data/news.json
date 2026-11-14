@@ -1,6 +1,6 @@
 {
   "monitoringStartedAt": "2026-09-28T00:17:35.319Z",
-  "updatedAt": "2026-11-14T01:49:17.712Z",
+  "updatedAt": "2026-11-14T08:40:20.935Z",
   "sources": {
     "kongehuset": {
       "name": "Kongehuset",
@@ -57,9 +57,9 @@
       "language": "no",
       "monitoringStartedAt": "2026-10-01T16:30:06.936Z",
       "status": {
-        "state": "error",
-        "message": "The Norwegian Royal House Atom feed returned no entries",
-        "changedAt": "2026-11-14T01:49:17.712Z"
+        "state": "ok",
+        "message": "",
+        "changedAt": "2026-11-14T08:40:20.935Z"
       }
     }
   },
@@ -522,6 +522,86 @@
       "titleVi": "thăm cấp nhà nước Việt Nam - ngày 1"
     },
     {
+      "id": "https://nyheder.tv2.dk/live/2024-09-08-seneste-nyt-om-krigen-i-ukraine-70b1d6cc-0720-404e-9878-45546e1999e7",
+      "source": "tv2",
+      "title": "Trump deltager torsdag i historisk møde med Putin og Xi",
+      "url": "https://nyheder.tv2.dk/live/2024-09-08-seneste-nyt-om-krigen-i-ukraine-70b1d6cc-0720-404e-9878-45546e1999e7",
+      "date": "08/09/2024",
+      "type": "Live",
+      "firstSeenAt": "2026-09-28T00:30:42.330Z",
+      "titleVi": "Vào thứ Năm, ông Trump sẽ tham dự cuộc gặp lịch sử với ông Putin và ông Tập Cận Bình"
+    },
+    {
+      "id": "https://nyheder.tv2.dk/samfund/2026-11-14-ansatte-i-hjemmeplejen-bliver-overvaaget-viser-undersoegelse",
+      "source": "tv2",
+      "title": "Ansatte i hjemmeplejen bliver overvåget, viser undersøgelse",
+      "url": "https://nyheder.tv2.dk/samfund/2026-11-14-ansatte-i-hjemmeplejen-bliver-overvaaget-viser-undersoegelse",
+      "date": "14/11/2026",
+      "type": "Samfund",
+      "firstSeenAt": "2026-11-14T08:40:20.935Z",
+      "titleVi": "Một cuộc khảo sát cho thấy nhân viên chăm sóc tại nhà đang bị giám sát"
+    },
+    {
+      "id": "https://nyheder.tv2.dk/live/politik/2026-11-13-venstre-holder-landsmoede-midt-i-krise",
+      "source": "tv2",
+      "title": "- Det er nogle bemærkelsesværdigt hårde ord, siger Redder",
+      "url": "https://nyheder.tv2.dk/live/politik/2026-11-13-venstre-holder-landsmoede-midt-i-krise",
+      "date": "13/11/2026",
+      "type": "Live",
+      "firstSeenAt": "2026-11-13T15:36:05.122Z",
+      "titleVi": "- Đó là những lời lẽ hết sức gay gắt, ông Redder nói"
+    },
+    {
+      "id": "https://nyheder.tv2.dk/live/kort-nyt",
+      "source": "tv2",
+      "title": "Kraftig brand hærger ejendom - hel længe brændt ned",
+      "url": "https://nyheder.tv2.dk/live/kort-nyt",
+      "date": "—",
+      "type": "Live",
+      "firstSeenAt": "2026-09-28T00:30:42.330Z",
+      "titleVi": "Vụ hỏa hoạn lớn tàn phá tòa nhà - toàn bộ một tầng bị thiêu rụi"
+    },
+    {
+      "id": "https://nyheder.tv2.dk/business/2026-11-13-billigere-elbiler-paa-vej-til-udvalgte-grupper-af-danskere-erfarer-tv-2",
+      "source": "tv2",
+      "title": "Billigere elbiler på vej til udvalgte grupper af danskere, erfarer TV 2",
+      "url": "https://nyheder.tv2.dk/business/2026-11-13-billigere-elbiler-paa-vej-til-udvalgte-grupper-af-danskere-erfarer-tv-2",
+      "date": "13/11/2026",
+      "type": "Business",
+      "firstSeenAt": "2026-11-14T08:40:20.935Z",
+      "titleVi": "Theo thông tin của kênh TV 2, xe điện giá rẻ sắp được cung cấp cho một số nhóm người Đan Mạch nhất định"
+    },
+    {
+      "id": "https://nyheder.tv2.dk/udland/2026-11-14-musk-vil-redde-skandaleramt-chef",
+      "source": "tv2",
+      "title": "Musk vil redde skandaleramt chef",
+      "url": "https://nyheder.tv2.dk/udland/2026-11-14-musk-vil-redde-skandaleramt-chef",
+      "date": "14/11/2026",
+      "type": "Udland",
+      "firstSeenAt": "2026-11-14T08:40:20.935Z",
+      "titleVi": "Musk muốn cứu vãn vị giám đốc dính bê bối"
+    },
+    {
+      "id": "https://nyheder.tv2.dk/trafik/2026-11-14-ung-kvinde-alvorligt-kvaestet-i-flugtulykke",
+      "source": "tv2",
+      "title": "Ung kvinde alvorligt kvæstet i flugtulykke",
+      "url": "https://nyheder.tv2.dk/trafik/2026-11-14-ung-kvinde-alvorligt-kvaestet-i-flugtulykke",
+      "date": "14/11/2026",
+      "type": "Trafik",
+      "firstSeenAt": "2026-11-14T08:40:20.935Z",
+      "titleVi": "Một phụ nữ trẻ bị thương nặng trong vụ tai nạn khi đang bỏ chạy"
+    },
+    {
+      "id": "https://nyheder.tv2.dk/samfund/2026-11-06-koedaedende-bakterier-rammer-kvinder",
+      "source": "tv2",
+      "title": "Kødædende bakterier rammer kvinder",
+      "url": "https://nyheder.tv2.dk/samfund/2026-11-06-koedaedende-bakterier-rammer-kvinder",
+      "date": "06/11/2026",
+      "type": "Samfund",
+      "firstSeenAt": "2026-11-14T08:40:20.935Z",
+      "titleVi": "Vi khuẩn ăn thịt tấn công phụ nữ"
+    },
+    {
       "id": "https://nyheder.tv2.dk/live/udland/2026-11-13-landsdaekkende-flyveforbud-i-usa",
       "source": "tv2",
       "title": "De amerikanske luftfartsmyndigheder udsteder landsdækkende flyveforbud",
@@ -532,6 +612,26 @@
       "titleVi": "Cơ quan hàng không Hoa Kỳ ban hành lệnh cấm bay trên toàn quốc"
     },
     {
+      "id": "https://nyheder.tv2.dk/udland/2026-11-13-magtkamp-truer-efter-valgsejr",
+      "source": "tv2",
+      "title": "Magtkamp truer efter valgsejr",
+      "url": "https://nyheder.tv2.dk/udland/2026-11-13-magtkamp-truer-efter-valgsejr",
+      "date": "13/11/2026",
+      "type": "Udland",
+      "firstSeenAt": "2026-11-14T08:40:20.935Z",
+      "titleVi": "Cuộc chiến quyền lực đe dọa sau chiến thắng bầu cử"
+    },
+    {
+      "id": "https://nyheder.tv2.dk/live/samfund/2026-11-13-microsoft-nede-i-store-dele-af-verden",
+      "source": "tv2",
+      "title": "Microsoft-tjenester er nede i store dele af verden – 74 lande ramt",
+      "url": "https://nyheder.tv2.dk/live/samfund/2026-11-13-microsoft-nede-i-store-dele-af-verden",
+      "date": "13/11/2026",
+      "type": "Live",
+      "firstSeenAt": "2026-11-13T07:21:28.018Z",
+      "titleVi": "Các dịch vụ của Microsoft bị gián đoạn ở nhiều nơi trên thế giới – 74 quốc gia bị ảnh hưởng"
+    },
+    {
       "id": "https://nyheder.tv2.dk/live/udland/2026-11-13-tankskib-paasejler-krydstogtskib",
       "source": "tv2",
       "title": "Tankskib påsejler krydstogtskib – redningsaktion i gang",
@@ -540,16 +640,6 @@
       "type": "Live",
       "firstSeenAt": "2026-11-13T21:39:06.668Z",
       "titleVi": "Tàu chở dầu va chạm với tàu du lịch – chiến dịch cứu hộ đang được tiến hành"
-    },
-    {
-      "id": "https://nyheder.tv2.dk/live/kort-nyt",
-      "source": "tv2",
-      "title": "21-årig alvorligt tilskadekommen efter uheld",
-      "url": "https://nyheder.tv2.dk/live/kort-nyt",
-      "date": "—",
-      "type": "Live",
-      "firstSeenAt": "2026-09-28T00:30:42.330Z",
-      "titleVi": "Chàng trai 21 tuổi bị thương nặng sau vụ tai nạn"
     },
     {
       "id": "https://nyheder.tv2.dk/live/udland/2026-05-16-midtvejsvalg-i-usa",
@@ -612,16 +702,6 @@
       "titleVi": "Nvidia tiếp tục lao dốc và kéo theo thị trường chip"
     },
     {
-      "id": "https://nyheder.tv2.dk/live/2024-09-08-seneste-nyt-om-krigen-i-ukraine-70b1d6cc-0720-404e-9878-45546e1999e7",
-      "source": "tv2",
-      "title": "Putin er villig til at forsøge, siger amerikansk udsending",
-      "url": "https://nyheder.tv2.dk/live/2024-09-08-seneste-nyt-om-krigen-i-ukraine-70b1d6cc-0720-404e-9878-45546e1999e7",
-      "date": "08/09/2024",
-      "type": "Live",
-      "firstSeenAt": "2026-09-28T00:30:42.330Z",
-      "titleVi": "Ông Putin sẵn sàng thử, theo lời phái viên Mỹ"
-    },
-    {
       "id": "https://nyheder.tv2.dk/politik/2026-11-13-det-naeste-traek-troels-faar-udloebsdato-foer-livsvigtig-weekend",
       "source": "tv2",
       "title": "'Det næste træk': Troels får udløbsdato før livsvigtig weekend",
@@ -662,16 +742,6 @@
       "titleVi": "Jacob Harris bị tố cáo ra cảnh sát vì tội gian lận của bên nợ và khai man"
     },
     {
-      "id": "https://nyheder.tv2.dk/live/samfund/2026-11-13-microsoft-nede-i-store-dele-af-verden",
-      "source": "tv2",
-      "title": "Microsoft-tjenester er nede i store dele af verden – 74 lande ramt",
-      "url": "https://nyheder.tv2.dk/live/samfund/2026-11-13-microsoft-nede-i-store-dele-af-verden",
-      "date": "13/11/2026",
-      "type": "Live",
-      "firstSeenAt": "2026-11-13T07:21:28.018Z",
-      "titleVi": "Các dịch vụ của Microsoft bị gián đoạn ở nhiều nơi trên thế giới – 74 quốc gia bị ảnh hưởng"
-    },
-    {
       "id": "https://nyheder.tv2.dk/live/tech/2026-09-09-seneste-nyt-om-ai",
       "source": "tv2",
       "title": "EU-top holder første møde om AI",
@@ -690,16 +760,6 @@
       "type": "Udland",
       "firstSeenAt": "2026-11-13T15:36:05.122Z",
       "titleVi": "Ông Biden tiết lộ những gì ông Trump đã viết trong bức thư chia tay"
-    },
-    {
-      "id": "https://nyheder.tv2.dk/live/politik/2026-11-13-venstre-holder-landsmoede-midt-i-krise",
-      "source": "tv2",
-      "title": "- Det er nogle bemærkelsesværdigt hårde ord, siger Redder",
-      "url": "https://nyheder.tv2.dk/live/politik/2026-11-13-venstre-holder-landsmoede-midt-i-krise",
-      "date": "13/11/2026",
-      "type": "Live",
-      "firstSeenAt": "2026-11-13T15:36:05.122Z",
-      "titleVi": "- Đó là những lời lẽ hết sức gay gắt, ông Redder nói"
     },
     {
       "id": "https://nyheder.tv2.dk/samfund/2026-11-13-ungarbejder-overfuset-for-25-kroners-pant",
@@ -752,64 +812,15 @@
       "titleVi": "Trường hợp mắc bệnh sởi đầu tiên được phát hiện ở Đan Mạch trong năm nay"
     },
     {
-      "id": "https://nyheder.tv2.dk/udland/2026-11-13-microsoft-outlook-nede-i-store-dele-af-verden",
-      "source": "tv2",
-      "title": "Microsoft Outlook nede i store dele af verden",
-      "url": "https://nyheder.tv2.dk/udland/2026-11-13-microsoft-outlook-nede-i-store-dele-af-verden",
-      "date": "13/11/2026",
-      "type": "Udland",
-      "firstSeenAt": "2026-11-13T07:21:28.018Z",
-      "titleVi": "Microsoft Outlook bị sập ở nhiều nơi trên thế giới"
-    },
-    {
-      "id": "https://nyheder.tv2.dk/politik/2026-11-13-avisledere-messerschmidt-har-solgt-sig-for-billigt-i-skatteaftale",
-      "source": "tv2",
-      "title": "Avisledere: Messerschmidt har solgt sig for billigt i skatteaftale",
-      "url": "https://nyheder.tv2.dk/politik/2026-11-13-avisledere-messerschmidt-har-solgt-sig-for-billigt-i-skatteaftale",
-      "date": "13/11/2026",
-      "type": "Politik",
-      "firstSeenAt": "2026-11-13T07:21:28.018Z",
-      "titleVi": "Các tổng biên tập báo: Ông Messerschmidt đã bán mình quá rẻ trong thỏa thuận thuế"
-    },
-    {
-      "id": "https://nyheder.tv2.dk/samfund/2026-11-12-26-aarig-faar-marengs-af-sine-netto-bedsteforaeldre",
-      "source": "tv2",
-      "title": "26-årig får marengs af sine ”Netto-bedsteforældre”",
-      "url": "https://nyheder.tv2.dk/samfund/2026-11-12-26-aarig-faar-marengs-af-sine-netto-bedsteforaeldre",
-      "date": "12/11/2026",
-      "type": "Samfund",
-      "firstSeenAt": "2026-11-13T07:21:28.018Z",
-      "titleVi": "Chàng trai 26 tuổi được \"ông bà Netto\" tặng bánh meringue"
-    },
-    {
-      "id": "https://nyheder.tv2.dk/samfund/2026-11-11-nye-retningslinjer-gav-haab-men-kvinder-mangler-stadig-hjaelp",
-      "source": "tv2",
-      "title": "Nye retningslinjer gav håb, men kvinder mangler stadig hjælp",
-      "url": "https://nyheder.tv2.dk/samfund/2026-11-11-nye-retningslinjer-gav-haab-men-kvinder-mangler-stadig-hjaelp",
-      "date": "11/11/2026",
-      "type": "Samfund",
-      "firstSeenAt": "2026-11-13T07:21:28.018Z",
-      "titleVi": "Các hướng dẫn mới đã mang lại hy vọng, nhưng phụ nữ vẫn thiếu sự giúp đỡ"
-    },
-    {
-      "id": "https://nyheder.tv2.dk/samfund/2026-11-12-29-aarig-maerker-det-naar-moerket-kommer-i-aar-vil-han-goere-noget-nyt",
-      "source": "tv2",
-      "title": "29-årig mærker det, når mørket kommer – i år vil han gøre noget nyt",
-      "url": "https://nyheder.tv2.dk/samfund/2026-11-12-29-aarig-maerker-det-naar-moerket-kommer-i-aar-vil-han-goere-noget-nyt",
-      "date": "12/11/2026",
-      "type": "Samfund",
-      "firstSeenAt": "2026-11-13T00:41:56.691Z",
-      "titleVi": "Người đàn ông 29 tuổi cảm nhận được khi bóng tối ập đến – năm nay anh sẽ làm một điều gì đó mới mẻ"
-    },
-    {
-      "id": "https://nyheder.tv2.dk/live/udland/2026-11-12-personer-ramt-af-skud-taet-ved-det-hvide-hus",
-      "source": "tv2",
-      "title": "Personer ramt af skud tæt ved Det Hvide Hus",
-      "url": "https://nyheder.tv2.dk/live/udland/2026-11-12-personer-ramt-af-skud-taet-ved-det-hvide-hus",
-      "date": "12/11/2026",
-      "type": "Live",
-      "firstSeenAt": "2026-11-12T19:36:41.918Z",
-      "titleVi": "Những người bị trúng đạn gần Nhà Trắng"
+      "id": "https://www.kungahuset.se/arkiv/nyheter/2026-11-14-kronprinsessan-beskyddare-av-barndiabetesfonden",
+      "source": "kungahuset",
+      "title": "Kronprinsessan beskyddare av Barndiabetesfonden",
+      "url": "https://www.kungahuset.se/arkiv/nyheter/2026-11-14-kronprinsessan-beskyddare-av-barndiabetesfonden",
+      "date": "14 november 2026",
+      "publishedAt": "2026-11-14T08:33:58+01:00",
+      "type": "Nyheter",
+      "firstSeenAt": "2026-11-14T08:40:20.935Z",
+      "titleVi": "Công nương Thụy Điển bảo trợ Quỹ Bệnh tiểu đường trẻ em"
     },
     {
       "id": "https://www.kungahuset.se/arkiv/nyheter/2026-11-13-drottningen-uppmarksammar-mentor-sveriges-30-arsjubileum",
@@ -1019,17 +1030,6 @@
       "type": "Nyheter",
       "firstSeenAt": "2026-10-22T22:59:43.541Z",
       "titleVi": "Công chúa đã đến một phòng khám chụp quang tuyến vú"
-    },
-    {
-      "id": "https://www.kungahuset.se/arkiv/nyheter/2026-10-22-kronprinsessan-besokte-riga",
-      "source": "kungahuset",
-      "title": "Kronprinsessan besökte Riga",
-      "url": "https://www.kungahuset.se/arkiv/nyheter/2026-10-22-kronprinsessan-besokte-riga",
-      "date": "22 oktober 2026",
-      "publishedAt": "2026-10-22T16:15:00+02:00",
-      "type": "Nyheter",
-      "firstSeenAt": "2026-10-23T16:42:44.306Z",
-      "titleVi": "Công chúa vương miện đã đến thăm Riga"
     },
     {
       "id": "https://www.svenskdam.se/kungligt/kungen-och-drottningens-okanda-lyxrenovering-gjort-om-vaningen/11707463",
