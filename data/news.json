@@ -1,6 +1,6 @@
 {
   "monitoringStartedAt": "2026-09-28T00:17:35.319Z",
-  "updatedAt": "2026-11-14T15:21:07.478Z",
+  "updatedAt": "2026-11-14T20:01:10.592Z",
   "sources": {
     "kongehuset": {
       "name": "Kongehuset",
@@ -33,9 +33,9 @@
       "language": "sv",
       "monitoringStartedAt": "2026-10-01T16:20:13.213Z",
       "status": {
-        "state": "ok",
-        "message": "",
-        "changedAt": "2026-11-13T07:21:28.018Z"
+        "state": "error",
+        "message": "fetch failed",
+        "changedAt": "2026-11-14T20:01:10.592Z"
       }
     },
     "svenskdam": {
@@ -58,8 +58,8 @@
       "monitoringStartedAt": "2026-10-01T16:30:06.936Z",
       "status": {
         "state": "error",
-        "message": "HTTP 401 Unauthorized",
-        "changedAt": "2026-11-14T15:21:07.478Z"
+        "message": "The Norwegian Royal House Atom feed returned no entries",
+        "changedAt": "2026-11-14T20:01:10.592Z"
       }
     }
   },
@@ -522,34 +522,84 @@
       "titleVi": "thăm cấp nhà nước Việt Nam - ngày 1"
     },
     {
-      "id": "https://nyheder.tv2.dk/live/politik/2026-11-13-venstre-holder-landsmoede-midt-i-krise",
+      "id": "https://nyheder.tv2.dk/live/udland/2026-11-13-landsdaekkende-flyveforbud-i-usa",
       "source": "tv2",
-      "title": "Troels Lund holder pressemøde",
-      "url": "https://nyheder.tv2.dk/live/politik/2026-11-13-venstre-holder-landsmoede-midt-i-krise",
+      "title": "Flyveforbud over USA ophævet",
+      "url": "https://nyheder.tv2.dk/live/udland/2026-11-13-landsdaekkende-flyveforbud-i-usa",
       "date": "13/11/2026",
       "type": "Live",
-      "firstSeenAt": "2026-11-13T15:36:05.122Z",
-      "titleVi": "Troels Lund tổ chức họp báo"
-    },
-    {
-      "id": "https://nyheder.tv2.dk/samfund/2026-11-14-josefine-hoegh-udnyttet-af-influencere",
-      "source": "tv2",
-      "title": "Josefine Høgh udnyttet af influencere",
-      "url": "https://nyheder.tv2.dk/samfund/2026-11-14-josefine-hoegh-udnyttet-af-influencere",
-      "date": "14/11/2026",
-      "type": "Samfund",
-      "firstSeenAt": "2026-11-14T15:21:07.478Z",
-      "titleVi": "Josefine Høgh bị những người có ảnh hưởng lợi dụng"
+      "firstSeenAt": "2026-11-13T21:39:06.668Z",
+      "titleVi": "Lệnh cấm bay trên bầu trời Hoa Kỳ đã được dỡ bỏ"
     },
     {
       "id": "https://nyheder.tv2.dk/live/kort-nyt",
       "source": "tv2",
-      "title": "Historisk kro går konkurs",
+      "title": "Restaurant på Frederiksberg lukket efter 162 år",
       "url": "https://nyheder.tv2.dk/live/kort-nyt",
       "date": "—",
       "type": "Live",
       "firstSeenAt": "2026-09-28T00:30:42.330Z",
-      "titleVi": "Nhà trọ lịch sử phá sản"
+      "titleVi": "Nhà hàng ở Frederiksberg đóng cửa sau 162 năm hoạt động"
+    },
+    {
+      "id": "https://nyheder.tv2.dk/live/business/2025-08-20-turbulente-tider-i-novo",
+      "source": "tv2",
+      "title": "Novo opjusterer forventninger",
+      "url": "https://nyheder.tv2.dk/live/business/2025-08-20-turbulente-tider-i-novo",
+      "date": "20/08/2025",
+      "type": "Live",
+      "firstSeenAt": "2026-11-14T20:01:10.592Z",
+      "titleVi": "Novo nâng mức dự báo"
+    },
+    {
+      "id": "https://nyheder.tv2.dk/udland/2026-11-13-politichef-sigtes-for-at-staa-bag-kidnapning-af-russiske-alkoholikere-til-putins-krig",
+      "source": "tv2",
+      "title": "Politichef sigtes for at stå bag kidnapning af russiske alkoholikere til Putins krig",
+      "url": "https://nyheder.tv2.dk/udland/2026-11-13-politichef-sigtes-for-at-staa-bag-kidnapning-af-russiske-alkoholikere-til-putins-krig",
+      "date": "13/11/2026",
+      "type": "Udland",
+      "firstSeenAt": "2026-11-14T20:01:10.592Z",
+      "titleVi": "Cảnh sát trưởng bị cáo buộc đứng sau vụ bắt cóc những người nghiện rượu Nga để đưa họ tham gia cuộc chiến của Putin"
+    },
+    {
+      "id": "https://nyheder.tv2.dk/live/klima/2026-11-09-cop31-er-i-gang",
+      "source": "tv2",
+      "title": "Vigtigt klimatopmøde er i gang",
+      "url": "https://nyheder.tv2.dk/live/klima/2026-11-09-cop31-er-i-gang",
+      "date": "09/11/2026",
+      "type": "Live",
+      "firstSeenAt": "2026-11-14T20:01:10.592Z",
+      "titleVi": "Hội nghị thượng đỉnh quan trọng về khí hậu đang diễn ra"
+    },
+    {
+      "id": "https://nyheder.tv2.dk/politik/2026-11-14-under-de-staaende-klapsalver-ulmer-uroen-fortsat-i-venstre-foelg-med-foer-an-eller-forsvind",
+      "source": "tv2",
+      "title": "Under de stående klapsalver ulmer uroen fortsat i Venstre - “Følg med, før an eller forsvind”",
+      "url": "https://nyheder.tv2.dk/politik/2026-11-14-under-de-staaende-klapsalver-ulmer-uroen-fortsat-i-venstre-foelg-med-foer-an-eller-forsvind",
+      "date": "14/11/2026",
+      "type": "Politik",
+      "firstSeenAt": "2026-11-14T20:01:10.592Z",
+      "titleVi": "Dưới những tràng pháo tay vang dội, sự bất ổn vẫn âm ỉ trong Đảng Tự do - “Hãy theo kịp, đi trước hoặc biến mất”"
+    },
+    {
+      "id": "https://nyheder.tv2.dk/live/politik/2026-11-13-venstre-holder-landsmoede-midt-i-krise",
+      "source": "tv2",
+      "title": "Fogh foreslår opsigtsvækkende fusion",
+      "url": "https://nyheder.tv2.dk/live/politik/2026-11-13-venstre-holder-landsmoede-midt-i-krise",
+      "date": "13/11/2026",
+      "type": "Live",
+      "firstSeenAt": "2026-11-13T15:36:05.122Z",
+      "titleVi": "Ông Fogh đề xuất một vụ sáp nhập gây chấn động"
+    },
+    {
+      "id": "https://nyheder.tv2.dk/udland/2026-11-14-usa-mister-vigtig-status",
+      "source": "tv2",
+      "title": "USA mister vigtig status",
+      "url": "https://nyheder.tv2.dk/udland/2026-11-14-usa-mister-vigtig-status",
+      "date": "14/11/2026",
+      "type": "Udland",
+      "firstSeenAt": "2026-11-14T20:01:10.592Z",
+      "titleVi": "Hoa Kỳ mất đi vị thế quan trọng"
     },
     {
       "id": "https://nyheder.tv2.dk/live/2024-09-08-seneste-nyt-om-krigen-i-ukraine-70b1d6cc-0720-404e-9878-45546e1999e7",
@@ -562,6 +612,36 @@
       "titleVi": "Vào thứ Năm, ông Trump sẽ tham dự cuộc gặp lịch sử với ông Putin và ông Tập Cận Bình"
     },
     {
+      "id": "https://nyheder.tv2.dk/live/tech/2026-09-09-seneste-nyt-om-ai",
+      "source": "tv2",
+      "title": "EU-top holder første møde om AI",
+      "url": "https://nyheder.tv2.dk/live/tech/2026-09-09-seneste-nyt-om-ai",
+      "date": "09/09/2026",
+      "type": "Live",
+      "firstSeenAt": "2026-11-13T15:36:05.122Z",
+      "titleVi": "Hội nghị thượng đỉnh EU tổ chức cuộc họp đầu tiên về trí tuệ nhân tạo"
+    },
+    {
+      "id": "https://nyheder.tv2.dk/samfund/2026-11-14-totalt-udsolgt-koncert-maatte-afbrydes-igen-og-igen-og-igen",
+      "source": "tv2",
+      "title": "Totalt udsolgt koncert måtte afbrydes igen og igen og igen",
+      "url": "https://nyheder.tv2.dk/samfund/2026-11-14-totalt-udsolgt-koncert-maatte-afbrydes-igen-og-igen-og-igen",
+      "date": "14/11/2026",
+      "type": "Samfund",
+      "firstSeenAt": "2026-11-14T20:01:10.592Z",
+      "titleVi": "Buổi hòa nhạc cháy vé phải tạm dừng liên tục"
+    },
+    {
+      "id": "https://nyheder.tv2.dk/samfund/2026-11-14-josefine-hoegh-udnyttet-af-influencere",
+      "source": "tv2",
+      "title": "Josefine Høgh udnyttet af influencere",
+      "url": "https://nyheder.tv2.dk/samfund/2026-11-14-josefine-hoegh-udnyttet-af-influencere",
+      "date": "14/11/2026",
+      "type": "Samfund",
+      "firstSeenAt": "2026-11-14T15:21:07.478Z",
+      "titleVi": "Josefine Høgh bị những người có ảnh hưởng lợi dụng"
+    },
+    {
       "id": "https://nyheder.tv2.dk/live/politik/2026-11-14-stil-spoergsmaal-til-politisk-kommentator-noa-redington",
       "source": "tv2",
       "title": "Stil spørgsmål til politisk kommentator Noa Redington",
@@ -570,16 +650,6 @@
       "type": "Live",
       "firstSeenAt": "2026-11-14T15:21:07.478Z",
       "titleVi": "Đặt câu hỏi cho nhà bình luận chính trị Noa Redington"
-    },
-    {
-      "id": "https://nyheder.tv2.dk/live/udland/2026-11-13-landsdaekkende-flyveforbud-i-usa",
-      "source": "tv2",
-      "title": "Flyveforbud over USA ophævet",
-      "url": "https://nyheder.tv2.dk/live/udland/2026-11-13-landsdaekkende-flyveforbud-i-usa",
-      "date": "13/11/2026",
-      "type": "Live",
-      "firstSeenAt": "2026-11-13T21:39:06.668Z",
-      "titleVi": "Lệnh cấm bay trên bầu trời Hoa Kỳ đã được dỡ bỏ"
     },
     {
       "id": "https://nyheder.tv2.dk/live/udland/2026-05-16-midtvejsvalg-i-usa",
@@ -740,76 +810,6 @@
       "type": "Business",
       "firstSeenAt": "2026-11-13T21:39:06.668Z",
       "titleVi": "Mặc dù có thỏa thuận mới, người lái xe vẫn có nguy cơ bị lừa mua nhiên liệu rẻ hơn"
-    },
-    {
-      "id": "https://nyheder.tv2.dk/business/2026-11-13-mens-topchefens-liv-stod-i-flammer-blev-der-koebt-nvidia-aktier-som-aldrig-foer",
-      "source": "tv2",
-      "title": "Mens topchefens liv stod i flammer blev der købt Nvidia-aktier som aldrig før",
-      "url": "https://nyheder.tv2.dk/business/2026-11-13-mens-topchefens-liv-stod-i-flammer-blev-der-koebt-nvidia-aktier-som-aldrig-foer",
-      "date": "13/11/2026",
-      "type": "Business",
-      "firstSeenAt": "2026-11-13T21:39:06.668Z",
-      "titleVi": "Trong khi cuộc sống của vị CEO đang gặp rắc rối, cổ phiếu Nvidia vẫn được mua nhiều hơn bao giờ hết"
-    },
-    {
-      "id": "https://nyheder.tv2.dk/live/business/2025-03-12-seneste-nyt-fra-de-finansielle-markeder",
-      "source": "tv2",
-      "title": "Nvidia fortsætter nedturen og trækker chipmarkedet med",
-      "url": "https://nyheder.tv2.dk/live/business/2025-03-12-seneste-nyt-fra-de-finansielle-markeder",
-      "date": "12/03/2025",
-      "type": "Live",
-      "firstSeenAt": "2026-11-12T11:54:27.308Z",
-      "titleVi": "Nvidia tiếp tục lao dốc và kéo theo thị trường chip"
-    },
-    {
-      "id": "https://nyheder.tv2.dk/politik/2026-11-13-det-naeste-traek-troels-faar-udloebsdato-foer-livsvigtig-weekend",
-      "source": "tv2",
-      "title": "'Det næste træk': Troels får udløbsdato før livsvigtig weekend",
-      "url": "https://nyheder.tv2.dk/politik/2026-11-13-det-naeste-traek-troels-faar-udloebsdato-foer-livsvigtig-weekend",
-      "date": "13/11/2026",
-      "type": "Politik",
-      "firstSeenAt": "2026-11-13T21:39:06.668Z",
-      "titleVi": "'Bước đi tiếp theo': Troels được ấn định thời hạn trước một cuối tuần quan trọng"
-    },
-    {
-      "id": "https://nyheder.tv2.dk/samfund/2026-11-13-kan-fronterne-brydes-i-debatten-om-dansk-svineproduktion",
-      "source": "tv2",
-      "title": "Kan fronterne brydes i debatten om dansk svineproduktion?",
-      "url": "https://nyheder.tv2.dk/samfund/2026-11-13-kan-fronterne-brydes-i-debatten-om-dansk-svineproduktion",
-      "date": "13/11/2026",
-      "type": "Samfund",
-      "firstSeenAt": "2026-11-13T21:39:06.668Z",
-      "titleVi": "Liệu có thể phá vỡ các rào cản trong cuộc tranh luận về ngành chăn nuôi lợn Đan Mạch?"
-    },
-    {
-      "id": "https://nyheder.tv2.dk/live/business/2026-10-20-folketingsmedlem-idoemmes-konkurskarantaene",
-      "source": "tv2",
-      "title": "Jacob Harris politianmeldt for skyldnersvig og falsk forklaring",
-      "url": "https://nyheder.tv2.dk/live/business/2026-10-20-folketingsmedlem-idoemmes-konkurskarantaene",
-      "date": "20/10/2026",
-      "type": "Live",
-      "firstSeenAt": "2026-11-13T21:39:06.668Z",
-      "titleVi": "Jacob Harris bị tố cáo ra cảnh sát vì tội gian lận của bên nợ và khai man"
-    },
-    {
-      "id": "https://nyheder.tv2.dk/live/tech/2026-09-09-seneste-nyt-om-ai",
-      "source": "tv2",
-      "title": "EU-top holder første møde om AI",
-      "url": "https://nyheder.tv2.dk/live/tech/2026-09-09-seneste-nyt-om-ai",
-      "date": "09/09/2026",
-      "type": "Live",
-      "firstSeenAt": "2026-11-13T15:36:05.122Z",
-      "titleVi": "Hội nghị thượng đỉnh EU tổ chức cuộc họp đầu tiên về trí tuệ nhân tạo"
-    },
-    {
-      "id": "https://nyheder.tv2.dk/udland/2026-11-13-biden-afsloerer-hvad-trump-skrev-i-afskedsbrev",
-      "source": "tv2",
-      "title": "Biden afslører, hvad Trump skrev i afskedsbrev",
-      "url": "https://nyheder.tv2.dk/udland/2026-11-13-biden-afsloerer-hvad-trump-skrev-i-afskedsbrev",
-      "date": "13/11/2026",
-      "type": "Udland",
-      "firstSeenAt": "2026-11-13T15:36:05.122Z",
-      "titleVi": "Ông Biden tiết lộ những gì ông Trump đã viết trong bức thư chia tay"
     },
     {
       "id": "https://www.kungahuset.se/arkiv/nyheter/2026-11-14-kronprinsessan-beskyddare-av-barndiabetesfonden",
