@@ -1,6 +1,6 @@
 {
   "monitoringStartedAt": "2026-09-28T00:17:35.319Z",
-  "updatedAt": "2026-11-15T23:23:25.675Z",
+  "updatedAt": "2026-11-16T02:56:32.291Z",
   "sources": {
     "kongehuset": {
       "name": "Kongehuset",
@@ -57,9 +57,9 @@
       "language": "no",
       "monitoringStartedAt": "2026-10-01T16:30:06.936Z",
       "status": {
-        "state": "ok",
-        "message": "",
-        "changedAt": "2026-11-15T12:44:23.436Z"
+        "state": "error",
+        "message": "HTTP 401 Unauthorized",
+        "changedAt": "2026-11-16T02:56:32.291Z"
       }
     }
   },
