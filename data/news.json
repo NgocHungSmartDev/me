@@ -1,6 +1,6 @@
 {
   "monitoringStartedAt": "2026-09-28T00:17:35.319Z",
-  "updatedAt": "2026-11-16T10:49:11.387Z",
+  "updatedAt": "2026-11-16T20:49:11.075Z",
   "sources": {
     "kongehuset": {
       "name": "Kongehuset",
@@ -524,32 +524,162 @@
     {
       "id": "https://nyheder.tv2.dk/live/kort-nyt",
       "source": "tv2",
-      "title": "Politiet sigter fire for uro ved demonstration",
+      "title": "Tysk politi søger vidner efter stenkast mod solceller",
       "url": "https://nyheder.tv2.dk/live/kort-nyt",
       "date": "—",
       "type": "Live",
       "firstSeenAt": "2026-09-28T00:30:42.330Z",
-      "titleVi": "Cảnh sát buộc tội bốn người gây rối trong cuộc biểu tình"
+      "titleVi": "Cảnh sát Đức đang tìm kiếm nhân chứng sau vụ ném đá vào các tấm pin mặt trời"
     },
     {
-      "id": "https://nyheder.tv2.dk/live/politik/2026-11-16-udrejsecenter-uden-for-eu-praesenteres",
+      "id": "https://nyheder.tv2.dk/live/udland/2026-11-16-historisk-moede-ventes-mellem-trump-putin-og-xi",
       "source": "tv2",
-      "title": "Udrejsecenter uden for EU præsenteres",
-      "url": "https://nyheder.tv2.dk/live/politik/2026-11-16-udrejsecenter-uden-for-eu-praesenteres",
+      "title": "Historisk møde ventes mellem Trump, Putin og Xi",
+      "url": "https://nyheder.tv2.dk/live/udland/2026-11-16-historisk-moede-ventes-mellem-trump-putin-og-xi",
       "date": "16/11/2026",
       "type": "Live",
-      "firstSeenAt": "2026-11-16T10:49:11.387Z",
-      "titleVi": "Giới thiệu trung tâm trục xuất ngoài lãnh thổ EU"
+      "firstSeenAt": "2026-11-16T20:49:11.075Z",
+      "titleVi": "Dự kiến sẽ diễn ra cuộc gặp lịch sử giữa ông Trump, ông Putin và ông Tập Cận Bình"
     },
     {
       "id": "https://nyheder.tv2.dk/live/2024-09-08-seneste-nyt-om-krigen-i-ukraine-70b1d6cc-0720-404e-9878-45546e1999e7",
       "source": "tv2",
-      "title": "Ukraine angriber Krimbroen - lammer vigtig rute for Rusland",
+      "title": "Russisk kvinde anholdt efter bilbombe i Moskva",
       "url": "https://nyheder.tv2.dk/live/2024-09-08-seneste-nyt-om-krigen-i-ukraine-70b1d6cc-0720-404e-9878-45546e1999e7",
       "date": "08/09/2024",
       "type": "Live",
       "firstSeenAt": "2026-09-28T00:30:42.330Z",
-      "titleVi": "Ukraine tấn công Cầu Crimea - tê liệt tuyến đường quan trọng của Nga"
+      "titleVi": "Một phụ nữ Nga bị bắt sau vụ đánh bom xe hơi ở Moscow"
+    },
+    {
+      "id": "https://nyheder.tv2.dk/samfund/2026-11-16-far-tager-fri-fra-arbejde-for-at-spille-playstation-og-han-er-ikke-den-eneste",
+      "source": "tv2",
+      "title": "Far tager fri fra arbejde for at spille Playstation - og han er ikke den eneste",
+      "url": "https://nyheder.tv2.dk/samfund/2026-11-16-far-tager-fri-fra-arbejde-for-at-spille-playstation-og-han-er-ikke-den-eneste",
+      "date": "16/11/2026",
+      "type": "Samfund",
+      "firstSeenAt": "2026-11-16T20:49:11.075Z",
+      "titleVi": "Người cha xin nghỉ làm để chơi Playstation - và ông không phải là người duy nhất"
+    },
+    {
+      "id": "https://nyheder.tv2.dk/samfund/2026-11-16-kvinde-i-opraab-om-dumpet-affald-det-har-staaet-paa-i-aarevis",
+      "source": "tv2",
+      "title": "Kvinde i opråb om dumpet affald: - Det har stået på i årevis",
+      "url": "https://nyheder.tv2.dk/samfund/2026-11-16-kvinde-i-opraab-om-dumpet-affald-det-har-staaet-paa-i-aarevis",
+      "date": "16/11/2026",
+      "type": "Samfund",
+      "firstSeenAt": "2026-11-16T20:49:11.075Z",
+      "titleVi": "Một phụ nữ lên tiếng về tình trạng xả rác bừa bãi: - Tình trạng này đã diễn ra nhiều năm nay"
+    },
+    {
+      "id": "https://nyheder.tv2.dk/krimi/2026-11-16-pokemon-guldfeber-faar-butikker-til-at-skrue-op-for-sikkerheden",
+      "source": "tv2",
+      "title": "Pokémon-guldfeber får butikker til at skrue op for sikkerheden",
+      "url": "https://nyheder.tv2.dk/krimi/2026-11-16-pokemon-guldfeber-faar-butikker-til-at-skrue-op-for-sikkerheden",
+      "date": "16/11/2026",
+      "type": "Krimi",
+      "firstSeenAt": "2026-11-16T20:49:11.075Z",
+      "titleVi": "Cơn sốt vàng Pokémon khiến các cửa hàng phải tăng cường an ninh"
+    },
+    {
+      "id": "https://nyheder.tv2.dk/live/politik/2025-08-11-dansk-politik",
+      "source": "tv2",
+      "title": "Offentliggjort lydoptagelse modbeviser Jacob Harris",
+      "url": "https://nyheder.tv2.dk/live/politik/2025-08-11-dansk-politik",
+      "date": "11/08/2025",
+      "type": "Live",
+      "firstSeenAt": "2026-11-07T15:49:51.486Z",
+      "titleVi": "Bản ghi âm được công bố bác bỏ lời khai của Jacob Harris"
+    },
+    {
+      "id": "https://nyheder.tv2.dk/udland/2026-11-16-ti-aar-har-aendret-migrationspolitikken-nu-staar-europa-over-for-et-nyt-skridt",
+      "source": "tv2",
+      "title": "Ti år har ændret migrationspolitikken – nu står Europa over for et nyt skridt",
+      "url": "https://nyheder.tv2.dk/udland/2026-11-16-ti-aar-har-aendret-migrationspolitikken-nu-staar-europa-over-for-et-nyt-skridt",
+      "date": "16/11/2026",
+      "type": "Udland",
+      "firstSeenAt": "2026-11-16T20:49:11.075Z",
+      "titleVi": "Mười năm đã thay đổi chính sách di cư – giờ đây, châu Âu đang đối mặt với một bước ngoặt mới"
+    },
+    {
+      "id": "https://nyheder.tv2.dk/live/politik/2026-11-16-udrejsecenter-uden-for-eu-praesenteret",
+      "source": "tv2",
+      "title": "Mette Frederiksen bekræfter samarbejde om udrejseordning",
+      "url": "https://nyheder.tv2.dk/live/politik/2026-11-16-udrejsecenter-uden-for-eu-praesenteret",
+      "date": "16/11/2026",
+      "type": "Live",
+      "firstSeenAt": "2026-11-16T20:49:11.075Z",
+      "titleVi": "Bà Mette Frederiksen xác nhận sự hợp tác về chương trình trục xuất"
+    },
+    {
+      "id": "https://nyheder.tv2.dk/live/udland/2026-05-16-midtvejsvalg-i-usa",
+      "source": "tv2",
+      "title": "Trump med falsk påstand om \"fupnummer\"",
+      "url": "https://nyheder.tv2.dk/live/udland/2026-05-16-midtvejsvalg-i-usa",
+      "date": "16/05/2026",
+      "type": "Live",
+      "firstSeenAt": "2026-11-13T07:21:28.018Z",
+      "titleVi": "Ông Trump đưa ra tuyên bố sai lệch về \"trò lừa đảo\""
+    },
+    {
+      "id": "https://nyheder.tv2.dk/live/business/2025-03-12-seneste-nyt-fra-de-finansielle-markeder",
+      "source": "tv2",
+      "title": "Nvidia fortsætter nedturen og trækker chipmarkedet med",
+      "url": "https://nyheder.tv2.dk/live/business/2025-03-12-seneste-nyt-fra-de-finansielle-markeder",
+      "date": "12/03/2025",
+      "type": "Live",
+      "firstSeenAt": "2026-11-15T19:08:46.939Z",
+      "titleVi": "Nvidia tiếp tục suy giảm và kéo theo thị trường chip"
+    },
+    {
+      "id": "https://nyheder.tv2.dk/live/krimi/2026-11-15-politiet-jagter-maend-efter-roeveri-af-pokemon-kort",
+      "source": "tv2",
+      "title": "Politi efterlyser billeder fra Pokémon-røveri",
+      "url": "https://nyheder.tv2.dk/live/krimi/2026-11-15-politiet-jagter-maend-efter-roeveri-af-pokemon-kort",
+      "date": "15/11/2026",
+      "type": "Live",
+      "firstSeenAt": "2026-11-15T19:08:46.939Z",
+      "titleVi": "Cảnh sát yêu cầu cung cấp hình ảnh vụ cướp liên quan đến Pokémon"
+    },
+    {
+      "id": "https://nyheder.tv2.dk/politik/2026-11-16-jacob-harris-benaegter-nu-sin-egen-paastand-om-spaerret-konto",
+      "source": "tv2",
+      "title": "Jacob Harris benægter nu sin egen påstand om spærret konto",
+      "url": "https://nyheder.tv2.dk/politik/2026-11-16-jacob-harris-benaegter-nu-sin-egen-paastand-om-spaerret-konto",
+      "date": "16/11/2026",
+      "type": "Politik",
+      "firstSeenAt": "2026-11-16T20:49:11.075Z",
+      "titleVi": "Jacob Harris hiện đang phủ nhận tuyên bố của chính mình về việc tài khoản bị khóa"
+    },
+    {
+      "id": "https://nyheder.tv2.dk/krimi/2026-11-16-hidtil-yngste-svenske-dreng-idoemmes-fem-et-halvt-aar-for-drabsforsoeg",
+      "source": "tv2",
+      "title": "Hidtil yngste svenske dreng idømmes fem et halvt år for drabsforsøg",
+      "url": "https://nyheder.tv2.dk/krimi/2026-11-16-hidtil-yngste-svenske-dreng-idoemmes-fem-et-halvt-aar-for-drabsforsoeg",
+      "date": "16/11/2026",
+      "type": "Krimi",
+      "firstSeenAt": "2026-11-16T20:49:11.075Z",
+      "titleVi": "Cậu bé Thụy Điển trẻ nhất từ trước đến nay bị kết án năm năm rưỡi tù vì tội mưu sát"
+    },
+    {
+      "id": "https://nyheder.tv2.dk/politik/2026-11-16-statsminister-kalder-udrejseordning-for-epokegoerende",
+      "source": "tv2",
+      "title": "Statsminister kalder udrejseordning for epokegørende",
+      "url": "https://nyheder.tv2.dk/politik/2026-11-16-statsminister-kalder-udrejseordning-for-epokegoerende",
+      "date": "16/11/2026",
+      "type": "Politik",
+      "firstSeenAt": "2026-11-16T20:49:11.075Z",
+      "titleVi": "Thủ tướng gọi chương trình trục xuất là mang tính bước ngoặt"
+    },
+    {
+      "id": "https://nyheder.tv2.dk/samfund/2026-11-16-tv-midtvest-dropper-program-om-danmarks-aeldste",
+      "source": "tv2",
+      "title": "TV Midtvest dropper program om Danmarks ældste",
+      "url": "https://nyheder.tv2.dk/samfund/2026-11-16-tv-midtvest-dropper-program-om-danmarks-aeldste",
+      "date": "16/11/2026",
+      "type": "Samfund",
+      "firstSeenAt": "2026-11-16T20:49:11.075Z",
+      "titleVi": "Đài truyền hình TV Midtvest hủy chương trình về người cao tuổi nhất Đan Mạch"
     },
     {
       "id": "https://nyheder.tv2.dk/samfund/2026-11-16-danmarks-laengstlevende-bestred-lederposter-i-det-danske-nazistparti",
@@ -560,16 +690,6 @@
       "type": "Samfund",
       "firstSeenAt": "2026-11-16T10:49:11.387Z",
       "titleVi": "Người sống lâu nhất Đan Mạch đã từng giữ các chức vụ lãnh đạo trong đảng Quốc xã Đan Mạch"
-    },
-    {
-      "id": "https://nyheder.tv2.dk/live/krimi/2026-11-15-politiet-jagter-maend-efter-roeveri-af-pokemon-kort",
-      "source": "tv2",
-      "title": "Politi til stede med \"store ressourcer\" efter røveri",
-      "url": "https://nyheder.tv2.dk/live/krimi/2026-11-15-politiet-jagter-maend-efter-roeveri-af-pokemon-kort",
-      "date": "15/11/2026",
-      "type": "Live",
-      "firstSeenAt": "2026-11-15T19:08:46.939Z",
-      "titleVi": "Cảnh sát huy động \"lực lượng lớn\" sau vụ cướp"
     },
     {
       "id": "https://nyheder.tv2.dk/samfund/2026-11-16-oberst-og-kammerherre-jens-ole-rossen-joergensen-er-doed",
@@ -584,12 +704,12 @@
     {
       "id": "https://nyheder.tv2.dk/live/business/2026-11-16-danish-crown-fyrer-sin-administrerende-direktoer",
       "source": "tv2",
-      "title": "Danish Crown fyrer sin administrerende direktør",
+      "title": "Danish Crown fyrer administrerende direktør",
       "url": "https://nyheder.tv2.dk/live/business/2026-11-16-danish-crown-fyrer-sin-administrerende-direktoer",
       "date": "16/11/2026",
       "type": "Live",
       "firstSeenAt": "2026-11-16T10:49:11.387Z",
-      "titleVi": "Danish Crown sa thải Giám đốc điều hành của mình"
+      "titleVi": "Danish Crown sa thải Tổng Giám đốc điều hành"
     },
     {
       "id": "https://nyheder.tv2.dk/business/2026-11-16-vestas-nedlaegger-180-stillinger-i-danmark",
@@ -692,124 +812,37 @@
       "titleVi": "Hàng triệu người đình công ở Tây Ban Nha – hàng nghìn người xuống đường ở Madrid"
     },
     {
-      "id": "https://nyheder.tv2.dk/udland/2026-11-15-ny-migrantkrise-rammer-populaere-spanske-ferieoeer",
-      "source": "tv2",
-      "title": "Ny migrantkrise rammer populære spanske ferieøer",
-      "url": "https://nyheder.tv2.dk/udland/2026-11-15-ny-migrantkrise-rammer-populaere-spanske-ferieoeer",
-      "date": "15/11/2026",
-      "type": "Udland",
-      "firstSeenAt": "2026-11-15T23:23:25.675Z",
-      "titleVi": "Cuộc khủng hoảng người di cư mới ảnh hưởng đến các hòn đảo du lịch nổi tiếng của Tây Ban Nha"
+      "id": "https://www.kungahuset.se/arkiv/nyheter/2026-11-16-kungen-delade-ut-medaljer",
+      "source": "kungahuset",
+      "title": "Kungen delade ut medaljer",
+      "url": "https://www.kungahuset.se/arkiv/nyheter/2026-11-16-kungen-delade-ut-medaljer",
+      "date": "16 november 2026",
+      "publishedAt": "2026-11-16T21:35:20+01:00",
+      "type": "Nyheter",
+      "firstSeenAt": "2026-11-16T20:49:11.075Z",
+      "titleVi": "Nhà vua trao huy chương"
     },
     {
-      "id": "https://nyheder.tv2.dk/live/udland/2026-11-13-landsdaekkende-flyveforbud-i-usa",
-      "source": "tv2",
-      "title": "Flyveforbud over USA ophævet",
-      "url": "https://nyheder.tv2.dk/live/udland/2026-11-13-landsdaekkende-flyveforbud-i-usa",
-      "date": "13/11/2026",
-      "type": "Live",
-      "firstSeenAt": "2026-11-13T21:39:06.668Z",
-      "titleVi": "Lệnh cấm bay trên bầu trời Hoa Kỳ đã được dỡ bỏ"
+      "id": "https://www.kungahuset.se/arkiv/nyheter/2026-11-16-prins-daniel-delade-ut-pris-pa-stockholm-open",
+      "source": "kungahuset",
+      "title": "Prins Daniel delade ut pris på Stockholm Open",
+      "url": "https://www.kungahuset.se/arkiv/nyheter/2026-11-16-prins-daniel-delade-ut-pris-pa-stockholm-open",
+      "date": "16 november 2026",
+      "publishedAt": "2026-11-16T16:46:46+01:00",
+      "type": "Nyheter",
+      "firstSeenAt": "2026-11-16T20:49:11.075Z",
+      "titleVi": "Hoàng tử Daniel trao giải tại giải Stockholm Open"
     },
     {
-      "id": "https://nyheder.tv2.dk/live/udland/2026-09-11-valg-i-sverige",
-      "source": "tv2",
-      "title": "Riksdagen skal stemme om svensk partleder som statsminister",
-      "url": "https://nyheder.tv2.dk/live/udland/2026-09-11-valg-i-sverige",
-      "date": "11/09/2026",
-      "type": "Live",
-      "firstSeenAt": "2026-11-15T23:23:25.675Z",
-      "titleVi": "Quốc hội Thụy Điển sẽ bỏ phiếu bầu lãnh đạo đảng Thụy Điển làm Thủ tướng"
-    },
-    {
-      "id": "https://nyheder.tv2.dk/samfund/2026-09-23-beboere-paa-kaershovedgaard-frygter-udrejsecenter-uden-for-eu-hvorfor-skulle-jeg-tage-dertil",
-      "source": "tv2",
-      "title": "Beboere på Kærshovedgård frygter udrejsecenter uden for EU: - Hvorfor skulle jeg tage dertil?",
-      "url": "https://nyheder.tv2.dk/samfund/2026-09-23-beboere-paa-kaershovedgaard-frygter-udrejsecenter-uden-for-eu-hvorfor-skulle-jeg-tage-dertil",
-      "date": "23/09/2026",
-      "type": "Samfund",
-      "firstSeenAt": "2026-11-15T19:08:46.939Z",
-      "titleVi": "Cư dân tại Kærshovedgård lo ngại về trung tâm trục xuất ngoài EU: - Tại sao tôi phải đến đó?"
-    },
-    {
-      "id": "https://nyheder.tv2.dk/live/business/2025-03-12-seneste-nyt-fra-de-finansielle-markeder",
-      "source": "tv2",
-      "title": "Nvidia fortsætter nedturen og trækker chipmarkedet med",
-      "url": "https://nyheder.tv2.dk/live/business/2025-03-12-seneste-nyt-fra-de-finansielle-markeder",
-      "date": "12/03/2025",
-      "type": "Live",
-      "firstSeenAt": "2026-11-15T19:08:46.939Z",
-      "titleVi": "Nvidia tiếp tục suy giảm và kéo theo thị trường chip"
-    },
-    {
-      "id": "https://nyheder.tv2.dk/live/udland/2026-05-16-midtvejsvalg-i-usa",
-      "source": "tv2",
-      "title": "Senator udfordrer Demokraternes leder",
-      "url": "https://nyheder.tv2.dk/live/udland/2026-05-16-midtvejsvalg-i-usa",
-      "date": "16/05/2026",
-      "type": "Live",
-      "firstSeenAt": "2026-11-13T07:21:28.018Z",
-      "titleVi": "Thượng nghị sĩ thách thức lãnh đạo Đảng Dân chủ"
-    },
-    {
-      "id": "https://nyheder.tv2.dk/live/politik/2025-08-11-dansk-politik",
-      "source": "tv2",
-      "title": "Harris er klar til potentielt at give Bornholm til Rusland",
-      "url": "https://nyheder.tv2.dk/live/politik/2025-08-11-dansk-politik",
-      "date": "11/08/2025",
-      "type": "Live",
-      "firstSeenAt": "2026-11-07T15:49:51.486Z",
-      "titleVi": "Bà Harris sẵn sàng nhượng đảo Bornholm cho Nga"
-    },
-    {
-      "id": "https://nyheder.tv2.dk/samfund/2026-11-15-nyt-hjerte-gav-hende-livet-tilbage-nu-har-rekordmange-taget-stilling",
-      "source": "tv2",
-      "title": "Nyt hjerte gav hende livet tilbage – nu har rekordmange taget stilling",
-      "url": "https://nyheder.tv2.dk/samfund/2026-11-15-nyt-hjerte-gav-hende-livet-tilbage-nu-har-rekordmange-taget-stilling",
-      "date": "15/11/2026",
-      "type": "Samfund",
-      "firstSeenAt": "2026-11-15T19:08:46.939Z",
-      "titleVi": "Trái tim mới đã mang lại sự sống cho cô – giờ đây, một số lượng kỷ lục người đã lên tiếng"
-    },
-    {
-      "id": "https://nyheder.tv2.dk/live/politik/2026-11-13-venstre-holder-landsmoede-midt-i-krise",
-      "source": "tv2",
-      "title": "Lose \"rørt\" over ord fra Troels Lund",
-      "url": "https://nyheder.tv2.dk/live/politik/2026-11-13-venstre-holder-landsmoede-midt-i-krise",
-      "date": "13/11/2026",
-      "type": "Live",
-      "firstSeenAt": "2026-11-13T15:36:05.122Z",
-      "titleVi": "Lose \"cảm động\" trước những lời phát biểu của Troels Lund"
-    },
-    {
-      "id": "https://nyheder.tv2.dk/samfund/2026-11-15-sager-med-boern-paa-elloebehjul-eksploderer",
-      "source": "tv2",
-      "title": "Sager med børn på elløbehjul eksploderer",
-      "url": "https://nyheder.tv2.dk/samfund/2026-11-15-sager-med-boern-paa-elloebehjul-eksploderer",
-      "date": "15/11/2026",
-      "type": "Samfund",
-      "firstSeenAt": "2026-11-15T12:44:23.436Z",
-      "titleVi": "Số vụ việc liên quan đến trẻ em đi xe scooter điện đang gia tăng mạnh mẽ"
-    },
-    {
-      "id": "https://nyheder.tv2.dk/live/klima/2026-11-09-cop31-er-i-gang",
-      "source": "tv2",
-      "title": "Vigtigt klimatopmøde er i gang",
-      "url": "https://nyheder.tv2.dk/live/klima/2026-11-09-cop31-er-i-gang",
-      "date": "09/11/2026",
-      "type": "Live",
-      "firstSeenAt": "2026-11-14T20:01:10.592Z",
-      "titleVi": "Hội nghị thượng đỉnh quan trọng về khí hậu đang diễn ra"
-    },
-    {
-      "id": "https://nyheder.tv2.dk/udland/2026-11-15-flere-undrer-sig-over-trumps-fravaer-han-dukkede-ikke-engang-op",
-      "source": "tv2",
-      "title": "Flere undrer sig over Trumps fravær: - Han dukkede ikke engang op",
-      "url": "https://nyheder.tv2.dk/udland/2026-11-15-flere-undrer-sig-over-trumps-fravaer-han-dukkede-ikke-engang-op",
-      "date": "15/11/2026",
-      "type": "Udland",
-      "firstSeenAt": "2026-11-15T12:44:23.436Z",
-      "titleVi": "Nhiều người thắc mắc về sự vắng mặt của ông Trump: - Ông ấy thậm chí còn không xuất hiện"
+      "id": "https://www.kungahuset.se/arkiv/nyheter/2026-11-16-kungen-vid-krigsvetenskapsakademiens-hogtidssammankomst",
+      "source": "kungahuset",
+      "title": "Kungen vid Krigs­vetenskaps­akademiens högtids­sammankomst",
+      "url": "https://www.kungahuset.se/arkiv/nyheter/2026-11-16-kungen-vid-krigsvetenskapsakademiens-hogtidssammankomst",
+      "date": "16 november 2026",
+      "publishedAt": "2026-11-16T12:01:24+01:00",
+      "type": "Nyheter",
+      "firstSeenAt": "2026-11-16T20:49:11.075Z",
+      "titleVi": "Nhà Vua tại buổi lễ trọng thể của Học viện Khoa học Quân sự"
     },
     {
       "id": "https://www.kungahuset.se/arkiv/nyheter/2026-11-16-kungen-gav-foretrade-for-svenska-akademiens-standiga-sekreterare",
@@ -997,39 +1030,6 @@
       "type": "Nyheter",
       "firstSeenAt": "2026-11-07T02:38:23.865Z",
       "titleVi": "Cặp đôi công chúa vương miện nhận được lời khuyên của giới trẻ"
-    },
-    {
-      "id": "https://www.kungahuset.se/arkiv/nyheter/2026-11-06-prins-carl-philip-i-mote-med-ukrainska-formgivare",
-      "source": "kungahuset",
-      "title": "Prins Carl Philip i möte med ukrainska formgivare",
-      "url": "https://www.kungahuset.se/arkiv/nyheter/2026-11-06-prins-carl-philip-i-mote-med-ukrainska-formgivare",
-      "date": "6 november 2026",
-      "publishedAt": "2026-11-06T13:33:13+01:00",
-      "type": "Nyheter",
-      "firstSeenAt": "2026-11-06T17:57:30.903Z",
-      "titleVi": "Hoàng tử Carl Philip gặp gỡ các nhà thiết kế Ukraine"
-    },
-    {
-      "id": "https://www.kungahuset.se/arkiv/nyheter/2026-11-05-prins-daniel-besokte-gavleborg-med-prins-daniels-fellowship",
-      "source": "kungahuset",
-      "title": "Prins Daniel besökte Gävleborg med Prins Daniels Fellowship",
-      "url": "https://www.kungahuset.se/arkiv/nyheter/2026-11-05-prins-daniel-besokte-gavleborg-med-prins-daniels-fellowship",
-      "date": "5 november 2026",
-      "publishedAt": "2026-11-05T14:35:05+01:00",
-      "type": "Nyheter",
-      "firstSeenAt": "2026-11-05T17:24:52.725Z",
-      "titleVi": "Hoàng tử Daniel đã đến thăm Gävleborg với Học bổng của Hoàng tử Daniel"
-    },
-    {
-      "id": "https://www.kungahuset.se/arkiv/nyheter/2026-11-04-kronprinsessan-gav-audiens-for-ungerns-talman",
-      "source": "kungahuset",
-      "title": "Kronprinsessan gav audiens för Ungerns talman",
-      "url": "https://www.kungahuset.se/arkiv/nyheter/2026-11-04-kronprinsessan-gav-audiens-for-ungerns-talman",
-      "date": "4 november 2026",
-      "publishedAt": "2026-11-04T16:10:11+01:00",
-      "type": "Nyheter",
-      "firstSeenAt": "2026-11-04T15:39:53.440Z",
-      "titleVi": "Công chúa đã có buổi tiếp kiến với Tổng thống Hungary"
     },
     {
       "id": "https://www.svenskdam.se/kungligt/madeleines-avslojande-om-sonen-nicolas-tack-vare-dig/11710184",
