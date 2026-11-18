@@ -1,6 +1,6 @@
 {
   "monitoringStartedAt": "2026-09-28T00:17:35.319Z",
-  "updatedAt": "2026-11-17T21:13:16.688Z",
+  "updatedAt": "2026-11-18T02:55:56.020Z",
   "sources": {
     "kongehuset": {
       "name": "Kongehuset",
@@ -524,12 +524,32 @@
     {
       "id": "https://nyheder.tv2.dk/live/kort-nyt",
       "source": "tv2",
-      "title": "Motorvej bliver kortere end først planlagt",
+      "title": "Fransk politi har anholdt 15.000 demonstranter de seneste uger",
       "url": "https://nyheder.tv2.dk/live/kort-nyt",
       "date": "—",
       "type": "Live",
       "firstSeenAt": "2026-09-28T00:30:42.330Z",
-      "titleVi": "Đường cao tốc sẽ ngắn hơn so với kế hoạch ban đầu"
+      "titleVi": "Cảnh sát Pháp đã bắt giữ 15.000 người biểu tình trong những tuần gần đây"
+    },
+    {
+      "id": "https://nyheder.tv2.dk/samfund/2026-11-17-matematisk-gennembrud-efter-174-aar-professor-kalder-det-kaempestort",
+      "source": "tv2",
+      "title": "Matematisk gennembrud efter 174 år – professor kalder det kæmpestort",
+      "url": "https://nyheder.tv2.dk/samfund/2026-11-17-matematisk-gennembrud-efter-174-aar-professor-kalder-det-kaempestort",
+      "date": "17/11/2026",
+      "type": "Samfund",
+      "firstSeenAt": "2026-11-18T02:55:56.020Z",
+      "titleVi": "Bước đột phá toán học sau 174 năm – một giáo sư gọi đó là một thành tựu to lớn"
+    },
+    {
+      "id": "https://nyheder.tv2.dk/live/business/2025-03-12-seneste-nyt-fra-de-finansielle-markeder",
+      "source": "tv2",
+      "title": "Nvidia overrasker – aktien stiger",
+      "url": "https://nyheder.tv2.dk/live/business/2025-03-12-seneste-nyt-fra-de-finansielle-markeder",
+      "date": "12/03/2025",
+      "type": "Live",
+      "firstSeenAt": "2026-11-17T21:13:16.688Z",
+      "titleVi": "Nvidia gây bất ngờ – cổ phiếu tăng giá"
     },
     {
       "id": "https://nyheder.tv2.dk/live/2024-09-08-seneste-nyt-om-krigen-i-ukraine-70b1d6cc-0720-404e-9878-45546e1999e7",
@@ -542,14 +562,14 @@
       "titleVi": "Một phần của cầu Crimea đã sập"
     },
     {
-      "id": "https://nyheder.tv2.dk/live/business/2025-03-12-seneste-nyt-fra-de-finansielle-markeder",
+      "id": "https://nyheder.tv2.dk/live/udland/2026-11-16-historisk-moede-ventes-mellem-trump-putin-og-xi",
       "source": "tv2",
-      "title": "Jensen Huang bryder tavsheden – åbner for comeback",
-      "url": "https://nyheder.tv2.dk/live/business/2025-03-12-seneste-nyt-fra-de-finansielle-markeder",
-      "date": "12/03/2025",
+      "title": "Kinesisk nabo kan skabe uro mellem Trump og Xi, siger korrespondent",
+      "url": "https://nyheder.tv2.dk/live/udland/2026-11-16-historisk-moede-ventes-mellem-trump-putin-og-xi",
+      "date": "16/11/2026",
       "type": "Live",
-      "firstSeenAt": "2026-11-17T21:13:16.688Z",
-      "titleVi": "Jensen Huang phá vỡ sự im lặng – mở đường cho sự trở lại"
+      "firstSeenAt": "2026-11-16T20:49:11.075Z",
+      "titleVi": "Phóng viên cho biết, nước láng giềng của Trung Quốc có thể gây ra căng thẳng giữa Trump và Tập Cận Bình"
     },
     {
       "id": "https://nyheder.tv2.dk/tech/2026-11-17-google-med-stoerste-opgradering-af-maps-i-ti-aar",
@@ -620,16 +640,6 @@
       "type": "Politik",
       "firstSeenAt": "2026-11-17T21:13:16.688Z",
       "titleVi": "Các bộ trưởng bị chỉ trích sau chuyến thăm một viện dưỡng lão dành cho người mắc chứng sa sút trí tuệ: - Họ hoàn toàn không biết gì"
-    },
-    {
-      "id": "https://nyheder.tv2.dk/live/udland/2026-11-16-historisk-moede-ventes-mellem-trump-putin-og-xi",
-      "source": "tv2",
-      "title": "Kinesisk nabo kan skabe uro mellem Trump og Xi, siger korrespondent",
-      "url": "https://nyheder.tv2.dk/live/udland/2026-11-16-historisk-moede-ventes-mellem-trump-putin-og-xi",
-      "date": "16/11/2026",
-      "type": "Live",
-      "firstSeenAt": "2026-11-16T20:49:11.075Z",
-      "titleVi": "Phóng viên cho biết, nước láng giềng của Trung Quốc có thể gây ra căng thẳng giữa Trump và Tập Cận Bình"
     },
     {
       "id": "https://nyheder.tv2.dk/samfund/2026-11-17-kondomer-endte-paa-mark-pludselig-fossede-det-ud-med-spildevand",
@@ -800,16 +810,6 @@
       "type": "Live",
       "firstSeenAt": "2026-11-17T12:20:00.686Z",
       "titleVi": "Microsoft cho biết có ba nguyên nhân dẫn đến sự cố toàn cầu"
-    },
-    {
-      "id": "https://nyheder.tv2.dk/krimi/2026-11-14-nu-fortsaetter-retsopgoer-om-dansker-paa-31-aar",
-      "source": "tv2",
-      "title": "Nu fortsætter retsopgør om dansker på 31. år",
-      "url": "https://nyheder.tv2.dk/krimi/2026-11-14-nu-fortsaetter-retsopgoer-om-dansker-paa-31-aar",
-      "date": "14/11/2026",
-      "type": "Krimi",
-      "firstSeenAt": "2026-11-16T10:49:11.387Z",
-      "titleVi": "Vụ kiện liên quan đến một người Đan Mạch 31 tuổi hiện vẫn đang tiếp diễn"
     },
     {
       "id": "https://www.kungahuset.se/arkiv/nyheter/2026-11-17-kungen-delade-ut-prins-eugen-medaljen",
