@@ -1,6 +1,6 @@
 {
   "monitoringStartedAt": "2026-09-28T00:17:35.319Z",
-  "updatedAt": "2026-11-20T08:07:50.435Z",
+  "updatedAt": "2026-11-20T16:57:48.458Z",
   "sources": {
     "kongehuset": {
       "name": "Kongehuset",
@@ -71,6 +71,16 @@
     }
   },
   "articles": [
+    {
+      "id": "https://www.kongehuset.dk/foto-video/h-k-h-prinsesse-benedikte-aabnede-julebasaren-i-den-svenske-kirke-2026",
+      "source": "kongehuset",
+      "title": "H.K.H. Prinsesse Benedikte åbnede julebasaren i den svenske kirke",
+      "url": "https://www.kongehuset.dk/foto-video/h-k-h-prinsesse-benedikte-aabnede-julebasaren-i-den-svenske-kirke-2026",
+      "date": "20. november 2026",
+      "type": "Galleri",
+      "firstSeenAt": "2026-11-20T16:57:48.458Z",
+      "titleVi": "Công chúa Benedikte khai mạc chợ Giáng sinh tại nhà thờ Thụy Điển"
+    },
     {
       "id": "https://www.kongehuset.dk/nyheder/den-kongelige-families-jul-2026",
       "source": "kongehuset",
@@ -512,24 +522,64 @@
       "titleVi": "H.M. Bài phát biểu của Nhà vua tại hội nghị kinh doanh trong ngành Công nghiệp Đan Mạch vào ngày 20 tháng 10 năm 2026"
     },
     {
-      "id": "https://www.kongehuset.dk/taler/h-m-kongens-tale-ved-gallataffel-den-19-oktober-2026-i-anledning-af-statsbesoeg-fra-vietnam",
-      "source": "kongehuset",
-      "title": "H.M. Kongens tale ved gallataffel den 19. oktober 2026 i anledning af statsbesøg fra Vietnam",
-      "url": "https://www.kongehuset.dk/taler/h-m-kongens-tale-ved-gallataffel-den-19-oktober-2026-i-anledning-af-statsbesoeg-fra-vietnam",
-      "date": "19. oktober 2026",
-      "type": "Tale",
-      "firstSeenAt": "2026-10-19T20:06:59.220Z",
-      "titleVi": "Bài phát biểu của nhà vua tại bữa tiệc gala vào ngày 19 tháng 10 năm 2026 nhân chuyến thăm cấp nhà nước từ Việt Nam"
+      "id": "https://nyheder.tv2.dk/live/krimi/2026-11-20-to-sigtes-for-planlagt-drab-paa-ukrainsk-rapper-paa-dansk-jord",
+      "source": "tv2",
+      "title": "To sigtes for mislykket attentatforsøg mod ukrainsk rapper på dansk jord",
+      "url": "https://nyheder.tv2.dk/live/krimi/2026-11-20-to-sigtes-for-planlagt-drab-paa-ukrainsk-rapper-paa-dansk-jord",
+      "date": "20/11/2026",
+      "type": "Live",
+      "firstSeenAt": "2026-11-20T16:57:48.458Z",
+      "titleVi": "Hai người bị buộc tội âm mưu ám sát không thành công một rapper người Ukraine trên lãnh thổ Đan Mạch"
     },
     {
-      "id": "https://nyheder.tv2.dk/live/samfund/2026-10-26-laegeflugt-fra-rigshospitalet",
+      "id": "https://nyheder.tv2.dk/live/2024-09-08-seneste-nyt-om-krigen-i-ukraine-70b1d6cc-0720-404e-9878-45546e1999e7",
       "source": "tv2",
-      "title": "Tre typer operationer bliver påvirket efter lægeflugt på Rigshospitalet",
-      "url": "https://nyheder.tv2.dk/live/samfund/2026-10-26-laegeflugt-fra-rigshospitalet",
-      "date": "26/10/2026",
+      "title": "Russisk missil er sandsynligvis faldet ned i Polen, siger minister",
+      "url": "https://nyheder.tv2.dk/live/2024-09-08-seneste-nyt-om-krigen-i-ukraine-70b1d6cc-0720-404e-9878-45546e1999e7",
+      "date": "08/09/2024",
       "type": "Live",
-      "firstSeenAt": "2026-11-20T00:47:24.004Z",
-      "titleVi": "Ba loại phẫu thuật bị ảnh hưởng sau khi các bác sĩ rời khỏi Bệnh viện Rigshospitalet"
+      "firstSeenAt": "2026-09-28T00:30:42.330Z",
+      "titleVi": "Bộ trưởng cho biết tên lửa Nga có khả năng đã rơi xuống Ba Lan"
+    },
+    {
+      "id": "https://nyheder.tv2.dk/live/kort-nyt",
+      "source": "tv2",
+      "title": "Dommer vil midlertidigt blokere Trumps triumfbue-plan",
+      "url": "https://nyheder.tv2.dk/live/kort-nyt",
+      "date": "—",
+      "type": "Live",
+      "firstSeenAt": "2026-09-28T00:30:42.330Z",
+      "titleVi": "Thẩm phán sẽ tạm thời chặn kế hoạch xây dựng Khải Hoàn Môn của ông Trump"
+    },
+    {
+      "id": "https://nyheder.tv2.dk/2026-11-20-foedevarestyrelsen-brugte-ikke-sine-raadgivere-det-gjorde-operation-x-og-saa-rullede-skandalen",
+      "source": "tv2",
+      "title": "Fødevarestyrelsen brugte ikke sine rådgivere – det gjorde Operation X, og så rullede skandalen",
+      "url": "https://nyheder.tv2.dk/2026-11-20-foedevarestyrelsen-brugte-ikke-sine-raadgivere-det-gjorde-operation-x-og-saa-rullede-skandalen",
+      "date": "20/11/2026",
+      "type": "Nyheder",
+      "firstSeenAt": "2026-11-20T16:57:48.458Z",
+      "titleVi": "Cơ quan An toàn Thực phẩm Đan Mạch đã không sử dụng các chuyên gia tư vấn của mình – chương trình Operation X đã làm điều đó, và sau đó vụ bê bối nổ ra"
+    },
+    {
+      "id": "https://nyheder.tv2.dk/samfund/2026-11-20-konklusion-klar-om-problemulv-efter-obduktion",
+      "source": "tv2",
+      "title": "Konklusion klar om problemulv efter obduktion",
+      "url": "https://nyheder.tv2.dk/samfund/2026-11-20-konklusion-klar-om-problemulv-efter-obduktion",
+      "date": "20/11/2026",
+      "type": "Samfund",
+      "firstSeenAt": "2026-11-20T16:57:48.458Z",
+      "titleVi": "Kết luận rõ ràng về con sói gây tranh cãi sau khi khám nghiệm tử thi"
+    },
+    {
+      "id": "https://nyheder.tv2.dk/samfund/2026-11-20-sexolog-deler-de-graenseoverskridende-beskeder-hun-faar-hver-uge",
+      "source": "tv2",
+      "title": "Sexolog deler de grænseoverskridende beskeder, hun får hver uge",
+      "url": "https://nyheder.tv2.dk/samfund/2026-11-20-sexolog-deler-de-graenseoverskridende-beskeder-hun-faar-hver-uge",
+      "date": "20/11/2026",
+      "type": "Samfund",
+      "firstSeenAt": "2026-11-20T16:57:48.458Z",
+      "titleVi": "Chuyên gia tình dục chia sẻ những tin nhắn vượt quá giới hạn mà bà nhận được mỗi tuần"
     },
     {
       "id": "https://nyheder.tv2.dk/live/business/2025-03-12-seneste-nyt-fra-de-finansielle-markeder",
@@ -542,24 +592,84 @@
       "titleVi": "Việc niêm yết cổ phiếu của gã khổng lồ AI là lớn nhất trong lịch sử"
     },
     {
-      "id": "https://nyheder.tv2.dk/live/2024-09-08-seneste-nyt-om-krigen-i-ukraine-70b1d6cc-0720-404e-9878-45546e1999e7",
+      "id": "https://nyheder.tv2.dk/2026-11-20-aktierne-styrtdykker-men-private-koeber-op",
       "source": "tv2",
-      "title": "Regeringsledere overrasket af telefonopkald fra Trump",
-      "url": "https://nyheder.tv2.dk/live/2024-09-08-seneste-nyt-om-krigen-i-ukraine-70b1d6cc-0720-404e-9878-45546e1999e7",
-      "date": "08/09/2024",
-      "type": "Live",
-      "firstSeenAt": "2026-09-28T00:30:42.330Z",
-      "titleVi": "Các lãnh đạo chính phủ ngạc nhiên trước cuộc điện thoại của ông Trump"
+      "title": "Aktierne styrtdykker, men private køber op",
+      "url": "https://nyheder.tv2.dk/2026-11-20-aktierne-styrtdykker-men-private-koeber-op",
+      "date": "20/11/2026",
+      "type": "Nyheder",
+      "firstSeenAt": "2026-11-20T16:57:48.458Z",
+      "titleVi": "Cổ phiếu lao dốc, nhưng các nhà đầu tư cá nhân vẫn mua vào"
     },
     {
-      "id": "https://nyheder.tv2.dk/live/kort-nyt",
+      "id": "https://nyheder.tv2.dk/live/politik/2025-08-11-dansk-politik",
       "source": "tv2",
-      "title": "Tostjernet Michelin-restaurant uddeler julehjælp",
-      "url": "https://nyheder.tv2.dk/live/kort-nyt",
-      "date": "—",
+      "title": "Mette Frederiksens ordvalg bliver bemærket i udlandet",
+      "url": "https://nyheder.tv2.dk/live/politik/2025-08-11-dansk-politik",
+      "date": "11/08/2025",
       "type": "Live",
-      "firstSeenAt": "2026-09-28T00:30:42.330Z",
-      "titleVi": "Nhà hàng được trao hai sao Michelin trao quà Giáng sinh"
+      "firstSeenAt": "2026-11-07T15:49:51.486Z",
+      "titleVi": "Cách dùng từ của bà Mette Frederiksen được chú ý ở nước ngoài"
+    },
+    {
+      "id": "https://nyheder.tv2.dk/samfund/2026-11-17-dsbs-taxaforbrug-eksploderer",
+      "source": "tv2",
+      "title": "DSB's taxaforbrug eksploderer",
+      "url": "https://nyheder.tv2.dk/samfund/2026-11-17-dsbs-taxaforbrug-eksploderer",
+      "date": "17/11/2026",
+      "type": "Samfund",
+      "firstSeenAt": "2026-11-20T16:57:48.458Z",
+      "titleVi": "Chi phí taxi của DSB tăng vọt"
+    },
+    {
+      "id": "https://nyheder.tv2.dk/live/samfund/2026-10-26-laegeflugt-fra-rigshospitalet",
+      "source": "tv2",
+      "title": "Tre typer operationer bliver påvirket efter lægeflugt på Rigshospitalet",
+      "url": "https://nyheder.tv2.dk/live/samfund/2026-10-26-laegeflugt-fra-rigshospitalet",
+      "date": "26/10/2026",
+      "type": "Live",
+      "firstSeenAt": "2026-11-20T00:47:24.004Z",
+      "titleVi": "Ba loại phẫu thuật bị ảnh hưởng sau khi các bác sĩ rời khỏi Bệnh viện Rigshospitalet"
+    },
+    {
+      "id": "https://nyheder.tv2.dk/krimi/2026-11-20-rusland-hyrede-to-maend-bosat-i-danmark-til-at-draebe-ukrainsk-rapper-lyder-sigtelse",
+      "source": "tv2",
+      "title": "Rusland hyrede to mænd bosat i Danmark til at dræbe ukrainsk rapper, lyder sigtelse",
+      "url": "https://nyheder.tv2.dk/krimi/2026-11-20-rusland-hyrede-to-maend-bosat-i-danmark-til-at-draebe-ukrainsk-rapper-lyder-sigtelse",
+      "date": "20/11/2026",
+      "type": "Krimi",
+      "firstSeenAt": "2026-11-20T16:57:48.458Z",
+      "titleVi": "Theo cáo trạng, Nga đã thuê hai người đàn ông cư trú tại Đan Mạch để ám sát một rapper người Ukraine"
+    },
+    {
+      "id": "https://nyheder.tv2.dk/live/samfund/2026-05-15-ulve-i-danmark",
+      "source": "tv2",
+      "title": "Overvågning af ulve i Danmark sendes i udbud",
+      "url": "https://nyheder.tv2.dk/live/samfund/2026-05-15-ulve-i-danmark",
+      "date": "15/05/2026",
+      "type": "Live",
+      "firstSeenAt": "2026-11-20T16:57:48.458Z",
+      "titleVi": "Việc giám sát sói ở Đan Mạch được đưa ra đấu thầu"
+    },
+    {
+      "id": "https://nyheder.tv2.dk/live/klima/2026-11-09-cop31-er-i-gang",
+      "source": "tv2",
+      "title": "Vigtigt klimatopmøde er i gang",
+      "url": "https://nyheder.tv2.dk/live/klima/2026-11-09-cop31-er-i-gang",
+      "date": "09/11/2026",
+      "type": "Live",
+      "firstSeenAt": "2026-11-17T12:20:00.686Z",
+      "titleVi": "Hội nghị thượng đỉnh quan trọng về khí hậu đang diễn ra"
+    },
+    {
+      "id": "https://nyheder.tv2.dk/samfund/2026-11-20-rigshospitalet-erkender-personalemangel-til-transplantationer-nu-afholdes-endnu-et-krisemoede",
+      "source": "tv2",
+      "title": "Rigshospitalet erkender personalemangel til transplantationer – nu afholdes endnu et krisemøde",
+      "url": "https://nyheder.tv2.dk/samfund/2026-11-20-rigshospitalet-erkender-personalemangel-til-transplantationer-nu-afholdes-endnu-et-krisemoede",
+      "date": "20/11/2026",
+      "type": "Samfund",
+      "firstSeenAt": "2026-11-20T16:57:48.458Z",
+      "titleVi": "Bệnh viện Rigshospitalet thừa nhận tình trạng thiếu nhân lực cho các ca ghép tạng – hiện đang diễn ra một cuộc họp khẩn cấp khác"
     },
     {
       "id": "https://nyheder.tv2.dk/udland/2026-11-20-historisk-moede-endte-uden-gennembrud-men-en-leder-kan-vaere-den-store-vinder",
@@ -592,14 +702,14 @@
       "titleVi": "Vụ hành quyết mới gặp sự cố – tử tù kêu gào tên Chúa trong đau đớn"
     },
     {
-      "id": "https://nyheder.tv2.dk/samfund/2026-10-16-syv-dage-hos-mor-og-syv-hos-far-saa-enkelt-er-det-ikke-altid",
+      "id": "https://nyheder.tv2.dk/samfund/2026-10-16-77-virker-som-den-oplagte-loesning-men-forskerne-peger-paa-noget-andet",
       "source": "tv2",
-      "title": "Syv dage hos mor og syv hos far? Så enkelt er det ikke altid",
-      "url": "https://nyheder.tv2.dk/samfund/2026-10-16-syv-dage-hos-mor-og-syv-hos-far-saa-enkelt-er-det-ikke-altid",
+      "title": "7/7 virker som den oplagte løsning. Men forskerne peger på noget andet",
+      "url": "https://nyheder.tv2.dk/samfund/2026-10-16-77-virker-som-den-oplagte-loesning-men-forskerne-peger-paa-noget-andet",
       "date": "16/10/2026",
       "type": "Samfund",
-      "firstSeenAt": "2026-11-20T08:07:50.435Z",
-      "titleVi": "Bảy ngày ở với mẹ và bảy ngày ở với cha? Không phải lúc nào cũng đơn giản như vậy"
+      "firstSeenAt": "2026-11-20T16:57:48.458Z",
+      "titleVi": "7/7 có vẻ là giải pháp hiển nhiên. Nhưng các nhà nghiên cứu lại chỉ ra một điều khác"
     },
     {
       "id": "https://nyheder.tv2.dk/live/udland/2026-01-08-krig-i-mellemoesten",
@@ -610,16 +720,6 @@
       "type": "Live",
       "firstSeenAt": "2026-11-19T09:13:57.672Z",
       "titleVi": "Israel phát động chiến dịch trên bộ ở khu vực trung Gaza"
-    },
-    {
-      "id": "https://nyheder.tv2.dk/samfund/2026-11-17-dsbs-taxa-forbrug-eksploderer",
-      "source": "tv2",
-      "title": "DSB's taxa-forbrug eksploderer",
-      "url": "https://nyheder.tv2.dk/samfund/2026-11-17-dsbs-taxa-forbrug-eksploderer",
-      "date": "17/11/2026",
-      "type": "Samfund",
-      "firstSeenAt": "2026-11-20T08:07:50.435Z",
-      "titleVi": "Chi phí taxi của DSB tăng vọt"
     },
     {
       "id": "https://nyheder.tv2.dk/politik/2026-11-18-internt-notat-afsloerer-potentiel-bombe-under-landbruget",
@@ -712,104 +812,26 @@
       "titleVi": "Các cuộc tấn công bằng máy bay không người lái dữ dội hơn bình thường ở Kyiv"
     },
     {
-      "id": "https://nyheder.tv2.dk/live/politik/2026-11-18-operation-x-afsloerer-kornskandale",
-      "source": "tv2",
-      "title": "Jacob Jensen afviser kritik efter kornskandale – \"pres kom ikke fra mig\"",
-      "url": "https://nyheder.tv2.dk/live/politik/2026-11-18-operation-x-afsloerer-kornskandale",
-      "date": "18/11/2026",
-      "type": "Live",
-      "firstSeenAt": "2026-11-19T18:21:42.977Z",
-      "titleVi": "Jacob Jensen bác bỏ những lời chỉ trích sau vụ bê bối ngũ cốc – \"Áp lực không đến từ tôi\""
+      "id": "https://www.kungahuset.se/arkiv/nyheter/2026-11-20-prinsessan-estelle-har-praoat-i-helsingfors",
+      "source": "kungahuset",
+      "title": "Prinsessan Estelle har praoat i Helsingfors",
+      "url": "https://www.kungahuset.se/arkiv/nyheter/2026-11-20-prinsessan-estelle-har-praoat-i-helsingfors",
+      "date": "20 november 2026",
+      "publishedAt": "2026-11-20T15:47:02+01:00",
+      "type": "Nyheter",
+      "firstSeenAt": "2026-11-20T16:57:48.458Z",
+      "titleVi": "Công chúa Estelle đã thực tập tại Helsinki"
     },
     {
-      "id": "https://nyheder.tv2.dk/samfund/2026-11-19-gyldendal-stopper-salget-af-kirsten-schwalbes-bog",
-      "source": "tv2",
-      "title": "Gyldendal stopper salget af Kirsten Schwalbes bog",
-      "url": "https://nyheder.tv2.dk/samfund/2026-11-19-gyldendal-stopper-salget-af-kirsten-schwalbes-bog",
-      "date": "19/11/2026",
-      "type": "Samfund",
-      "firstSeenAt": "2026-11-19T18:21:42.977Z",
-      "titleVi": "Nhà xuất bản Gyldendal ngừng bán cuốn sách của Kirsten Schwalbe"
-    },
-    {
-      "id": "https://nyheder.tv2.dk/live/politik/2025-08-11-dansk-politik",
-      "source": "tv2",
-      "title": "Mette Frederiksens ordvalg bliver bemærket i udlandet",
-      "url": "https://nyheder.tv2.dk/live/politik/2025-08-11-dansk-politik",
-      "date": "11/08/2025",
-      "type": "Live",
-      "firstSeenAt": "2026-11-07T15:49:51.486Z",
-      "titleVi": "Cách dùng từ của bà Mette Frederiksen được chú ý ở nước ngoài"
-    },
-    {
-      "id": "https://nyheder.tv2.dk/live/klima/2026-11-09-cop31-er-i-gang",
-      "source": "tv2",
-      "title": "Vigtigt klimatopmøde er i gang",
-      "url": "https://nyheder.tv2.dk/live/klima/2026-11-09-cop31-er-i-gang",
-      "date": "09/11/2026",
-      "type": "Live",
-      "firstSeenAt": "2026-11-17T12:20:00.686Z",
-      "titleVi": "Hội nghị thượng đỉnh quan trọng về khí hậu đang diễn ra"
-    },
-    {
-      "id": "https://nyheder.tv2.dk/samfund/2026-11-19-stoerre-udrykning-af-politiet-til-to-adresser-naer-kliplev",
-      "source": "tv2",
-      "title": "Større udrykning af politiet til to adresser nær Kliplev",
-      "url": "https://nyheder.tv2.dk/samfund/2026-11-19-stoerre-udrykning-af-politiet-til-to-adresser-naer-kliplev",
-      "date": "19/11/2026",
-      "type": "Samfund",
-      "firstSeenAt": "2026-11-19T18:21:42.977Z",
-      "titleVi": "Lực lượng cảnh sát lớn được điều động đến hai địa chỉ gần Kliplev"
-    },
-    {
-      "id": "https://nyheder.tv2.dk/samfund/2026-11-19-kvinde-i-koerestol-droemmer-om-et-almindeligt-liv-afslag-fra-kommunen-spaender-ben",
-      "source": "tv2",
-      "title": "Kvinde i kørestol drømmer om et almindeligt liv – afslag fra kommunen spænder ben",
-      "url": "https://nyheder.tv2.dk/samfund/2026-11-19-kvinde-i-koerestol-droemmer-om-et-almindeligt-liv-afslag-fra-kommunen-spaender-ben",
-      "date": "19/11/2026",
-      "type": "Samfund",
-      "firstSeenAt": "2026-11-19T18:21:42.977Z",
-      "titleVi": "Người phụ nữ ngồi xe lăn mơ ước một cuộc sống bình thường – sự từ chối của chính quyền địa phương đã cản trở điều đó"
-    },
-    {
-      "id": "https://nyheder.tv2.dk/udland/2026-11-19-kim-jong-uns-urancenter-vokser-mens-trump-xi-og-putin-droefter-fred",
-      "source": "tv2",
-      "title": "Kim Jong-uns urancenter vokser, mens Trump, Xi og Putin drøfter fred",
-      "url": "https://nyheder.tv2.dk/udland/2026-11-19-kim-jong-uns-urancenter-vokser-mens-trump-xi-og-putin-droefter-fred",
-      "date": "19/11/2026",
-      "type": "Udland",
-      "firstSeenAt": "2026-11-19T18:21:42.977Z",
-      "titleVi": "Trung tâm uranium của Kim Jong-un đang phát triển trong khi Trump, Tập Cận Bình và Putin đang thảo luận về hòa bình"
-    },
-    {
-      "id": "https://nyheder.tv2.dk/samfund/2026-11-18-sad-i-koe-som-nummer-8337-til-4000-billetter-nu-jagter-utallige-foraeldre-billetter-paa-facebook",
-      "source": "tv2",
-      "title": "Sad i kø som nummer 8.337 til 4.000 billetter – nu jagter utallige forældre billetter på Facebook",
-      "url": "https://nyheder.tv2.dk/samfund/2026-11-18-sad-i-koe-som-nummer-8337-til-4000-billetter-nu-jagter-utallige-foraeldre-billetter-paa-facebook",
-      "date": "18/11/2026",
-      "type": "Samfund",
-      "firstSeenAt": "2026-11-19T18:21:42.977Z",
-      "titleVi": "Đứng xếp hàng thứ 8.337 để mua 4.000 vé – giờ đây, vô số bậc cha mẹ đang săn vé trên Facebook"
-    },
-    {
-      "id": "https://nyheder.tv2.dk/udland/2026-11-19-myanmar-begik-folkedrab-mod-rohingyaer-fastslaar-icj",
-      "source": "tv2",
-      "title": "Myanmar begik folkedrab mod rohingyaer, fastslår ICJ",
-      "url": "https://nyheder.tv2.dk/udland/2026-11-19-myanmar-begik-folkedrab-mod-rohingyaer-fastslaar-icj",
-      "date": "19/11/2026",
-      "type": "Udland",
-      "firstSeenAt": "2026-11-19T18:21:42.977Z",
-      "titleVi": "Tòa án Công lý Quốc tế (ICJ) xác định Myanmar đã phạm tội diệt chủng đối với người Rohingya"
-    },
-    {
-      "id": "https://nyheder.tv2.dk/samfund/2026-11-19-mor-har-koebt-kontroversielt-videospil-til-sine-boern",
-      "source": "tv2",
-      "title": "Mor har købt kontroversielt videospil til sine børn",
-      "url": "https://nyheder.tv2.dk/samfund/2026-11-19-mor-har-koebt-kontroversielt-videospil-til-sine-boern",
-      "date": "19/11/2026",
-      "type": "Samfund",
-      "firstSeenAt": "2026-11-19T18:21:42.977Z",
-      "titleVi": "Người mẹ đã mua một trò chơi điện tử gây tranh cãi cho con cái mình"
+      "id": "https://www.kungahuset.se/arkiv/nyheter/2026-11-20-prinsparet-besokte-varmland",
+      "source": "kungahuset",
+      "title": "Prinsparet besökte Värmland",
+      "url": "https://www.kungahuset.se/arkiv/nyheter/2026-11-20-prinsparet-besokte-varmland",
+      "date": "20 november 2026",
+      "publishedAt": "2026-11-20T14:18:12+01:00",
+      "type": "Nyheter",
+      "firstSeenAt": "2026-11-20T16:57:48.458Z",
+      "titleVi": "Cặp đôi Hoàng tử đã đến thăm Värmland"
     },
     {
       "id": "https://www.kungahuset.se/arkiv/nyheter/2026-11-19-kronprinsessparet-vid-pep-forum-2026",
@@ -1008,28 +1030,6 @@
       "type": "Nyheter",
       "firstSeenAt": "2026-11-12T19:36:41.918Z",
       "titleVi": "Hoàng tử Carl Philip đến thăm Lilla Erstagården cùng với tổ chức MusikBojen"
-    },
-    {
-      "id": "https://www.kungahuset.se/arkiv/nyheter/2026-11-11-kronprinsessparet-besokte-ui",
-      "source": "kungahuset",
-      "title": "Kronprinsessparet besökte UI",
-      "url": "https://www.kungahuset.se/arkiv/nyheter/2026-11-11-kronprinsessparet-besokte-ui",
-      "date": "11 november 2026",
-      "publishedAt": "2026-11-11T19:06:17+01:00",
-      "type": "Nyheter",
-      "firstSeenAt": "2026-11-11T22:57:42.885Z",
-      "titleVi": "Cặp đôi Thân vương Thụy Điển đã đến thăm Viện Nghiên cứu Quốc tế (UI)"
-    },
-    {
-      "id": "https://www.kungahuset.se/arkiv/nyheter/2026-11-11-kungen-gav-avskedsaudienser-for-ambassadorer",
-      "source": "kungahuset",
-      "title": "Kungen gav avskeds­audienser för ambassadörer",
-      "url": "https://www.kungahuset.se/arkiv/nyheter/2026-11-11-kungen-gav-avskedsaudienser-for-ambassadorer",
-      "date": "11 november 2026",
-      "publishedAt": "2026-11-11T17:00:00+01:00",
-      "type": "Nyheter",
-      "firstSeenAt": "2026-11-11T16:29:19.547Z",
-      "titleVi": "Nhà vua tiếp kiến lần cuối các đại sứ"
     },
     {
       "id": "https://www.svenskdam.se/kungligt/prins-carl-philips-egna-ord-om-nya-gta-avslojar-for-svensk-dam/11718916",
@@ -1415,6 +1415,17 @@
       "type": "Kungligt",
       "firstSeenAt": "2026-11-19T09:13:57.672Z",
       "titleVi": "Bức ảnh riêng của Sofia chụp cùng Carl Philip – những lời chia sẻ về chuyến đi"
+    },
+    {
+      "id": "https://www.kongehuset.no/nyheter/markerte-fontenehuset-askers-10-arsjubileum",
+      "source": "kongehusetNo",
+      "title": "Markerte Fontenehuset Askers 10-årsjubileum",
+      "url": "https://www.kongehuset.no/nyheter/markerte-fontenehuset-askers-10-arsjubileum",
+      "date": "20/11/2026",
+      "publishedAt": "Fri, 20 Nov 2026 07:31:22 GMT",
+      "type": "Nyheter",
+      "firstSeenAt": "2026-11-20T16:57:48.458Z",
+      "titleVi": "Đánh dấu kỷ niệm 10 năm thành lập Fontenehuset Asker"
     },
     {
       "id": "https://www.kongehuset.no/nyheter/besokte-ostre-toten-og-gjovik",
@@ -1943,17 +1954,6 @@
       "type": "Nyheter",
       "firstSeenAt": "2026-10-01T16:31:22.673Z",
       "titleVi": "Công chúa Astrid đã qua đời."
-    },
-    {
-      "id": "https://www.kongehuset.no/nyheter/kondolanseprotokoll-prinsesse-astrid",
-      "source": "kongehusetNo",
-      "title": "Kondolanseprotokoll",
-      "url": "https://www.kongehuset.no/nyheter/kondolanseprotokoll-prinsesse-astrid",
-      "date": "11/9/2026",
-      "publishedAt": "Fri, 11 Sep 2026 11:27:38 GMT",
-      "type": "Nyheter",
-      "firstSeenAt": "2026-10-01T16:31:22.673Z",
-      "titleVi": "nghi thức chia buồn"
     },
     {
       "id": "https://www.kongehuset.no/presse/pressemeldinger/program-i-domkirken",
