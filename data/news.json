@@ -1,6 +1,6 @@
 {
   "monitoringStartedAt": "2026-09-28T00:17:35.319Z",
-  "updatedAt": "2026-11-21T19:39:14.011Z",
+  "updatedAt": "2026-11-21T23:55:45.154Z",
   "sources": {
     "kongehuset": {
       "name": "Kongehuset",
@@ -33,9 +33,9 @@
       "language": "sv",
       "monitoringStartedAt": "2026-10-01T16:20:13.213Z",
       "status": {
-        "state": "error",
-        "message": "fetch failed",
-        "changedAt": "2026-11-21T19:39:14.011Z"
+        "state": "ok",
+        "message": "",
+        "changedAt": "2026-11-21T23:55:45.154Z"
       }
     },
     "svenskdam": {
@@ -522,6 +522,26 @@
       "titleVi": "H.M. Bài phát biểu của Nhà vua tại hội nghị kinh doanh trong ngành Công nghiệp Đan Mạch vào ngày 20 tháng 10 năm 2026"
     },
     {
+      "id": "https://nyheder.tv2.dk/live/klima/2026-11-09-cop31-er-i-gang",
+      "source": "tv2",
+      "title": "Stor strid om formulering i COP31-overtid",
+      "url": "https://nyheder.tv2.dk/live/klima/2026-11-09-cop31-er-i-gang",
+      "date": "09/11/2026",
+      "type": "Live",
+      "firstSeenAt": "2026-11-17T12:20:00.686Z",
+      "titleVi": "Tranh cãi lớn về cách diễn đạt trong thời gian kéo dài của COP31"
+    },
+    {
+      "id": "https://nyheder.tv2.dk/samfund/2026-11-21-dr-fjerner-dokumentar-om-sugardating-efter-hovedpersonens-kritik",
+      "source": "tv2",
+      "title": "DR fjerner dokumentar om sugardating efter hovedpersonens kritik",
+      "url": "https://nyheder.tv2.dk/samfund/2026-11-21-dr-fjerner-dokumentar-om-sugardating-efter-hovedpersonens-kritik",
+      "date": "21/11/2026",
+      "type": "Samfund",
+      "firstSeenAt": "2026-11-21T23:55:45.154Z",
+      "titleVi": "DR gỡ bỏ bộ phim tài liệu về hẹn hò với người lớn tuổi sau khi nhân vật chính lên tiếng chỉ trích"
+    },
+    {
       "id": "https://nyheder.tv2.dk/live/samfund/2026-11-21-storbrand-i-brugsen-paa-fanoe",
       "source": "tv2",
       "title": "Supermarked i flammer på Fanø",
@@ -530,6 +550,46 @@
       "type": "Live",
       "firstSeenAt": "2026-11-21T19:39:14.011Z",
       "titleVi": "Siêu thị bốc cháy ở Fanø"
+    },
+    {
+      "id": "https://nyheder.tv2.dk/live/kort-nyt",
+      "source": "tv2",
+      "title": "24 dræbt i bådulykke på vej til begravelse i Nigeria",
+      "url": "https://nyheder.tv2.dk/live/kort-nyt",
+      "date": "—",
+      "type": "Live",
+      "firstSeenAt": "2026-09-28T00:30:42.330Z",
+      "titleVi": "24 người thiệt mạng trong vụ tai nạn thuyền trên đường đến đám tang ở Nigeria"
+    },
+    {
+      "id": "https://nyheder.tv2.dk/udland/2026-11-21-mexico-anholder-en-af-fbis-ti-mest-eftersoegte",
+      "source": "tv2",
+      "title": "Mexico anholder en af FBI's ti mest eftersøgte",
+      "url": "https://nyheder.tv2.dk/udland/2026-11-21-mexico-anholder-en-af-fbis-ti-mest-eftersoegte",
+      "date": "21/11/2026",
+      "type": "Udland",
+      "firstSeenAt": "2026-11-21T23:55:45.154Z",
+      "titleVi": "Mexico bắt giữ một trong mười tên tội phạm bị FBI truy nã gắt gao nhất"
+    },
+    {
+      "id": "https://nyheder.tv2.dk/samfund/2026-11-20-rotteproblemer-hos-danish-agro-fortsaetter-i-aar-flere-haller-maa-lukke",
+      "source": "tv2",
+      "title": "Rotteproblemer hos Danish Agro fortsætter i år – flere haller må lukke",
+      "url": "https://nyheder.tv2.dk/samfund/2026-11-20-rotteproblemer-hos-danish-agro-fortsaetter-i-aar-flere-haller-maa-lukke",
+      "date": "20/11/2026",
+      "type": "Samfund",
+      "firstSeenAt": "2026-11-21T23:55:45.154Z",
+      "titleVi": "Vấn đề chuột tại Danish Agro vẫn tiếp diễn trong năm nay – nhiều nhà kho phải đóng cửa"
+    },
+    {
+      "id": "https://nyheder.tv2.dk/udland/2026-11-21-opsigtsvaekkende-video-viser-isolerede-stammefolk-for-foerste-gang-i-50-aar",
+      "source": "tv2",
+      "title": "Opsigtsvækkende video viser isolerede stammefolk for første gang i 50 år",
+      "url": "https://nyheder.tv2.dk/udland/2026-11-21-opsigtsvaekkende-video-viser-isolerede-stammefolk-for-foerste-gang-i-50-aar",
+      "date": "21/11/2026",
+      "type": "Udland",
+      "firstSeenAt": "2026-11-21T23:55:45.154Z",
+      "titleVi": "Đoạn video gây sốc cho thấy những người thuộc bộ tộc sống biệt lập lần đầu tiên sau 50 năm"
     },
     {
       "id": "https://nyheder.tv2.dk/samfund/2026-11-21-mange-boligejere-kan-se-frem-til-markant-hoejere-boligskat",
@@ -552,16 +612,6 @@
       "titleVi": "NATO sẽ bảo vệ \"từng tấc đất\" của Ba Lan"
     },
     {
-      "id": "https://nyheder.tv2.dk/live/klima/2026-11-09-cop31-er-i-gang",
-      "source": "tv2",
-      "title": "Stor strid om formulering i COP31-overtid",
-      "url": "https://nyheder.tv2.dk/live/klima/2026-11-09-cop31-er-i-gang",
-      "date": "09/11/2026",
-      "type": "Live",
-      "firstSeenAt": "2026-11-17T12:20:00.686Z",
-      "titleVi": "Tranh cãi lớn về cách diễn đạt trong thời gian kéo dài của COP31"
-    },
-    {
       "id": "https://nyheder.tv2.dk/samfund/2026-11-21-formand-overvaeldet-moedre-betaler-klubtroejer-til-andres-boern",
       "source": "tv2",
       "title": "Formand overvældet: Mødre betaler klubtrøjer til andres børn",
@@ -570,16 +620,6 @@
       "type": "Samfund",
       "firstSeenAt": "2026-11-21T19:39:14.011Z",
       "titleVi": "Chủ tịch choáng ngợp: Các bà mẹ trả tiền mua áo đấu cho con của người khác"
-    },
-    {
-      "id": "https://nyheder.tv2.dk/live/kort-nyt",
-      "source": "tv2",
-      "title": "Indenrigsflyrute lægges i graven",
-      "url": "https://nyheder.tv2.dk/live/kort-nyt",
-      "date": "—",
-      "type": "Live",
-      "firstSeenAt": "2026-09-28T00:30:42.330Z",
-      "titleVi": "Tuyến bay nội địa bị khai tử"
     },
     {
       "id": "https://nyheder.tv2.dk/samfund/2026-11-21-15-aarig-kan-ikke-gaa-men-paa-banen-er-hun-en-maalmaskine",
@@ -770,46 +810,6 @@
       "type": "Udland",
       "firstSeenAt": "2026-11-21T12:25:44.398Z",
       "titleVi": "Bà ta đã phá hoại phương Tây từ ngôi nhà nuôi mèo của mình – một ngày nọ, bà ta biến mất khỏi xe buýt mà không để lại dấu vết"
-    },
-    {
-      "id": "https://nyheder.tv2.dk/samfund/2026-11-20-flemming-jensen-siger-farvel-til-scenen",
-      "source": "tv2",
-      "title": "Flemming Jensen siger farvel til scenen",
-      "url": "https://nyheder.tv2.dk/samfund/2026-11-20-flemming-jensen-siger-farvel-til-scenen",
-      "date": "20/11/2026",
-      "type": "Samfund",
-      "firstSeenAt": "2026-11-20T23:01:20.986Z",
-      "titleVi": "Flemming Jensen nói lời tạm biệt với sân khấu"
-    },
-    {
-      "id": "https://nyheder.tv2.dk/live/politik/2026-11-18-operation-x-afsloerer-kornskandale",
-      "source": "tv2",
-      "title": "Melproducent modsiger Fødevarestyrelsen om sundhedsrisiko",
-      "url": "https://nyheder.tv2.dk/live/politik/2026-11-18-operation-x-afsloerer-kornskandale",
-      "date": "18/11/2026",
-      "type": "Live",
-      "firstSeenAt": "2026-11-20T23:01:20.986Z",
-      "titleVi": "Nhà sản xuất bột mì phản bác Cơ quan An toàn Thực phẩm Đan Mạch về nguy cơ đối với sức khỏe"
-    },
-    {
-      "id": "https://nyheder.tv2.dk/samfund/2026-11-20-rigmaend-i-bitter-nabofejde-jeg-gennembanker-dig",
-      "source": "tv2",
-      "title": "Rigmænd i bitter nabofejde: - Jeg gennembanker dig",
-      "url": "https://nyheder.tv2.dk/samfund/2026-11-20-rigmaend-i-bitter-nabofejde-jeg-gennembanker-dig",
-      "date": "20/11/2026",
-      "type": "Samfund",
-      "firstSeenAt": "2026-11-20T23:01:20.986Z",
-      "titleVi": "Những người giàu có trong cuộc tranh chấp gay gắt với hàng xóm: - Tao sẽ đánh mày tơi tả"
-    },
-    {
-      "id": "https://nyheder.tv2.dk/krimi/2026-11-20-ikke-foerste-gang-ltf-arbejder-for-udenlandske-interesser",
-      "source": "tv2",
-      "title": "Ikke første gang LTF arbejder for udenlandske interesser",
-      "url": "https://nyheder.tv2.dk/krimi/2026-11-20-ikke-foerste-gang-ltf-arbejder-for-udenlandske-interesser",
-      "date": "20/11/2026",
-      "type": "Krimi",
-      "firstSeenAt": "2026-11-21T12:25:44.398Z",
-      "titleVi": "Đây không phải là lần đầu tiên LTF làm việc vì lợi ích nước ngoài"
     },
     {
       "id": "https://www.kungahuset.se/arkiv/nyheter/2026-11-20-prinsessan-estelle-har-praoat-i-helsingfors",
