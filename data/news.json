@@ -1,6 +1,6 @@
 {
   "monitoringStartedAt": "2026-09-28T00:17:35.319Z",
-  "updatedAt": "2026-11-22T05:39:38.264Z",
+  "updatedAt": "2026-11-22T13:37:14.019Z",
   "sources": {
     "kongehuset": {
       "name": "Kongehuset",
@@ -522,14 +522,124 @@
       "titleVi": "H.M. Bài phát biểu của Nhà vua tại hội nghị kinh doanh trong ngành Công nghiệp Đan Mạch vào ngày 20 tháng 10 năm 2026"
     },
     {
+      "id": "https://nyheder.tv2.dk/samfund/2026-11-22-skandaleramt-laege-flygtede-fra-milliongaeld-og-dukkede-op-i-sydamerikansk-paradis",
+      "source": "tv2",
+      "title": "Skandaleramt læge flygtede fra milliongæld og dukkede op i sydamerikansk 'paradis'",
+      "url": "https://nyheder.tv2.dk/samfund/2026-11-22-skandaleramt-laege-flygtede-fra-milliongaeld-og-dukkede-op-i-sydamerikansk-paradis",
+      "date": "22/11/2026",
+      "type": "Samfund",
+      "firstSeenAt": "2026-11-22T13:37:14.019Z",
+      "titleVi": "Bác sĩ dính bê bối trốn chạy khỏi khoản nợ hàng triệu và xuất hiện ở \"thiên đường\" Nam Mỹ"
+    },
+    {
+      "id": "https://nyheder.tv2.dk/live/klima/2026-11-09-cop31-ender-uden-aftale",
+      "source": "tv2",
+      "title": "Klimaaftale ikke vedtaget, siger COP-præsident",
+      "url": "https://nyheder.tv2.dk/live/klima/2026-11-09-cop31-ender-uden-aftale",
+      "date": "09/11/2026",
+      "type": "Live",
+      "firstSeenAt": "2026-11-22T13:37:14.019Z",
+      "titleVi": "Chủ tịch COP cho biết thỏa thuận khí hậu chưa được thông qua"
+    },
+    {
       "id": "https://nyheder.tv2.dk/live/kort-nyt",
       "source": "tv2",
-      "title": "Bekymring i Kenya vokser efter flere dødsfald af flodheste",
+      "title": "Rumsonde når Merkur efter otte års rejse",
       "url": "https://nyheder.tv2.dk/live/kort-nyt",
       "date": "—",
       "type": "Live",
       "firstSeenAt": "2026-09-28T00:30:42.330Z",
-      "titleVi": "Mối lo ngại ở Kenya ngày càng gia tăng sau nhiều vụ hà mã chết"
+      "titleVi": "Tàu thăm dò vũ trụ đến Sao Thủy sau hành trình kéo dài tám năm"
+    },
+    {
+      "id": "https://nyheder.tv2.dk/live/samfund/2026-11-21-brugsen-paa-fanoe-braendt-ned",
+      "source": "tv2",
+      "title": "Supermarked i flammer på Fanø",
+      "url": "https://nyheder.tv2.dk/live/samfund/2026-11-21-brugsen-paa-fanoe-braendt-ned",
+      "date": "21/11/2026",
+      "type": "Live",
+      "firstSeenAt": "2026-11-22T13:37:14.019Z",
+      "titleVi": "Siêu thị bốc cháy ở Fanø"
+    },
+    {
+      "id": "https://nyheder.tv2.dk/samfund/2026-10-26-hun-blev-skilt-saa-inviterede-hun-til-fest",
+      "source": "tv2",
+      "title": "Hun blev skilt – så inviterede hun til fest",
+      "url": "https://nyheder.tv2.dk/samfund/2026-10-26-hun-blev-skilt-saa-inviterede-hun-til-fest",
+      "date": "26/10/2026",
+      "type": "Samfund",
+      "firstSeenAt": "2026-11-22T13:37:14.019Z",
+      "titleVi": "Cô ấy ly hôn – sau đó cô ấy mời mọi người đến dự tiệc"
+    },
+    {
+      "id": "https://nyheder.tv2.dk/udland/2026-11-22-zelenskyj-afsloerer-detaljer-om-svaert-privatliv-i-benjamin-hav-interview",
+      "source": "tv2",
+      "title": "Zelenskyj afslører detaljer om svært privatliv i Benjamin Hav-interview",
+      "url": "https://nyheder.tv2.dk/udland/2026-11-22-zelenskyj-afsloerer-detaljer-om-svaert-privatliv-i-benjamin-hav-interview",
+      "date": "22/11/2026",
+      "type": "Udland",
+      "firstSeenAt": "2026-11-22T13:37:14.019Z",
+      "titleVi": "Ông Zelenskyj tiết lộ chi tiết về cuộc sống riêng tư khó khăn trong cuộc phỏng vấn với Benjamin Hav"
+    },
+    {
+      "id": "https://nyheder.tv2.dk/samfund/2026-11-22-koebmaend-i-noedraab-om-benzinafgift",
+      "source": "tv2",
+      "title": "Købmænd i nødråb om benzinafgift",
+      "url": "https://nyheder.tv2.dk/samfund/2026-11-22-koebmaend-i-noedraab-om-benzinafgift",
+      "date": "22/11/2026",
+      "type": "Samfund",
+      "firstSeenAt": "2026-11-22T13:37:14.019Z",
+      "titleVi": "Các chủ cửa hàng kêu cứu về thuế xăng dầu"
+    },
+    {
+      "id": "https://nyheder.tv2.dk/udland/2026-11-19-interessen-for-at-deltage-i-omstridt-trump-middag-har-aldrig-vaeret-mindre",
+      "source": "tv2",
+      "title": "Interessen for at deltage i omstridt Trump-middag har aldrig været mindre",
+      "url": "https://nyheder.tv2.dk/udland/2026-11-19-interessen-for-at-deltage-i-omstridt-trump-middag-har-aldrig-vaeret-mindre",
+      "date": "19/11/2026",
+      "type": "Udland",
+      "firstSeenAt": "2026-11-22T13:37:14.019Z",
+      "titleVi": "Sự quan tâm đến việc tham dự bữa tối gây tranh cãi của ông Trump chưa bao giờ thấp đến vậy"
+    },
+    {
+      "id": "https://nyheder.tv2.dk/live/2024-09-08-seneste-nyt-om-krigen-i-ukraine-70b1d6cc-0720-404e-9878-45546e1999e7",
+      "source": "tv2",
+      "title": "NATO vil forsvare \"hver eneste tomme\" af Polen",
+      "url": "https://nyheder.tv2.dk/live/2024-09-08-seneste-nyt-om-krigen-i-ukraine-70b1d6cc-0720-404e-9878-45546e1999e7",
+      "date": "08/09/2024",
+      "type": "Live",
+      "firstSeenAt": "2026-09-28T00:30:42.330Z",
+      "titleVi": "NATO sẽ bảo vệ \"từng tấc đất\" của Ba Lan"
+    },
+    {
+      "id": "https://nyheder.tv2.dk/live/krimi/2026-11-20-russisk-attentatforsoeg-paa-ukrainsk-rapper-i-danmark",
+      "source": "tv2",
+      "title": "Danmark sender opfordring til EU-lande efter attentatforsøg",
+      "url": "https://nyheder.tv2.dk/live/krimi/2026-11-20-russisk-attentatforsoeg-paa-ukrainsk-rapper-i-danmark",
+      "date": "20/11/2026",
+      "type": "Live",
+      "firstSeenAt": "2026-11-20T23:01:20.986Z",
+      "titleVi": "Đan Mạch gửi lời kêu gọi đến các nước EU sau vụ mưu sát"
+    },
+    {
+      "id": "https://nyheder.tv2.dk/live/politik/2025-08-11-dansk-politik",
+      "source": "tv2",
+      "title": "Mette Frederiksens ordvalg bliver bemærket i udlandet",
+      "url": "https://nyheder.tv2.dk/live/politik/2025-08-11-dansk-politik",
+      "date": "11/08/2025",
+      "type": "Live",
+      "firstSeenAt": "2026-11-07T15:49:51.486Z",
+      "titleVi": "Cách dùng từ của bà Mette Frederiksen được chú ý ở nước ngoài"
+    },
+    {
+      "id": "https://nyheder.tv2.dk/samfund/2026-11-18-europaeiske-soldater-traener-vigtig-ukraine-mission-men-danskerne-blev-hjemme",
+      "source": "tv2",
+      "title": "Europæiske soldater træner vigtig Ukraine-mission, men danskerne blev hjemme",
+      "url": "https://nyheder.tv2.dk/samfund/2026-11-18-europaeiske-soldater-traener-vigtig-ukraine-mission-men-danskerne-blev-hjemme",
+      "date": "18/11/2026",
+      "type": "Samfund",
+      "firstSeenAt": "2026-11-22T13:37:14.019Z",
+      "titleVi": "Các binh sĩ châu Âu đang huấn luyện cho một nhiệm vụ quan trọng ở Ukraine, nhưng binh sĩ Đan Mạch đã ở lại quê nhà"
     },
     {
       "id": "https://nyheder.tv2.dk/live/udland/2026-11-16-trump-putin-og-xi-i-historisk-topmoede",
@@ -552,16 +662,6 @@
       "titleVi": "Bác sĩ thú y ngạc nhiên trước các chi tiết trong bản cáo trạng chống lại thị trưởng"
     },
     {
-      "id": "https://nyheder.tv2.dk/live/2024-09-08-seneste-nyt-om-krigen-i-ukraine-70b1d6cc-0720-404e-9878-45546e1999e7",
-      "source": "tv2",
-      "title": "NATO vil forsvare \"hver eneste tomme\" af Polen",
-      "url": "https://nyheder.tv2.dk/live/2024-09-08-seneste-nyt-om-krigen-i-ukraine-70b1d6cc-0720-404e-9878-45546e1999e7",
-      "date": "08/09/2024",
-      "type": "Live",
-      "firstSeenAt": "2026-09-28T00:30:42.330Z",
-      "titleVi": "NATO sẽ bảo vệ \"từng tấc đất\" của Ba Lan"
-    },
-    {
       "id": "https://nyheder.tv2.dk/udland/2026-11-13-krigszonen-ved-putin-overhovedet-hvad-der-foregaar-i-ukraine",
       "source": "tv2",
       "title": "'Krigszonen': Ved Putin overhovedet, hvad der foregår i Ukraine?",
@@ -570,26 +670,6 @@
       "type": "Udland",
       "firstSeenAt": "2026-11-22T05:39:38.264Z",
       "titleVi": "'Vùng chiến sự': Liệu ông Putin có biết chuyện gì đang xảy ra ở Ukraine không?"
-    },
-    {
-      "id": "https://nyheder.tv2.dk/live/klima/2026-11-09-cop31-er-i-gang",
-      "source": "tv2",
-      "title": "Lande offentliggør bud på aftale ved klimatopmøde",
-      "url": "https://nyheder.tv2.dk/live/klima/2026-11-09-cop31-er-i-gang",
-      "date": "09/11/2026",
-      "type": "Live",
-      "firstSeenAt": "2026-11-17T12:20:00.686Z",
-      "titleVi": "Các quốc gia công bố đề xuất thỏa thuận tại hội nghị thượng đỉnh về khí hậu"
-    },
-    {
-      "id": "https://nyheder.tv2.dk/live/samfund/2026-11-21-storbrand-i-brugsen-paa-fanoe",
-      "source": "tv2",
-      "title": "Supermarked i flammer på Fanø",
-      "url": "https://nyheder.tv2.dk/live/samfund/2026-11-21-storbrand-i-brugsen-paa-fanoe",
-      "date": "21/11/2026",
-      "type": "Live",
-      "firstSeenAt": "2026-11-21T19:39:14.011Z",
-      "titleVi": "Siêu thị bốc cháy ở Fanø"
     },
     {
       "id": "https://nyheder.tv2.dk/udland/2026-11-18-danske-retsmedicinere-er-ikke-i-tvivl-efter-at-have-set-epsteins-obduktionsrapport",
@@ -682,26 +762,6 @@
       "titleVi": "Cô gái 15 tuổi không thể đi lại – nhưng trên sân cô là một \"cỗ máy ghi bàn\""
     },
     {
-      "id": "https://nyheder.tv2.dk/live/politik/2025-08-11-dansk-politik",
-      "source": "tv2",
-      "title": "Mette Frederiksens ordvalg bliver bemærket i udlandet",
-      "url": "https://nyheder.tv2.dk/live/politik/2025-08-11-dansk-politik",
-      "date": "11/08/2025",
-      "type": "Live",
-      "firstSeenAt": "2026-11-07T15:49:51.486Z",
-      "titleVi": "Cách dùng từ của bà Mette Frederiksen được chú ý ở nước ngoài"
-    },
-    {
-      "id": "https://nyheder.tv2.dk/live/krimi/2026-11-20-russisk-attentatforsoeg-paa-ukrainsk-rapper-i-danmark",
-      "source": "tv2",
-      "title": "To sigtes for mislykket attentatforsøg mod ukrainsk rapper på dansk jord",
-      "url": "https://nyheder.tv2.dk/live/krimi/2026-11-20-russisk-attentatforsoeg-paa-ukrainsk-rapper-i-danmark",
-      "date": "20/11/2026",
-      "type": "Live",
-      "firstSeenAt": "2026-11-20T23:01:20.986Z",
-      "titleVi": "Hai người bị buộc tội âm mưu ám sát không thành công nhằm vào một rapper người Ukraine trên lãnh thổ Đan Mạch"
-    },
-    {
       "id": "https://nyheder.tv2.dk/samfund/2026-11-21-benjamin-hav-sender-interview-med-volodymyr-zelenskyj",
       "source": "tv2",
       "title": "Benjamin Hav sender interview med Volodymyr Zelenskyj",
@@ -750,66 +810,6 @@
       "type": "Live",
       "firstSeenAt": "2026-11-21T12:25:44.398Z",
       "titleVi": "Lời phát biểu của ông Trump gây xôn xao: - Ông có muốn làm tổng thống không?"
-    },
-    {
-      "id": "https://nyheder.tv2.dk/udland/2026-11-21-trump-pressemoede-skaber-overskrifter-det-her-er-starten-paa-en-hangorillakamp",
-      "source": "tv2",
-      "title": "Trump-pressemøde skaber overskrifter: - Det her er starten på en hangorillakamp",
-      "url": "https://nyheder.tv2.dk/udland/2026-11-21-trump-pressemoede-skaber-overskrifter-det-her-er-starten-paa-en-hangorillakamp",
-      "date": "21/11/2026",
-      "type": "Udland",
-      "firstSeenAt": "2026-11-21T12:25:44.398Z",
-      "titleVi": "Cuộc họp báo của ông Trump gây xôn xao dư luận: - Đây là khởi đầu của một cuộc chiến giữa các con khỉ đột đực"
-    },
-    {
-      "id": "https://nyheder.tv2.dk/udland/2026-11-21-kaptajn-kujon-loesladt-fra-faengslet",
-      "source": "tv2",
-      "title": "'Kaptajn Kujon' løsladt fra fængslet",
-      "url": "https://nyheder.tv2.dk/udland/2026-11-21-kaptajn-kujon-loesladt-fra-faengslet",
-      "date": "21/11/2026",
-      "type": "Udland",
-      "firstSeenAt": "2026-11-21T12:25:44.398Z",
-      "titleVi": "'Thuyền trưởng Hèn nhát' được thả khỏi nhà tù"
-    },
-    {
-      "id": "https://nyheder.tv2.dk/live/samfund/2026-09-28-dansk-landbrug-i-forandring",
-      "source": "tv2",
-      "title": "Antibiotika i danske svinestalde skal indgå i kommende grisefirepart",
-      "url": "https://nyheder.tv2.dk/live/samfund/2026-09-28-dansk-landbrug-i-forandring",
-      "date": "28/09/2026",
-      "type": "Live",
-      "firstSeenAt": "2026-11-21T12:25:44.398Z",
-      "titleVi": "Kháng sinh trong các chuồng lợn của Đan Mạch phải được đưa vào Hiệp ước về lợn sắp tới"
-    },
-    {
-      "id": "https://nyheder.tv2.dk/udland/2026-11-21-stor-skuffelse-over-planer-mod-draeberrobotter",
-      "source": "tv2",
-      "title": "Stor skuffelse over planer mod dræberrobotter",
-      "url": "https://nyheder.tv2.dk/udland/2026-11-21-stor-skuffelse-over-planer-mod-draeberrobotter",
-      "date": "21/11/2026",
-      "type": "Udland",
-      "firstSeenAt": "2026-11-21T12:25:44.398Z",
-      "titleVi": "Thất vọng lớn về các kế hoạch chống lại robot sát thủ"
-    },
-    {
-      "id": "https://nyheder.tv2.dk/samfund/2026-11-21-kvinde-blev-snydt-udenfor-supermarked-nu-advarer-hus-forbi",
-      "source": "tv2",
-      "title": "Kvinde blev snydt udenfor supermarked – nu advarer Hus Forbi",
-      "url": "https://nyheder.tv2.dk/samfund/2026-11-21-kvinde-blev-snydt-udenfor-supermarked-nu-advarer-hus-forbi",
-      "date": "21/11/2026",
-      "type": "Samfund",
-      "firstSeenAt": "2026-11-21T12:25:44.398Z",
-      "titleVi": "Một phụ nữ bị lừa đảo bên ngoài siêu thị – hiện nay tạp chí Hus Forbi đang đưa ra cảnh báo"
-    },
-    {
-      "id": "https://nyheder.tv2.dk/klima/2026-11-19-el-haabet-er-paa-manges-laeber-her-er-eksperters-bud-paa-fremtidens-muligheder",
-      "source": "tv2",
-      "title": "\"El-håbet\" er på manges læber – her er eksperters bud på fremtidens muligheder",
-      "url": "https://nyheder.tv2.dk/klima/2026-11-19-el-haabet-er-paa-manges-laeber-her-er-eksperters-bud-paa-fremtidens-muligheder",
-      "date": "19/11/2026",
-      "type": "Klima",
-      "firstSeenAt": "2026-11-21T12:25:44.398Z",
-      "titleVi": "\"Niềm hy vọng về điện\" đang được nhiều người nhắc đến – dưới đây là ý kiến của các chuyên gia về những khả năng trong tương lai"
     },
     {
       "id": "https://www.kungahuset.se/arkiv/nyheter/2026-11-20-prinsessan-estelle-har-praoat-i-helsingfors",
