@@ -1,6 +1,6 @@
 {
   "monitoringStartedAt": "2026-09-28T00:17:35.319Z",
-  "updatedAt": "2026-11-22T13:37:14.019Z",
+  "updatedAt": "2026-11-22T20:29:01.892Z",
   "sources": {
     "kongehuset": {
       "name": "Kongehuset",
@@ -57,9 +57,9 @@
       "language": "no",
       "monitoringStartedAt": "2026-10-01T16:30:06.936Z",
       "status": {
-        "state": "ok",
-        "message": "",
-        "changedAt": "2026-11-21T19:39:14.011Z"
+        "state": "error",
+        "message": "HTTP 401 Unauthorized",
+        "changedAt": "2026-11-22T20:29:01.892Z"
       }
     }
   },
@@ -522,14 +522,84 @@
       "titleVi": "H.M. Bài phát biểu của Nhà vua tại hội nghị kinh doanh trong ngành Công nghiệp Đan Mạch vào ngày 20 tháng 10 năm 2026"
     },
     {
-      "id": "https://nyheder.tv2.dk/samfund/2026-11-22-skandaleramt-laege-flygtede-fra-milliongaeld-og-dukkede-op-i-sydamerikansk-paradis",
+      "id": "https://nyheder.tv2.dk/live/2024-09-08-seneste-nyt-om-krigen-i-ukraine-70b1d6cc-0720-404e-9878-45546e1999e7",
       "source": "tv2",
-      "title": "Skandaleramt læge flygtede fra milliongæld og dukkede op i sydamerikansk 'paradis'",
-      "url": "https://nyheder.tv2.dk/samfund/2026-11-22-skandaleramt-laege-flygtede-fra-milliongaeld-og-dukkede-op-i-sydamerikansk-paradis",
+      "title": "NATO vil forsvare \"hver eneste tomme\" af Polen",
+      "url": "https://nyheder.tv2.dk/live/2024-09-08-seneste-nyt-om-krigen-i-ukraine-70b1d6cc-0720-404e-9878-45546e1999e7",
+      "date": "08/09/2024",
+      "type": "Live",
+      "firstSeenAt": "2026-09-28T00:30:42.330Z",
+      "titleVi": "NATO sẽ bảo vệ \"từng tấc đất\" của Ba Lan"
+    },
+    {
+      "id": "https://nyheder.tv2.dk/samfund/2026-11-22-matematiker-haevder-at-have-knaekket-167-aar-gammel-hypotese-med-ai",
+      "source": "tv2",
+      "title": "Matematiker hævder at have knækket 167 år gammel hypotese med AI",
+      "url": "https://nyheder.tv2.dk/samfund/2026-11-22-matematiker-haevder-at-have-knaekket-167-aar-gammel-hypotese-med-ai",
       "date": "22/11/2026",
       "type": "Samfund",
-      "firstSeenAt": "2026-11-22T13:37:14.019Z",
-      "titleVi": "Bác sĩ dính bê bối trốn chạy khỏi khoản nợ hàng triệu và xuất hiện ở \"thiên đường\" Nam Mỹ"
+      "firstSeenAt": "2026-11-22T20:29:01.892Z",
+      "titleVi": "Nhà toán học tuyên bố đã giải được bài toán giả thuyết 167 năm tuổi với sự trợ giúp của trí tuệ nhân tạo (AI)"
+    },
+    {
+      "id": "https://nyheder.tv2.dk/live/kort-nyt",
+      "source": "tv2",
+      "title": "Miley Cyrus er blevet gift",
+      "url": "https://nyheder.tv2.dk/live/kort-nyt",
+      "date": "—",
+      "type": "Live",
+      "firstSeenAt": "2026-09-28T00:30:42.330Z",
+      "titleVi": "Miley Cyrus đã kết hôn"
+    },
+    {
+      "id": "https://nyheder.tv2.dk/udland/2026-10-14-foelg-alle-resultaterne-fra-valget-i-usa",
+      "source": "tv2",
+      "title": "Følg alle resultaterne fra valget i USA",
+      "url": "https://nyheder.tv2.dk/udland/2026-10-14-foelg-alle-resultaterne-fra-valget-i-usa",
+      "date": "14/10/2026",
+      "type": "Udland",
+      "firstSeenAt": "2026-11-22T20:29:01.892Z",
+      "titleVi": "Theo dõi tất cả kết quả bầu cử ở Hoa Kỳ"
+    },
+    {
+      "id": "https://nyheder.tv2.dk/live/udland/2025-03-17-verden-i-forandring",
+      "source": "tv2",
+      "title": "Russisk krigsskib ramt af eksplosion i libysk havn",
+      "url": "https://nyheder.tv2.dk/live/udland/2025-03-17-verden-i-forandring",
+      "date": "17/03/2025",
+      "type": "Live",
+      "firstSeenAt": "2026-11-22T20:29:01.892Z",
+      "titleVi": "Tàu chiến Nga bị nổ tại cảng Libya"
+    },
+    {
+      "id": "https://nyheder.tv2.dk/live/udland/2026-05-16-midtvejsvalg-i-usa",
+      "source": "tv2",
+      "title": "Demokraterne sikrer sig historisk nyt flertal",
+      "url": "https://nyheder.tv2.dk/live/udland/2026-05-16-midtvejsvalg-i-usa",
+      "date": "16/05/2026",
+      "type": "Live",
+      "firstSeenAt": "2026-11-21T12:25:44.398Z",
+      "titleVi": "Đảng Dân chủ giành được đa số phiếu bầu mới mang tính lịch sử"
+    },
+    {
+      "id": "https://nyheder.tv2.dk/live/udland/2026-09-11-valg-i-sverige",
+      "source": "tv2",
+      "title": "Riksdagen skal stemme om svensk partleder som statsminister",
+      "url": "https://nyheder.tv2.dk/live/udland/2026-09-11-valg-i-sverige",
+      "date": "11/09/2026",
+      "type": "Live",
+      "firstSeenAt": "2026-11-22T20:29:01.892Z",
+      "titleVi": "Quốc hội Thụy Điển sẽ bỏ phiếu bầu lãnh đạo đảng Thụy Điển làm Thủ tướng"
+    },
+    {
+      "id": "https://nyheder.tv2.dk/samfund/2026-11-22-han-ville-spille-gta-i-fred-saa-lavede-han-en-13-siders-kontrakt-med-sin-kone",
+      "source": "tv2",
+      "title": "Han ville spille GTA i fred – så lavede han en 13 siders kontrakt med sin kone",
+      "url": "https://nyheder.tv2.dk/samfund/2026-11-22-han-ville-spille-gta-i-fred-saa-lavede-han-en-13-siders-kontrakt-med-sin-kone",
+      "date": "22/11/2026",
+      "type": "Samfund",
+      "firstSeenAt": "2026-11-22T20:29:01.892Z",
+      "titleVi": "Anh ta muốn chơi GTA trong yên bình - vì vậy anh ta đã soạn ra một bản hợp đồng dài 13 trang với vợ mình"
     },
     {
       "id": "https://nyheder.tv2.dk/live/klima/2026-11-09-cop31-ender-uden-aftale",
@@ -542,14 +612,14 @@
       "titleVi": "Chủ tịch COP cho biết thỏa thuận khí hậu chưa được thông qua"
     },
     {
-      "id": "https://nyheder.tv2.dk/live/kort-nyt",
+      "id": "https://nyheder.tv2.dk/samfund/2026-11-22-skandaleramt-laege-flygtede-fra-milliongaeld-og-dukkede-op-i-sydamerikansk-paradis",
       "source": "tv2",
-      "title": "Rumsonde når Merkur efter otte års rejse",
-      "url": "https://nyheder.tv2.dk/live/kort-nyt",
-      "date": "—",
-      "type": "Live",
-      "firstSeenAt": "2026-09-28T00:30:42.330Z",
-      "titleVi": "Tàu thăm dò vũ trụ đến Sao Thủy sau hành trình kéo dài tám năm"
+      "title": "Skandaleramt læge flygtede fra milliongæld og dukkede op i sydamerikansk 'paradis'",
+      "url": "https://nyheder.tv2.dk/samfund/2026-11-22-skandaleramt-laege-flygtede-fra-milliongaeld-og-dukkede-op-i-sydamerikansk-paradis",
+      "date": "22/11/2026",
+      "type": "Samfund",
+      "firstSeenAt": "2026-11-22T13:37:14.019Z",
+      "titleVi": "Bác sĩ dính bê bối trốn chạy khỏi khoản nợ hàng triệu và xuất hiện ở \"thiên đường\" Nam Mỹ"
     },
     {
       "id": "https://nyheder.tv2.dk/live/samfund/2026-11-21-brugsen-paa-fanoe-braendt-ned",
@@ -600,16 +670,6 @@
       "type": "Udland",
       "firstSeenAt": "2026-11-22T13:37:14.019Z",
       "titleVi": "Sự quan tâm đến việc tham dự bữa tối gây tranh cãi của ông Trump chưa bao giờ thấp đến vậy"
-    },
-    {
-      "id": "https://nyheder.tv2.dk/live/2024-09-08-seneste-nyt-om-krigen-i-ukraine-70b1d6cc-0720-404e-9878-45546e1999e7",
-      "source": "tv2",
-      "title": "NATO vil forsvare \"hver eneste tomme\" af Polen",
-      "url": "https://nyheder.tv2.dk/live/2024-09-08-seneste-nyt-om-krigen-i-ukraine-70b1d6cc-0720-404e-9878-45546e1999e7",
-      "date": "08/09/2024",
-      "type": "Live",
-      "firstSeenAt": "2026-09-28T00:30:42.330Z",
-      "titleVi": "NATO sẽ bảo vệ \"từng tấc đất\" của Ba Lan"
     },
     {
       "id": "https://nyheder.tv2.dk/live/krimi/2026-11-20-russisk-attentatforsoeg-paa-ukrainsk-rapper-i-danmark",
@@ -750,66 +810,6 @@
       "type": "Samfund",
       "firstSeenAt": "2026-11-21T19:39:14.011Z",
       "titleVi": "Chủ tịch choáng ngợp: Các bà mẹ trả tiền mua áo đấu cho con của người khác"
-    },
-    {
-      "id": "https://nyheder.tv2.dk/samfund/2026-11-21-15-aarig-kan-ikke-gaa-men-paa-banen-er-hun-en-maalmaskine",
-      "source": "tv2",
-      "title": "15-årig kan ikke gå – men på banen er hun en 'målmaskine'",
-      "url": "https://nyheder.tv2.dk/samfund/2026-11-21-15-aarig-kan-ikke-gaa-men-paa-banen-er-hun-en-maalmaskine",
-      "date": "21/11/2026",
-      "type": "Samfund",
-      "firstSeenAt": "2026-11-21T19:39:14.011Z",
-      "titleVi": "Cô gái 15 tuổi không thể đi lại – nhưng trên sân cô là một \"cỗ máy ghi bàn\""
-    },
-    {
-      "id": "https://nyheder.tv2.dk/samfund/2026-11-21-benjamin-hav-sender-interview-med-volodymyr-zelenskyj",
-      "source": "tv2",
-      "title": "Benjamin Hav sender interview med Volodymyr Zelenskyj",
-      "url": "https://nyheder.tv2.dk/samfund/2026-11-21-benjamin-hav-sender-interview-med-volodymyr-zelenskyj",
-      "date": "21/11/2026",
-      "type": "Samfund",
-      "firstSeenAt": "2026-11-21T19:39:14.011Z",
-      "titleVi": "Benjamin Hav phát sóng cuộc phỏng vấn với Volodymyr Zelenskyj"
-    },
-    {
-      "id": "https://nyheder.tv2.dk/samfund/2026-11-16-ny-pokemon-automat-moeder-kritik",
-      "source": "tv2",
-      "title": "Ny Pokémon-automat møder kritik",
-      "url": "https://nyheder.tv2.dk/samfund/2026-11-16-ny-pokemon-automat-moeder-kritik",
-      "date": "16/11/2026",
-      "type": "Samfund",
-      "firstSeenAt": "2026-11-21T19:39:14.011Z",
-      "titleVi": "Máy bán hàng tự động Pokémon mới vấp phải sự chỉ trích"
-    },
-    {
-      "id": "https://nyheder.tv2.dk/samfund/2026-11-18-17-aarig-tog-markant-valg-da-hun-saa-voldsomt-regnestykke-paa-sin-skaerm",
-      "source": "tv2",
-      "title": "17-årig tog markant valg, da hun så \"voldsomt\" regnestykke på sin skærm",
-      "url": "https://nyheder.tv2.dk/samfund/2026-11-18-17-aarig-tog-markant-valg-da-hun-saa-voldsomt-regnestykke-paa-sin-skaerm",
-      "date": "18/11/2026",
-      "type": "Samfund",
-      "firstSeenAt": "2026-11-21T19:39:14.011Z",
-      "titleVi": "Cô gái 17 tuổi đã đưa ra một quyết định quan trọng khi nhìn thấy một phép tính \"khủng khiếp\" trên màn hình của mình"
-    },
-    {
-      "id": "https://nyheder.tv2.dk/samfund/2026-11-18-ultrakorte-ai-serier-hitter-paa-tiktok",
-      "source": "tv2",
-      "title": "Ultrakorte AI-serier hitter på Tiktok",
-      "url": "https://nyheder.tv2.dk/samfund/2026-11-18-ultrakorte-ai-serier-hitter-paa-tiktok",
-      "date": "18/11/2026",
-      "type": "Samfund",
-      "firstSeenAt": "2026-11-21T12:25:44.398Z",
-      "titleVi": "Các series AI siêu ngắn đang gây sốt trên Tiktok"
-    },
-    {
-      "id": "https://nyheder.tv2.dk/live/udland/2026-05-16-midtvejsvalg-i-usa",
-      "source": "tv2",
-      "title": "Trump-bemærkning vækker opsigt: - Vil du være præsident?",
-      "url": "https://nyheder.tv2.dk/live/udland/2026-05-16-midtvejsvalg-i-usa",
-      "date": "16/05/2026",
-      "type": "Live",
-      "firstSeenAt": "2026-11-21T12:25:44.398Z",
-      "titleVi": "Lời phát biểu của ông Trump gây xôn xao: - Ông có muốn làm tổng thống không?"
     },
     {
       "id": "https://www.kungahuset.se/arkiv/nyheter/2026-11-20-prinsessan-estelle-har-praoat-i-helsingfors",
@@ -1032,15 +1032,15 @@
       "titleVi": "Hoàng tử Carl Philip đến thăm Lilla Erstagården cùng với tổ chức MusikBojen"
     },
     {
-      "id": "https://www.svenskdam.se/kungligt/orden-om-madeleines-festgaster-outtrottliga/11721567",
+      "id": "https://www.svenskdam.se/kungligt/sorgliga-beskedet-fran-kungahuset-prinsessan-har-dott/11721941",
       "source": "svenskdam",
-      "title": "Orden om Madeleines festgäster: ”Outtröttliga …”",
-      "url": "https://www.svenskdam.se/kungligt/orden-om-madeleines-festgaster-outtrottliga/11721567",
-      "date": "21/11/2026",
-      "publishedAt": "2026-11-21T17:00:00+01:00",
+      "title": "Sorgliga beskedet från kungahuset: Prinsessan har dött",
+      "url": "https://www.svenskdam.se/kungligt/sorgliga-beskedet-fran-kungahuset-prinsessan-har-dott/11721941",
+      "date": "22/11/2026",
+      "publishedAt": "2026-11-22T14:00:00+01:00",
       "type": "Kungligt",
-      "firstSeenAt": "2026-11-21T19:39:14.011Z",
-      "titleVi": "Những lời nói về các vị khách dự tiệc của Madeleine: \"Không biết mệt mỏi...\""
+      "firstSeenAt": "2026-11-22T20:29:01.892Z",
+      "titleVi": "Tin buồn từ hoàng gia: Công chúa đã qua đời"
     },
     {
       "id": "https://www.svenskdam.se/kungligt/kung-haralds-hemliga-karleksaffar-avslojad-manader-efter-hans-dod/11720574",
@@ -1054,37 +1054,26 @@
       "titleVi": "Mối tình bí mật của Vua Harald bị phanh phui – nhiều tháng sau khi ông qua đời"
     },
     {
-      "id": "https://www.svenskdam.se/kungligt/durek-sag-martha-louise-innan-de-traffades-jesus-tog-med-mig/11721770",
+      "id": "https://www.svenskdam.se/kungligt/kungliga-barnbarnens-juliga-looks-se-underbara-bilderna-har/11715218",
       "source": "svenskdam",
-      "title": "Durek såg Märtha Louise innan de träffades: “Jesus tog med mig”",
-      "url": "https://www.svenskdam.se/kungligt/durek-sag-martha-louise-innan-de-traffades-jesus-tog-med-mig/11721770",
-      "date": "21/11/2026",
-      "publishedAt": "2026-11-21T18:19:46+01:00",
+      "title": "Kungliga barnbarnens juliga looks – se underbara bilderna här!",
+      "url": "https://www.svenskdam.se/kungligt/kungliga-barnbarnens-juliga-looks-se-underbara-bilderna-har/11715218",
+      "date": "22/11/2026",
+      "publishedAt": "2026-11-22T08:00:00+01:00",
       "type": "Kungligt",
-      "firstSeenAt": "2026-11-22T05:39:38.264Z",
-      "titleVi": "Durek đã nhìn thấy Märtha Louise trước khi họ gặp nhau: “Chúa Giê-su đã đưa tôi đến”"
+      "firstSeenAt": "2026-11-22T20:29:01.892Z",
+      "titleVi": "Phong cách Giáng sinh của các cháu hoàng gia – xem những bức ảnh tuyệt vời tại đây!"
     },
     {
-      "id": "https://www.svenskdam.se/kungligt/kate-slapper-dokumentar-om-sjukdomstiden-cancer-forandrar-en/11721694",
+      "id": "https://www.svenskdam.se/noje/sa-ser-graaf-systrarna-pa-90-talet-i-dag-kom-in-overallt/11722012",
       "source": "svenskdam",
-      "title": "Kate släpper dokumentär om sjukdomstiden: \"Cancer förändrar en\"",
-      "url": "https://www.svenskdam.se/kungligt/kate-slapper-dokumentar-om-sjukdomstiden-cancer-forandrar-en/11721694",
-      "date": "21/11/2026",
-      "publishedAt": "2026-11-21T16:32:00+01:00",
-      "type": "Kungligt",
-      "firstSeenAt": "2026-11-21T19:39:14.011Z",
-      "titleVi": "Kate phát hành bộ phim tài liệu về thời gian mắc bệnh: \"Ung thư làm thay đổi con người\""
-    },
-    {
-      "id": "https://www.svenskdam.se/kungligt/nya-chockbeskedet-harry-och-meghan-firar-inte-jul-med-charles/11721348",
-      "source": "svenskdam",
-      "title": "Nya chockbeskedet: Harry och Meghan vägrar fira jul med Charles",
-      "url": "https://www.svenskdam.se/kungligt/nya-chockbeskedet-harry-och-meghan-firar-inte-jul-med-charles/11721348",
-      "date": "20/11/2026",
-      "publishedAt": "2026-11-20T21:00:00+01:00",
-      "type": "Kungligt",
-      "firstSeenAt": "2026-11-21T12:25:44.398Z",
-      "titleVi": "Tin sốc mới: Harry và Meghan từ chối đón Giáng sinh cùng Charles"
+      "title": "Så ser Graaf-systrarna på 90-talet i dag: “Kom in överallt”",
+      "url": "https://www.svenskdam.se/noje/sa-ser-graaf-systrarna-pa-90-talet-i-dag-kom-in-overallt/11722012",
+      "date": "22/11/2026",
+      "publishedAt": "2026-11-22T15:00:00+01:00",
+      "type": "Nöje",
+      "firstSeenAt": "2026-11-22T20:29:01.892Z",
+      "titleVi": "Đây là diện mạo hiện tại của chị em nhà Graaf của thập niên 90: “Được chào đón ở mọi nơi”"
     },
     {
       "id": "https://www.svenskdam.se/kungligt/sa-forsokte-grace-kelly-stoppa-dotterns-brollop/11695355",
@@ -1120,6 +1109,83 @@
       "titleVi": "Luật sư: 4 lý do để viết di chúc – điều mà nhiều người bỏ lỡ"
     },
     {
+      "id": "https://www.svenskdam.se/kungligt/hon-ar-doldiskvinnan-bredvid-madeleine-rorande-historien/11721777",
+      "source": "svenskdam",
+      "title": "Hon är doldiskvinnan bredvid Madeleine – rörande historien",
+      "url": "https://www.svenskdam.se/kungligt/hon-ar-doldiskvinnan-bredvid-madeleine-rorande-historien/11721777",
+      "date": "22/11/2026",
+      "publishedAt": "2026-11-22T18:00:00+01:00",
+      "type": "Kungligt",
+      "firstSeenAt": "2026-11-22T20:29:01.892Z",
+      "titleVi": "Bà là người phụ nữ ít được biết đến bên cạnh Madeleine – câu chuyện cảm động"
+    },
+    {
+      "id": "https://www.svenskdam.se/noje/sanna-lundells-nya-ord-om-uppbrottet-svart-att-slappa/11721954",
+      "source": "svenskdam",
+      "title": "Sanna Lundells nya ord om uppbrottet: \"Svårt att släppa\"",
+      "url": "https://www.svenskdam.se/noje/sanna-lundells-nya-ord-om-uppbrottet-svart-att-slappa/11721954",
+      "date": "22/11/2026",
+      "publishedAt": "2026-11-22T17:00:00+01:00",
+      "type": "Nöje",
+      "firstSeenAt": "2026-11-22T20:29:01.892Z",
+      "titleVi": "Những lời mới của Sanna Lundell về cuộc chia tay: \"Thật khó để buông bỏ\""
+    },
+    {
+      "id": "https://www.svenskdam.se/creative-studio/hitta-ratt-julklapp-under-black-friday-lat-ai-hjalpa-dig-pa-vagen/11718104",
+      "source": "svenskdam",
+      "title": "Hitta rätt julklapp under Black Friday – låt AI hjälpa dig på vägen",
+      "url": "https://www.svenskdam.se/creative-studio/hitta-ratt-julklapp-under-black-friday-lat-ai-hjalpa-dig-pa-vagen/11718104",
+      "date": "19/11/2026",
+      "publishedAt": "2026-11-19T13:29:40+01:00",
+      "type": "Creative studio",
+      "firstSeenAt": "2026-11-19T18:21:42.977Z",
+      "titleVi": "Tìm món quà Giáng sinh phù hợp trong dịp Black Friday – hãy để AI hỗ trợ bạn trên hành trình này"
+    },
+    {
+      "id": "https://www.svenskdam.se/noje/edward-bloms-besked-med-gunilla-har-bestamt-sig/11717910",
+      "source": "svenskdam",
+      "title": "Edward Bloms besked med Gunilla – har bestämt sig",
+      "url": "https://www.svenskdam.se/noje/edward-bloms-besked-med-gunilla-har-bestamt-sig/11717910",
+      "date": "22/11/2026",
+      "publishedAt": "2026-11-22T12:00:00+01:00",
+      "type": "Nöje",
+      "firstSeenAt": "2026-11-22T20:29:01.892Z",
+      "titleVi": "Thông báo của Edward Blom về Gunilla – ông đã quyết định"
+    },
+    {
+      "id": "https://www.svenskdam.se/kungligt/stjarnans-ovantade-beteende-overraskar-drottning-camilla/11721740",
+      "source": "svenskdam",
+      "title": "Stjärnans oväntade beteende – överraskar drottning Camilla",
+      "url": "https://www.svenskdam.se/kungligt/stjarnans-ovantade-beteende-overraskar-drottning-camilla/11721740",
+      "date": "22/11/2026",
+      "publishedAt": "2026-11-22T10:00:00+01:00",
+      "type": "Kungligt",
+      "firstSeenAt": "2026-11-22T20:29:01.892Z",
+      "titleVi": "Hành vi bất ngờ của ngôi sao – khiến Nữ hoàng Camilla ngạc nhiên"
+    },
+    {
+      "id": "https://www.svenskdam.se/noje/arja-saijonmaa-om-sin-medverkan-i-melodifestivalen-overtalad/11721606",
+      "source": "svenskdam",
+      "title": "Arja Saijonmaa om sin medverkan i Melodifestivalen: \"Övertalad\"",
+      "url": "https://www.svenskdam.se/noje/arja-saijonmaa-om-sin-medverkan-i-melodifestivalen-overtalad/11721606",
+      "date": "22/11/2026",
+      "publishedAt": "2026-11-22T09:00:00+01:00",
+      "type": "Nöje",
+      "firstSeenAt": "2026-11-22T20:29:01.892Z",
+      "titleVi": "Arja Saijonmaa nói về việc tham gia Melodifestivalen: \"Bị thuyết phục\""
+    },
+    {
+      "id": "https://www.svenskdam.se/noje/anders-pihlblads-problem-pa-jobbet-handelsen-i-tv4/11721689",
+      "source": "svenskdam",
+      "title": "Anders Pihlblads problem på jobbet – händelsen i TV4",
+      "url": "https://www.svenskdam.se/noje/anders-pihlblads-problem-pa-jobbet-handelsen-i-tv4/11721689",
+      "date": "22/11/2026",
+      "publishedAt": "2026-11-22T07:00:00+01:00",
+      "type": "Nöje",
+      "firstSeenAt": "2026-11-22T20:29:01.892Z",
+      "titleVi": "Vấn đề của Anders Pihlblad tại nơi làm việc – sự việc trên kênh TV4"
+    },
+    {
       "id": "https://www.svenskdam.se/noje/per-gessles-speciella-minne-med-marie-fredriksson-magiskt/11721562",
       "source": "svenskdam",
       "title": "Per Gessles speciella minne med Marie Fredriksson: \"Magiskt\"",
@@ -1129,6 +1195,17 @@
       "type": "Nöje",
       "firstSeenAt": "2026-11-22T05:39:38.264Z",
       "titleVi": "Ký ức đặc biệt của Per Gessle với Marie Fredriksson: \"Thật kỳ diệu\""
+    },
+    {
+      "id": "https://www.svenskdam.se/kungligt/durek-sag-martha-louise-innan-de-traffades-jesus-tog-med-mig/11721770",
+      "source": "svenskdam",
+      "title": "Durek såg Märtha Louise innan de träffades: “Jesus tog med mig”",
+      "url": "https://www.svenskdam.se/kungligt/durek-sag-martha-louise-innan-de-traffades-jesus-tog-med-mig/11721770",
+      "date": "21/11/2026",
+      "publishedAt": "2026-11-21T18:19:46+01:00",
+      "type": "Kungligt",
+      "firstSeenAt": "2026-11-22T05:39:38.264Z",
+      "titleVi": "Durek đã nhìn thấy Märtha Louise trước khi họ gặp nhau: “Chúa Giê-su đã đưa tôi đến”"
     },
     {
       "id": "https://www.svenskdam.se/noje/ulf-brunnberg-om-karlekslivet-bekraftar-nu-jag-har/11717915",
@@ -1142,15 +1219,26 @@
       "titleVi": "Ulf Brunnberg nói về đời sống tình cảm – giờ đây ông xác nhận: \"Tôi có...\""
     },
     {
-      "id": "https://www.svenskdam.se/creative-studio/hitta-ratt-julklapp-under-black-friday-lat-ai-hjalpa-dig-pa-vagen/11718104",
+      "id": "https://www.svenskdam.se/kungligt/orden-om-madeleines-festgaster-outtrottliga/11721567",
       "source": "svenskdam",
-      "title": "Hitta rätt julklapp under Black Friday – låt AI hjälpa dig på vägen",
-      "url": "https://www.svenskdam.se/creative-studio/hitta-ratt-julklapp-under-black-friday-lat-ai-hjalpa-dig-pa-vagen/11718104",
-      "date": "19/11/2026",
-      "publishedAt": "2026-11-19T13:29:40+01:00",
-      "type": "Creative studio",
-      "firstSeenAt": "2026-11-19T18:21:42.977Z",
-      "titleVi": "Tìm món quà Giáng sinh phù hợp trong dịp Black Friday – hãy để AI hỗ trợ bạn trên hành trình này"
+      "title": "Orden om Madeleines festgäster: ”Outtröttliga …”",
+      "url": "https://www.svenskdam.se/kungligt/orden-om-madeleines-festgaster-outtrottliga/11721567",
+      "date": "21/11/2026",
+      "publishedAt": "2026-11-21T17:00:00+01:00",
+      "type": "Kungligt",
+      "firstSeenAt": "2026-11-21T19:39:14.011Z",
+      "titleVi": "Những lời nói về các vị khách dự tiệc của Madeleine: \"Không biết mệt mỏi...\""
+    },
+    {
+      "id": "https://www.svenskdam.se/kungligt/kate-slapper-dokumentar-om-sjukdomstiden-cancer-forandrar-en/11721694",
+      "source": "svenskdam",
+      "title": "Kate släpper dokumentär om sjukdomstiden: \"Cancer förändrar en\"",
+      "url": "https://www.svenskdam.se/kungligt/kate-slapper-dokumentar-om-sjukdomstiden-cancer-forandrar-en/11721694",
+      "date": "21/11/2026",
+      "publishedAt": "2026-11-21T16:32:00+01:00",
+      "type": "Kungligt",
+      "firstSeenAt": "2026-11-21T19:39:14.011Z",
+      "titleVi": "Kate phát hành bộ phim tài liệu về thời gian mắc bệnh: \"Ung thư làm thay đổi con người\""
     },
     {
       "id": "https://www.svenskdam.se/noje/lasse-kroners-avslojande-om-forradarna-jag-har/11720679",
@@ -1208,6 +1296,50 @@
       "titleVi": "Thông báo mới của Haakon – về tương lai với Mette-Marit"
     },
     {
+      "id": "https://www.svenskdam.se/kungligt/madeleines-julkansla-pa-topp-mitt-i-new-york/11721393",
+      "source": "svenskdam",
+      "title": "Madeleines julkänsla på topp – mitt i New York!",
+      "url": "https://www.svenskdam.se/kungligt/madeleines-julkansla-pa-topp-mitt-i-new-york/11721393",
+      "date": "20/11/2026",
+      "publishedAt": "2026-11-20T21:49:07+01:00",
+      "type": "Kungligt",
+      "firstSeenAt": "2026-11-21T12:25:44.398Z",
+      "titleVi": "Cảm giác Giáng sinh của Madeleine đang lên cao – ngay giữa New York!"
+    },
+    {
+      "id": "https://www.svenskdam.se/noje/bjorn-ulvaeus-har-skickat-in-papperna-efter-langa-kampen-firar/11720110",
+      "source": "svenskdam",
+      "title": "Björn Ulvaeus har skickat in papperna – efter långa kampen: \"Firar\"",
+      "url": "https://www.svenskdam.se/noje/bjorn-ulvaeus-har-skickat-in-papperna-efter-langa-kampen-firar/11720110",
+      "date": "20/11/2026",
+      "publishedAt": "2026-11-20T13:09:15+01:00",
+      "type": "Nöje",
+      "firstSeenAt": "2026-11-20T23:01:20.986Z",
+      "titleVi": "Björn Ulvaeus đã nộp hồ sơ – sau một cuộc đấu tranh kéo dài: \"Đang ăn mừng\""
+    },
+    {
+      "id": "https://www.svenskdam.se/noje/kristin-kaspersen-har-upptackt-arvet-efter-sin-pappa-av-en-slump-hittade/11717922",
+      "source": "svenskdam",
+      "title": "Kristin Kaspersen har upptäckt arvet efter sin pappa – av en slump",
+      "url": "https://www.svenskdam.se/noje/kristin-kaspersen-har-upptackt-arvet-efter-sin-pappa-av-en-slump-hittade/11717922",
+      "date": "19/11/2026",
+      "publishedAt": "2026-11-19T17:00:00+01:00",
+      "type": "Nöje",
+      "firstSeenAt": "2026-11-19T18:21:42.977Z",
+      "titleVi": "Kristin Kaspersen đã phát hiện ra di sản của cha mình – một cách tình cờ"
+    },
+    {
+      "id": "https://www.svenskdam.se/noje/tommy-myllymaki-bekraftar-han-och-partnern-har-brutit-upp-nytt-kapitel/11719544",
+      "source": "svenskdam",
+      "title": "Tommy Myllymäki bekräftar – han och partnern har brutit upp: \"Nytt kapitel\"",
+      "url": "https://www.svenskdam.se/noje/tommy-myllymaki-bekraftar-han-och-partnern-har-brutit-upp-nytt-kapitel/11719544",
+      "date": "20/11/2026",
+      "publishedAt": "2026-11-20T11:00:00+01:00",
+      "type": "Nöje",
+      "firstSeenAt": "2026-11-20T23:01:20.986Z",
+      "titleVi": "Tommy Myllymäki xác nhận – anh và bạn đời đã chia tay: \"Một chương mới\""
+    },
+    {
       "id": "https://www.svenskdam.se/noje/per-andersson-bekraftar-relationen-lyckan-total-tur/11720538",
       "source": "svenskdam",
       "title": "Per Andersson bekräftar relationen – lyckan total: “Tur”",
@@ -1250,149 +1382,6 @@
       "type": "Kungligt",
       "firstSeenAt": "2026-11-21T12:25:44.398Z",
       "titleVi": "30 giờ với Sofia và Carl Philip – những gì đã diễn ra hậu trường"
-    },
-    {
-      "id": "https://www.svenskdam.se/kungligt/madeleines-julkansla-pa-topp-mitt-i-new-york/11721393",
-      "source": "svenskdam",
-      "title": "Madeleines julkänsla på topp – mitt i New York!",
-      "url": "https://www.svenskdam.se/kungligt/madeleines-julkansla-pa-topp-mitt-i-new-york/11721393",
-      "date": "20/11/2026",
-      "publishedAt": "2026-11-20T21:49:07+01:00",
-      "type": "Kungligt",
-      "firstSeenAt": "2026-11-21T12:25:44.398Z",
-      "titleVi": "Cảm giác Giáng sinh của Madeleine đang lên cao – ngay giữa New York!"
-    },
-    {
-      "id": "https://www.svenskdam.se/kungligt/estelle-och-hennes-vanner-hanas-i-pa-sparet-syrliga-orden-i-svt/11721322",
-      "source": "svenskdam",
-      "title": "Estelle och hennes vänner hånas i På spåret – syrliga orden i SVT",
-      "url": "https://www.svenskdam.se/kungligt/estelle-och-hennes-vanner-hanas-i-pa-sparet-syrliga-orden-i-svt/11721322",
-      "date": "20/11/2026",
-      "publishedAt": "2026-11-20T20:08:00+01:00",
-      "type": "Kungligt",
-      "firstSeenAt": "2026-11-21T12:25:44.398Z",
-      "titleVi": "Estelle và bạn bè của cô bị chế giễu trong chương trình \"På spåret\" – những lời lẽ mỉa mai trên kênh SVT"
-    },
-    {
-      "id": "https://www.svenskdam.se/noje/david-lagercrantz-nya-karriar-lurad-av-dottern-nelly-uppe-i-det-bla/11717939",
-      "source": "svenskdam",
-      "title": "David Lagercrantz nya karriär – lurad av dottern Nelly: \"Fattar ingenting\"",
-      "url": "https://www.svenskdam.se/noje/david-lagercrantz-nya-karriar-lurad-av-dottern-nelly-uppe-i-det-bla/11717939",
-      "date": "20/11/2026",
-      "publishedAt": "2026-11-20T19:00:00+01:00",
-      "type": "Nöje",
-      "firstSeenAt": "2026-11-21T12:25:44.398Z",
-      "titleVi": "Sự nghiệp mới của David Lagercrantz – bị con gái Nelly lừa: \"Tôi không hiểu gì cả\""
-    },
-    {
-      "id": "https://www.svenskdam.se/kungligt/estelles-egna-ord-om-praktiken-hos-presidenten-lart-mig-massa/11721249",
-      "source": "svenskdam",
-      "title": "Estelles egna ord om praktiken hos presidenten: \"Lärt mig massa\"",
-      "url": "https://www.svenskdam.se/kungligt/estelles-egna-ord-om-praktiken-hos-presidenten-lart-mig-massa/11721249",
-      "date": "20/11/2026",
-      "publishedAt": "2026-11-20T16:53:56+01:00",
-      "type": "Kungligt",
-      "firstSeenAt": "2026-11-20T23:01:20.986Z",
-      "titleVi": "Những lời của chính Estelle về thời gian thực tập tại Văn phòng Tổng thống: \"Tôi đã học được rất nhiều\""
-    },
-    {
-      "id": "https://www.svenskdam.se/kungligt/sno-prinsessan-madeleines-nya-hollywood-stil-har-har-hon-lyxshoppat/11719548",
-      "source": "svenskdam",
-      "title": "Sno prinsessan Madeleines nya Hollywood-stil – här har hon lyxshoppat!",
-      "url": "https://www.svenskdam.se/kungligt/sno-prinsessan-madeleines-nya-hollywood-stil-har-har-hon-lyxshoppat/11719548",
-      "date": "20/11/2026",
-      "publishedAt": "2026-11-20T16:00:00+01:00",
-      "type": "Kungligt",
-      "firstSeenAt": "2026-11-20T23:01:20.986Z",
-      "titleVi": "Học hỏi phong cách Hollywood mới của Công chúa Madeleine – đây là nơi bà ấy mua sắm hàng hiệu!"
-    },
-    {
-      "id": "https://www.svenskdam.se/noje/ingrossos-vilda-fest-med-prinsessan-madeleine-privata-bilden-avslojar/11719858",
-      "source": "svenskdam",
-      "title": "Benjamin Ingrossos vilda fest med prinsessan Madeleine – privata bilden avslöjar",
-      "url": "https://www.svenskdam.se/noje/ingrossos-vilda-fest-med-prinsessan-madeleine-privata-bilden-avslojar/11719858",
-      "date": "20/11/2026",
-      "publishedAt": "2026-11-20T12:02:36+01:00",
-      "type": "Nöje",
-      "firstSeenAt": "2026-11-20T23:01:20.986Z",
-      "titleVi": "Bữa tiệc tưng bừng của Benjamin Ingrosso cùng Công chúa Madeleine – bức ảnh riêng tư tiết lộ"
-    },
-    {
-      "id": "https://www.svenskdam.se/noje/kristin-kaspersen-har-upptackt-arvet-efter-sin-pappa-av-en-slump-hittade/11717922",
-      "source": "svenskdam",
-      "title": "Kristin Kaspersen har upptäckt arvet efter sin pappa – av en slump",
-      "url": "https://www.svenskdam.se/noje/kristin-kaspersen-har-upptackt-arvet-efter-sin-pappa-av-en-slump-hittade/11717922",
-      "date": "19/11/2026",
-      "publishedAt": "2026-11-19T17:00:00+01:00",
-      "type": "Nöje",
-      "firstSeenAt": "2026-11-19T18:21:42.977Z",
-      "titleVi": "Kristin Kaspersen đã phát hiện ra di sản của cha mình – một cách tình cờ"
-    },
-    {
-      "id": "https://www.svenskdam.se/noje/tommy-myllymaki-bekraftar-han-och-partnern-har-brutit-upp-nytt-kapitel/11719544",
-      "source": "svenskdam",
-      "title": "Tommy Myllymäki bekräftar – han och partnern har brutit upp: \"Nytt kapitel\"",
-      "url": "https://www.svenskdam.se/noje/tommy-myllymaki-bekraftar-han-och-partnern-har-brutit-upp-nytt-kapitel/11719544",
-      "date": "20/11/2026",
-      "publishedAt": "2026-11-20T11:00:00+01:00",
-      "type": "Nöje",
-      "firstSeenAt": "2026-11-20T23:01:20.986Z",
-      "titleVi": "Tommy Myllymäki xác nhận – anh và bạn đời đã chia tay: \"Một chương mới\""
-    },
-    {
-      "id": "https://www.svenskdam.se/kungligt/madeleines-lycka-med-familjen-berattar-for-svensk-dam-tror-barnen-kommer-tycka-om-den/11710106",
-      "source": "svenskdam",
-      "title": "Madeleines lycka med familjen – berättar för Svensk Dam: \"Tror barnen kommer tycka om den\"",
-      "url": "https://www.svenskdam.se/kungligt/madeleines-lycka-med-familjen-berattar-for-svensk-dam-tror-barnen-kommer-tycka-om-den/11710106",
-      "date": "15/11/2026",
-      "publishedAt": "2026-11-15T12:07:09+01:00",
-      "type": "Kungligt",
-      "firstSeenAt": "2026-11-22T05:39:38.264Z",
-      "titleVi": "Hạnh phúc của Madeleine bên gia đình – chia sẻ với tạp chí Svensk Dam: \"Tôi nghĩ rằng các con sẽ thích nó\""
-    },
-    {
-      "id": "https://www.svenskdam.se/noje/pa-sparet-anmalt-for-orden-pa-kristian-luuks-skylt-kan-fa-stora-boter/11720487",
-      "source": "svenskdam",
-      "title": "På spåret anmält för orden på Kristian Luuks skylt – kan få stora böter",
-      "url": "https://www.svenskdam.se/noje/pa-sparet-anmalt-for-orden-pa-kristian-luuks-skylt-kan-fa-stora-boter/11720487",
-      "date": "20/11/2026",
-      "publishedAt": "2026-11-20T15:00:00+01:00",
-      "type": "Nöje",
-      "firstSeenAt": "2026-11-20T23:01:20.986Z",
-      "titleVi": "Chương trình \"På spåret\" bị tố cáo vì những lời lẽ trên biển hiệu của Kristian Luuk – có thể bị phạt nặng"
-    },
-    {
-      "id": "https://www.svenskdam.se/kungligt/du-bara-maste-se-hur-mycket-madeleines-nya-klocka-kostar-hog-lyxfaktor/11720098",
-      "source": "svenskdam",
-      "title": "Du bara MÅSTE se hur mycket Madeleines nya klocka kostar: \"Hög lyxfaktor\"",
-      "url": "https://www.svenskdam.se/kungligt/du-bara-maste-se-hur-mycket-madeleines-nya-klocka-kostar-hog-lyxfaktor/11720098",
-      "date": "20/11/2026",
-      "publishedAt": "2026-11-20T14:00:00+01:00",
-      "type": "Kungligt",
-      "firstSeenAt": "2026-11-20T23:01:20.986Z",
-      "titleVi": "Bạn CHẮC CHẮN PHẢI xem chiếc đồng hồ mới của Madeleine có giá bao nhiêu: \"Mức độ sang trọng cao\""
-    },
-    {
-      "id": "https://www.svenskdam.se/noje/bjorn-ulvaeus-har-skickat-in-papperna-efter-langa-kampen-firar/11720110",
-      "source": "svenskdam",
-      "title": "Björn Ulvaeus har skickat in papperna – efter långa kampen: \"Firar\"",
-      "url": "https://www.svenskdam.se/noje/bjorn-ulvaeus-har-skickat-in-papperna-efter-langa-kampen-firar/11720110",
-      "date": "20/11/2026",
-      "publishedAt": "2026-11-20T13:09:15+01:00",
-      "type": "Nöje",
-      "firstSeenAt": "2026-11-20T23:01:20.986Z",
-      "titleVi": "Björn Ulvaeus đã nộp hồ sơ – sau một cuộc đấu tranh kéo dài: \"Đang ăn mừng\""
-    },
-    {
-      "id": "https://www.svenskdam.se/kungligt/sa-mycket-kostade-kung-haralds-begravning-prislappen-avslojad/11720477",
-      "source": "svenskdam",
-      "title": "Så mycket kostade kung Haralds begravning – prislappen avslöjad",
-      "url": "https://www.svenskdam.se/kungligt/sa-mycket-kostade-kung-haralds-begravning-prislappen-avslojad/11720477",
-      "date": "20/11/2026",
-      "publishedAt": "2026-11-20T12:40:14+01:00",
-      "type": "Kungligt",
-      "firstSeenAt": "2026-11-20T23:01:20.986Z",
-      "titleVi": "Đây là chi phí cho tang lễ của Vua Harald – giá cả được tiết lộ"
     },
     {
       "id": "https://www.kongehuset.no/nyheter/markerte-fontenehuset-askers-10-arsjubileum",
