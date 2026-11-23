@@ -1,6 +1,6 @@
 {
   "monitoringStartedAt": "2026-09-28T00:17:35.319Z",
-  "updatedAt": "2026-11-22T20:29:01.892Z",
+  "updatedAt": "2026-11-23T01:05:22.100Z",
   "sources": {
     "kongehuset": {
       "name": "Kongehuset",
@@ -33,9 +33,9 @@
       "language": "sv",
       "monitoringStartedAt": "2026-10-01T16:20:13.213Z",
       "status": {
-        "state": "ok",
-        "message": "",
-        "changedAt": "2026-11-21T23:55:45.154Z"
+        "state": "error",
+        "message": "fetch failed",
+        "changedAt": "2026-11-23T01:05:22.100Z"
       }
     },
     "svenskdam": {
@@ -58,8 +58,8 @@
       "monitoringStartedAt": "2026-10-01T16:30:06.936Z",
       "status": {
         "state": "error",
-        "message": "HTTP 401 Unauthorized",
-        "changedAt": "2026-11-22T20:29:01.892Z"
+        "message": "The Norwegian Royal House Atom feed returned no entries",
+        "changedAt": "2026-11-23T01:05:22.100Z"
       }
     }
   },
@@ -524,32 +524,92 @@
     {
       "id": "https://nyheder.tv2.dk/live/2024-09-08-seneste-nyt-om-krigen-i-ukraine-70b1d6cc-0720-404e-9878-45546e1999e7",
       "source": "tv2",
-      "title": "NATO vil forsvare \"hver eneste tomme\" af Polen",
+      "title": "USA arbejder på artikel-5 lignende garanti for Ukraine, siger Jared Kushner",
       "url": "https://nyheder.tv2.dk/live/2024-09-08-seneste-nyt-om-krigen-i-ukraine-70b1d6cc-0720-404e-9878-45546e1999e7",
       "date": "08/09/2024",
       "type": "Live",
       "firstSeenAt": "2026-09-28T00:30:42.330Z",
-      "titleVi": "NATO sẽ bảo vệ \"từng tấc đất\" của Ba Lan"
-    },
-    {
-      "id": "https://nyheder.tv2.dk/samfund/2026-11-22-matematiker-haevder-at-have-knaekket-167-aar-gammel-hypotese-med-ai",
-      "source": "tv2",
-      "title": "Matematiker hævder at have knækket 167 år gammel hypotese med AI",
-      "url": "https://nyheder.tv2.dk/samfund/2026-11-22-matematiker-haevder-at-have-knaekket-167-aar-gammel-hypotese-med-ai",
-      "date": "22/11/2026",
-      "type": "Samfund",
-      "firstSeenAt": "2026-11-22T20:29:01.892Z",
-      "titleVi": "Nhà toán học tuyên bố đã giải được bài toán giả thuyết 167 năm tuổi với sự trợ giúp của trí tuệ nhân tạo (AI)"
+      "titleVi": "Jared Kushner cho biết Hoa Kỳ đang nỗ lực để đưa ra một đảm bảo tương tự như Điều 5 cho Ukraine"
     },
     {
       "id": "https://nyheder.tv2.dk/live/kort-nyt",
       "source": "tv2",
-      "title": "Miley Cyrus er blevet gift",
+      "title": "Trump afholder '$TRUMP'-galla",
       "url": "https://nyheder.tv2.dk/live/kort-nyt",
       "date": "—",
       "type": "Live",
       "firstSeenAt": "2026-09-28T00:30:42.330Z",
-      "titleVi": "Miley Cyrus đã kết hôn"
+      "titleVi": "Ông Trump tổ chức dạ tiệc '$TRUMP'"
+    },
+    {
+      "id": "https://nyheder.tv2.dk/krimi/2026-11-22-opgang-og-vinduer-smadret-efter-mulig-eksplosion-i-aarhus",
+      "source": "tv2",
+      "title": "Opgang og vinduer smadret efter mulig eksplosion i Aarhus",
+      "url": "https://nyheder.tv2.dk/krimi/2026-11-22-opgang-og-vinduer-smadret-efter-mulig-eksplosion-i-aarhus",
+      "date": "22/11/2026",
+      "type": "Krimi",
+      "firstSeenAt": "2026-11-23T01:05:22.100Z",
+      "titleVi": "Cầu thang và cửa sổ bị vỡ sau vụ nổ có thể xảy ra ở Aarhus"
+    },
+    {
+      "id": "https://nyheder.tv2.dk/udland/2026-11-21-ukrainske-droneangreb-oeger-risikoen-for-nato-lande-siger-korrespondent",
+      "source": "tv2",
+      "title": "Ukrainske droneangreb øger risikoen for NATO-lande, siger korrespondent",
+      "url": "https://nyheder.tv2.dk/udland/2026-11-21-ukrainske-droneangreb-oeger-risikoen-for-nato-lande-siger-korrespondent",
+      "date": "21/11/2026",
+      "type": "Udland",
+      "firstSeenAt": "2026-11-23T01:05:22.100Z",
+      "titleVi": "Phóng viên cho biết các cuộc tấn công bằng máy bay không người lái của Ukraine làm gia tăng rủi ro cho các nước NATO"
+    },
+    {
+      "id": "https://nyheder.tv2.dk/samfund/2026-11-22-kvindes-underliv-blev-oedelagt-under-foedsel-men-ingen-talte-om-erstatning",
+      "source": "tv2",
+      "title": "Kvindes underliv blev ødelagt under fødsel – men ingen talte om erstatning",
+      "url": "https://nyheder.tv2.dk/samfund/2026-11-22-kvindes-underliv-blev-oedelagt-under-foedsel-men-ingen-talte-om-erstatning",
+      "date": "22/11/2026",
+      "type": "Samfund",
+      "firstSeenAt": "2026-11-23T01:05:22.100Z",
+      "titleVi": "Bộ phận sinh dục của người phụ nữ bị tổn thương trong quá trình sinh nở – nhưng không ai đề cập đến việc bồi thường"
+    },
+    {
+      "id": "https://nyheder.tv2.dk/udland/2026-11-19-zelenskyj-er-tilbage-paa-putins-doedsliste-men-han-er-ikke-bange",
+      "source": "tv2",
+      "title": "Zelenskyj er tilbage på Putins dødsliste – men han er ikke bange",
+      "url": "https://nyheder.tv2.dk/udland/2026-11-19-zelenskyj-er-tilbage-paa-putins-doedsliste-men-han-er-ikke-bange",
+      "date": "19/11/2026",
+      "type": "Udland",
+      "firstSeenAt": "2026-11-23T01:05:22.100Z",
+      "titleVi": "Ông Zelensky trở lại danh sách ám sát của Putin – nhưng ông không sợ hãi"
+    },
+    {
+      "id": "https://nyheder.tv2.dk/live/udland/2026-05-16-midtvejsvalg-i-usa",
+      "source": "tv2",
+      "title": "Demokraterne sikrer sig historisk nyt flertal",
+      "url": "https://nyheder.tv2.dk/live/udland/2026-05-16-midtvejsvalg-i-usa",
+      "date": "16/05/2026",
+      "type": "Live",
+      "firstSeenAt": "2026-11-21T12:25:44.398Z",
+      "titleVi": "Đảng Dân chủ giành được đa số phiếu bầu mới mang tính lịch sử"
+    },
+    {
+      "id": "https://nyheder.tv2.dk/live/politik/2026-11-16-udrejsecenter-uden-for-eu-praesenteret",
+      "source": "tv2",
+      "title": "Danmark vil sende russere til Rwanda",
+      "url": "https://nyheder.tv2.dk/live/politik/2026-11-16-udrejsecenter-uden-for-eu-praesenteret",
+      "date": "16/11/2026",
+      "type": "Live",
+      "firstSeenAt": "2026-11-23T01:05:22.100Z",
+      "titleVi": "Đan Mạch sẽ trục xuất người Nga sang Rwanda"
+    },
+    {
+      "id": "https://nyheder.tv2.dk/udland/2026-11-22-anthropic-ansat-vaekker-opsigt-haevder-at-have-loest-stor-matematisk-gaade",
+      "source": "tv2",
+      "title": "Anthropic-ansat vækker opsigt – hævder at have løst stor matematisk gåde",
+      "url": "https://nyheder.tv2.dk/udland/2026-11-22-anthropic-ansat-vaekker-opsigt-haevder-at-have-loest-stor-matematisk-gaade",
+      "date": "22/11/2026",
+      "type": "Udland",
+      "firstSeenAt": "2026-11-23T01:05:22.100Z",
+      "titleVi": "Nhân viên của Anthropic gây xôn xao – tuyên bố đã giải được một bài toán lớn"
     },
     {
       "id": "https://nyheder.tv2.dk/udland/2026-10-14-foelg-alle-resultaterne-fra-valget-i-usa",
@@ -570,16 +630,6 @@
       "type": "Live",
       "firstSeenAt": "2026-11-22T20:29:01.892Z",
       "titleVi": "Tàu chiến Nga bị nổ tại cảng Libya"
-    },
-    {
-      "id": "https://nyheder.tv2.dk/live/udland/2026-05-16-midtvejsvalg-i-usa",
-      "source": "tv2",
-      "title": "Demokraterne sikrer sig historisk nyt flertal",
-      "url": "https://nyheder.tv2.dk/live/udland/2026-05-16-midtvejsvalg-i-usa",
-      "date": "16/05/2026",
-      "type": "Live",
-      "firstSeenAt": "2026-11-21T12:25:44.398Z",
-      "titleVi": "Đảng Dân chủ giành được đa số phiếu bầu mới mang tính lịch sử"
     },
     {
       "id": "https://nyheder.tv2.dk/live/udland/2026-09-11-valg-i-sverige",
@@ -760,56 +810,6 @@
       "type": "Samfund",
       "firstSeenAt": "2026-11-21T23:55:45.154Z",
       "titleVi": "DR gỡ bỏ bộ phim tài liệu về hẹn hò với người lớn tuổi sau khi nhân vật chính lên tiếng chỉ trích"
-    },
-    {
-      "id": "https://nyheder.tv2.dk/udland/2026-11-21-mexico-anholder-en-af-fbis-ti-mest-eftersoegte",
-      "source": "tv2",
-      "title": "Mexico anholder en af FBI's ti mest eftersøgte",
-      "url": "https://nyheder.tv2.dk/udland/2026-11-21-mexico-anholder-en-af-fbis-ti-mest-eftersoegte",
-      "date": "21/11/2026",
-      "type": "Udland",
-      "firstSeenAt": "2026-11-21T23:55:45.154Z",
-      "titleVi": "Mexico bắt giữ một trong mười tên tội phạm bị FBI truy nã gắt gao nhất"
-    },
-    {
-      "id": "https://nyheder.tv2.dk/samfund/2026-11-20-rotteproblemer-hos-danish-agro-fortsaetter-i-aar-flere-haller-maa-lukke",
-      "source": "tv2",
-      "title": "Rotteproblemer hos Danish Agro fortsætter i år – flere haller må lukke",
-      "url": "https://nyheder.tv2.dk/samfund/2026-11-20-rotteproblemer-hos-danish-agro-fortsaetter-i-aar-flere-haller-maa-lukke",
-      "date": "20/11/2026",
-      "type": "Samfund",
-      "firstSeenAt": "2026-11-21T23:55:45.154Z",
-      "titleVi": "Vấn đề chuột tại Danish Agro vẫn tiếp diễn trong năm nay – nhiều nhà kho phải đóng cửa"
-    },
-    {
-      "id": "https://nyheder.tv2.dk/udland/2026-11-21-opsigtsvaekkende-video-viser-isolerede-stammefolk-for-foerste-gang-i-50-aar",
-      "source": "tv2",
-      "title": "Opsigtsvækkende video viser isolerede stammefolk for første gang i 50 år",
-      "url": "https://nyheder.tv2.dk/udland/2026-11-21-opsigtsvaekkende-video-viser-isolerede-stammefolk-for-foerste-gang-i-50-aar",
-      "date": "21/11/2026",
-      "type": "Udland",
-      "firstSeenAt": "2026-11-21T23:55:45.154Z",
-      "titleVi": "Đoạn video gây sốc cho thấy những người thuộc bộ tộc sống biệt lập lần đầu tiên sau 50 năm"
-    },
-    {
-      "id": "https://nyheder.tv2.dk/samfund/2026-11-21-mange-boligejere-kan-se-frem-til-markant-hoejere-boligskat",
-      "source": "tv2",
-      "title": "Mange boligejere kan se frem til markant højere boligskat",
-      "url": "https://nyheder.tv2.dk/samfund/2026-11-21-mange-boligejere-kan-se-frem-til-markant-hoejere-boligskat",
-      "date": "21/11/2026",
-      "type": "Samfund",
-      "firstSeenAt": "2026-11-21T19:39:14.011Z",
-      "titleVi": "Nhiều chủ nhà có thể phải đối mặt với mức thuế nhà ở cao hơn đáng kể"
-    },
-    {
-      "id": "https://nyheder.tv2.dk/samfund/2026-11-21-formand-overvaeldet-moedre-betaler-klubtroejer-til-andres-boern",
-      "source": "tv2",
-      "title": "Formand overvældet: Mødre betaler klubtrøjer til andres børn",
-      "url": "https://nyheder.tv2.dk/samfund/2026-11-21-formand-overvaeldet-moedre-betaler-klubtroejer-til-andres-boern",
-      "date": "21/11/2026",
-      "type": "Samfund",
-      "firstSeenAt": "2026-11-21T19:39:14.011Z",
-      "titleVi": "Chủ tịch choáng ngợp: Các bà mẹ trả tiền mua áo đấu cho con của người khác"
     },
     {
       "id": "https://www.kungahuset.se/arkiv/nyheter/2026-11-20-prinsessan-estelle-har-praoat-i-helsingfors",
