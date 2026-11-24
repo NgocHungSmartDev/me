@@ -1,6 +1,6 @@
 {
   "monitoringStartedAt": "2026-09-28T00:17:35.319Z",
-  "updatedAt": "2026-11-23T21:25:23.879Z",
+  "updatedAt": "2026-11-24T05:26:43.545Z",
   "sources": {
     "kongehuset": {
       "name": "Kongehuset",
@@ -33,9 +33,9 @@
       "language": "sv",
       "monitoringStartedAt": "2026-10-01T16:20:13.213Z",
       "status": {
-        "state": "ok",
-        "message": "",
-        "changedAt": "2026-11-23T09:05:48.898Z"
+        "state": "error",
+        "message": "fetch failed",
+        "changedAt": "2026-11-24T05:26:43.545Z"
       }
     },
     "svenskdam": {
@@ -522,14 +522,54 @@
       "titleVi": "Chuyến thăm cấp nhà nước từ Việt Nam - Ngày 2"
     },
     {
+      "id": "https://nyheder.tv2.dk/live/2024-09-08-seneste-nyt-om-krigen-i-ukraine-70b1d6cc-0720-404e-9878-45546e1999e7",
+      "source": "tv2",
+      "title": "Rusland krænker polsk luftrum",
+      "url": "https://nyheder.tv2.dk/live/2024-09-08-seneste-nyt-om-krigen-i-ukraine-70b1d6cc-0720-404e-9878-45546e1999e7",
+      "date": "08/09/2024",
+      "type": "Live",
+      "firstSeenAt": "2026-09-28T00:30:42.330Z",
+      "titleVi": "Nga vi phạm không phận Ba Lan"
+    },
+    {
+      "id": "https://nyheder.tv2.dk/politik/2026-11-23-paa-valgnatten-havde-mette-frederiksen-kun-et-ultimativt-krav-nu-pibler-kritikken-frem",
+      "source": "tv2",
+      "title": "På valgnatten havde Mette Frederiksen kun ét ultimativt krav – nu pibler kritikken frem",
+      "url": "https://nyheder.tv2.dk/politik/2026-11-23-paa-valgnatten-havde-mette-frederiksen-kun-et-ultimativt-krav-nu-pibler-kritikken-frem",
+      "date": "23/11/2026",
+      "type": "Politik",
+      "firstSeenAt": "2026-11-24T05:26:43.545Z",
+      "titleVi": "Vào đêm bầu cử, Mette Frederiksen chỉ có một yêu cầu cuối cùng – bây giờ những lời chỉ trích đang dâng trào"
+    },
+    {
       "id": "https://nyheder.tv2.dk/live/kort-nyt",
       "source": "tv2",
-      "title": "To personer stukket med kniv i Ishøj",
+      "title": "Flere biler i uheld på Vestmotorvejen",
       "url": "https://nyheder.tv2.dk/live/kort-nyt",
       "date": "—",
       "type": "Live",
       "firstSeenAt": "2026-09-28T00:30:42.330Z",
-      "titleVi": "Hai người bị đâm bằng dao ở Ishøj"
+      "titleVi": "Nhiều xe gặp nạn trên đường cao tốc Vestmotorvejen"
+    },
+    {
+      "id": "https://nyheder.tv2.dk/udland/2026-11-24-flere-er-kommet-til-skade-i-muligt-angreb-paa-tysk-partikontor",
+      "source": "tv2",
+      "title": "Flere er kommet til skade i muligt angreb på tysk partikontor",
+      "url": "https://nyheder.tv2.dk/udland/2026-11-24-flere-er-kommet-til-skade-i-muligt-angreb-paa-tysk-partikontor",
+      "date": "24/11/2026",
+      "type": "Udland",
+      "firstSeenAt": "2026-11-24T05:26:43.545Z",
+      "titleVi": "Nhiều người bị thương trong vụ tấn công có thể xảy ra vào trụ sở đảng ở Đức"
+    },
+    {
+      "id": "https://nyheder.tv2.dk/udland/2026-11-24-trump-kritiserer-demokrats-stop-for-doedsstraf",
+      "source": "tv2",
+      "title": "Trump kritiserer demokrats stop for dødsstraf",
+      "url": "https://nyheder.tv2.dk/udland/2026-11-24-trump-kritiserer-demokrats-stop-for-doedsstraf",
+      "date": "24/11/2026",
+      "type": "Udland",
+      "firstSeenAt": "2026-11-24T05:26:43.545Z",
+      "titleVi": "Ông Trump chỉ trích việc đảng Dân chủ chấm dứt án tử hình"
     },
     {
       "id": "https://nyheder.tv2.dk/live/business/2025-03-12-seneste-nyt-fra-de-finansielle-markeder",
@@ -542,14 +582,54 @@
       "titleVi": "Jensen Huang trở lại Nvidia sau khi ông Trump nói chuyện với hội đồng quản trị"
     },
     {
-      "id": "https://nyheder.tv2.dk/penge/2026-11-20-nu-kommer-en-af-aarets-vigtigste-begivenheder-for-din-privatoekonomi",
+      "id": "https://nyheder.tv2.dk/udland/2026-11-24-usas-haer-vil-bortspraenge-fem-ton-farligt-materiale-trods-meget-reelle-risici",
       "source": "tv2",
-      "title": "Nu kommer én af årets vigtigste begivenheder for din privatøkonomi",
-      "url": "https://nyheder.tv2.dk/penge/2026-11-20-nu-kommer-en-af-aarets-vigtigste-begivenheder-for-din-privatoekonomi",
+      "title": "USA's hær vil bortsprænge fem ton farligt materiale - trods \"meget reelle risici\"",
+      "url": "https://nyheder.tv2.dk/udland/2026-11-24-usas-haer-vil-bortspraenge-fem-ton-farligt-materiale-trods-meget-reelle-risici",
+      "date": "24/11/2026",
+      "type": "Udland",
+      "firstSeenAt": "2026-11-24T05:26:43.545Z",
+      "titleVi": "Quân đội Hoa Kỳ sẽ cho nổ tung năm tấn vật liệu nguy hiểm - bất chấp \"những rủi ro rất thực tế\""
+    },
+    {
+      "id": "https://nyheder.tv2.dk/krimi/2026-11-24-to-personer-er-ramt-i-knivstikkeri-i-ishoej",
+      "source": "tv2",
+      "title": "To personer er ramt i knivstikkeri i Ishøj",
+      "url": "https://nyheder.tv2.dk/krimi/2026-11-24-to-personer-er-ramt-i-knivstikkeri-i-ishoej",
+      "date": "24/11/2026",
+      "type": "Krimi",
+      "firstSeenAt": "2026-11-24T05:26:43.545Z",
+      "titleVi": "Hai người bị đâm dao tại Ishøj"
+    },
+    {
+      "id": "https://nyheder.tv2.dk/udland/2026-11-24-russisk-flyaktivitet-faar-sydkorea-til-at-sende-kampfly-paa-vingerne",
+      "source": "tv2",
+      "title": "Russisk flyaktivitet får Sydkorea til at sende kampfly på vingerne",
+      "url": "https://nyheder.tv2.dk/udland/2026-11-24-russisk-flyaktivitet-faar-sydkorea-til-at-sende-kampfly-paa-vingerne",
+      "date": "24/11/2026",
+      "type": "Udland",
+      "firstSeenAt": "2026-11-24T05:26:43.545Z",
+      "titleVi": "Hoạt động bay của Nga khiến Hàn Quốc phải điều động máy bay chiến đấu cất cánh"
+    },
+    {
+      "id": "https://nyheder.tv2.dk/live/udland/2026-05-16-midtvejsvalg-i-usa",
+      "source": "tv2",
+      "title": "Demokraterne sikrer sig historisk nyt flertal",
+      "url": "https://nyheder.tv2.dk/live/udland/2026-05-16-midtvejsvalg-i-usa",
+      "date": "16/05/2026",
+      "type": "Live",
+      "firstSeenAt": "2026-11-24T05:26:43.545Z",
+      "titleVi": "Đảng Dân chủ giành được đa số phiếu bầu mới trong lịch sử"
+    },
+    {
+      "id": "https://nyheder.tv2.dk/penge/2026-11-20-forskudsopgoerelsen-er-aaben-kan-man-med-fordel-saette-indkomsten-hoejere-eller-lavere",
+      "source": "tv2",
+      "title": "Forskudsopgørelsen er åben – kan man med fordel sætte indkomsten højere eller lavere?",
+      "url": "https://nyheder.tv2.dk/penge/2026-11-20-forskudsopgoerelsen-er-aaben-kan-man-med-fordel-saette-indkomsten-hoejere-eller-lavere",
       "date": "20/11/2026",
       "type": "Penge",
-      "firstSeenAt": "2026-11-23T21:25:23.879Z",
-      "titleVi": "Bây giờ là một trong những sự kiện quan trọng nhất trong năm đối với tài chính cá nhân của bạn"
+      "firstSeenAt": "2026-11-24T05:26:43.545Z",
+      "titleVi": "Mục kê khai tạm tính thuế đã mở – liệu có nên kê khai thu nhập cao hơn hay thấp hơn?"
     },
     {
       "id": "https://nyheder.tv2.dk/udland/2026-11-23-angreb-paa-russiske-skibe-varsler-ny-fase-af-krigen-siger-eksperter",
@@ -560,16 +640,6 @@
       "type": "Udland",
       "firstSeenAt": "2026-11-23T21:25:23.879Z",
       "titleVi": "Các chuyên gia cho biết các cuộc tấn công vào tàu Nga báo hiệu một giai đoạn mới của cuộc chiến"
-    },
-    {
-      "id": "https://nyheder.tv2.dk/live/2024-09-08-seneste-nyt-om-krigen-i-ukraine-70b1d6cc-0720-404e-9878-45546e1999e7",
-      "source": "tv2",
-      "title": "USA arbejder på artikel-5 lignende garanti for Ukraine, siger Jared Kushner",
-      "url": "https://nyheder.tv2.dk/live/2024-09-08-seneste-nyt-om-krigen-i-ukraine-70b1d6cc-0720-404e-9878-45546e1999e7",
-      "date": "08/09/2024",
-      "type": "Live",
-      "firstSeenAt": "2026-09-28T00:30:42.330Z",
-      "titleVi": "Jared Kushner cho biết Hoa Kỳ đang nỗ lực để đưa ra một đảm bảo tương tự như Điều 5 cho Ukraine"
     },
     {
       "id": "https://nyheder.tv2.dk/samfund/2026-11-19-anders-morgenthaler-vil-stoppe-impulskoeb-med-lille-dims",
@@ -740,76 +810,6 @@
       "type": "Nyheder",
       "firstSeenAt": "2026-11-23T21:25:23.879Z",
       "titleVi": "Các nam thanh thiếu niên Đan Mạch là thủ lĩnh trong các mạng lưới ép buộc các cô gái tự rạch tay mình"
-    },
-    {
-      "id": "https://nyheder.tv2.dk/krimi/2026-11-23-politiaktion-paa-amager-afsluttet-en-person-er-anholdt",
-      "source": "tv2",
-      "title": "Politiaktion på Amager afsluttet – en person er anholdt",
-      "url": "https://nyheder.tv2.dk/krimi/2026-11-23-politiaktion-paa-amager-afsluttet-en-person-er-anholdt",
-      "date": "23/11/2026",
-      "type": "Krimi",
-      "firstSeenAt": "2026-11-23T21:25:23.879Z",
-      "titleVi": "Hoàn tất chiến dịch của cảnh sát tại Amager – một người đã bị bắt giữ"
-    },
-    {
-      "id": "https://nyheder.tv2.dk/udland/2026-11-18-danske-retsmedicinere-er-ikke-i-tvivl-efter-at-have-set-epsteins-obduktionsrapport",
-      "source": "tv2",
-      "title": "Danske retsmedicinere er ikke i tvivl efter at have set Epsteins obduktionsrapport",
-      "url": "https://nyheder.tv2.dk/udland/2026-11-18-danske-retsmedicinere-er-ikke-i-tvivl-efter-at-have-set-epsteins-obduktionsrapport",
-      "date": "18/11/2026",
-      "type": "Udland",
-      "firstSeenAt": "2026-11-22T05:39:38.264Z",
-      "titleVi": "Các chuyên gia pháp y Đan Mạch không còn nghi ngờ gì nữa sau khi xem báo cáo khám nghiệm tử thi của Epstein"
-    },
-    {
-      "id": "https://nyheder.tv2.dk/samfund/2026-11-23-historisk-hus-doemt-til-nedrivning-lokale-kraefter-vil-redde-det",
-      "source": "tv2",
-      "title": "Historisk hus dømt til nedrivning – lokale kræfter vil redde det",
-      "url": "https://nyheder.tv2.dk/samfund/2026-11-23-historisk-hus-doemt-til-nedrivning-lokale-kraefter-vil-redde-det",
-      "date": "23/11/2026",
-      "type": "Samfund",
-      "firstSeenAt": "2026-11-23T09:05:48.898Z",
-      "titleVi": "Ngôi nhà lịch sử bị kết án phá dỡ – các lực lượng địa phương muốn cứu lấy nó"
-    },
-    {
-      "id": "https://nyheder.tv2.dk/samfund/2026-11-22-bagom-hvordan-fortaeller-man-foraeldre-hvad-deres-barn-er-involveret-i",
-      "source": "tv2",
-      "title": "'Bagom': Hvordan fortæller man forældre, hvad deres barn er involveret i?",
-      "url": "https://nyheder.tv2.dk/samfund/2026-11-22-bagom-hvordan-fortaeller-man-foraeldre-hvad-deres-barn-er-involveret-i",
-      "date": "22/11/2026",
-      "type": "Samfund",
-      "firstSeenAt": "2026-11-23T09:05:48.898Z",
-      "titleVi": "'Đằng sau hậu trường': Làm thế nào để nói với cha mẹ về những việc con cái họ đang tham gia?"
-    },
-    {
-      "id": "https://nyheder.tv2.dk/live/klima/2026-11-09-cop31-ender-uden-aftale",
-      "source": "tv2",
-      "title": "Klimaaftale ikke vedtaget, siger COP-præsident",
-      "url": "https://nyheder.tv2.dk/live/klima/2026-11-09-cop31-ender-uden-aftale",
-      "date": "09/11/2026",
-      "type": "Live",
-      "firstSeenAt": "2026-11-22T13:37:14.019Z",
-      "titleVi": "Chủ tịch COP cho biết thỏa thuận khí hậu chưa được thông qua"
-    },
-    {
-      "id": "https://nyheder.tv2.dk/krimi/2026-11-22-deres-11-aarige-datter-blev-trukket-ind-i-berygtet-online-miljoe-med-selvskade-og-afpresning-nu-advarer-de",
-      "source": "tv2",
-      "title": "Deres 11-årige datter blev trukket ind i berygtet online-miljø med selvskade og afpresning – nu advarer de",
-      "url": "https://nyheder.tv2.dk/krimi/2026-11-22-deres-11-aarige-datter-blev-trukket-ind-i-berygtet-online-miljoe-med-selvskade-og-afpresning-nu-advarer-de",
-      "date": "22/11/2026",
-      "type": "Krimi",
-      "firstSeenAt": "2026-11-23T09:05:48.898Z",
-      "titleVi": "Cô con gái 11 tuổi của họ bị lôi kéo vào một môi trường trực tuyến khét tiếng với hành vi tự gây thương tích và tống tiền – giờ đây họ lên tiếng cảnh báo"
-    },
-    {
-      "id": "https://nyheder.tv2.dk/udland/2026-11-21-milliardfest-paa-boersen-i-usa-skal-du-med",
-      "source": "tv2",
-      "title": "Milliardfest på børsen i USA – skal du med?",
-      "url": "https://nyheder.tv2.dk/udland/2026-11-21-milliardfest-paa-boersen-i-usa-skal-du-med",
-      "date": "21/11/2026",
-      "type": "Udland",
-      "firstSeenAt": "2026-11-23T09:05:48.898Z",
-      "titleVi": "Bữa tiệc tỷ đô trên thị trường chứng khoán Hoa Kỳ – bạn có muốn tham gia không?"
     },
     {
       "id": "https://www.kungahuset.se/arkiv/nyheter/2026-11-23-prinsessan-madeleine-med-childhood-i-new-york",
@@ -1109,6 +1109,61 @@
       "titleVi": "Luật sư: 4 lý do để viết di chúc – điều mà nhiều người bỏ lỡ"
     },
     {
+      "id": "https://www.svenskdam.se/kungligt/prinsessan-madeleines-rorande-ord-om-mamma-silvia-fortsatter-inspirera/11723876",
+      "source": "svenskdam",
+      "title": "Prinsessan Madeleines rörande ord om mamma Silvia: “Fortsätter inspirera”",
+      "url": "https://www.svenskdam.se/kungligt/prinsessan-madeleines-rorande-ord-om-mamma-silvia-fortsatter-inspirera/11723876",
+      "date": "24/11/2026",
+      "publishedAt": "2026-11-24T00:00:00+01:00",
+      "type": "Kungligt",
+      "firstSeenAt": "2026-11-24T05:26:43.545Z",
+      "titleVi": "Những lời xúc động của Công chúa Madeleine về mẹ Silvia: “Mẹ vẫn tiếp tục truyền cảm hứng”"
+    },
+    {
+      "id": "https://www.svenskdam.se/noje/kristin-kaspersens-bakslag-mitt-i-dromhusprojektet-vattenskada/11724086",
+      "source": "svenskdam",
+      "title": "Kristin Kaspersens bakslag mitt i drömhusprojektet: \"Vattenskada\"",
+      "url": "https://www.svenskdam.se/noje/kristin-kaspersens-bakslag-mitt-i-dromhusprojektet-vattenskada/11724086",
+      "date": "24/11/2026",
+      "publishedAt": "2026-11-24T00:00:00+01:00",
+      "type": "Nöje",
+      "firstSeenAt": "2026-11-24T05:26:43.545Z",
+      "titleVi": "Sự cố của Kristin Kaspersen giữa dự án ngôi nhà mơ ước: \"Hư hại do nước\""
+    },
+    {
+      "id": "https://www.svenskdam.se/creative-studio/hitta-ratt-julklapp-under-black-friday-lat-ai-hjalpa-dig-pa-vagen/11718104",
+      "source": "svenskdam",
+      "title": "Hitta rätt julklapp under Black Friday – låt AI hjälpa dig på vägen",
+      "url": "https://www.svenskdam.se/creative-studio/hitta-ratt-julklapp-under-black-friday-lat-ai-hjalpa-dig-pa-vagen/11718104",
+      "date": "19/11/2026",
+      "publishedAt": "2026-11-19T13:29:40+01:00",
+      "type": "Creative studio",
+      "firstSeenAt": "2026-11-19T18:21:42.977Z",
+      "titleVi": "Tìm món quà Giáng sinh phù hợp trong dịp Black Friday – hãy để AI hỗ trợ bạn trên hành trình này"
+    },
+    {
+      "id": "https://www.svenskdam.se/noje/martin-jarborg-tvingas-lamna-efter-intensiva-tiden-i-tv4/11723600",
+      "source": "svenskdam",
+      "title": "Martin Järborg tvingas lämna – efter intensiva tiden i TV4",
+      "url": "https://www.svenskdam.se/noje/martin-jarborg-tvingas-lamna-efter-intensiva-tiden-i-tv4/11723600",
+      "date": "23/11/2026",
+      "publishedAt": "2026-11-23T22:00:00+01:00",
+      "type": "Nöje",
+      "firstSeenAt": "2026-11-24T05:26:43.545Z",
+      "titleVi": "Martin Järborg buộc phải rời đi – sau một thời gian làm việc căng thẳng tại TV4"
+    },
+    {
+      "id": "https://www.svenskdam.se/noje/tina-thorners-trakiga-besked-valjer-att-bekrafta/11722779",
+      "source": "svenskdam",
+      "title": "Tina Thörners tråkiga besked – väljer att bekräfta",
+      "url": "https://www.svenskdam.se/noje/tina-thorners-trakiga-besked-valjer-att-bekrafta/11722779",
+      "date": "23/11/2026",
+      "publishedAt": "2026-11-23T20:00:00+01:00",
+      "type": "Nöje",
+      "firstSeenAt": "2026-11-24T05:26:43.545Z",
+      "titleVi": "Tin buồn của Tina Thörner – bà chọn cách xác nhận"
+    },
+    {
       "id": "https://www.svenskdam.se/noje/schulmans-oro-over-carina-bergfeldt-som-julvard-en-tickande-bomb/11723332",
       "source": "svenskdam",
       "title": "Schulmans oro över Carina Bergfeldt som julvärd: “En tickande bomb”",
@@ -1129,17 +1184,6 @@
       "type": "Nöje",
       "firstSeenAt": "2026-11-23T21:25:23.879Z",
       "titleVi": "Người mới của Zlatan Ibrahimovic – Helena được thông báo: \"Hoàn toàn phù hợp\""
-    },
-    {
-      "id": "https://www.svenskdam.se/creative-studio/hitta-ratt-julklapp-under-black-friday-lat-ai-hjalpa-dig-pa-vagen/11718104",
-      "source": "svenskdam",
-      "title": "Hitta rätt julklapp under Black Friday – låt AI hjälpa dig på vägen",
-      "url": "https://www.svenskdam.se/creative-studio/hitta-ratt-julklapp-under-black-friday-lat-ai-hjalpa-dig-pa-vagen/11718104",
-      "date": "19/11/2026",
-      "publishedAt": "2026-11-19T13:29:40+01:00",
-      "type": "Creative studio",
-      "firstSeenAt": "2026-11-19T18:21:42.977Z",
-      "titleVi": "Tìm món quà Giáng sinh phù hợp trong dịp Black Friday – hãy để AI hỗ trợ bạn trên hành trình này"
     },
     {
       "id": "https://www.svenskdam.se/kungligt/madeleines-bastis-om-festkvallen-i-new-york-gick-darifran/11722546",
@@ -1252,6 +1296,50 @@
       "titleVi": "Sự thay đổi lớn đối với Công chúa Estelle – bây giờ đã đến lúc!"
     },
     {
+      "id": "https://www.svenskdam.se/kungligt/sorgliga-beskedet-fran-kungahuset-prinsessan-har-dott/11721941",
+      "source": "svenskdam",
+      "title": "Sorgliga beskedet från kungahuset: Prinsessan har dött",
+      "url": "https://www.svenskdam.se/kungligt/sorgliga-beskedet-fran-kungahuset-prinsessan-har-dott/11721941",
+      "date": "22/11/2026",
+      "publishedAt": "2026-11-22T14:00:00+01:00",
+      "type": "Kungligt",
+      "firstSeenAt": "2026-11-22T20:29:01.892Z",
+      "titleVi": "Tin buồn từ hoàng gia: Công chúa đã qua đời"
+    },
+    {
+      "id": "https://www.svenskdam.se/noje/anders-pihlblads-problem-pa-jobbet-handelsen-i-tv4/11721689",
+      "source": "svenskdam",
+      "title": "Anders Pihlblads problem på jobbet – händelsen i TV4",
+      "url": "https://www.svenskdam.se/noje/anders-pihlblads-problem-pa-jobbet-handelsen-i-tv4/11721689",
+      "date": "22/11/2026",
+      "publishedAt": "2026-11-22T07:00:00+01:00",
+      "type": "Nöje",
+      "firstSeenAt": "2026-11-24T05:26:43.545Z",
+      "titleVi": "Vấn đề của Anders Pihlblad tại nơi làm việc – sự việc xảy ra tại TV4"
+    },
+    {
+      "id": "https://www.svenskdam.se/noje/asa-ingrosso-bekraftar-beslutet-efter-uppbrottet-fran-emilio/11713888",
+      "source": "svenskdam",
+      "title": "Åsa Ingrosso bekräftar – beslutet efter uppbrottet från Emilio",
+      "url": "https://www.svenskdam.se/noje/asa-ingrosso-bekraftar-beslutet-efter-uppbrottet-fran-emilio/11713888",
+      "date": "21/11/2026",
+      "publishedAt": "2026-11-21T12:00:00+01:00",
+      "type": "Nöje",
+      "firstSeenAt": "2026-11-24T05:26:43.545Z",
+      "titleVi": "Bà Åsa Ingrosso xác nhận – quyết định sau khi chia tay Emilio"
+    },
+    {
+      "id": "https://www.svenskdam.se/kungligt/haakons-nya-besked-om-framtiden-med-mette-marit/11721119",
+      "source": "svenskdam",
+      "title": "Haakons nya besked – om framtiden med Mette-Marit",
+      "url": "https://www.svenskdam.se/kungligt/haakons-nya-besked-om-framtiden-med-mette-marit/11721119",
+      "date": "21/11/2026",
+      "publishedAt": "2026-11-21T11:00:00+01:00",
+      "type": "Kungligt",
+      "firstSeenAt": "2026-11-21T19:39:14.011Z",
+      "titleVi": "Thông báo mới của Haakon – về tương lai với Mette-Marit"
+    },
+    {
       "id": "https://www.svenskdam.se/noje/tareq-taylors-ilska-efter-harda-orden-om-sofia-gatt-for-langt/11722181",
       "source": "svenskdam",
       "title": "Tareq Taylors ilska – efter hårda orden om Sofia: \"Gått för långt\"",
@@ -1294,94 +1382,6 @@
       "type": "Kungligt",
       "firstSeenAt": "2026-11-22T20:29:01.892Z",
       "titleVi": "Bà là người phụ nữ ít được biết đến bên cạnh Madeleine – câu chuyện cảm động"
-    },
-    {
-      "id": "https://www.svenskdam.se/kungligt/haakons-nya-besked-om-framtiden-med-mette-marit/11721119",
-      "source": "svenskdam",
-      "title": "Haakons nya besked – om framtiden med Mette-Marit",
-      "url": "https://www.svenskdam.se/kungligt/haakons-nya-besked-om-framtiden-med-mette-marit/11721119",
-      "date": "21/11/2026",
-      "publishedAt": "2026-11-21T11:00:00+01:00",
-      "type": "Kungligt",
-      "firstSeenAt": "2026-11-21T19:39:14.011Z",
-      "titleVi": "Thông báo mới của Haakon – về tương lai với Mette-Marit"
-    },
-    {
-      "id": "https://www.svenskdam.se/kungligt/kung-haralds-hemliga-karleksaffar-avslojad-manader-efter-hans-dod/11720574",
-      "source": "svenskdam",
-      "title": "Kung Haralds hemliga kärleksaffär avslöjad – månader efter hans död",
-      "url": "https://www.svenskdam.se/kungligt/kung-haralds-hemliga-karleksaffar-avslojad-manader-efter-hans-dod/11720574",
-      "date": "21/11/2026",
-      "publishedAt": "2026-11-21T20:00:00+01:00",
-      "type": "Kungligt",
-      "firstSeenAt": "2026-11-22T05:39:38.264Z",
-      "titleVi": "Mối tình bí mật của Vua Harald bị phanh phui – nhiều tháng sau khi ông qua đời"
-    },
-    {
-      "id": "https://www.svenskdam.se/noje/bjorn-ulvaeus-har-skickat-in-papperna-efter-langa-kampen-firar/11720110",
-      "source": "svenskdam",
-      "title": "Björn Ulvaeus har skickat in papperna – efter långa kampen: \"Firar\"",
-      "url": "https://www.svenskdam.se/noje/bjorn-ulvaeus-har-skickat-in-papperna-efter-langa-kampen-firar/11720110",
-      "date": "20/11/2026",
-      "publishedAt": "2026-11-20T13:09:15+01:00",
-      "type": "Nöje",
-      "firstSeenAt": "2026-11-20T23:01:20.986Z",
-      "titleVi": "Björn Ulvaeus đã nộp hồ sơ – sau một cuộc đấu tranh kéo dài: \"Đang ăn mừng\""
-    },
-    {
-      "id": "https://www.svenskdam.se/noje/pa-sparet-anmalt-for-orden-pa-kristian-luuks-skylt-kan-fa-stora-boter/11720487",
-      "source": "svenskdam",
-      "title": "På spåret anmält för orden på Kristian Luuks skylt – kan få stora böter",
-      "url": "https://www.svenskdam.se/noje/pa-sparet-anmalt-for-orden-pa-kristian-luuks-skylt-kan-fa-stora-boter/11720487",
-      "date": "20/11/2026",
-      "publishedAt": "2026-11-20T15:00:00+01:00",
-      "type": "Nöje",
-      "firstSeenAt": "2026-11-23T09:05:48.898Z",
-      "titleVi": "Chương trình \"På spåret\" bị tố cáo vì những lời lẽ trên biển hiệu của Kristian Luuk – có thể bị phạt nặng"
-    },
-    {
-      "id": "https://www.svenskdam.se/noje/sanna-lundells-nya-ord-om-uppbrottet-svart-att-slappa/11721954",
-      "source": "svenskdam",
-      "title": "Sanna Lundells nya ord om uppbrottet: \"Svårt att släppa\"",
-      "url": "https://www.svenskdam.se/noje/sanna-lundells-nya-ord-om-uppbrottet-svart-att-slappa/11721954",
-      "date": "22/11/2026",
-      "publishedAt": "2026-11-22T17:00:00+01:00",
-      "type": "Nöje",
-      "firstSeenAt": "2026-11-22T20:29:01.892Z",
-      "titleVi": "Những lời mới của Sanna Lundell về cuộc chia tay: \"Thật khó để buông bỏ\""
-    },
-    {
-      "id": "https://www.svenskdam.se/noje/sa-ser-graaf-systrarna-pa-90-talet-i-dag-kom-in-overallt/11722012",
-      "source": "svenskdam",
-      "title": "Så ser Graaf-systrarna på 90-talet i dag: “Kom in överallt”",
-      "url": "https://www.svenskdam.se/noje/sa-ser-graaf-systrarna-pa-90-talet-i-dag-kom-in-overallt/11722012",
-      "date": "22/11/2026",
-      "publishedAt": "2026-11-22T15:00:00+01:00",
-      "type": "Nöje",
-      "firstSeenAt": "2026-11-22T20:29:01.892Z",
-      "titleVi": "Đây là diện mạo hiện tại của chị em nhà Graaf của thập niên 90: “Được chào đón ở mọi nơi”"
-    },
-    {
-      "id": "https://www.svenskdam.se/kungligt/sorgliga-beskedet-fran-kungahuset-prinsessan-har-dott/11721941",
-      "source": "svenskdam",
-      "title": "Sorgliga beskedet från kungahuset: Prinsessan har dött",
-      "url": "https://www.svenskdam.se/kungligt/sorgliga-beskedet-fran-kungahuset-prinsessan-har-dott/11721941",
-      "date": "22/11/2026",
-      "publishedAt": "2026-11-22T14:00:00+01:00",
-      "type": "Kungligt",
-      "firstSeenAt": "2026-11-22T20:29:01.892Z",
-      "titleVi": "Tin buồn từ hoàng gia: Công chúa đã qua đời"
-    },
-    {
-      "id": "https://www.svenskdam.se/noje/edward-bloms-besked-med-gunilla-har-bestamt-sig/11717910",
-      "source": "svenskdam",
-      "title": "Edward Bloms besked med Gunilla – har bestämt sig",
-      "url": "https://www.svenskdam.se/noje/edward-bloms-besked-med-gunilla-har-bestamt-sig/11717910",
-      "date": "22/11/2026",
-      "publishedAt": "2026-11-22T12:00:00+01:00",
-      "type": "Nöje",
-      "firstSeenAt": "2026-11-22T20:29:01.892Z",
-      "titleVi": "Thông báo của Edward Blom về Gunilla – ông đã quyết định"
     },
     {
       "id": "https://www.kongehuset.no/nyheter/bispevigsling-i-stavanger-11-2026",
