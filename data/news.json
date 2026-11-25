@@ -1,6 +1,6 @@
 {
   "monitoringStartedAt": "2026-09-28T00:17:35.319Z",
-  "updatedAt": "2026-11-25T00:48:00.358Z",
+  "updatedAt": "2026-11-25T09:36:25.637Z",
   "sources": {
     "kongehuset": {
       "name": "Kongehuset",
@@ -33,9 +33,9 @@
       "language": "sv",
       "monitoringStartedAt": "2026-10-01T16:20:13.213Z",
       "status": {
-        "state": "ok",
-        "message": "",
-        "changedAt": "2026-11-24T16:12:27.294Z"
+        "state": "error",
+        "message": "fetch failed",
+        "changedAt": "2026-11-25T09:36:25.637Z"
       }
     },
     "svenskdam": {
@@ -58,19 +58,49 @@
       "monitoringStartedAt": "2026-10-01T16:30:06.936Z",
       "status": {
         "state": "error",
-        "message": "HTTP 401 Unauthorized",
-        "changedAt": "2026-11-25T00:48:00.358Z"
+        "message": "The Norwegian Royal House Atom feed returned no entries",
+        "changedAt": "2026-11-25T09:36:25.637Z"
       }
     }
   },
   "translation": {
     "status": {
-      "state": "error",
-      "message": "36 tiêu đề chưa dịch được. Lỗi gần nhất: Google HTTP 429 Too Many Requests; MyMemory HTTP 429 Too Many Requests",
-      "changedAt": "2026-11-25T00:48:00.358Z"
+      "state": "ok",
+      "message": "",
+      "changedAt": "2026-11-25T09:36:25.637Z"
     }
   },
   "articles": [
+    {
+      "id": "https://www.kongehuset.dk/foto-video/h-m-dronningens-besoeg-i-colombia---dag-1",
+      "source": "kongehuset",
+      "title": "H.M. Dronningens besøg i Colombia - dag 1",
+      "url": "https://www.kongehuset.dk/foto-video/h-m-dronningens-besoeg-i-colombia---dag-1",
+      "date": "24. november 2026",
+      "type": "Galleri",
+      "firstSeenAt": "2026-11-25T09:36:25.637Z",
+      "titleVi": "Chuyến thăm của Nữ hoàng đến Colombia - Ngày 1"
+    },
+    {
+      "id": "https://www.kongehuset.dk/taler/h-m-dronningens-tale-ved-reception-i-bogot%C3%A1s-botaniske-have-i-colombia-den-24-november-2026",
+      "source": "kongehuset",
+      "title": "H.M. Dronningens tale ved reception i Bogotás botaniske have i Colombia den 24. november 2026",
+      "url": "https://www.kongehuset.dk/taler/h-m-dronningens-tale-ved-reception-i-bogot%C3%A1s-botaniske-have-i-colombia-den-24-november-2026",
+      "date": "24. november 2026",
+      "type": "Tale",
+      "firstSeenAt": "2026-11-25T09:36:25.637Z",
+      "titleVi": "Diễn văn của Nữ hoàng tại buổi tiếp tân tại Vườn Bách thảo Bogotá, Colombia, ngày 24 tháng 11 năm 2026"
+    },
+    {
+      "id": "https://www.kongehuset.dk/nyheder/h-m-dronningen-besoeger-colombia",
+      "source": "kongehuset",
+      "title": "H.M. Dronningen besøger Colombia",
+      "url": "https://www.kongehuset.dk/nyheder/h-m-dronningen-besoeger-colombia",
+      "date": "24. november 2026",
+      "type": "Nyhed",
+      "firstSeenAt": "2026-11-02T17:20:33.984Z",
+      "titleVi": "H.M. Nữ hoàng thăm Colombia"
+    },
     {
       "id": "https://www.kongehuset.dk/foto-video/h-m-kongen-besoegte-de-udsendte-danske-styrker-i-letland",
       "source": "kongehuset",
@@ -79,8 +109,7 @@
       "date": "24. november 2026",
       "type": "Galleri",
       "firstSeenAt": "2026-11-25T00:48:00.358Z",
-      "titleVi": "",
-      "translationError": "Google HTTP 429 Too Many Requests; MyMemory HTTP 429 Too Many Requests"
+      "titleVi": "Hoàng thượng Quốc vương đã đến thăm các lực lượng Đan Mạch được triển khai tại Latvia"
     },
     {
       "id": "https://www.kongehuset.dk/foto-video/offentlig-audiens-den-23-november-2026",
@@ -353,16 +382,6 @@
       "titleVi": "Giải Ebbe Munck 2026"
     },
     {
-      "id": "https://www.kongehuset.dk/nyheder/h-m-dronningen-besoeger-colombia",
-      "source": "kongehuset",
-      "title": "H.M. Dronningen besøger Colombia",
-      "url": "https://www.kongehuset.dk/nyheder/h-m-dronningen-besoeger-colombia",
-      "date": "2. november 2026",
-      "type": "Nyhed",
-      "firstSeenAt": "2026-11-02T17:20:33.984Z",
-      "titleVi": "H.M. Nữ hoàng thăm Colombia"
-    },
-    {
       "id": "https://www.kongehuset.dk/foto-video/offentlig-audiens-den-2-november-2026",
       "source": "kongehuset",
       "title": "Offentlig audiens den 2. november 2026",
@@ -503,45 +522,154 @@
       "titleVi": "Nữ hoàng tham dự COP31 ở Thổ Nhĩ Kỳ"
     },
     {
-      "id": "https://www.kongehuset.dk/foto-video/statsbesoeg-fra-vietnam---dag-3",
-      "source": "kongehuset",
-      "title": "Statsbesøg fra Vietnam - dag 3",
-      "url": "https://www.kongehuset.dk/foto-video/statsbesoeg-fra-vietnam---dag-3",
-      "date": "21. oktober 2026",
-      "type": "Galleri",
-      "firstSeenAt": "2026-10-21T14:53:43.608Z",
-      "titleVi": "Chuyến thăm cấp nhà nước từ Việt Nam - Ngày 3"
-    },
-    {
-      "id": "https://www.kongehuset.dk/foto-video/h-k-h-prinsesse-benedikte-overrakte-forskningsmidler-i-anledning-af-osteoporosedagen",
-      "source": "kongehuset",
-      "title": "H.K.H. Prinsesse Benedikte overrakte forskningsmidler i anledning af Osteoporosedagen",
-      "url": "https://www.kongehuset.dk/foto-video/h-k-h-prinsesse-benedikte-overrakte-forskningsmidler-i-anledning-af-osteoporosedagen",
-      "date": "20. oktober 2026",
-      "type": "Galleri",
-      "firstSeenAt": "2026-10-21T14:53:43.608Z",
-      "titleVi": "Công chúa Benedikte của HRH đã trình bày các quỹ nghiên cứu nhân Ngày loãng xương"
-    },
-    {
       "id": "https://nyheder.tv2.dk/live/kort-nyt",
       "source": "tv2",
-      "title": "Udenlandsk mand fundet død i lejlighed i Nakskov",
+      "title": "Ny direktør fundet til Lundbeckfonden",
       "url": "https://nyheder.tv2.dk/live/kort-nyt",
       "date": "—",
       "type": "Live",
       "firstSeenAt": "2026-09-28T00:30:42.330Z",
-      "titleVi": "",
-      "translationError": "Google HTTP 429 Too Many Requests; MyMemory HTTP 429 Too Many Requests"
+      "titleVi": "Đã tìm được Giám đốc mới cho Quỹ Lundbeck"
+    },
+    {
+      "id": "https://nyheder.tv2.dk/politik/2026-11-25-knap-hver-anden-dansker-oensker-toerklaedeforbud-i-folkeskolen",
+      "source": "tv2",
+      "title": "Knap hver anden dansker ønsker tørklædeforbud i folkeskolen",
+      "url": "https://nyheder.tv2.dk/politik/2026-11-25-knap-hver-anden-dansker-oensker-toerklaedeforbud-i-folkeskolen",
+      "date": "25/11/2026",
+      "type": "Politik",
+      "firstSeenAt": "2026-11-25T09:36:25.637Z",
+      "titleVi": "Gần một nửa số người Đan Mạch muốn cấm khăn trùm đầu ở trường tiểu học"
+    },
+    {
+      "id": "https://nyheder.tv2.dk/live/politik/2025-08-11-dansk-politik",
+      "source": "tv2",
+      "title": "Ung socialdemokrat melder sig ud i protest mod statsministeren: \"Meget, meget sygt sagt\"",
+      "url": "https://nyheder.tv2.dk/live/politik/2025-08-11-dansk-politik",
+      "date": "11/08/2025",
+      "type": "Live",
+      "firstSeenAt": "2026-11-07T15:49:51.486Z",
+      "titleVi": "Một thành viên trẻ của đảng Dân chủ Xã hội tuyên bố rút khỏi đảng để phản đối Thủ tướng: \"Những lời lẽ thật sự rất, rất bệnh hoạn\""
     },
     {
       "id": "https://nyheder.tv2.dk/live/2024-09-08-seneste-nyt-om-krigen-i-ukraine-70b1d6cc-0720-404e-9878-45546e1999e7",
       "source": "tv2",
-      "title": "Zelenskyj beder allierede om nyt milliardtilskud",
+      "title": "Rusland kollapser under Putin inden 2028, mener russisk eksgeneral",
       "url": "https://nyheder.tv2.dk/live/2024-09-08-seneste-nyt-om-krigen-i-ukraine-70b1d6cc-0720-404e-9878-45546e1999e7",
       "date": "08/09/2024",
       "type": "Live",
       "firstSeenAt": "2026-09-28T00:30:42.330Z",
-      "titleVi": "Ông Zelensky kêu gọi các đồng minh viện trợ thêm một tỷ đô la"
+      "titleVi": "Theo một cựu tướng lĩnh Nga, nước Nga sẽ sụp đổ dưới thời Tổng thống Putin trước năm 2028"
+    },
+    {
+      "id": "https://nyheder.tv2.dk/samfund/2026-11-25-dsbs-noedkoereplan-forlaenges",
+      "source": "tv2",
+      "title": "DSB's nødkøreplan forlænges",
+      "url": "https://nyheder.tv2.dk/samfund/2026-11-25-dsbs-noedkoereplan-forlaenges",
+      "date": "25/11/2026",
+      "type": "Samfund",
+      "firstSeenAt": "2026-11-25T09:36:25.637Z",
+      "titleVi": "Kế hoạch vận hành khẩn cấp của DSB được kéo dài"
+    },
+    {
+      "id": "https://nyheder.tv2.dk/samfund/2026-11-25-emma-sehested-hoeeg-skal-restituere-og-udskyder-teaterforestilling",
+      "source": "tv2",
+      "title": "Emma Sehested Høeg skal restituere og udskyder teaterforestilling",
+      "url": "https://nyheder.tv2.dk/samfund/2026-11-25-emma-sehested-hoeeg-skal-restituere-og-udskyder-teaterforestilling",
+      "date": "25/11/2026",
+      "type": "Samfund",
+      "firstSeenAt": "2026-11-25T09:36:25.637Z",
+      "titleVi": "Emma Sehested Høeg cần thời gian phục hồi và hoãn buổi biểu diễn sân khấu"
+    },
+    {
+      "id": "https://nyheder.tv2.dk/samfund/2026-11-25-for-30-aar-siden-fik-han-en-god-ide-nu-omsaetter-han-for-milliarder",
+      "source": "tv2",
+      "title": "For 30 år siden fik han en god idé – nu omsætter han for milliarder",
+      "url": "https://nyheder.tv2.dk/samfund/2026-11-25-for-30-aar-siden-fik-han-en-god-ide-nu-omsaetter-han-for-milliarder",
+      "date": "25/11/2026",
+      "type": "Samfund",
+      "firstSeenAt": "2026-11-25T09:36:25.637Z",
+      "titleVi": "30 năm trước, ông đã có một ý tưởng hay – giờ đây ông đang đạt doanh thu hàng tỷ"
+    },
+    {
+      "id": "https://nyheder.tv2.dk/samfund/2026-11-25-mor-aergrer-sig-over-supermarkeds-nisseafsloering",
+      "source": "tv2",
+      "title": "Mor ærgrer sig over supermarkeds nisseafsløring",
+      "url": "https://nyheder.tv2.dk/samfund/2026-11-25-mor-aergrer-sig-over-supermarkeds-nisseafsloering",
+      "date": "25/11/2026",
+      "type": "Samfund",
+      "firstSeenAt": "2026-11-25T09:36:25.637Z",
+      "titleVi": "Người mẹ phẫn nộ trước việc siêu thị tiết lộ danh tính của ông già Noel"
+    },
+    {
+      "id": "https://nyheder.tv2.dk/samfund/2026-11-23-det-kraever-27-klik-at-anmelde-noegenbillede-skriger-til-himlen",
+      "source": "tv2",
+      "title": "Det kræver 27 klik at anmelde nøgenbillede – \"Skriger til himlen\"",
+      "url": "https://nyheder.tv2.dk/samfund/2026-11-23-det-kraever-27-klik-at-anmelde-noegenbillede-skriger-til-himlen",
+      "date": "23/11/2026",
+      "type": "Samfund",
+      "firstSeenAt": "2026-11-25T09:36:25.637Z",
+      "titleVi": "Phải mất 27 lần nhấp chuột để báo cáo ảnh khỏa thân – \"Thật là quá đáng\""
+    },
+    {
+      "id": "https://nyheder.tv2.dk/live/udland/2026-05-16-midtvejsvalg-i-usa",
+      "source": "tv2",
+      "title": "Demokraterne sikrer sig historisk nyt flertal",
+      "url": "https://nyheder.tv2.dk/live/udland/2026-05-16-midtvejsvalg-i-usa",
+      "date": "16/05/2026",
+      "type": "Live",
+      "firstSeenAt": "2026-11-24T05:26:43.545Z",
+      "titleVi": "Đảng Dân chủ giành được đa số phiếu bầu mới trong lịch sử"
+    },
+    {
+      "id": "https://nyheder.tv2.dk/samfund/2026-11-24-efter-to-aar-som-ledig-fandt-60-aarig-lykken-et-uventet-sted",
+      "source": "tv2",
+      "title": "Efter to år som ledig fandt 60-årig lykken et uventet sted",
+      "url": "https://nyheder.tv2.dk/samfund/2026-11-24-efter-to-aar-som-ledig-fandt-60-aarig-lykken-et-uventet-sted",
+      "date": "24/11/2026",
+      "type": "Samfund",
+      "firstSeenAt": "2026-11-25T09:36:25.637Z",
+      "titleVi": "Sau hai năm thất nghiệp, người phụ nữ 60 tuổi tìm thấy hạnh phúc ở một nơi không ngờ tới"
+    },
+    {
+      "id": "https://nyheder.tv2.dk/2026-11-03-68-aarig-troede-hun-skulle-have-sine-penge-tilbage-i-stedet-blev-hun-faengslet-i-hongkong",
+      "source": "tv2",
+      "title": "68-årig troede, hun skulle have sine penge tilbage - i stedet blev hun fængslet i Hongkong",
+      "url": "https://nyheder.tv2.dk/2026-11-03-68-aarig-troede-hun-skulle-have-sine-penge-tilbage-i-stedet-blev-hun-faengslet-i-hongkong",
+      "date": "03/11/2026",
+      "type": "Nyheder",
+      "firstSeenAt": "2026-11-25T09:36:25.637Z",
+      "titleVi": "Người phụ nữ 68 tuổi tưởng rằng mình sẽ được hoàn lại tiền - nhưng thay vào đó, bà bị bắt giam ở Hồng Kông"
+    },
+    {
+      "id": "https://nyheder.tv2.dk/samfund/2026-11-24-passagerer-i-voldsom-soloulykke-er-alle-mindreaarige-to-i-staerkt-kritisk-tilstand",
+      "source": "tv2",
+      "title": "Passagerer i voldsom soloulykke er alle mindreårige – to i stærkt kritisk tilstand",
+      "url": "https://nyheder.tv2.dk/samfund/2026-11-24-passagerer-i-voldsom-soloulykke-er-alle-mindreaarige-to-i-staerkt-kritisk-tilstand",
+      "date": "24/11/2026",
+      "type": "Samfund",
+      "firstSeenAt": "2026-11-25T00:48:00.358Z",
+      "titleVi": "Tất cả hành khách trong vụ tai nạn xe một chiều nghiêm trọng đều là trẻ vị thành niên – hai người trong tình trạng vô cùng nguy kịch"
+    },
+    {
+      "id": "https://nyheder.tv2.dk/udland/2026-11-25-hertuginde-meghans-far-tiltalt-i-sag-om-overgrebsmateriale-med-boern",
+      "source": "tv2",
+      "title": "Hertuginde Meghans far tiltalt i sag om overgrebsmateriale med børn",
+      "url": "https://nyheder.tv2.dk/udland/2026-11-25-hertuginde-meghans-far-tiltalt-i-sag-om-overgrebsmateriale-med-boern",
+      "date": "25/11/2026",
+      "type": "Udland",
+      "firstSeenAt": "2026-11-25T09:36:25.637Z",
+      "titleVi": "Cha của Nữ công tước Meghan bị buộc tội trong vụ án liên quan đến nội dung lạm dụng trẻ em"
+    },
+    {
+      "id": "https://nyheder.tv2.dk/udland/2026-11-25-skandaliseret-politiker-faar-fornem-haeder-af-trump",
+      "source": "tv2",
+      "title": "Skandaliseret politiker får fornem hæder af Trump",
+      "url": "https://nyheder.tv2.dk/udland/2026-11-25-skandaliseret-politiker-faar-fornem-haeder-af-trump",
+      "date": "25/11/2026",
+      "type": "Udland",
+      "firstSeenAt": "2026-11-25T09:36:25.637Z",
+      "titleVi": "Chính trị gia dính bê bối được Trump vinh danh"
     },
     {
       "id": "https://nyheder.tv2.dk/samfund/2026-11-24-unge-maend-halter-efter-med-klamydiatest",
@@ -551,8 +679,7 @@
       "date": "24/11/2026",
       "type": "Samfund",
       "firstSeenAt": "2026-11-25T00:48:00.358Z",
-      "titleVi": "",
-      "translationError": "Google HTTP 429 Too Many Requests; MyMemory HTTP 429 Too Many Requests"
+      "titleVi": "Nam giới trẻ tuổi chậm trễ trong việc xét nghiệm chlamydia"
     },
     {
       "id": "https://nyheder.tv2.dk/live/business/2025-03-12-seneste-nyt-fra-de-finansielle-markeder",
@@ -572,19 +699,7 @@
       "date": "24/11/2026",
       "type": "Udland",
       "firstSeenAt": "2026-11-25T00:48:00.358Z",
-      "titleVi": "",
-      "translationError": "Google HTTP 429 Too Many Requests; MyMemory HTTP 429 Too Many Requests"
-    },
-    {
-      "id": "https://nyheder.tv2.dk/samfund/2026-11-24-passagerer-i-voldsom-soloulykke-er-alle-mindreaarige-to-i-staerkt-kritisk-tilstand",
-      "source": "tv2",
-      "title": "Passagerer i voldsom soloulykke er alle mindreårige – to i stærkt kritisk tilstand",
-      "url": "https://nyheder.tv2.dk/samfund/2026-11-24-passagerer-i-voldsom-soloulykke-er-alle-mindreaarige-to-i-staerkt-kritisk-tilstand",
-      "date": "24/11/2026",
-      "type": "Samfund",
-      "firstSeenAt": "2026-11-25T00:48:00.358Z",
-      "titleVi": "",
-      "translationError": "Google HTTP 429 Too Many Requests; MyMemory HTTP 429 Too Many Requests"
+      "titleVi": "Nhà xuất bản chia sẻ ảnh khỏa thân của Gisèle Pelicot để quảng bá sách"
     },
     {
       "id": "https://nyheder.tv2.dk/samfund/2026-11-24-forskere-i-danmark-finder-ny-maade-at-lave-kraeftmiddel-paa-som-kan-halvere-prisen",
@@ -594,8 +709,7 @@
       "date": "24/11/2026",
       "type": "Samfund",
       "firstSeenAt": "2026-11-25T00:48:00.358Z",
-      "titleVi": "",
-      "translationError": "Google HTTP 429 Too Many Requests; MyMemory HTTP 429 Too Many Requests"
+      "titleVi": "Các nhà khoa học ở Đan Mạch tìm ra phương pháp mới để sản xuất thuốc chống ung thư, có thể giảm một nửa giá thành"
     },
     {
       "id": "https://nyheder.tv2.dk/politik/2026-11-24-cecilie-liv-hansen-nedstemt-i-byraadet",
@@ -605,8 +719,7 @@
       "date": "24/11/2026",
       "type": "Politik",
       "firstSeenAt": "2026-11-25T00:48:00.358Z",
-      "titleVi": "",
-      "translationError": "Google HTTP 429 Too Many Requests; MyMemory HTTP 429 Too Many Requests"
+      "titleVi": "Bà Cecilie Liv Hansen bị bác bỏ tại hội đồng thành phố"
     },
     {
       "id": "https://nyheder.tv2.dk/udland/2026-11-24-flere-personer-taget-som-gidsler-i-supermarked-i-colombia",
@@ -616,8 +729,7 @@
       "date": "24/11/2026",
       "type": "Udland",
       "firstSeenAt": "2026-11-25T00:48:00.358Z",
-      "titleVi": "",
-      "translationError": "Google HTTP 429 Too Many Requests; MyMemory HTTP 429 Too Many Requests"
+      "titleVi": "Nhiều người bị bắt làm con tin trong một siêu thị ở Colombia"
     },
     {
       "id": "https://nyheder.tv2.dk/samfund/2026-11-24-supermaane-to-gange-paa-samme-dag-snart-kan-det-ses-igen",
@@ -627,8 +739,7 @@
       "date": "24/11/2026",
       "type": "Samfund",
       "firstSeenAt": "2026-11-25T00:48:00.358Z",
-      "titleVi": "",
-      "translationError": "Google HTTP 429 Too Many Requests; MyMemory HTTP 429 Too Many Requests"
+      "titleVi": "Siêu trăng xuất hiện hai lần trong cùng một ngày – sắp tới sẽ lại có thể quan sát được hiện tượng này"
     },
     {
       "id": "https://nyheder.tv2.dk/udland/2026-11-24-det-er-fuldstaendig-vanvittigt-siger-korrespondent-om-laek-fra-rusland",
@@ -638,8 +749,7 @@
       "date": "24/11/2026",
       "type": "Udland",
       "firstSeenAt": "2026-11-25T00:48:00.358Z",
-      "titleVi": "",
-      "translationError": "Google HTTP 429 Too Many Requests; MyMemory HTTP 429 Too Many Requests"
+      "titleVi": "- Thật là điên rồ, phóng viên bình luận về vụ rò rỉ thông tin từ Nga"
     },
     {
       "id": "https://nyheder.tv2.dk/samfund/2026-11-23-han-bliver-afvist-i-sit-arbejde-fordi-han-er-mand",
@@ -649,8 +759,7 @@
       "date": "23/11/2026",
       "type": "Samfund",
       "firstSeenAt": "2026-11-25T00:48:00.358Z",
-      "titleVi": "",
-      "translationError": "Google HTTP 429 Too Many Requests; MyMemory HTTP 429 Too Many Requests"
+      "titleVi": "Anh ta bị từ chối trong công việc vì anh ta là đàn ông"
     },
     {
       "id": "https://nyheder.tv2.dk/live/politik/2026-11-24-spoergetime-med-mette-frederiksen",
@@ -663,25 +772,14 @@
       "titleVi": "Bà Mette Frederiksen không muốn trả lời câu hỏi liệu bà có hối tiếc về những lời lẽ bị chỉ trích hay không"
     },
     {
-      "id": "https://nyheder.tv2.dk/live/udland/2026-05-16-midtvejsvalg-i-usa",
+      "id": "https://nyheder.tv2.dk/udland/2026-11-24-fem-detaljer-kan-bringe-nvidia-chef-i-nye-problemer",
       "source": "tv2",
-      "title": "Demokraterne sikrer sig historisk nyt flertal",
-      "url": "https://nyheder.tv2.dk/live/udland/2026-05-16-midtvejsvalg-i-usa",
-      "date": "16/05/2026",
-      "type": "Live",
-      "firstSeenAt": "2026-11-24T05:26:43.545Z",
-      "titleVi": "Đảng Dân chủ giành được đa số phiếu bầu mới trong lịch sử"
-    },
-    {
-      "id": "https://nyheder.tv2.dk/udland/2026-11-24-fem-ubesvarede-spoergsmaal-afsloerer-hvorfor-nvidia-skandalen-langt-fra-er-overstaaet",
-      "source": "tv2",
-      "title": "Fem ubesvarede spørgsmål afslører, hvorfor Nvidia-skandalen langt fra er overstået",
-      "url": "https://nyheder.tv2.dk/udland/2026-11-24-fem-ubesvarede-spoergsmaal-afsloerer-hvorfor-nvidia-skandalen-langt-fra-er-overstaaet",
+      "title": "Fem detaljer kan bringe Nvidia-chef i nye problemer",
+      "url": "https://nyheder.tv2.dk/udland/2026-11-24-fem-detaljer-kan-bringe-nvidia-chef-i-nye-problemer",
       "date": "24/11/2026",
       "type": "Udland",
-      "firstSeenAt": "2026-11-25T00:48:00.358Z",
-      "titleVi": "",
-      "translationError": "Google HTTP 429 Too Many Requests; MyMemory HTTP 429 Too Many Requests"
+      "firstSeenAt": "2026-11-25T09:36:25.637Z",
+      "titleVi": "Năm chi tiết có thể khiến CEO của Nvidia gặp rắc rối mới"
     },
     {
       "id": "https://nyheder.tv2.dk/samfund/2026-11-24-hun-tager-en-omvej-paa-flere-hundrede-kilometer-for-at-sende-julekort",
@@ -691,8 +789,7 @@
       "date": "24/11/2026",
       "type": "Samfund",
       "firstSeenAt": "2026-11-25T00:48:00.358Z",
-      "titleVi": "",
-      "translationError": "Google HTTP 429 Too Many Requests; MyMemory HTTP 429 Too Many Requests"
+      "titleVi": "Bà đi đường vòng hàng trăm cây số để gửi thiệp Giáng sinh"
     },
     {
       "id": "https://nyheder.tv2.dk/politik/2026-11-23-mette-frederiksen-slaar-rekord-igen-har-aldrig-brugt-flere-penge-paa-spindoktorer",
@@ -702,8 +799,7 @@
       "date": "23/11/2026",
       "type": "Politik",
       "firstSeenAt": "2026-11-25T00:48:00.358Z",
-      "titleVi": "",
-      "translationError": "Google HTTP 429 Too Many Requests; MyMemory HTTP 429 Too Many Requests"
+      "titleVi": "Bà Mette Frederiksen lại lập kỷ lục – chưa bao giờ chi nhiều tiền cho các chuyên gia truyền thông như vậy"
     },
     {
       "id": "https://nyheder.tv2.dk/live/udland/2026-09-11-valg-i-sverige",
@@ -713,120 +809,7 @@
       "date": "11/09/2026",
       "type": "Live",
       "firstSeenAt": "2026-11-24T16:12:27.294Z",
-      "titleVi": "",
-      "translationError": "Google HTTP 429 Too Many Requests; MyMemory HTTP 429 Too Many Requests"
-    },
-    {
-      "id": "https://nyheder.tv2.dk/krimi/2026-11-24-opsigtsvaekkende-sag-afsloerer-at-forbudt-bande-i-den-grad-stadig-findes",
-      "source": "tv2",
-      "title": "Opsigtsvækkende sag afslører, at forbudt bande i den grad stadig findes",
-      "url": "https://nyheder.tv2.dk/krimi/2026-11-24-opsigtsvaekkende-sag-afsloerer-at-forbudt-bande-i-den-grad-stadig-findes",
-      "date": "24/11/2026",
-      "type": "Krimi",
-      "firstSeenAt": "2026-11-25T00:48:00.358Z",
-      "titleVi": "",
-      "translationError": "Google HTTP 429 Too Many Requests; MyMemory HTTP 429 Too Many Requests"
-    },
-    {
-      "id": "https://nyheder.tv2.dk/samfund/2026-11-23-boern-moedt-af-maend-med-iltmasker-nu-reagerer-kommunen-paa-kritik-fra-oproerte-foraeldre",
-      "source": "tv2",
-      "title": "Børn mødt af mænd med iltmasker – nu reagerer kommunen på kritik fra oprørte forældre",
-      "url": "https://nyheder.tv2.dk/samfund/2026-11-23-boern-moedt-af-maend-med-iltmasker-nu-reagerer-kommunen-paa-kritik-fra-oproerte-foraeldre",
-      "date": "23/11/2026",
-      "type": "Samfund",
-      "firstSeenAt": "2026-11-24T16:12:27.294Z",
-      "titleVi": "Trẻ em được đón tiếp bởi những người đàn ông đeo mặt nạ oxy – hiện chính quyền địa phương đang phản hồi trước những lời chỉ trích từ các bậc cha mẹ đang phẫn nộ"
-    },
-    {
-      "id": "https://nyheder.tv2.dk/live/penge/2026-11-24-livechat-om-forskudsopgoerelse",
-      "source": "tv2",
-      "title": "Eksperter svarer på spørgsmål om forskudsopgørelsen",
-      "url": "https://nyheder.tv2.dk/live/penge/2026-11-24-livechat-om-forskudsopgoerelse",
-      "date": "24/11/2026",
-      "type": "Live",
-      "firstSeenAt": "2026-11-24T16:12:27.294Z",
-      "titleVi": "",
-      "translationError": "Google HTTP 429 Too Many Requests; MyMemory HTTP 429 Too Many Requests"
-    },
-    {
-      "id": "https://livsstil.tv2.dk/live/2025-12-01-danskernes-sundhed",
-      "source": "tv2",
-      "title": "Første mæslingetilfælde konstateret i Danmark i år",
-      "url": "https://livsstil.tv2.dk/live/2025-12-01-danskernes-sundhed",
-      "date": "01/12/2025",
-      "type": "Live",
-      "firstSeenAt": "2026-11-24T16:12:27.294Z",
-      "titleVi": "Trường hợp mắc bệnh sởi đầu tiên được phát hiện ở Đan Mạch trong năm nay"
-    },
-    {
-      "id": "https://nyheder.tv2.dk/live/samfund/2026-10-26-laegeflugt-fra-rigshospitalet",
-      "source": "tv2",
-      "title": "Sundhedsstyrelsen blåstempler Rigshospitalets plan for omstridt afdeling",
-      "url": "https://nyheder.tv2.dk/live/samfund/2026-10-26-laegeflugt-fra-rigshospitalet",
-      "date": "26/10/2026",
-      "type": "Live",
-      "firstSeenAt": "2026-11-24T16:12:27.294Z",
-      "titleVi": "Cơ quan Y tế Quốc gia phê duyệt kế hoạch của Bệnh viện Rigshospitalet đối với khoa gây tranh cãi"
-    },
-    {
-      "id": "https://nyheder.tv2.dk/2026-11-23-vi-har-aldrig-set-lignende-siger-overlaege-om-forsoeg-hvor-kraeftsvulster-forsvandt",
-      "source": "tv2",
-      "title": "Vi har aldrig set lignende, siger overlæge om forsøg, hvor kræftsvulster forsvandt",
-      "url": "https://nyheder.tv2.dk/2026-11-23-vi-har-aldrig-set-lignende-siger-overlaege-om-forsoeg-hvor-kraeftsvulster-forsvandt",
-      "date": "23/11/2026",
-      "type": "Nyheder",
-      "firstSeenAt": "2026-11-24T16:12:27.294Z",
-      "titleVi": "Chúng tôi chưa từng thấy điều gì tương tự, bác sĩ trưởng cho biết về các thử nghiệm trong đó các khối u ung thư biến mất"
-    },
-    {
-      "id": "https://nyheder.tv2.dk/live/udland/2026-01-08-krig-i-mellemoesten",
-      "source": "tv2",
-      "title": "Israel indleder landoperation i det centrale Gaza",
-      "url": "https://nyheder.tv2.dk/live/udland/2026-01-08-krig-i-mellemoesten",
-      "date": "08/01/2026",
-      "type": "Live",
-      "firstSeenAt": "2026-11-24T16:12:27.294Z",
-      "titleVi": "Israel bắt đầu chiến dịch trên bộ ở khu vực trung Gaza"
-    },
-    {
-      "id": "https://nyheder.tv2.dk/live/samfund/2026-11-24-spoerg-om-de-ekstreme-onlinemiljoeer",
-      "source": "tv2",
-      "title": "Stil spørgsmål til tilrettelæggerne bag dokumentar om ekstreme onlinemiljøer",
-      "url": "https://nyheder.tv2.dk/live/samfund/2026-11-24-spoerg-om-de-ekstreme-onlinemiljoeer",
-      "date": "24/11/2026",
-      "type": "Live",
-      "firstSeenAt": "2026-11-24T16:12:27.294Z",
-      "titleVi": "Đặt câu hỏi cho các nhà sản xuất của bộ phim tài liệu về các cộng đồng cực đoan trên mạng"
-    },
-    {
-      "id": "https://nyheder.tv2.dk/live/politik/2025-08-11-dansk-politik",
-      "source": "tv2",
-      "title": "Mette F efter hård kritik: Jeg vil ikke sættes i bås med ekstremister på den yderste højrefløj",
-      "url": "https://nyheder.tv2.dk/live/politik/2025-08-11-dansk-politik",
-      "date": "11/08/2025",
-      "type": "Live",
-      "firstSeenAt": "2026-11-07T15:49:51.486Z",
-      "titleVi": "Bà Mette F sau khi bị chỉ trích gay gắt: Tôi không muốn bị gán ghép với những kẻ cực đoan cánh hữu cực đoan"
-    },
-    {
-      "id": "https://nyheder.tv2.dk/udland/2026-11-24-trump-har-koebt-nvidia-aktier-for-millioner-nu-skylder-ai-boss-ham-en-tjeneste-siger-ekspert",
-      "source": "tv2",
-      "title": "Trump har købt Nvidia-aktier for millioner – nu skylder ai-boss ham en tjeneste, siger ekspert",
-      "url": "https://nyheder.tv2.dk/udland/2026-11-24-trump-har-koebt-nvidia-aktier-for-millioner-nu-skylder-ai-boss-ham-en-tjeneste-siger-ekspert",
-      "date": "24/11/2026",
-      "type": "Udland",
-      "firstSeenAt": "2026-11-24T16:12:27.294Z",
-      "titleVi": "Ông Trump đã mua cổ phiếu Nvidia trị giá hàng triệu đô la – giờ đây ông chủ AI nợ ông một ân huệ, theo một chuyên gia cho biết"
-    },
-    {
-      "id": "https://nyheder.tv2.dk/samfund/2026-11-24-knap-20000-familier-har-soegt-om-julehjaelp",
-      "source": "tv2",
-      "title": "Knap 20.000 familier har søgt om julehjælp",
-      "url": "https://nyheder.tv2.dk/samfund/2026-11-24-knap-20000-familier-har-soegt-om-julehjaelp",
-      "date": "24/11/2026",
-      "type": "Samfund",
-      "firstSeenAt": "2026-11-24T16:12:27.294Z",
-      "titleVi": "Gần 20.000 gia đình đã nộp đơn xin trợ cấp Giáng sinh"
+      "titleVi": "Quốc hội Thụy Điển sẽ bỏ phiếu bầu lãnh đạo đảng Thụy Điển làm Thủ tướng"
     },
     {
       "id": "https://www.kungahuset.se/arkiv/nyheter/2026-11-24-prins-daniel-i-mote-med-en-svensk-klassiker",
@@ -837,8 +820,7 @@
       "publishedAt": "2026-11-24T10:29:49+01:00",
       "type": "Nyheter",
       "firstSeenAt": "2026-11-24T16:12:27.294Z",
-      "titleVi": "",
-      "translationError": "Google HTTP 429 Too Many Requests; MyMemory HTTP 429 Too Many Requests"
+      "titleVi": "Hoàng tử Daniel gặp gỡ \"Một tác phẩm kinh điển của Thụy Điển\""
     },
     {
       "id": "https://www.kungahuset.se/arkiv/nyheter/2026-11-23-prinsessan-madeleine-med-childhood-i-new-york",
@@ -1050,28 +1032,15 @@
       "titleVi": "Hoàng hậu chúc mừng kỷ niệm 30 năm thành lập tổ chức Mentor Thụy Điển"
     },
     {
-      "id": "https://www.svenskdam.se/kungligt/inbrott-hos-kate-och-william-maskerade-man-ska-ha-brutit-sig-in/11725250",
+      "id": "https://www.svenskdam.se/kungligt/kronprinsessan-victoria-stralar/11725345",
       "source": "svenskdam",
-      "title": "Inbrott hos Kate och William – maskerade män ska ha brutit sig in",
-      "url": "https://www.svenskdam.se/kungligt/inbrott-hos-kate-och-william-maskerade-man-ska-ha-brutit-sig-in/11725250",
+      "title": "Kronprinsessan Victoria strålar på kungens fest – drar alla ögon åt sig!",
+      "url": "https://www.svenskdam.se/kungligt/kronprinsessan-victoria-stralar/11725345",
       "date": "24/11/2026",
-      "publishedAt": "2026-11-24T13:13:45+01:00",
+      "publishedAt": "2026-11-24T19:46:21+01:00",
       "type": "Kungligt",
-      "firstSeenAt": "2026-11-25T00:48:00.358Z",
-      "titleVi": "",
-      "translationError": "Google HTTP 429 Too Many Requests; MyMemory HTTP 429 Too Many Requests"
-    },
-    {
-      "id": "https://www.svenskdam.se/kungligt/uppgifter-kung-charles-pa-vag-att-kliva-av-tronen-william-ska-ta-over/11725455",
-      "source": "svenskdam",
-      "title": "Uppgifter: Kung Charles på väg att kliva av tronen – William ska ta över",
-      "url": "https://www.svenskdam.se/kungligt/uppgifter-kung-charles-pa-vag-att-kliva-av-tronen-william-ska-ta-over/11725455",
-      "date": "24/11/2026",
-      "publishedAt": "2026-11-24T14:01:03+01:00",
-      "type": "Kungligt",
-      "firstSeenAt": "2026-11-25T00:48:00.358Z",
-      "titleVi": "",
-      "translationError": "Google HTTP 429 Too Many Requests; MyMemory HTTP 429 Too Many Requests"
+      "firstSeenAt": "2026-11-25T09:36:25.637Z",
+      "titleVi": "Công chúa kế vị Victoria tỏa sáng tại bữa tiệc của nhà vua – thu hút mọi ánh nhìn!"
     },
     {
       "id": "https://www.svenskdam.se/kungligt/hovets-besked-madeleine-och-chris-staller-in-kungens-fest-i-sista-stund/11724545",
@@ -1082,20 +1051,40 @@
       "publishedAt": "2026-11-24T09:41:00+01:00",
       "type": "Kungligt",
       "firstSeenAt": "2026-11-25T00:48:00.358Z",
-      "titleVi": "",
-      "translationError": "Google HTTP 429 Too Many Requests; MyMemory HTTP 429 Too Many Requests"
+      "titleVi": "Cung điện Hoàng gia: Công chúa Madeleine và Chris đột ngột hủy tham dự bữa tiệc của Nhà vua • \"Từ chối\""
     },
     {
-      "id": "https://www.svenskdam.se/kungligt/har-jobbspurtar-sofia-innan-hon-byter-om-for-kvallens-fest-pa-slottet/11724712",
+      "id": "https://www.svenskdam.se/kungligt/inbrott-hos-kate-och-william-maskerade-man-ska-ha-brutit-sig-in/11725250",
       "source": "svenskdam",
-      "title": "Här jobbspurtar Sofia – innan hon byter om för kvällens fest på slottet!",
-      "url": "https://www.svenskdam.se/kungligt/har-jobbspurtar-sofia-innan-hon-byter-om-for-kvallens-fest-pa-slottet/11724712",
+      "title": "Inbrott hos Kate och William – maskerade män ska ha brutit sig in",
+      "url": "https://www.svenskdam.se/kungligt/inbrott-hos-kate-och-william-maskerade-man-ska-ha-brutit-sig-in/11725250",
       "date": "24/11/2026",
-      "publishedAt": "2026-11-24T10:54:52+01:00",
+      "publishedAt": "2026-11-24T13:13:45+01:00",
       "type": "Kungligt",
       "firstSeenAt": "2026-11-25T00:48:00.358Z",
-      "titleVi": "",
-      "translationError": "Google HTTP 429 Too Many Requests; MyMemory HTTP 429 Too Many Requests"
+      "titleVi": "Vụ đột nhập nhà Kate và William – những kẻ đeo mặt nạ được cho là đã đột nhập"
+    },
+    {
+      "id": "https://www.svenskdam.se/kungligt/uppgifter-kung-charles-pa-vag-att-kliva-av-tronen-william-ska-ta-over/11725455",
+      "source": "svenskdam",
+      "title": "Uppgifter: Kung Charles på väg att kliva av tronen – William ska ta över",
+      "url": "https://www.svenskdam.se/kungligt/uppgifter-kung-charles-pa-vag-att-kliva-av-tronen-william-ska-ta-over/11725455",
+      "date": "24/11/2026",
+      "publishedAt": "2026-11-24T14:01:03+01:00",
+      "type": "Kungligt",
+      "firstSeenAt": "2026-11-25T00:48:00.358Z",
+      "titleVi": "Thông tin: Vua Charles sắp thoái vị – William sẽ kế vị"
+    },
+    {
+      "id": "https://www.svenskdam.se/kungligt/har-smygstartar-madeleine-julmyset-med-lussefika-och-julkort/11724404",
+      "source": "svenskdam",
+      "title": "Här smygstartar Madeleine julmyset: Med lussefika och julkort!",
+      "url": "https://www.svenskdam.se/kungligt/har-smygstartar-madeleine-julmyset-med-lussefika-och-julkort/11724404",
+      "date": "24/11/2026",
+      "publishedAt": "2026-11-24T18:00:00+01:00",
+      "type": "Kungligt",
+      "firstSeenAt": "2026-11-25T00:48:00.358Z",
+      "titleVi": "Ở đây, Madeleine âm thầm bắt đầu không khí Giáng sinh ấm cúng: Với bánh saffron và thiệp Giáng sinh!"
     },
     {
       "id": "https://www.svenskdam.se/kungligt/har-sofia-rotat-i-victorias-garderob-se-bilderna-och-avgor-sjalv/11724308",
@@ -1106,32 +1095,18 @@
       "publishedAt": "2026-11-24T12:00:00+01:00",
       "type": "Kungligt",
       "firstSeenAt": "2026-11-25T00:48:00.358Z",
-      "titleVi": "",
-      "translationError": "Google HTTP 429 Too Many Requests; MyMemory HTTP 429 Too Many Requests"
+      "titleVi": "Có phải Sofia đã lục lọi tủ quần áo của Victoria? Hãy xem các bức ảnh và tự đánh giá!"
     },
     {
-      "id": "https://www.svenskdam.se/noje/masterkock-helena-tog-alla-med-storm-darfor-har-hon-inte-gjort-mer-tv/11716238",
+      "id": "https://www.svenskdam.se/noje/tareq-taylors-svar-efter-installda-julshowerna-sa-fel-vi-hade/11726192",
       "source": "svenskdam",
-      "title": "Mästerkock-Helena tog alla med storm – därför har hon inte gjort mer tv",
-      "url": "https://www.svenskdam.se/noje/masterkock-helena-tog-alla-med-storm-darfor-har-hon-inte-gjort-mer-tv/11716238",
+      "title": "Tareq Taylors svar efter inställda julshowerna: \"Så fel vi hade\"",
+      "url": "https://www.svenskdam.se/noje/tareq-taylors-svar-efter-installda-julshowerna-sa-fel-vi-hade/11726192",
       "date": "24/11/2026",
-      "publishedAt": "2026-11-24T07:00:00+01:00",
+      "publishedAt": "2026-11-24T17:38:27+01:00",
       "type": "Nöje",
       "firstSeenAt": "2026-11-25T00:48:00.358Z",
-      "titleVi": "",
-      "translationError": "Google HTTP 429 Too Many Requests; MyMemory HTTP 429 Too Many Requests"
-    },
-    {
-      "id": "https://www.svenskdam.se/kungligt/prinsessan-estelles-kladtrick-under-praktiken-som-gor-victoria-stolt/11723095",
-      "source": "svenskdam",
-      "title": "Prinsessan Estelles klädtrick under praktiken – som gör Victoria stolt",
-      "url": "https://www.svenskdam.se/kungligt/prinsessan-estelles-kladtrick-under-praktiken-som-gor-victoria-stolt/11723095",
-      "date": "24/11/2026",
-      "publishedAt": "2026-11-24T10:00:00+01:00",
-      "type": "Kungligt",
-      "firstSeenAt": "2026-11-25T00:48:00.358Z",
-      "titleVi": "",
-      "translationError": "Google HTTP 429 Too Many Requests; MyMemory HTTP 429 Too Many Requests"
+      "titleVi": "Phản ứng của Tareq Taylor sau khi các chương trình Giáng sinh bị hủy bỏ: \"Chúng tôi đã sai lầm quá nhiều\""
     },
     {
       "id": "https://www.svenskdam.se/mode/kungliga-kladval-som-skapat-rubriker-och-skandaler/11118174",
@@ -1167,28 +1142,26 @@
       "titleVi": "Luật sư: 4 lý do để viết di chúc – điều mà nhiều người bỏ lỡ"
     },
     {
-      "id": "https://www.svenskdam.se/noje/tilde-de-paula-ebys-karlekspartner-jobbat-ihop-i-16-ar/11724917",
+      "id": "https://www.svenskdam.se/kungligt/daniels-lycka-harliga-beskedet-fran-gamla-skolan-i-ockelbo/11724091",
       "source": "svenskdam",
-      "title": "Detaljerna om Tilde de Paula Ebys kärlekspartner – jobbat ihop i 16 år",
-      "url": "https://www.svenskdam.se/noje/tilde-de-paula-ebys-karlekspartner-jobbat-ihop-i-16-ar/11724917",
-      "date": "24/11/2026",
-      "publishedAt": "2026-11-24T19:00:00+01:00",
-      "type": "Nöje",
-      "firstSeenAt": "2026-11-25T00:48:00.358Z",
-      "titleVi": "",
-      "translationError": "Google HTTP 429 Too Many Requests; MyMemory HTTP 429 Too Many Requests"
+      "title": "Daniels lycka – härliga beskedet från gamla skolan i Ockelbo!",
+      "url": "https://www.svenskdam.se/kungligt/daniels-lycka-harliga-beskedet-fran-gamla-skolan-i-ockelbo/11724091",
+      "date": "25/11/2026",
+      "publishedAt": "2026-11-25T06:00:00+01:00",
+      "type": "Kungligt",
+      "firstSeenAt": "2026-11-25T09:36:25.637Z",
+      "titleVi": "Niềm hạnh phúc của Daniel – tin vui từ ngôi trường cũ ở Ockelbo!"
     },
     {
-      "id": "https://www.svenskdam.se/kungligt/har-smygstartar-madeleine-julmyset-med-lussefika-och-julkort/11724404",
+      "id": "https://www.svenskdam.se/noje/alskade-tv-duon-lamnar-efter-alla-ar-pa-kanalen-stolt-och-glad/11725602",
       "source": "svenskdam",
-      "title": "Här smygstartar Madeleine julmyset: med lussefika och julkort!",
-      "url": "https://www.svenskdam.se/kungligt/har-smygstartar-madeleine-julmyset-med-lussefika-och-julkort/11724404",
+      "title": "Älskade tv-duon lämnar – efter alla år på kanalen: \"Stolt och glad\"",
+      "url": "https://www.svenskdam.se/noje/alskade-tv-duon-lamnar-efter-alla-ar-pa-kanalen-stolt-och-glad/11725602",
       "date": "24/11/2026",
-      "publishedAt": "2026-11-24T18:00:00+01:00",
-      "type": "Kungligt",
-      "firstSeenAt": "2026-11-25T00:48:00.358Z",
-      "titleVi": "",
-      "translationError": "Google HTTP 429 Too Many Requests; MyMemory HTTP 429 Too Many Requests"
+      "publishedAt": "2026-11-24T22:00:00+01:00",
+      "type": "Nöje",
+      "firstSeenAt": "2026-11-25T09:36:25.637Z",
+      "titleVi": "Cặp đôi truyền hình được yêu mến rời khỏi kênh – sau nhiều năm gắn bó: \"Tự hào và hạnh phúc\""
     },
     {
       "id": "https://www.svenskdam.se/creative-studio/hitta-ratt-julklapp-under-black-friday-lat-ai-hjalpa-dig-pa-vagen/11718104",
@@ -1202,16 +1175,37 @@
       "titleVi": "Tìm món quà Giáng sinh phù hợp trong dịp Black Friday – hãy để AI hỗ trợ bạn trên hành trình này"
     },
     {
-      "id": "https://www.svenskdam.se/noje/tareq-taylors-svar-efter-installda-julshowerna-sa-fel-vi-hade/11726192",
+      "id": "https://www.svenskdam.se/vimmel/bildextra-kandistatt-pa-premiaren-av-efterlangtade-teatern/11725376",
       "source": "svenskdam",
-      "title": "Tareq Taylors svar efter inställda julshowerna: \"Så fel vi hade\"",
-      "url": "https://www.svenskdam.se/noje/tareq-taylors-svar-efter-installda-julshowerna-sa-fel-vi-hade/11726192",
+      "title": "Bildextra! Kändistätt på premiären av efterlängtade teatern",
+      "url": "https://www.svenskdam.se/vimmel/bildextra-kandistatt-pa-premiaren-av-efterlangtade-teatern/11725376",
       "date": "24/11/2026",
-      "publishedAt": "2026-11-24T17:38:27+01:00",
+      "publishedAt": "2026-11-24T21:00:00+01:00",
+      "type": "Vimmel",
+      "firstSeenAt": "2026-11-25T09:36:25.637Z",
+      "titleVi": "Ảnh đặc biệt! Rất nhiều người nổi tiếng tại buổi ra mắt vở kịch được mong chờ từ lâu"
+    },
+    {
+      "id": "https://www.svenskdam.se/noje/gunilla-perssons-kalldusch-efter-chockbeskedet-blir-utan-pengar/11726387",
+      "source": "svenskdam",
+      "title": "Gunilla Perssons kalldusch efter chockbeskedet – blir utan pengar",
+      "url": "https://www.svenskdam.se/noje/gunilla-perssons-kalldusch-efter-chockbeskedet-blir-utan-pengar/11726387",
+      "date": "24/11/2026",
+      "publishedAt": "2026-11-24T20:44:01+01:00",
+      "type": "Nöje",
+      "firstSeenAt": "2026-11-25T09:36:25.637Z",
+      "titleVi": "Cú sốc của Gunilla Persson sau tin gây sốc – sẽ không còn tiền"
+    },
+    {
+      "id": "https://www.svenskdam.se/noje/tilde-de-paula-ebys-karlekspartner-jobbat-ihop-i-16-ar/11724917",
+      "source": "svenskdam",
+      "title": "Detaljerna om Tilde de Paula Ebys kärlekspartner – jobbat ihop i 16 år",
+      "url": "https://www.svenskdam.se/noje/tilde-de-paula-ebys-karlekspartner-jobbat-ihop-i-16-ar/11724917",
+      "date": "24/11/2026",
+      "publishedAt": "2026-11-24T19:00:00+01:00",
       "type": "Nöje",
       "firstSeenAt": "2026-11-25T00:48:00.358Z",
-      "titleVi": "",
-      "translationError": "Google HTTP 429 Too Many Requests; MyMemory HTTP 429 Too Many Requests"
+      "titleVi": "Thông tin chi tiết về người yêu của Tilde de Paula Eby – đã làm việc cùng nhau được 16 năm"
     },
     {
       "id": "https://www.svenskdam.se/noje/tommy-myllymaki-om-separationen-tufft-det-kanns/11724413",
@@ -1222,8 +1216,7 @@
       "publishedAt": "2026-11-24T17:00:00+01:00",
       "type": "Nöje",
       "firstSeenAt": "2026-11-25T00:48:00.358Z",
-      "titleVi": "",
-      "translationError": "Google HTTP 429 Too Many Requests; MyMemory HTTP 429 Too Many Requests"
+      "titleVi": "Tommy Myllymäki nói về cuộc chia tay đột ngột: \"Thật khó khăn – tôi cảm thấy vậy\""
     },
     {
       "id": "https://www.svenskdam.se/kungligt/har-avslojas-14-ariga-estelle-lanar-mamma-victorias-klackskor/11723324",
@@ -1234,8 +1227,7 @@
       "publishedAt": "2026-11-24T16:00:00+01:00",
       "type": "Kungligt",
       "firstSeenAt": "2026-11-25T00:48:00.358Z",
-      "titleVi": "",
-      "translationError": "Google HTTP 429 Too Many Requests; MyMemory HTTP 429 Too Many Requests"
+      "titleVi": "Công chúa Estelle 14 tuổi bị phát hiện – mượn giày cao gót của mẹ Victoria"
     },
     {
       "id": "https://www.svenskdam.se/noje/filippas-kritik-mot-foraldrar-som-later-barnen-spela-gta-over-min-doda-kropp/11724687",
@@ -1246,8 +1238,7 @@
       "publishedAt": "2026-11-24T15:00:00+01:00",
       "type": "Nöje",
       "firstSeenAt": "2026-11-25T00:48:00.358Z",
-      "titleVi": "",
-      "translationError": "Google HTTP 429 Too Many Requests; MyMemory HTTP 429 Too Many Requests"
+      "titleVi": "Filippa chỉ trích những bậc cha mẹ cho phép con cái chơi GTA: \"Chỉ khi nào tôi chết\""
     },
     {
       "id": "https://www.svenskdam.se/kungligt/kronprinsessan-victorias-fina-aterforening-efter-20-ar/11725144",
@@ -1258,8 +1249,7 @@
       "publishedAt": "2026-11-24T14:30:00+01:00",
       "type": "Kungligt",
       "firstSeenAt": "2026-11-25T00:48:00.358Z",
-      "titleVi": "",
-      "translationError": "Google HTTP 429 Too Many Requests; MyMemory HTTP 429 Too Many Requests"
+      "titleVi": "Cuộc đoàn tụ tuyệt vời của Công chúa kế vị Victoria – sau 20 năm!"
     },
     {
       "id": "https://www.svenskdam.se/kungligt/hovet-bekraftar-kung-frederiks-nya-inget-ar-sig-likt/11723613",
@@ -1270,8 +1260,7 @@
       "publishedAt": "2026-11-24T14:00:00+01:00",
       "type": "Kungligt",
       "firstSeenAt": "2026-11-25T00:48:00.358Z",
-      "titleVi": "",
-      "translationError": "Google HTTP 429 Too Many Requests; MyMemory HTTP 429 Too Many Requests"
+      "titleVi": "Cung điện Hoàng gia xác nhận: Cuộc sống mới của Vua Frederik – mọi thứ đều khác biệt"
     },
     {
       "id": "https://www.svenskdam.se/noje/martin-e-type-eriksson-lamnar-nya-huset-da-sker-avskedet-jobbigt/11724846",
@@ -1282,8 +1271,7 @@
       "publishedAt": "2026-11-24T13:00:00+01:00",
       "type": "Nöje",
       "firstSeenAt": "2026-11-25T00:48:00.358Z",
-      "titleVi": "",
-      "translationError": "Google HTTP 429 Too Many Requests; MyMemory HTTP 429 Too Many Requests"
+      "titleVi": "Martin \"E-Type\" Eriksson rời khỏi ngôi nhà mới – thời điểm chia tay: \"Thật khó khăn\""
     },
     {
       "id": "https://www.svenskdam.se/noje/martina-har-glomt-trissvinsten-som-skrapades-fram-i-tv-det-hander-nu/11724314",
@@ -1294,8 +1282,29 @@
       "publishedAt": "2026-11-24T11:00:00+01:00",
       "type": "Nöje",
       "firstSeenAt": "2026-11-25T00:48:00.358Z",
-      "titleVi": "",
-      "translationError": "Google HTTP 429 Too Many Requests; MyMemory HTTP 429 Too Many Requests"
+      "titleVi": "Martina đã quên mất giải thưởng xổ số cào Triss mà cô đã cào trúng trên truyền hình: \"Tôi muốn làm rõ chuyện này\""
+    },
+    {
+      "id": "https://www.svenskdam.se/kungligt/har-jobbspurtar-sofia-innan-hon-byter-om-for-kvallens-fest-pa-slottet/11724712",
+      "source": "svenskdam",
+      "title": "Här jobbspurtar Sofia – innan hon byter om för kvällens fest på slottet!",
+      "url": "https://www.svenskdam.se/kungligt/har-jobbspurtar-sofia-innan-hon-byter-om-for-kvallens-fest-pa-slottet/11724712",
+      "date": "24/11/2026",
+      "publishedAt": "2026-11-24T10:54:52+01:00",
+      "type": "Kungligt",
+      "firstSeenAt": "2026-11-25T00:48:00.358Z",
+      "titleVi": "Đây là lúc Công nương Sofia đang làm việc nước rút – trước khi thay trang phục để dự bữa tiệc tối nay tại cung điện!"
+    },
+    {
+      "id": "https://www.svenskdam.se/kungligt/prinsessan-estelles-kladtrick-under-praktiken-som-gor-victoria-stolt/11723095",
+      "source": "svenskdam",
+      "title": "Prinsessan Estelles klädtrick under praktiken – som gör Victoria stolt",
+      "url": "https://www.svenskdam.se/kungligt/prinsessan-estelles-kladtrick-under-praktiken-som-gor-victoria-stolt/11723095",
+      "date": "24/11/2026",
+      "publishedAt": "2026-11-24T10:00:00+01:00",
+      "type": "Kungligt",
+      "firstSeenAt": "2026-11-25T00:48:00.358Z",
+      "titleVi": "Bí quyết ăn mặc của Công chúa Estelle trong thời gian thực tập – khiến Công nương Victoria tự hào"
     },
     {
       "id": "https://www.svenskdam.se/kungligt/furst-alberts-beslut-charlene-far-ta-over-tronen-ingen-anledning-till-oro/11723277",
@@ -1306,8 +1315,51 @@
       "publishedAt": "2026-11-24T08:00:00+01:00",
       "type": "Kungligt",
       "firstSeenAt": "2026-11-25T00:48:00.358Z",
-      "titleVi": "",
-      "translationError": "Google HTTP 429 Too Many Requests; MyMemory HTTP 429 Too Many Requests"
+      "titleVi": "Quyết định của Hoàng tử Albert – Công nương Charlene được kế vị ngai vàng"
+    },
+    {
+      "id": "https://www.svenskdam.se/noje/masterkock-helena-tog-alla-med-storm-darfor-har-hon-inte-gjort-mer-tv/11716238",
+      "source": "svenskdam",
+      "title": "Mästerkock-Helena tog alla med storm – därför har hon inte gjort mer tv",
+      "url": "https://www.svenskdam.se/noje/masterkock-helena-tog-alla-med-storm-darfor-har-hon-inte-gjort-mer-tv/11716238",
+      "date": "24/11/2026",
+      "publishedAt": "2026-11-24T07:00:00+01:00",
+      "type": "Nöje",
+      "firstSeenAt": "2026-11-25T00:48:00.358Z",
+      "titleVi": "Helena, đầu bếp bậc thầy, đã gây ấn tượng mạnh với tất cả mọi người – đó là lý do tại sao cô không tham gia nhiều chương trình truyền hình nữa"
+    },
+    {
+      "id": "https://www.svenskdam.se/noje/martin-jarborg-tvingas-lamna-efter-intensiva-tiden-i-tv4/11723600",
+      "source": "svenskdam",
+      "title": "Martin Järborg tvingas lämna – efter intensiva tiden i TV4",
+      "url": "https://www.svenskdam.se/noje/martin-jarborg-tvingas-lamna-efter-intensiva-tiden-i-tv4/11723600",
+      "date": "23/11/2026",
+      "publishedAt": "2026-11-23T22:00:00+01:00",
+      "type": "Nöje",
+      "firstSeenAt": "2026-11-24T05:26:43.545Z",
+      "titleVi": "Martin Järborg buộc phải rời đi – sau một thời gian làm việc căng thẳng tại TV4"
+    },
+    {
+      "id": "https://www.svenskdam.se/noje/vader-madde-lamnat-tv4-studion-glad-over-beslutet-i-stallet-for-att-prata/11722430",
+      "source": "svenskdam",
+      "title": "Väder-Madde har lämnat TV4-studion – är glad över beslutet",
+      "url": "https://www.svenskdam.se/noje/vader-madde-lamnat-tv4-studion-glad-over-beslutet-i-stallet-for-att-prata/11722430",
+      "date": "23/11/2026",
+      "publishedAt": "2026-11-23T12:00:00+01:00",
+      "type": "Nöje",
+      "firstSeenAt": "2026-11-25T09:36:25.637Z",
+      "titleVi": "Người dẫn chương trình thời tiết Madde đã rời khỏi trường quay của kênh TV4 – cô ấy rất vui với quyết định này"
+    },
+    {
+      "id": "https://www.svenskdam.se/noje/trisskraparen-skapar-chock-nar-folk-inser-vem-hon-ar-vilken-upplevelse/11722330",
+      "source": "svenskdam",
+      "title": "Trisskraparen skapar chock – när folk inser vem hon är",
+      "url": "https://www.svenskdam.se/noje/trisskraparen-skapar-chock-nar-folk-inser-vem-hon-ar-vilken-upplevelse/11722330",
+      "date": "23/11/2026",
+      "publishedAt": "2026-11-23T10:00:00+01:00",
+      "type": "Nöje",
+      "firstSeenAt": "2026-11-23T21:25:23.879Z",
+      "titleVi": "Người cào vé số gây sốc – khi mọi người nhận ra cô ấy là ai"
     },
     {
       "id": "https://www.svenskdam.se/kungligt/kronprinsessan-victoria-lamnar-haga-har-ar-orsaken/11723185",
@@ -1341,116 +1393,6 @@
       "type": "Nöje",
       "firstSeenAt": "2026-11-24T05:26:43.545Z",
       "titleVi": "Sự cố của Kristin Kaspersen giữa dự án ngôi nhà mơ ước: \"Hư hại do nước\""
-    },
-    {
-      "id": "https://www.svenskdam.se/noje/martin-jarborg-tvingas-lamna-efter-intensiva-tiden-i-tv4/11723600",
-      "source": "svenskdam",
-      "title": "Martin Järborg tvingas lämna – efter intensiva tiden i TV4",
-      "url": "https://www.svenskdam.se/noje/martin-jarborg-tvingas-lamna-efter-intensiva-tiden-i-tv4/11723600",
-      "date": "23/11/2026",
-      "publishedAt": "2026-11-23T22:00:00+01:00",
-      "type": "Nöje",
-      "firstSeenAt": "2026-11-24T05:26:43.545Z",
-      "titleVi": "Martin Järborg buộc phải rời đi – sau một thời gian làm việc căng thẳng tại TV4"
-    },
-    {
-      "id": "https://www.svenskdam.se/noje/tina-thorners-trakiga-besked-valjer-att-bekrafta/11722779",
-      "source": "svenskdam",
-      "title": "Tina Thörners tråkiga besked – väljer att bekräfta",
-      "url": "https://www.svenskdam.se/noje/tina-thorners-trakiga-besked-valjer-att-bekrafta/11722779",
-      "date": "23/11/2026",
-      "publishedAt": "2026-11-23T20:00:00+01:00",
-      "type": "Nöje",
-      "firstSeenAt": "2026-11-24T05:26:43.545Z",
-      "titleVi": "Tin buồn của Tina Thörner – bà chọn cách xác nhận"
-    },
-    {
-      "id": "https://www.svenskdam.se/noje/trisskraparen-skapar-chock-nar-folk-inser-vem-hon-ar-vilken-upplevelse/11722330",
-      "source": "svenskdam",
-      "title": "Trisskraparen skapar chock – när folk inser vem hon är",
-      "url": "https://www.svenskdam.se/noje/trisskraparen-skapar-chock-nar-folk-inser-vem-hon-ar-vilken-upplevelse/11722330",
-      "date": "23/11/2026",
-      "publishedAt": "2026-11-23T10:00:00+01:00",
-      "type": "Nöje",
-      "firstSeenAt": "2026-11-23T21:25:23.879Z",
-      "titleVi": "Người cào vé số gây sốc – khi mọi người nhận ra cô ấy là ai"
-    },
-    {
-      "id": "https://www.svenskdam.se/noje/pernilla-wahlgrens-nya-besked-om-familjemedlemmen-har-dragit/11722075",
-      "source": "svenskdam",
-      "title": "Pernilla Wahlgrens nya besked om familjemedlemmen: “Har dragit”",
-      "url": "https://www.svenskdam.se/noje/pernilla-wahlgrens-nya-besked-om-familjemedlemmen-har-dragit/11722075",
-      "date": "22/11/2026",
-      "publishedAt": "2026-11-22T19:00:00+01:00",
-      "type": "Nöje",
-      "firstSeenAt": "2026-11-23T21:25:23.879Z",
-      "titleVi": "Thông báo mới của Pernilla Wahlgren về một thành viên trong gia đình: “Đã rời đi”"
-    },
-    {
-      "id": "https://www.svenskdam.se/kungligt/sorgliga-beskedet-fran-kungahuset-prinsessan-har-dott/11721941",
-      "source": "svenskdam",
-      "title": "Sorgliga beskedet från kungahuset: Prinsessan har dött",
-      "url": "https://www.svenskdam.se/kungligt/sorgliga-beskedet-fran-kungahuset-prinsessan-har-dott/11721941",
-      "date": "22/11/2026",
-      "publishedAt": "2026-11-22T14:00:00+01:00",
-      "type": "Kungligt",
-      "firstSeenAt": "2026-11-22T20:29:01.892Z",
-      "titleVi": "Tin buồn từ hoàng gia: Công chúa đã qua đời"
-    },
-    {
-      "id": "https://www.svenskdam.se/kungligt/haakons-nya-besked-om-framtiden-med-mette-marit/11721119",
-      "source": "svenskdam",
-      "title": "Haakons nya besked – om framtiden med Mette-Marit",
-      "url": "https://www.svenskdam.se/kungligt/haakons-nya-besked-om-framtiden-med-mette-marit/11721119",
-      "date": "21/11/2026",
-      "publishedAt": "2026-11-21T11:00:00+01:00",
-      "type": "Kungligt",
-      "firstSeenAt": "2026-11-21T19:39:14.011Z",
-      "titleVi": "Thông báo mới của Haakon – về tương lai với Mette-Marit"
-    },
-    {
-      "id": "https://www.svenskdam.se/noje/schulmans-oro-over-carina-bergfeldt-som-julvard-en-tickande-bomb/11723332",
-      "source": "svenskdam",
-      "title": "Schulmans oro över Carina Bergfeldt som julvärd: “En tickande bomb”",
-      "url": "https://www.svenskdam.se/noje/schulmans-oro-over-carina-bergfeldt-som-julvard-en-tickande-bomb/11723332",
-      "date": "23/11/2026",
-      "publishedAt": "2026-11-23T18:00:00+01:00",
-      "type": "Nöje",
-      "firstSeenAt": "2026-11-23T21:25:23.879Z",
-      "titleVi": "Schulman lo ngại về việc Carina Bergfeldt làm người dẫn chương trình Giáng sinh: “Một quả bom hẹn giờ”"
-    },
-    {
-      "id": "https://www.svenskdam.se/noje/zlatan-ibrahimovics-nya-helena-informerad-precis-ratt/11722541",
-      "source": "svenskdam",
-      "title": "Zlatan Ibrahimovics nya – Helena informerad: ”Precis rätt”",
-      "url": "https://www.svenskdam.se/noje/zlatan-ibrahimovics-nya-helena-informerad-precis-ratt/11722541",
-      "date": "23/11/2026",
-      "publishedAt": "2026-11-23T17:30:00+01:00",
-      "type": "Nöje",
-      "firstSeenAt": "2026-11-23T21:25:23.879Z",
-      "titleVi": "Người mới của Zlatan Ibrahimovic – Helena được thông báo: \"Hoàn toàn phù hợp\""
-    },
-    {
-      "id": "https://www.svenskdam.se/kungligt/madeleines-bastis-om-festkvallen-i-new-york-gick-darifran/11722546",
-      "source": "svenskdam",
-      "title": "Väninnan om festkvällen med Madeleine i New York: \"Gick därifrån...\"",
-      "url": "https://www.svenskdam.se/kungligt/madeleines-bastis-om-festkvallen-i-new-york-gick-darifran/11722546",
-      "date": "23/11/2026",
-      "publishedAt": "2026-11-23T17:00:00+01:00",
-      "type": "Kungligt",
-      "firstSeenAt": "2026-11-23T21:25:23.879Z",
-      "titleVi": "Người bạn kể về đêm tiệc với Madeleine ở New York: \"Tôi đã rời khỏi đó...\""
-    },
-    {
-      "id": "https://www.svenskdam.se/noje/asa-ingrosso-ranad-pa-oppen-gata-sa-gick-det-sen-helt-sjukt/11722418",
-      "source": "svenskdam",
-      "title": "Åsa Ingrosso rånad på öppen gata – så gick det sen: \"Helt sjukt”",
-      "url": "https://www.svenskdam.se/noje/asa-ingrosso-ranad-pa-oppen-gata-sa-gick-det-sen-helt-sjukt/11722418",
-      "date": "23/11/2026",
-      "publishedAt": "2026-11-23T16:00:00+01:00",
-      "type": "Nöje",
-      "firstSeenAt": "2026-11-23T21:25:23.879Z",
-      "titleVi": "Åsa Ingrosso bị cướp giữa đường phố – sau đó mọi chuyện diễn ra như sau: \"Thật là điên rồ\""
     },
     {
       "id": "https://www.kongehuset.no/nyheter/bispevigsling-i-stavanger-11-2026",
