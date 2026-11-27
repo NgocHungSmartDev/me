@@ -1,6 +1,6 @@
 {
   "monitoringStartedAt": "2026-09-28T00:17:35.319Z",
-  "updatedAt": "2026-11-26T20:24:10.177Z",
+  "updatedAt": "2026-11-27T03:04:40.617Z",
   "sources": {
     "kongehuset": {
       "name": "Kongehuset",
@@ -71,6 +71,16 @@
     }
   },
   "articles": [
+    {
+      "id": "https://www.kongehuset.dk/foto-video/repremiere-paa-noeddeknaekkeren-i-tivoli-2026",
+      "source": "kongehuset",
+      "title": "Repremiere på Nøddeknækkeren i Tivoli",
+      "url": "https://www.kongehuset.dk/foto-video/repremiere-paa-noeddeknaekkeren-i-tivoli-2026",
+      "date": "26. november 2026",
+      "type": "Galleri",
+      "firstSeenAt": "2026-11-27T03:04:40.617Z",
+      "titleVi": "Biểu diễn lại vở Kẹp Hạt Dẻ tại Tivoli"
+    },
     {
       "id": "https://www.kongehuset.dk/foto-video/h-m-dronningens-besoeg-i-colombia---dag-2",
       "source": "kongehuset",
@@ -512,54 +522,54 @@
       "titleVi": "Khánh thành tiêu chuẩn mới của Jydske Dragonregiment"
     },
     {
-      "id": "https://www.kongehuset.dk/nyheder/udgivelse-af-bogen-da-kvinderne-blev-riddere",
-      "source": "kongehuset",
-      "title": "Udgivelse af bogen \"Da kvinderne blev riddere\"",
-      "url": "https://www.kongehuset.dk/nyheder/udgivelse-af-bogen-da-kvinderne-blev-riddere",
-      "date": "22. oktober 2026",
-      "type": "Nyhed",
-      "firstSeenAt": "2026-10-22T11:16:46.368Z",
-      "titleVi": "Xuất bản cuốn sách “Khi phụ nữ trở thành hiệp sĩ”"
-    },
-    {
-      "id": "https://nyheder.tv2.dk/live/krimi/2026-11-15-fem-personer-anholdt-efter-pokemon-roeveri",
+      "id": "https://nyheder.tv2.dk/live/2024-09-08-seneste-nyt-om-krigen-i-ukraine-70b1d6cc-0720-404e-9878-45546e1999e7",
       "source": "tv2",
-      "title": "Anholdte efter Pokemon-røveri er i alderen 26 til 72 år",
-      "url": "https://nyheder.tv2.dk/live/krimi/2026-11-15-fem-personer-anholdt-efter-pokemon-roeveri",
-      "date": "15/11/2026",
+      "title": "Ukraine skyder drone ned med laservåben for første gang",
+      "url": "https://nyheder.tv2.dk/live/2024-09-08-seneste-nyt-om-krigen-i-ukraine-70b1d6cc-0720-404e-9878-45546e1999e7",
+      "date": "08/09/2024",
       "type": "Live",
-      "firstSeenAt": "2026-11-26T11:23:54.572Z",
-      "titleVi": "Những người bị bắt sau vụ cướp liên quan đến Pokemon có độ tuổi từ 26 đến 72 tuổi"
+      "firstSeenAt": "2026-09-28T00:30:42.330Z",
+      "titleVi": "Lần đầu tiên Ukraine bắn hạ máy bay không người lái bằng vũ khí laser"
     },
     {
-      "id": "https://nyheder.tv2.dk/krimi/2026-11-26-osteopat-tiltalt-for-seksuelle-kraenkelser-under-behandlinger",
+      "id": "https://nyheder.tv2.dk/live/2025-01-06-kampen-om-groenlands-fremtid",
       "source": "tv2",
-      "title": "Osteopat tiltalt for seksuelle krænkelser under behandlinger",
-      "url": "https://nyheder.tv2.dk/krimi/2026-11-26-osteopat-tiltalt-for-seksuelle-kraenkelser-under-behandlinger",
-      "date": "26/11/2026",
-      "type": "Krimi",
-      "firstSeenAt": "2026-11-26T20:24:10.177Z",
-      "titleVi": "Bác sĩ nắn chỉnh xương khớp bị buộc tội xâm hại tình dục trong quá trình điều trị"
+      "title": "Folketinget vedtager Grønland-aftale med USA",
+      "url": "https://nyheder.tv2.dk/live/2025-01-06-kampen-om-groenlands-fremtid",
+      "date": "06/01/2025",
+      "type": "Live",
+      "firstSeenAt": "2026-11-27T03:04:40.617Z",
+      "titleVi": "Nghị viện Đan Mạch thông qua thỏa thuận về Greenland với Hoa Kỳ"
+    },
+    {
+      "id": "https://nyheder.tv2.dk/live/udland/2026-05-16-midtvejsvalg-i-usa",
+      "source": "tv2",
+      "title": "Demokraterne sikrer sig historisk nyt flertal",
+      "url": "https://nyheder.tv2.dk/live/udland/2026-05-16-midtvejsvalg-i-usa",
+      "date": "16/05/2026",
+      "type": "Live",
+      "firstSeenAt": "2026-11-27T03:04:40.617Z",
+      "titleVi": "Đảng Dân chủ giành được đa số phiếu bầu mới mang tính lịch sử"
     },
     {
       "id": "https://nyheder.tv2.dk/live/kort-nyt",
       "source": "tv2",
-      "title": "Fjernvarmeselskab hæver prisen fra næste år",
+      "title": "En person anholdt efter eksplosionsbrand ved egyptisk knudepunkt",
       "url": "https://nyheder.tv2.dk/live/kort-nyt",
       "date": "—",
       "type": "Live",
       "firstSeenAt": "2026-09-28T00:30:42.330Z",
-      "titleVi": "Công ty cung cấp dịch vụ sưởi ấm bằng nước nóng sẽ tăng giá từ năm tới"
+      "titleVi": "Một người bị bắt sau vụ cháy nổ tại nút giao thông Ai Cập"
     },
     {
-      "id": "https://nyheder.tv2.dk/live/udland/2026-01-08-krig-i-mellemoesten",
+      "id": "https://nyheder.tv2.dk/live/trafik/2026-10-13-togkaos-i-danmark",
       "source": "tv2",
-      "title": "To italienere dræbt i droneangreb",
-      "url": "https://nyheder.tv2.dk/live/udland/2026-01-08-krig-i-mellemoesten",
-      "date": "08/01/2026",
+      "title": "Forsinkelser fortsætter efter signalfejl",
+      "url": "https://nyheder.tv2.dk/live/trafik/2026-10-13-togkaos-i-danmark",
+      "date": "13/10/2026",
       "type": "Live",
       "firstSeenAt": "2026-11-26T20:24:10.177Z",
-      "titleVi": "Hai người Ý thiệt mạng trong vụ tấn công bằng máy bay không người lái"
+      "titleVi": "Tình trạng chậm trễ vẫn tiếp diễn sau sự cố tín hiệu"
     },
     {
       "id": "https://nyheder.tv2.dk/live/politik/2026-11-26-ekstraordinaert-eu-topmoede",
@@ -572,14 +582,44 @@
       "titleVi": "Bà Mette Frederiksen ủng hộ ông Friedrich Merz trong việc đưa ra tối hậu thư"
     },
     {
-      "id": "https://nyheder.tv2.dk/live/2024-09-08-seneste-nyt-om-krigen-i-ukraine-70b1d6cc-0720-404e-9878-45546e1999e7",
+      "id": "https://nyheder.tv2.dk/samfund/2026-11-26-antibiotikaforbruget-til-dyr-fortsaetter-med-at-stige",
       "source": "tv2",
-      "title": "Ukraine skyder drone ned med laservåben for første gang",
-      "url": "https://nyheder.tv2.dk/live/2024-09-08-seneste-nyt-om-krigen-i-ukraine-70b1d6cc-0720-404e-9878-45546e1999e7",
-      "date": "08/09/2024",
+      "title": "Antibiotikaforbruget til dyr fortsætter med at stige",
+      "url": "https://nyheder.tv2.dk/samfund/2026-11-26-antibiotikaforbruget-til-dyr-fortsaetter-med-at-stige",
+      "date": "26/11/2026",
+      "type": "Samfund",
+      "firstSeenAt": "2026-11-27T03:04:40.617Z",
+      "titleVi": "Việc sử dụng kháng sinh cho động vật tiếp tục gia tăng"
+    },
+    {
+      "id": "https://nyheder.tv2.dk/live/krimi/2026-11-15-fem-personer-anholdt-efter-pokemon-roeveri",
+      "source": "tv2",
+      "title": "Anholdte efter Pokemon-røveri er i alderen 26 til 72 år",
+      "url": "https://nyheder.tv2.dk/live/krimi/2026-11-15-fem-personer-anholdt-efter-pokemon-roeveri",
+      "date": "15/11/2026",
       "type": "Live",
-      "firstSeenAt": "2026-09-28T00:30:42.330Z",
-      "titleVi": "Lần đầu tiên Ukraine bắn hạ máy bay không người lái bằng vũ khí laser"
+      "firstSeenAt": "2026-11-26T11:23:54.572Z",
+      "titleVi": "Những người bị bắt sau vụ cướp liên quan đến Pokemon có độ tuổi từ 26 đến 72 tuổi"
+    },
+    {
+      "id": "https://nyheder.tv2.dk/krimi/2026-11-26-falsk-osteopat-tiltalt-for-seksuelle-kraenkelser-under-behandlinger",
+      "source": "tv2",
+      "title": "Falsk osteopat tiltalt for seksuelle krænkelser under behandlinger",
+      "url": "https://nyheder.tv2.dk/krimi/2026-11-26-falsk-osteopat-tiltalt-for-seksuelle-kraenkelser-under-behandlinger",
+      "date": "26/11/2026",
+      "type": "Krimi",
+      "firstSeenAt": "2026-11-27T03:04:40.617Z",
+      "titleVi": "Bác sĩ nắn chỉnh xương khớp giả mạo bị buộc tội tấn công tình dục trong các buổi trị liệu"
+    },
+    {
+      "id": "https://nyheder.tv2.dk/live/udland/2026-01-08-krig-i-mellemoesten",
+      "source": "tv2",
+      "title": "To italienere dræbt i droneangreb",
+      "url": "https://nyheder.tv2.dk/live/udland/2026-01-08-krig-i-mellemoesten",
+      "date": "08/01/2026",
+      "type": "Live",
+      "firstSeenAt": "2026-11-26T20:24:10.177Z",
+      "titleVi": "Hai người Ý thiệt mạng trong vụ tấn công bằng máy bay không người lái"
     },
     {
       "id": "https://nyheder.tv2.dk/samfund/2026-11-25-80-aarig-ramt-af-vildfaren-golfbold-man-kan-sgu-doe-af-det",
@@ -590,16 +630,6 @@
       "type": "Samfund",
       "firstSeenAt": "2026-11-26T20:24:10.177Z",
       "titleVi": "Cụ ông 80 tuổi bị trúng quả bóng golf bay lạc: - Chết vì chuyện này cũng được đấy"
-    },
-    {
-      "id": "https://nyheder.tv2.dk/live/trafik/2026-10-13-togkaos-i-danmark",
-      "source": "tv2",
-      "title": "Forsinkelser og aflysninger fortsætter efter strømsvigt",
-      "url": "https://nyheder.tv2.dk/live/trafik/2026-10-13-togkaos-i-danmark",
-      "date": "13/10/2026",
-      "type": "Live",
-      "firstSeenAt": "2026-11-26T20:24:10.177Z",
-      "titleVi": "Các chuyến bay tiếp tục bị chậm trễ và hủy bỏ sau sự cố mất điện"
     },
     {
       "id": "https://nyheder.tv2.dk/udland/2026-11-25-laek-afsloerer-enorme-tabstal-saa-laenge-overlever-en-russisk-soldat-ved-fronten",
@@ -780,36 +810,6 @@
       "type": "Udland",
       "firstSeenAt": "2026-11-26T11:23:54.572Z",
       "titleVi": "Người đàn ông trúng xổ số – ngày hôm sau, ông ta bị một cơ quan có tiếng xấu bắt giữ"
-    },
-    {
-      "id": "https://nyheder.tv2.dk/politik/2026-11-26-endnu-et-cpr-laek-med-11000-personer-er-blevet-opdaget",
-      "source": "tv2",
-      "title": "Endnu et CPR-læk med 11.000 personer er blevet opdaget",
-      "url": "https://nyheder.tv2.dk/politik/2026-11-26-endnu-et-cpr-laek-med-11000-personer-er-blevet-opdaget",
-      "date": "26/11/2026",
-      "type": "Politik",
-      "firstSeenAt": "2026-11-26T11:23:54.572Z",
-      "titleVi": "Một vụ rò rỉ thông tin số an sinh xã hội khác liên quan đến 11.000 người đã được phát hiện"
-    },
-    {
-      "id": "https://nyheder.tv2.dk/samfund/2026-11-25-paralympisk-atlet-vinder-for-foerste-gang-dansekonkurrence",
-      "source": "tv2",
-      "title": "Paralympisk atlet vinder for første gang dansekonkurrence",
-      "url": "https://nyheder.tv2.dk/samfund/2026-11-25-paralympisk-atlet-vinder-for-foerste-gang-dansekonkurrence",
-      "date": "25/11/2026",
-      "type": "Samfund",
-      "firstSeenAt": "2026-11-26T11:23:54.572Z",
-      "titleVi": "Lần đầu tiên, một vận động viên khuyết tật giành chiến thắng trong cuộc thi khiêu vũ"
-    },
-    {
-      "id": "https://nyheder.tv2.dk/penge/2026-11-26-feriepenge-for-44-milliarder-kroner-saerligt-en-gruppe-har-penge-til-gode",
-      "source": "tv2",
-      "title": "Feriepenge for 4,4 milliarder kroner – særligt én gruppe har penge til gode",
-      "url": "https://nyheder.tv2.dk/penge/2026-11-26-feriepenge-for-44-milliarder-kroner-saerligt-en-gruppe-har-penge-til-gode",
-      "date": "26/11/2026",
-      "type": "Penge",
-      "firstSeenAt": "2026-11-26T11:23:54.572Z",
-      "titleVi": "Tiền trợ cấp nghỉ phép trị giá 4,4 tỷ kroner – đặc biệt là một nhóm người được hưởng khoản tiền này"
     },
     {
       "id": "https://www.kungahuset.se/arkiv/nyheter/2026-11-26-prinsparet-pa-berattarministeriet",
@@ -1142,15 +1142,15 @@
       "titleVi": "Cập nhật thói quen chăm sóc bản thân cho mùa đông khô hanh"
     },
     {
-      "id": "https://www.svenskdam.se/noje/felix-herngrens-utspel-efter-beskedet-pissar-ner-allt-fint-vi-har-byggt/11728975",
+      "id": "https://www.svenskdam.se/noje/tv4-profilen-om-situationen-nyhetsmorgon-grat-i-en-vecka/11729303",
       "source": "svenskdam",
-      "title": "Felix Herngrens utspel efter beskedet: \"Pissar ner allt fint vi har byggt\"",
-      "url": "https://www.svenskdam.se/noje/felix-herngrens-utspel-efter-beskedet-pissar-ner-allt-fint-vi-har-byggt/11728975",
+      "title": "TV4-profilen om situationen Nyhetsmorgon: “Grät i en vecka”",
+      "url": "https://www.svenskdam.se/noje/tv4-profilen-om-situationen-nyhetsmorgon-grat-i-en-vecka/11729303",
       "date": "26/11/2026",
-      "publishedAt": "2026-11-26T17:00:00+01:00",
+      "publishedAt": "2026-11-26T19:00:00+01:00",
       "type": "Nöje",
-      "firstSeenAt": "2026-11-26T20:24:10.177Z",
-      "titleVi": "Phát ngôn của Felix Herngren sau khi nhận được thông báo: \"Đái lên tất cả những điều tốt đẹp mà chúng ta đã xây dựng\""
+      "firstSeenAt": "2026-11-27T03:04:40.617Z",
+      "titleVi": "Nhân vật nổi tiếng của kênh TV4 về tình hình hiện tại trên chương trình Nyhetsmorgon: “Tôi đã khóc suốt một tuần”"
     },
     {
       "id": "https://www.svenskdam.se/kungligt/sa-var-kungens-fest-i-natt-oforglomligt/11726451",
@@ -1173,6 +1173,17 @@
       "type": "Creative studio",
       "firstSeenAt": "2026-11-19T18:21:42.977Z",
       "titleVi": "Tìm món quà Giáng sinh phù hợp trong dịp Black Friday – hãy để AI hỗ trợ bạn trên hành trình này"
+    },
+    {
+      "id": "https://www.svenskdam.se/noje/felix-herngrens-utspel-efter-beskedet-pissar-ner-allt-fint-vi-har-byggt/11728975",
+      "source": "svenskdam",
+      "title": "Felix Herngrens utspel efter beskedet: \"Pissar ner allt fint vi har byggt\"",
+      "url": "https://www.svenskdam.se/noje/felix-herngrens-utspel-efter-beskedet-pissar-ner-allt-fint-vi-har-byggt/11728975",
+      "date": "26/11/2026",
+      "publishedAt": "2026-11-26T17:00:00+01:00",
+      "type": "Nöje",
+      "firstSeenAt": "2026-11-26T20:24:10.177Z",
+      "titleVi": "Phát ngôn của Felix Herngren sau khi nhận được thông báo: \"Đái lên tất cả những điều tốt đẹp mà chúng ta đã xây dựng\""
     },
     {
       "id": "https://www.svenskdam.se/kungligt/trakigt-besked-infor-kronprinsessan-victorias-stora-fest-politikern-sager-nej/11727524",
@@ -1318,17 +1329,6 @@
       "titleVi": "Nỗi buồn của Erik Videgård sau khi cha anh qua đời: \"Tạm biệt cha\""
     },
     {
-      "id": "https://www.svenskdam.se/noje/hanna-oberg-och-martin-ponsiluoma-har-fatt-barn-stora-gladjen-antligen/11728452",
-      "source": "svenskdam",
-      "title": "Hanna Öberg och Martin Ponsiluoma har fått barn – stora glädjen: \"Äntligen!\"",
-      "url": "https://www.svenskdam.se/noje/hanna-oberg-och-martin-ponsiluoma-har-fatt-barn-stora-gladjen-antligen/11728452",
-      "date": "25/11/2026",
-      "publishedAt": "2026-11-25T19:19:44+01:00",
-      "type": "Nöje",
-      "firstSeenAt": "2026-11-26T11:23:54.572Z",
-      "titleVi": "Hanna Öberg và Martin Ponsiluoma đã có con – niềm vui lớn: \"Cuối cùng cũng được!\""
-    },
-    {
       "id": "https://www.svenskdam.se/noje/ernst-kirchsteiger-kliver-in-som-julvard-efter-braket-kring-carina-bergfeldt/11727071",
       "source": "svenskdam",
       "title": "Ernst Kirchsteiger kliver in som julvärd – efter bråket kring Carina Bergfeldt",
@@ -1373,6 +1373,17 @@
       "titleVi": "Martin Järborg buộc phải rời đi – sau một thời gian làm việc căng thẳng tại TV4"
     },
     {
+      "id": "https://www.svenskdam.se/noje/hanna-oberg-och-martin-ponsiluoma-har-fatt-barn-stora-gladjen-antligen/11728452",
+      "source": "svenskdam",
+      "title": "Hanna Öberg och Martin Ponsiluoma har fått barn – stora glädjen: \"Äntligen!\"",
+      "url": "https://www.svenskdam.se/noje/hanna-oberg-och-martin-ponsiluoma-har-fatt-barn-stora-gladjen-antligen/11728452",
+      "date": "25/11/2026",
+      "publishedAt": "2026-11-25T19:19:44+01:00",
+      "type": "Nöje",
+      "firstSeenAt": "2026-11-26T11:23:54.572Z",
+      "titleVi": "Hanna Öberg và Martin Ponsiluoma đã có con – niềm vui lớn: \"Cuối cùng cũng được!\""
+    },
+    {
       "id": "https://www.svenskdam.se/kungligt/drottning-mette-marit-overraskar-alla-dyker-upp-pa-konsert/11728433",
       "source": "svenskdam",
       "title": "Drottning Mette-Marit överraskar alla – dyker upp på konsert!",
@@ -1404,17 +1415,6 @@
       "type": "Kungligt",
       "firstSeenAt": "2026-11-26T11:23:54.572Z",
       "titleVi": "Sofia Åhman sốc – sau những lời nói tại bữa tối với nhà vua"
-    },
-    {
-      "id": "https://www.svenskdam.se/kungligt/kungens-kostymer-saldes-pa-loppmarknad-markliga-upptackten/11725068",
-      "source": "svenskdam",
-      "title": "Kungens kostymer såldes på loppmarknad – märkliga upptäckten",
-      "url": "https://www.svenskdam.se/kungligt/kungens-kostymer-saldes-pa-loppmarknad-markliga-upptackten/11725068",
-      "date": "25/11/2026",
-      "publishedAt": "2026-11-25T18:00:00+01:00",
-      "type": "Kungligt",
-      "firstSeenAt": "2026-11-25T19:36:07.034Z",
-      "titleVi": "Trang phục của nhà vua được bán tại chợ đồ cũ – phát hiện kỳ lạ"
     },
     {
       "id": "https://www.kongehuset.no/nyheter/takkekonsert-i-trefoldighetskirken",
