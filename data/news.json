@@ -1,6 +1,6 @@
 {
   "monitoringStartedAt": "2026-09-28T00:17:35.319Z",
-  "updatedAt": "2026-11-27T21:32:08.043Z",
+  "updatedAt": "2026-11-28T03:32:13.578Z",
   "sources": {
     "kongehuset": {
       "name": "Kongehuset",
@@ -57,9 +57,9 @@
       "language": "no",
       "monitoringStartedAt": "2026-10-01T16:30:06.936Z",
       "status": {
-        "state": "error",
-        "message": "The Norwegian Royal House Atom feed returned no entries",
-        "changedAt": "2026-11-27T21:32:08.043Z"
+        "state": "ok",
+        "message": "",
+        "changedAt": "2026-11-28T03:32:13.578Z"
       }
     }
   },
@@ -522,14 +522,44 @@
       "titleVi": "Đón tiếp và ăn tối cho các lãnh sự danh dự của Đan Mạch tại Hoa Kỳ"
     },
     {
+      "id": "https://nyheder.tv2.dk/business/2026-11-27-elselskab-skyldte-elkunder-292-millioner-ved-konkurs-kuratorer-har-orienteret-politiet",
+      "source": "tv2",
+      "title": "Elselskab skyldte elkunder 292 millioner ved konkurs – kuratorer har orienteret politiet",
+      "url": "https://nyheder.tv2.dk/business/2026-11-27-elselskab-skyldte-elkunder-292-millioner-ved-konkurs-kuratorer-har-orienteret-politiet",
+      "date": "27/11/2026",
+      "type": "Business",
+      "firstSeenAt": "2026-11-28T03:32:13.578Z",
+      "titleVi": "Công ty điện lực nợ khách hàng sử dụng điện 292 triệu Đan Mạch Krone khi phá sản – các quản tài viên đã thông báo cho cảnh sát"
+    },
+    {
       "id": "https://nyheder.tv2.dk/live/kort-nyt",
       "source": "tv2",
-      "title": "20-årig idømt 14,5 års fængsel for rolle i 'The Com'",
+      "title": "OpenAI sagsøger Apple for tyveri",
       "url": "https://nyheder.tv2.dk/live/kort-nyt",
       "date": "—",
       "type": "Live",
       "firstSeenAt": "2026-09-28T00:30:42.330Z",
-      "titleVi": "Thanh niên 20 tuổi bị kết án 14,5 năm tù vì vai trò trong vụ án 'The Com'"
+      "titleVi": "OpenAI kiện Apple vì tội trộm cắp"
+    },
+    {
+      "id": "https://nyheder.tv2.dk/live/penge/2026-11-27-black-friday-forventes-at-slaa-rekord-igen",
+      "source": "tv2",
+      "title": "Black friday forventes at slå rekord igen",
+      "url": "https://nyheder.tv2.dk/live/penge/2026-11-27-black-friday-forventes-at-slaa-rekord-igen",
+      "date": "27/11/2026",
+      "type": "Live",
+      "firstSeenAt": "2026-11-27T12:20:14.996Z",
+      "titleVi": "Dự kiến Thứ Sáu Đen tối sẽ lại lập kỷ lục"
+    },
+    {
+      "id": "https://nyheder.tv2.dk/live/politik/2025-08-11-dansk-politik",
+      "source": "tv2",
+      "title": "\"Cykelvenligt\" forslag ventes vedtaget i ny finanslov",
+      "url": "https://nyheder.tv2.dk/live/politik/2025-08-11-dansk-politik",
+      "date": "11/08/2025",
+      "type": "Live",
+      "firstSeenAt": "2026-11-07T15:49:51.486Z",
+      "titleVi": "Dự kiến, đề xuất \"thân thiện với xe đạp\" sẽ được thông qua trong luật ngân sách mới"
     },
     {
       "id": "https://nyheder.tv2.dk/live/2024-09-08-seneste-nyt-om-krigen-i-ukraine-70b1d6cc-0720-404e-9878-45546e1999e7",
@@ -562,16 +592,6 @@
       "titleVi": "Ước mơ trở thành công tố viên của sinh viên luật “đã tan vỡ”"
     },
     {
-      "id": "https://nyheder.tv2.dk/business/2026-11-27-elselskab-skyldte-elkunder-292-millioner-ved-konkurs-kuratorer-har-nu-orienteret-politiet",
-      "source": "tv2",
-      "title": "Elselskab skyldte elkunder 292 millioner ved konkurs – kuratorer har nu orienteret politiet",
-      "url": "https://nyheder.tv2.dk/business/2026-11-27-elselskab-skyldte-elkunder-292-millioner-ved-konkurs-kuratorer-har-nu-orienteret-politiet",
-      "date": "27/11/2026",
-      "type": "Business",
-      "firstSeenAt": "2026-11-27T21:32:08.043Z",
-      "titleVi": "Công ty điện lực nợ khách hàng sử dụng điện 292 triệu DKK khi phá sản – các quản tài viên hiện đã thông báo cho cảnh sát"
-    },
-    {
       "id": "https://nyheder.tv2.dk/samfund/2026-11-27-teleudbyder-bekraefter-cyberangreb-flere-er-ramt",
       "source": "tv2",
       "title": "Teleudbyder bekræfter cyberangreb – flere er ramt",
@@ -592,16 +612,6 @@
       "titleVi": "Đồng bị đánh cắp từ nhà thờ xuất hiện ở nơi cách xa hiện trường vụ án"
     },
     {
-      "id": "https://nyheder.tv2.dk/live/penge/2026-11-27-black-friday-forventes-at-slaa-rekord-igen",
-      "source": "tv2",
-      "title": "Black friday forventes at slå rekord igen",
-      "url": "https://nyheder.tv2.dk/live/penge/2026-11-27-black-friday-forventes-at-slaa-rekord-igen",
-      "date": "27/11/2026",
-      "type": "Live",
-      "firstSeenAt": "2026-11-27T12:20:14.996Z",
-      "titleVi": "Dự kiến Thứ Sáu Đen tối sẽ lại lập kỷ lục"
-    },
-    {
       "id": "https://nyheder.tv2.dk/samfund/2026-11-27-restaurant-til-angreb-paa-dobbeltbookere-bruger-saerligt-kneb-til-at-finde-dem",
       "source": "tv2",
       "title": "Restaurant til angreb på dobbeltbookere – bruger særligt kneb til at finde dem",
@@ -620,16 +630,6 @@
       "type": "Samfund",
       "firstSeenAt": "2026-11-27T21:32:08.043Z",
       "titleVi": "Một từ đã gây ra tranh cãi – nhưng liệu Đan Mạch có đang tiến tới sự thay đổi dân số hay không?"
-    },
-    {
-      "id": "https://nyheder.tv2.dk/live/politik/2025-08-11-dansk-politik",
-      "source": "tv2",
-      "title": "Yildiz Akdogan kalder Mette F.-udtalelse \"en farlig terminologi\"",
-      "url": "https://nyheder.tv2.dk/live/politik/2025-08-11-dansk-politik",
-      "date": "11/08/2025",
-      "type": "Live",
-      "firstSeenAt": "2026-11-07T15:49:51.486Z",
-      "titleVi": "Yildiz Akdogan gọi phát ngôn của Mette F. là \"một thuật ngữ nguy hiểm\""
     },
     {
       "id": "https://nyheder.tv2.dk/live/udland/2026-05-16-midtvejsvalg-i-usa",
@@ -1131,15 +1131,15 @@
       "titleVi": "Cập nhật thói quen chăm sóc bản thân cho mùa đông khô hanh"
     },
     {
-      "id": "https://www.svenskdam.se/noje/ernst-kirchsteiger-satter-ned-foten-har-fatt-nog-sorgligt/11730705",
+      "id": "https://www.svenskdam.se/kungligt/prinsessan-inlagd-pa-sjukhus-nya-beskedet-om-halsan/11731882",
       "source": "svenskdam",
-      "title": "Ernst Kirchsteiger sätter ned foten – har fått nog: ”Sorgligt”",
-      "url": "https://www.svenskdam.se/noje/ernst-kirchsteiger-satter-ned-foten-har-fatt-nog-sorgligt/11730705",
+      "title": "Prinsessan inlagd på sjukhus – nya beskedet om hälsan",
+      "url": "https://www.svenskdam.se/kungligt/prinsessan-inlagd-pa-sjukhus-nya-beskedet-om-halsan/11731882",
       "date": "27/11/2026",
-      "publishedAt": "2026-11-27T19:00:00+01:00",
-      "type": "Nöje",
+      "publishedAt": "2026-11-27T18:00:00+01:00",
+      "type": "Kungligt",
       "firstSeenAt": "2026-11-27T21:32:08.043Z",
-      "titleVi": "Ernst Kirchsteiger tỏ thái độ cứng rắn – đã chịu đựng đủ rồi: \"Thật đáng buồn\""
+      "titleVi": "Công chúa nhập viện – thông tin mới về tình hình sức khỏe"
     },
     {
       "id": "https://www.svenskdam.se/kungligt/sa-var-kungens-fest-i-natt-oforglomligt/11726451",
@@ -1162,17 +1162,6 @@
       "type": "Creative studio",
       "firstSeenAt": "2026-11-19T18:21:42.977Z",
       "titleVi": "Tìm món quà Giáng sinh phù hợp trong dịp Black Friday – hãy để AI hỗ trợ bạn trên hành trình này"
-    },
-    {
-      "id": "https://www.svenskdam.se/kungligt/prinsessan-inlagd-pa-sjukhus-nya-beskedet-om-halsan/11731882",
-      "source": "svenskdam",
-      "title": "Prinsessan inlagd på sjukhus – nya beskedet om hälsan",
-      "url": "https://www.svenskdam.se/kungligt/prinsessan-inlagd-pa-sjukhus-nya-beskedet-om-halsan/11731882",
-      "date": "27/11/2026",
-      "publishedAt": "2026-11-27T18:00:00+01:00",
-      "type": "Kungligt",
-      "firstSeenAt": "2026-11-27T21:32:08.043Z",
-      "titleVi": "Công chúa nhập viện – thông tin mới về tình hình sức khỏe"
     },
     {
       "id": "https://www.svenskdam.se/noje/kaj-stjarnan-stoppas-fran-pa-sparet-infor-kvallens-avsnitt-far-inte-vara-med/11731015",
@@ -1318,15 +1307,26 @@
       "titleVi": "Tiết lộ những lời bí mật của nhà vua về Hoàng hậu Silvia – ngay giữa bữa tối: \"Gớm ghiếc\""
     },
     {
-      "id": "https://www.svenskdam.se/noje/kalle-moraeus-lycka-bekraftar-infor-jul-alskar/11729264",
+      "id": "https://www.svenskdam.se/noje/tv4-profilen-om-situationen-nyhetsmorgon-grat-i-en-vecka/11729303",
       "source": "svenskdam",
-      "title": "Kalle Moraeus lycka – bekräftar inför jul: ”Älskar”",
-      "url": "https://www.svenskdam.se/noje/kalle-moraeus-lycka-bekraftar-infor-jul-alskar/11729264",
+      "title": "TV4-profilen om situationen Nyhetsmorgon: “Grät i en vecka”",
+      "url": "https://www.svenskdam.se/noje/tv4-profilen-om-situationen-nyhetsmorgon-grat-i-en-vecka/11729303",
       "date": "26/11/2026",
-      "publishedAt": "2026-11-26T15:00:00+01:00",
+      "publishedAt": "2026-11-26T19:00:00+01:00",
       "type": "Nöje",
-      "firstSeenAt": "2026-11-26T20:24:10.177Z",
-      "titleVi": "Niềm hạnh phúc của Kalle Moraeus – xác nhận trước Giáng sinh: \"Yêu\""
+      "firstSeenAt": "2026-11-27T03:04:40.617Z",
+      "titleVi": "Nhân vật nổi tiếng của kênh TV4 về tình hình hiện tại trên chương trình Nyhetsmorgon: “Tôi đã khóc suốt một tuần”"
+    },
+    {
+      "id": "https://www.svenskdam.se/kungligt/sofia-ahman-om-kungens-ovantade-skamt-mitt-framfor-silvia/11727532",
+      "source": "svenskdam",
+      "title": "Sofia Åhman om kungens oväntade skämt – mitt framför Silvia",
+      "url": "https://www.svenskdam.se/kungligt/sofia-ahman-om-kungens-ovantade-skamt-mitt-framfor-silvia/11727532",
+      "date": "26/11/2026",
+      "publishedAt": "2026-11-26T09:00:00+01:00",
+      "type": "Kungligt",
+      "firstSeenAt": "2026-11-28T03:32:13.578Z",
+      "titleVi": "Sofia Åhman về trò đùa bất ngờ của nhà vua – ngay trước mặt Hoàng hậu Silvia"
     },
     {
       "id": "https://www.svenskdam.se/kungligt/prinsessan-sofias-nya-utseende-chockar-alla-pa-kungens-fest-drastiskt/11727527",
@@ -1362,17 +1362,6 @@
       "titleVi": "Khán giả truyền hình tức giận bực bội sau phát ngôn của người dẫn chương trình trong chương trình \"På spåret\""
     },
     {
-      "id": "https://www.svenskdam.se/noje/tv4-profilen-om-situationen-nyhetsmorgon-grat-i-en-vecka/11729303",
-      "source": "svenskdam",
-      "title": "TV4-profilen om situationen Nyhetsmorgon: “Grät i en vecka”",
-      "url": "https://www.svenskdam.se/noje/tv4-profilen-om-situationen-nyhetsmorgon-grat-i-en-vecka/11729303",
-      "date": "26/11/2026",
-      "publishedAt": "2026-11-26T19:00:00+01:00",
-      "type": "Nöje",
-      "firstSeenAt": "2026-11-27T03:04:40.617Z",
-      "titleVi": "Nhân vật nổi tiếng của kênh TV4 về tình hình hiện tại trên chương trình Nyhetsmorgon: “Tôi đã khóc suốt một tuần”"
-    },
-    {
       "id": "https://www.svenskdam.se/kungligt/kungen-soker-ny-anstalld-till-madeleines-hus-hogt-tempo/11729336",
       "source": "svenskdam",
       "title": "Kungen söker ny anställd till Madeleines hus • Kravlistan: \"Högt tempo\"",
@@ -1404,6 +1393,17 @@
       "type": "Kungligt",
       "firstSeenAt": "2026-11-26T20:24:10.177Z",
       "titleVi": "Tin buồn trước bữa tiệc lớn của Công chúa Thụy Điển Victoria – chính trị gia nói không"
+    },
+    {
+      "id": "https://www.svenskdam.se/noje/kalle-moraeus-lycka-bekraftar-infor-jul-alskar/11729264",
+      "source": "svenskdam",
+      "title": "Kalle Moraeus lycka – bekräftar inför jul: ”Älskar”",
+      "url": "https://www.svenskdam.se/noje/kalle-moraeus-lycka-bekraftar-infor-jul-alskar/11729264",
+      "date": "26/11/2026",
+      "publishedAt": "2026-11-26T15:00:00+01:00",
+      "type": "Nöje",
+      "firstSeenAt": "2026-11-26T20:24:10.177Z",
+      "titleVi": "Niềm hạnh phúc của Kalle Moraeus – xác nhận trước Giáng sinh: \"Yêu\""
     },
     {
       "id": "https://www.kongehuset.no/nyheter/takkekonsert-i-trefoldighetskirken",
